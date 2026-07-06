@@ -1,0 +1,29 @@
+name: Weekly Dark Horse Screen
+
+on:
+  schedule:
+    # 10:30 UTC = 4:00 PM IST, Friday only (after market close)
+    - cron: "30 10 * * 5"
+  workflow_dispatch: {}
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run dark horse screener
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python dark_horse_scanner.py
+
