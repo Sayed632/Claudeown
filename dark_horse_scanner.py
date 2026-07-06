@@ -1,4 +1,4 @@
-nt """
+"""
 Dark Horse Screener (Weekly)
 -----------------------------
 What this does, in plain English:
