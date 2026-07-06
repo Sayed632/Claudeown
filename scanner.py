@@ -20,7 +20,6 @@ import time
 import requests
 import pandas as pd
 import yfinance as yf
-import pandas_ta as ta
 
 # ============================================================
 # CONFIG - the only section you should need to edit
@@ -97,14 +96,43 @@ def fetch_stock_data(ticker: str, retries: int = 2) -> pd.DataFrame | None:
     return None
 
 
+def compute_rsi(close: pd.Series, length: int = 14) -> pd.Series:
+    """Manual RSI calculation (Wilder's smoothing) - no external TA library needed."""
+    delta = close.diff()
+    gain = delta.clip(lower=0)
+    loss = -delta.clip(upper=0)
+    avg_gain = gain.ewm(alpha=1 / length, min_periods=length, adjust=False).mean()
+    avg_loss = loss.ewm(alpha=1 / length, min_periods=length, adjust=False).mean()
+    rs = avg_gain / avg_loss
+    return 100 - (100 / (1 + rs))
+
+
+def compute_bbands(close: pd.Series, length: int = 20, std: float = 2.0):
+    """Manual Bollinger Bands - returns (lower, upper) series."""
+    mid = close.rolling(length).mean()
+    std_dev = close.rolling(length).std()
+    lower = mid - (std_dev * std)
+    upper = mid + (std_dev * std)
+    return lower, upper
+
+
+def compute_atr(high: pd.Series, low: pd.Series, close: pd.Series, length: int = 14) -> pd.Series:
+    """Manual ATR calculation (Wilder's smoothing)."""
+    prev_close = close.shift(1)
+    tr = pd.concat([
+        high - low,
+        (high - prev_close).abs(),
+        (low - prev_close).abs(),
+    ], axis=1).max(axis=1)
+    return tr.ewm(alpha=1 / length, min_periods=length, adjust=False).mean()
+
+
 def analyze_stock(ticker: str, df: pd.DataFrame) -> dict | None:
     """Compute RSI/BB/ATR and check if a swing BUY setup exists."""
     try:
-        df["RSI"] = ta.rsi(df["Close"], length=14)
-        bb = ta.bbands(df["Close"], length=20, std=2)
-        df["BB_lower"] = bb.iloc[:, 0]
-        df["BB_upper"] = bb.iloc[:, 2]
-        df["ATR"] = ta.atr(df["High"], df["Low"], df["Close"], length=14)
+        df["RSI"] = compute_rsi(df["Close"], length=14)
+        df["BB_lower"], df["BB_upper"] = compute_bbands(df["Close"], length=20, std=2)
+        df["ATR"] = compute_atr(df["High"], df["Low"], df["Close"], length=14)
 
         last = df.iloc[-1]
         price = float(last["Close"])
