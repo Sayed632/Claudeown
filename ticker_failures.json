@@ -2,5 +2,9 @@
   "TATAMOTORS": {
     "count": 1,
     "last_fail_date": "2026-07-07"
+  },
+  "ABB": {
+    "count": 1,
+    "last_fail_date": "2026-07-07"
   }
 }
