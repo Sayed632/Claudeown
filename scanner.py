@@ -25,9 +25,9 @@ import yfinance as yf
 # CONFIG - the only section you should need to edit
 # ============================================================
 
-# Fixed fallback universe: 60 liquid NSE stocks across sectors.
-# Using a fixed list (instead of live-scraping Screener.in / NSE site)
-# is WHY this bot will not silently die like the old one did -
+# Fixed universe: 110 liquid NSE stocks (large + mid cap merged) across
+# sectors. Using a fixed list (instead of live-scraping Screener.in / NSE
+# site) is WHY this bot will not silently die like the old one did -
 # there is nothing external to fail here.
 NSE_UNIVERSE = [
     "RELIANCE.NS", "TCS.NS", "HDFCBANK.NS", "INFY.NS", "ICICIBANK.NS",
@@ -42,6 +42,16 @@ NSE_UNIVERSE = [
     "ONGC.NS", "BPCL.NS", "IOC.NS", "HINDALCO.NS", "VEDL.NS",
     "PIDILITIND.NS", "DABUR.NS", "GODREJCP.NS", "SIEMENS.NS", "ABB.NS",
     "BOSCHLTD.NS", "MOTHERSON.NS", "TVSMOTOR.NS", "ASHOKLEY.NS", "BALKRISIND.NS",
+    "IRCTC.NS", "ZOMATO.NS", "NYKAA.NS", "DIXON.NS", "PERSISTENT.NS",
+    "COFORGE.NS", "MPHASIS.NS", "TRENT.NS", "PAGEIND.NS", "RELAXO.NS",
+    "VOLTAS.NS", "WHIRLPOOL.NS", "CROMPTON.NS", "POLYCAB.NS", "KEI.NS",
+    "APLAPOLLO.NS", "RATNAMANI.NS", "KAJARIACER.NS", "CERA.NS", "ASTRAL.NS",
+    "SUPREMEIND.NS", "DEEPAKNTR.NS", "NAVINFLUOR.NS", "GRANULES.NS", "LAURUSLABS.NS",
+    "IPCALAB.NS", "SYNGENE.NS", "ABBOTINDIA.NS", "CDSL.NS", "IEX.NS",
+    "MCX.NS", "CAMPUS.NS", "VBL.NS", "UBL.NS", "RADICO.NS",
+    "JUBLFOOD.NS", "DEVYANI.NS", "KPRMILL.NS", "WELCORP.NS", "HEG.NS",
+    "GRAPHITE.NS", "JINDALSTEL.NS", "NMDC.NS", "SAIL.NS", "MOIL.NS",
+    "GNFC.NS", "CHAMBLFERT.NS", "COROMANDEL.NS", "PIIND.NS", "RALLIS.NS",
 ]
 
 # Swing strategy thresholds (matches your earlier backtest logic:
@@ -184,7 +194,7 @@ def run_scan():
 
     # Build the message - ALWAYS send something, this is the key fix.
     today = time.strftime("%d-%b-%Y")
-    lines = [f"📊 *Swing Scan* — {today}", ""]
+    lines = [f"[Swing] 📊 *Swing Scan* — {today}", "_From Claudeown repo_", ""]
 
     if top_signals:
         lines.append(f"Found {len(signals)} setup(s), showing top {len(top_signals)}:\n")
