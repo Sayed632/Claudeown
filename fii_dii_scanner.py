@@ -305,7 +305,7 @@ def run_scan():
     bulk_deals = fetch_bulk_deals(session, today)
 
     today_str = today.strftime("%d-%b-%Y")
-    lines = [f"📊 *FII/DII + Bulk Deals* — {today_str}", ""]
+    lines = [f"[FII-DII] 📊 *FII/DII + Bulk Deals* — {today_str}", "_From Claudeown repo_", ""]
     lines.append(format_fii_dii_section(fii_dii_data))
     lines.append("")
     lines.append(format_bulk_deals_section(bulk_deals))
@@ -326,4 +326,4 @@ def run_scan():
 
 if __name__ == "__main__":
     run_scan()
-
+       
