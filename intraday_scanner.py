@@ -44,6 +44,16 @@ NSE_UNIVERSE = [
     "ONGC.NS", "BPCL.NS", "IOC.NS", "HINDALCO.NS", "VEDL.NS",
     "PIDILITIND.NS", "DABUR.NS", "GODREJCP.NS", "SIEMENS.NS", "ABB.NS",
     "BOSCHLTD.NS", "MOTHERSON.NS", "TVSMOTOR.NS", "ASHOKLEY.NS", "BALKRISIND.NS",
+    "IRCTC.NS", "ZOMATO.NS", "NYKAA.NS", "DIXON.NS", "PERSISTENT.NS",
+    "COFORGE.NS", "MPHASIS.NS", "TRENT.NS", "PAGEIND.NS", "RELAXO.NS",
+    "VOLTAS.NS", "WHIRLPOOL.NS", "CROMPTON.NS", "POLYCAB.NS", "KEI.NS",
+    "APLAPOLLO.NS", "RATNAMANI.NS", "KAJARIACER.NS", "CERA.NS", "ASTRAL.NS",
+    "SUPREMEIND.NS", "DEEPAKNTR.NS", "NAVINFLUOR.NS", "GRANULES.NS", "LAURUSLABS.NS",
+    "IPCALAB.NS", "SYNGENE.NS", "ABBOTINDIA.NS", "CDSL.NS", "IEX.NS",
+    "MCX.NS", "CAMPUS.NS", "VBL.NS", "UBL.NS", "RADICO.NS",
+    "JUBLFOOD.NS", "DEVYANI.NS", "KPRMILL.NS", "WELCORP.NS", "HEG.NS",
+    "GRAPHITE.NS", "JINDALSTEL.NS", "NMDC.NS", "SAIL.NS", "MOIL.NS",
+    "GNFC.NS", "CHAMBLFERT.NS", "COROMANDEL.NS", "PIIND.NS", "RALLIS.NS",
 ]
 
 MARKET_OPEN_HOUR = 9
@@ -209,7 +219,7 @@ def run_scan():
     top_signals = new_signals[:MAX_SIGNALS_TO_SEND]
     time_str = now.strftime("%H:%M")
 
-    lines = [f"⚡ *Intraday ORB Scan* — {time_str} IST", ""]
+    lines = [f"[Intraday] ⚡ *Intraday ORB Scan* — {time_str} IST", "_From Claudeown repo_", ""]
 
     if top_signals:
         for s in top_signals:
@@ -238,3 +248,4 @@ def run_scan():
 
 if __name__ == "__main__":
     run_scan()
+   
