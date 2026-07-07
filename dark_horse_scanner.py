@@ -176,7 +176,7 @@ def run_scan():
     top = candidates[:MAX_SIGNALS_TO_SEND]
 
     today = datetime.now().strftime("%d-%b-%Y")
-    lines = [f"🐴 *Dark Horse Screen* — {today}", ""]
+    lines = [f"[DarkHorse] 🐴 *Dark Horse Screen* — {today}", "_From Claudeown repo_", ""]
 
     if top:
         lines.append(f"Found {len(candidates)} candidate(s), showing top {len(top)}:\n")
