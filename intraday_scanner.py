@@ -40,30 +40,28 @@ import yfinance as yf
 # CONFIG
 # ============================================================
 
-NSE_UNIVERSE = [
+# Universe loads from the shared stock_universe.json (kept in sync with
+# scanner.py and ticker_maintenance.py). Falls back to a small safety-net
+# list if that file is ever missing or corrupted.
+_FALLBACK_UNIVERSE = [
     "RELIANCE.NS", "TCS.NS", "HDFCBANK.NS", "INFY.NS", "ICICIBANK.NS",
     "HINDUNILVR.NS", "SBIN.NS", "BHARTIARTL.NS", "ITC.NS", "KOTAKBANK.NS",
-    "LT.NS", "AXISBANK.NS", "BAJFINANCE.NS", "MARUTI.NS", "TITAN.NS",
-    "SUNPHARMA.NS", "TATAMOTORS.NS", "M&M.NS", "ULTRACEMCO.NS", "NTPC.NS",
-    "POWERGRID.NS", "ADANIENT.NS", "TATASTEEL.NS", "HCLTECH.NS", "WIPRO.NS",
-    "BAJAJFINSV.NS", "ASIANPAINT.NS", "NESTLEIND.NS", "JSWSTEEL.NS", "COALINDIA.NS",
-    "DRREDDY.NS", "GRASIM.NS", "EICHERMOT.NS", "HEROMOTOCO.NS", "BAJAJ-AUTO.NS",
-    "TATACONSUM.NS", "BRITANNIA.NS", "DIVISLAB.NS", "APOLLOHOSP.NS", "CIPLA.NS",
-    "SBILIFE.NS", "HDFCLIFE.NS", "INDUSINDBK.NS", "TECHM.NS", "ADANIPORTS.NS",
-    "ONGC.NS", "BPCL.NS", "IOC.NS", "HINDALCO.NS", "VEDL.NS",
-    "PIDILITIND.NS", "DABUR.NS", "GODREJCP.NS", "SIEMENS.NS", "ABB.NS",
-    "BOSCHLTD.NS", "MOTHERSON.NS", "TVSMOTOR.NS", "ASHOKLEY.NS", "BALKRISIND.NS",
-    "IRCTC.NS", "ZOMATO.NS", "NYKAA.NS", "DIXON.NS", "PERSISTENT.NS",
-    "COFORGE.NS", "MPHASIS.NS", "TRENT.NS", "PAGEIND.NS", "RELAXO.NS",
-    "VOLTAS.NS", "WHIRLPOOL.NS", "CROMPTON.NS", "POLYCAB.NS", "KEI.NS",
-    "APLAPOLLO.NS", "RATNAMANI.NS", "KAJARIACER.NS", "CERA.NS", "ASTRAL.NS",
-    "SUPREMEIND.NS", "DEEPAKNTR.NS", "NAVINFLUOR.NS", "GRANULES.NS", "LAURUSLABS.NS",
-    "IPCALAB.NS", "SYNGENE.NS", "ABBOTINDIA.NS", "CDSL.NS", "IEX.NS",
-    "MCX.NS", "CAMPUS.NS", "VBL.NS", "UBL.NS", "RADICO.NS",
-    "JUBLFOOD.NS", "DEVYANI.NS", "KPRMILL.NS", "WELCORP.NS", "HEG.NS",
-    "GRAPHITE.NS", "JINDALSTEL.NS", "NMDC.NS", "SAIL.NS", "MOIL.NS",
-    "GNFC.NS", "CHAMBLFERT.NS", "COROMANDEL.NS", "PIIND.NS", "RALLIS.NS",
 ]
+
+
+def _load_universe(key: str = "main_universe") -> list:
+    try:
+        with open("stock_universe.json") as f:
+            data = json.load(f)
+        stocks = data.get(key, [])
+        if stocks:
+            return stocks
+    except Exception as e:
+        print(f"Could not load stock_universe.json ({e}), using fallback list.")
+    return _FALLBACK_UNIVERSE
+
+
+NSE_UNIVERSE = _load_universe("main_universe")
 
 MARKET_OPEN_HOUR = 9
 MARKET_OPEN_MIN = 15
@@ -395,4 +393,3 @@ def run_scan():
 
 if __name__ == "__main__":
     run_scan()
-       
