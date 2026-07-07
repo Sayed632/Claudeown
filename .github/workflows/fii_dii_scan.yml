@@ -1,0 +1,31 @@
+name: Daily FII DII Bulk Deals
+
+on:
+  schedule:
+    # 12:30 UTC = 6:00 PM IST, weekdays - bulk deals data is usually
+    # published by NSE after market close, sometimes with a delay
+    - cron: "30 12 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run FII/DII + bulk deals tracker
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python fii_dii_scanner.py
+
+
