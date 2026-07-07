@@ -21,6 +21,7 @@ deliberate screen than the swing/intraday bots, by design.
 import os
 import sys
 import time
+import json
 from datetime import datetime
 
 import requests
@@ -31,20 +32,27 @@ import yfinance as yf
 # CONFIG
 # ============================================================
 
-# ~50 mid-cap NSE stocks - deliberately NOT the Nifty top-10 mega caps,
-# since those are already watched by everyone. Edit this list freely.
-MIDCAP_UNIVERSE = [
-    "IRCTC.NS", "ZOMATO.NS", "NYKAA.NS", "DIXON.NS", "PERSISTENT.NS",
-    "COFORGE.NS", "MPHASIS.NS", "TRENT.NS", "PAGEIND.NS", "RELAXO.NS",
-    "VOLTAS.NS", "WHIRLPOOL.NS", "CROMPTON.NS", "POLYCAB.NS", "KEI.NS",
-    "APLAPOLLO.NS", "RATNAMANI.NS", "KAJARIACER.NS", "CERA.NS", "ASTRAL.NS",
-    "SUPREMEIND.NS", "DEEPAKNTR.NS", "NAVINFLUOR.NS", "GRANULES.NS", "LAURUSLABS.NS",
-    "IPCALAB.NS", "SYNGENE.NS", "ABBOTINDIA.NS", "CDSL.NS", "IEX.NS",
-    "MCX.NS", "CAMPUS.NS", "VBL.NS", "UBL.NS", "RADICO.NS",
-    "JUBLFOOD.NS", "DEVYANI.NS", "KPRMILL.NS", "WELCORP.NS", "HEG.NS",
-    "GRAPHITE.NS", "JINDALSTEL.NS", "NMDC.NS", "SAIL.NS", "MOIL.NS",
-    "GNFC.NS", "CHAMBLFERT.NS", "COROMANDEL.NS", "PIIND.NS", "RALLIS.NS",
+# Universe loads from the shared stock_universe.json (kept in sync with
+# scanner.py, intraday_scanner.py, and ticker_maintenance.py). Falls back
+# to a small safety-net list if that file is ever missing/corrupted.
+_FALLBACK_UNIVERSE = [
+    "IRCTC.NS", "PERSISTENT.NS", "COFORGE.NS", "TRENT.NS", "VOLTAS.NS",
 ]
+
+
+def _load_universe(key: str = "darkhorse_universe") -> list:
+    try:
+        with open("stock_universe.json") as f:
+            data = json.load(f)
+        stocks = data.get(key, [])
+        if stocks:
+            return stocks
+    except Exception as e:
+        print(f"Could not load stock_universe.json ({e}), using fallback list.")
+    return _FALLBACK_UNIVERSE
+
+
+MIDCAP_UNIVERSE = _load_universe("darkhorse_universe")
 
 MONTH_RETURN_MIN = 8.0      # % - must be up at least this much in ~1 month
 MONTH_RETURN_MAX = 40.0     # % - above this, likely already blown out
@@ -211,3 +219,4 @@ def run_scan():
 
 if __name__ == "__main__":
     run_scan()
+  
