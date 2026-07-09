@@ -16,7 +16,6 @@
     "MARUTI.NS",
     "TITAN.NS",
     "SUNPHARMA.NS",
-    "TATAMOTORS.NS",
     "M&M.NS",
     "ULTRACEMCO.NS",
     "NTPC.NS",
@@ -166,5 +165,7 @@
   "known_renames": {
     "ZOMATO": "ETERNAL"
   },
-  "removed_tickers": {}
+  "removed_tickers": {
+    "TATAMOTORS": "2026-07-09"
+  }
 }
