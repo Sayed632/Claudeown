@@ -35,6 +35,7 @@ import time
 from datetime import date, datetime
 
 import requests
+import yfinance as yf
 
 # ============================================================
 # CONFIG
@@ -166,6 +167,27 @@ NSE_HEADERS = {
 }
 
 MAX_STOCKS_PER_SECTOR = 6
+MAX_TOP_MOVERS = 8
+
+
+def fetch_price_change_pct(symbol: str) -> float | None:
+    """
+    Same-day price % change for a symbol with bulk deal activity - this is
+    what lets a stock like PPAP Automotive (not in any fixed watchlist)
+    surface as noteworthy: big deal + big price move, regardless of
+    whether we've manually mapped its sector/cap tier.
+    """
+    try:
+        df = yf.download(f"{symbol}.NS", period="5d", interval="1d", progress=False, auto_adjust=True)
+        if df is None or df.empty or len(df) < 2:
+            return None
+        df.columns = [c[0] if isinstance(c, tuple) else c for c in df.columns]
+        last_close = float(df["Close"].iloc[-1])
+        prev_close = float(df["Close"].iloc[-2])
+        return round(((last_close - prev_close) / prev_close) * 100, 2)
+    except Exception as e:
+        print(f"  price fetch failed for {symbol}: {e}")
+        return None
 
 # ============================================================
 # END CONFIG
@@ -276,22 +298,58 @@ def format_bulk_deals_section(deals: list) -> str:
         elif side == "SELL":
             symbol_activity[symbol]["sell_qty"] += qty
 
-    # Group by sector
-    sector_groups = {}
+    # Fetch same-day price impact for every symbol with deal activity -
+    # this is what surfaces a stock like PPAP Automotive even though it's
+    # not in any fixed watchlist or sector map.
+    enriched = []
     for symbol, activity in symbol_activity.items():
         net = activity["buy_qty"] - activity["sell_qty"]
         direction = "BUY" if net > 0 else ("SELL" if net < 0 else "MIXED")
-        sector, tier = SECTOR_MAP.get(symbol, ("Other/Unmapped", "Unknown"))
-
-        sector_groups.setdefault(sector, []).append({
-            "symbol": symbol, "tier": tier, "direction": direction,
+        sector, tier = SECTOR_MAP.get(symbol, ("Unmapped", "Unknown"))
+        pct_change = fetch_price_change_pct(symbol)
+        enriched.append({
+            "symbol": symbol, "tier": tier, "sector": sector,
+            "direction": direction, "pct_change": pct_change,
         })
 
-    lines = ["🏦 *Institutional Bulk Deals by Sector*"]
-    for sector in sorted(sector_groups.keys()):
-        stocks = sector_groups[sector][:MAX_STOCKS_PER_SECTOR]
-        stock_strs = [f"{s['symbol']} ({s['tier']}, {s['direction']})" for s in stocks]
-        lines.append(f"\n*{sector}*: {', '.join(stock_strs)}")
+    lines = []
+
+    # Top section: biggest same-day price movers with deal activity,
+    # regardless of sector-map coverage - this is the "catch PPAP" fix.
+    movers = [e for e in enriched if e["pct_change"] is not None]
+    movers.sort(key=lambda x: abs(x["pct_change"]), reverse=True)
+    top_movers = movers[:MAX_TOP_MOVERS]
+
+    if top_movers:
+        lines.append("🔥 *Biggest movers with bulk deal activity today*")
+        for m in top_movers:
+            arrow = "🟢" if m["pct_change"] >= 0 else "🔴"
+            unmapped_flag = " 🐴" if m["tier"] == "Unknown" else ""
+            lines.append(
+                f"   {arrow} {m['symbol']} {m['pct_change']:+.1f}% "
+                f"({m['sector']}, {m['tier']}, {m['direction']}){unmapped_flag}"
+            )
+        lines.append("")
+
+    # Sector-grouped view (as before), for anything in our known map
+    sector_groups = {}
+    for e in enriched:
+        if e["sector"] != "Unmapped":
+            sector_groups.setdefault(e["sector"], []).append(e)
+
+    if sector_groups:
+        lines.append("🏦 *By Sector*")
+        for sector in sorted(sector_groups.keys()):
+            stocks = sector_groups[sector][:MAX_STOCKS_PER_SECTOR]
+            stock_strs = [f"{s['symbol']} ({s['tier']}, {s['direction']})" for s in stocks]
+            lines.append(f"   *{sector}*: {', '.join(stock_strs)}")
+
+    unmapped_count = sum(1 for e in enriched if e["sector"] == "Unmapped")
+    if unmapped_count:
+        lines.append(
+            f"\n🐴 = not in our sector map ({unmapped_count} total unmapped today) - "
+            f"worth a manual look, this is how a mover like PPAP gets caught."
+        )
 
     return "\n".join(lines)
 
@@ -326,4 +384,3 @@ def run_scan():
 
 if __name__ == "__main__":
     run_scan()
-       
