@@ -1,11 +1,12 @@
-name: Early Volume Spike Scan
+name: Early Volume Spike Scan (Legacy - Manual Only)
+
+# NOTE: automatic schedule removed. This has been superseded by
+# "Sectorwise Early Volume Scan (All Nifty 500)", which covers all 493
+# Nifty 500 stocks across 18 parallel sector jobs instead of just the
+# 109-stock main_universe. Kept here for manual testing / comparison
+# only - trigger it yourself from the Actions tab if needed.
 
 on:
-  schedule:
-    # Every 5 min, 9:15-10:15 AM IST (3:45-4:45 UTC), weekdays.
-    # This is the first hour ONLY - the window where a same-day
-    # surge is most likely to still be in its early innings.
-    - cron: "*/5 3-4 * * 1-5"
   workflow_dispatch: {}
 
 jobs:

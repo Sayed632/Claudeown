@@ -70,18 +70,35 @@ def send_telegram(message: str) -> bool:
         return False
 
 
+SECTOR_FILE = "sector_stock_lists.json"
+
+
 def load_universe() -> list:
     """
-    Combines main_universe (109 stocks) with darkhorse_universe (50 stocks)
-    for broader coverage than just the main list alone - deduped, since a
-    few tickers may appear in both.
+    If SECTOR env var is set (matrix job mode), loads only that sector's
+    stock list from sector_stock_lists.json (full Nifty 500, 18 sectors).
+    Otherwise falls back to the old combined main+darkhorse universe from
+    stock_universe.json, for backward compatibility / manual single-run use.
     """
+    sector = os.environ.get("SECTOR")
+    if sector:
+        try:
+            with open(SECTOR_FILE) as f:
+                sector_map = json.load(f)
+            tickers = sector_map.get(sector, [])
+            if not tickers:
+                print(f"WARNING: sector '{sector}' not found in {SECTOR_FILE}")
+            return tickers
+        except Exception as e:
+            print(f"Could not load {SECTOR_FILE}: {e}")
+            return []
+
     try:
         with open(UNIVERSE_FILE) as f:
             data = json.load(f)
         main = data.get("main_universe", [])
         darkhorse = data.get("darkhorse_universe", [])
-        combined = list(dict.fromkeys(main + darkhorse))  # dedupe, preserve order
+        combined = list(dict.fromkeys(main + darkhorse))
         return combined
     except Exception as e:
         print(f"Could not load {UNIVERSE_FILE}: {e}")
@@ -140,17 +157,19 @@ def check_stock(ticker: str):
 def run_scan():
     universe = load_universe()
     now_str = datetime.now().strftime("%d-%b-%Y %H:%M")
+    sector = os.environ.get("SECTOR")
+    label = f"{sector}" if sector else "Combined"
 
     if not universe:
         message = (
-            f"[EarlyVolume] ⚡ *Early Volume Spike Scan* — {now_str}\n"
+            f"[EarlyVolume-{label}] ⚡ *Early Volume Spike Scan* — {now_str}\n"
             "_From Claudeown repo_\n\n"
-            "⚠️ Could not load stock_universe.json - nothing scanned."
+            "⚠️ Could not load stock list - nothing scanned."
         )
         send_telegram(message)
         sys.exit(1)
 
-    print(f"Scanning {len(universe)} stocks for early volume spikes...")
+    print(f"Scanning {len(universe)} stocks in sector '{label}' for early volume spikes...")
     hits = []
     checked = 0
     for ticker in universe:
@@ -167,7 +186,15 @@ def run_scan():
     hits.sort(key=lambda x: x["relative_volume"], reverse=True)
     top = hits[:MAX_RESULTS]
 
-    lines = [f"[EarlyVolume] ⚡ *Early Volume Spike Scan* — {now_str}", "_From Claudeown repo_", ""]
+    # In sector/matrix mode, stay silent when there's nothing to report -
+    # 18 sectors x every 5 min would otherwise flood Telegram with "no hits"
+    # messages. Manual/legacy single-run mode still always sends, since
+    # that's a once-a-day style check where silence would be confusing.
+    if sector and not top:
+        print(f"No hits in sector '{label}' - staying silent (matrix mode).")
+        return
+
+    lines = [f"[EarlyVolume-{label}] ⚡ *Early Volume Spike — {label}* — {now_str}", "_From Claudeown repo_", ""]
 
     if not top:
         lines.append(f"No unusual early volume detected. Screened: {checked}/{len(universe)} OK.")

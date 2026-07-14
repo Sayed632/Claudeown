@@ -1,0 +1,57 @@
+name: Sectorwise Early Volume Scan (All Nifty 500)
+
+# MASTER ORCHESTRATOR PATTERN:
+# Job 1 reads sector_stock_lists.json and outputs the list of sector names.
+# Job 2 then runs ONE PARALLEL JOB PER SECTOR (a "matrix") - all 18 sectors
+# scan at the same time instead of one after another. This is how full
+# Nifty 500 coverage (493 stocks) fits inside a 5-minute cycle: each
+# individual job only scans its own sector (~10-95 stocks), not all 493.
+
+on:
+  schedule:
+    # Every 5 min, 9:15-10:15 AM IST (3:45-4:45 UTC), weekdays - same
+    # early-detection window as the original Early Volume Spike Scan.
+    - cron: "*/5 3-4 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  generate-sector-list:
+    runs-on: ubuntu-latest
+    outputs:
+      sectors: ${{ steps.list.outputs.sectors }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Read sector names from sector_stock_lists.json
+        id: list
+        run: |
+          SECTORS=$(python3 -c "import json; print(json.dumps(list(json.load(open('sector_stock_lists.json')).keys())))")
+          echo "sectors=$SECTORS" >> "$GITHUB_OUTPUT"
+          echo "Sectors found: $SECTORS"
+
+  scan-each-sector:
+    needs: generate-sector-list
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false   # one sector failing shouldn't cancel the other 17
+      matrix:
+        sector: ${{ fromJson(needs.generate-sector-list.outputs.sectors) }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scan sector - ${{ matrix.sector }}
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+          SECTOR: ${{ matrix.sector }}
+        run: python early_volume_scanner.py
