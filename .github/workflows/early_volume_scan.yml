@@ -1,0 +1,30 @@
+name: Early Volume Spike Scan
+
+on:
+  schedule:
+    # Every 5 min, 9:15-10:15 AM IST (3:45-4:45 UTC), weekdays.
+    # This is the first hour ONLY - the window where a same-day
+    # surge is most likely to still be in its early innings.
+    - cron: "*/5 3-4 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  early_volume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run early volume spike scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python early_volume_scanner.py
