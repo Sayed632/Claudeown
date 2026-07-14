@@ -14,14 +14,15 @@ price has fully caught up. This gets you an earlier heads-up than
 waiting for a stock to already be top of the gainers list - it does
 NOT predict anything, it just shrinks the detection lag.
 
-HONESTY NOTE: this uses your existing 109-stock main_universe (fixed
-list), not the whole NSE market - unlike Top Gainers, which asks NSE
-directly for market-wide movers. A true market-wide early-volume
-scan would need the same NSE live-analysis endpoint your Top Gainers
-scanner uses, filtered differently; this version is deliberately
-simpler and cheaper to run every 5 minutes. If you want market-wide
-coverage instead of just your fixed list, let Claude know and this
-can be rebuilt on top of the NSE endpoint instead of yfinance.
+HONESTY NOTE: this uses your existing main_universe + darkhorse_universe
+lists combined (~150-160 stocks, fixed), not the whole NSE market -
+unlike Top Gainers, which asks NSE directly for market-wide movers. A
+true market-wide early-volume scan would need the same NSE
+live-analysis endpoint your Top Gainers scanner uses, filtered
+differently; this version is deliberately simpler and cheaper to run
+every 5 minutes. If you want market-wide coverage instead of just your
+fixed lists, let Claude know and this can be rebuilt on top of the NSE
+endpoint instead of yfinance.
 """
 
 import os
@@ -70,10 +71,18 @@ def send_telegram(message: str) -> bool:
 
 
 def load_universe() -> list:
+    """
+    Combines main_universe (109 stocks) with darkhorse_universe (50 stocks)
+    for broader coverage than just the main list alone - deduped, since a
+    few tickers may appear in both.
+    """
     try:
         with open(UNIVERSE_FILE) as f:
             data = json.load(f)
-        return data.get("main_universe", [])
+        main = data.get("main_universe", [])
+        darkhorse = data.get("darkhorse_universe", [])
+        combined = list(dict.fromkeys(main + darkhorse))  # dedupe, preserve order
+        return combined
     except Exception as e:
         print(f"Could not load {UNIVERSE_FILE}: {e}")
         return []
@@ -174,8 +183,8 @@ def run_scan():
     lines.append(
         "\n⚠️ Detects unusual volume EARLY in a potential move - it does not "
         "predict direction or confirm a sustained trend. Verify with your "
-        "other scans and news before acting. Fixed 109-stock universe only, "
-        "not market-wide. Not financial advice."
+        "other scans and news before acting. Covers main + dark horse "
+        "universes only, not market-wide. Not financial advice."
     )
 
     message = "\n".join(lines)
