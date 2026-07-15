@@ -6,12 +6,19 @@ name: Sectorwise Early Volume Scan (All Nifty 500)
 # scan at the same time instead of one after another. This is how full
 # Nifty 500 coverage (493 stocks) fits inside a 5-minute cycle: each
 # individual job only scans its own sector (~10-95 stocks), not all 493.
+#
+# NOTE ON TRIGGERING: native GitHub `schedule:` cron was tested on
+# 15-Jul-2026 and proved unreliable for a every-5-min cadence - only 1
+# of ~13 expected runs fired during the 9:15-10:15 AM window, and it
+# fired 36 minutes late (10:51 AM instead of within the window). This
+# is a known GitHub Actions limitation on frequent schedules, especially
+# for public repos on shared infrastructure - not a bug in this code.
+#
+# Fix: trigger externally via cron-job.org hitting the workflow_dispatch
+# API every 5 min during 9:15-10:15 AM IST, same proven pattern already
+# used elsewhere in this repo for reliable dispatch.
 
 on:
-  schedule:
-    # Every 5 min, 9:15-10:15 AM IST (3:45-4:45 UTC), weekdays - same
-    # early-detection window as the original Early Volume Spike Scan.
-    - cron: "*/5 3-4 * * 1-5"
   workflow_dispatch: {}
 
 jobs:
