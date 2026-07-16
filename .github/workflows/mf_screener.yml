@@ -1,0 +1,42 @@
+name: Weekly Mutual Fund Screener
+
+# Runs weekly, not daily - mutual fund NAVs update once a day and
+# rankings don't meaningfully shift hour to hour, unlike stock scans.
+# Monday mornings, after the weekend's data has settled.
+
+on:
+  schedule:
+    - cron: "30 3 * * 1"  # 9:00 AM IST, every Monday
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  mf_screen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run mutual fund screener
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python mf_screener.py
+
+      - name: Commit rankings JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mf_rankings.json
+          git diff --staged --quiet || git commit -m "Update mutual fund rankings [automated]"
+          git push
