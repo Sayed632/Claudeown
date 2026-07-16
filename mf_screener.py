@@ -52,6 +52,11 @@ CATEGORIES = {
 # Explicitly exclude these even if they loosely match, to avoid category confusion
 EXCLUDE_PATTERNS = re.compile(r"multi\s*cap|large\s*&\s*mid|flexi\s*cap|hybrid", re.IGNORECASE)
 
+# Separately exclude Bonus/IDCW/Dividend option variants - these can contain the word
+# "growth" in their plan name (e.g. "...Growth Plan - Bonus Option") without actually
+# being the standard Growth option, which caused near-duplicate fund entries in testing.
+EXCLUDE_OPTION_PATTERNS = re.compile(r"bonus|idcw|dividend|payout|reinvest", re.IGNORECASE)
+
 MFAPI_BASE = "https://api.mfapi.in/mf"
 OUTPUT_FILE = "mf_rankings.json"
 
@@ -93,10 +98,31 @@ def get_candidate_schemes() -> dict:
             continue
         if EXCLUDE_PATTERNS.search(name):
             continue
+        if EXCLUDE_OPTION_PATTERNS.search(name):
+            continue
         for cat, pattern in CATEGORIES.items():
             if pattern.search(name):
                 candidates[cat].append((scheme["schemeCode"], name))
                 break
+
+    # Safety-net dedupe: if two candidates normalize to the same "core" name
+    # (stripping common plan/option suffix words), keep only the first one.
+    # Catches naming variants not explicitly excluded above.
+    def normalize(n):
+        n = n.lower()
+        for word in ["direct", "plan", "growth", "option", "-", "fund"]:
+            n = n.replace(word, "")
+        return re.sub(r"\s+", "", n)
+
+    for cat in candidates:
+        seen = {}
+        deduped = []
+        for code, name in candidates[cat]:
+            key = normalize(name)
+            if key not in seen:
+                seen[key] = True
+                deduped.append((code, name))
+        candidates[cat] = deduped
 
     for cat, schemes in candidates.items():
         print(f"  {cat}: {len(schemes)} candidate schemes")
