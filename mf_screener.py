@@ -169,6 +169,21 @@ def calculate_cagr(nav_history: list, years_back: float) -> float:
         return None
 
 
+def normalize_fund_name(name: str) -> str:
+    """
+    Strips common plan/option descriptors so the same underlying fund
+    (which sometimes has duplicate/legacy AMFI scheme codes) collapses
+    to one key for deduplication, e.g.:
+      "Reliance Focused Large Cap Fund - Direct Plan Growth Plan - Growth Option"
+      "Reliance Focused Large Cap Fund - Direct Plan - Growth"
+    both become "reliance focused large cap fund"
+    """
+    n = name.lower()
+    n = re.sub(r"-\s*direct\s*plan.*$", "", n)  # cut everything from "- direct plan" onward
+    n = re.sub(r"\s+", " ", n).strip()
+    return n
+
+
 def evaluate_fund(code: str, name: str) -> dict | None:
     """Fetch full history for one fund and compute its CAGR + blend score."""
     try:
@@ -216,6 +231,22 @@ def run_screener():
             if (i + 1) % 20 == 0:
                 print(f"  ...{i + 1}/{len(schemes)} processed")
             time.sleep(0.15)  # be polite to the free API
+
+        # Deduplicate by normalized fund name - the AMFI/mfapi.in registry
+        # sometimes has the same underlying fund under two scheme codes
+        # (legacy code carried over from a merger, etc). Keep the first
+        # occurrence per normalized name (both duplicates have identical
+        # CAGR/history anyway, since they're the same fund).
+        seen_names = set()
+        deduped = []
+        for fund in evaluated:
+            key = normalize_fund_name(fund["name"])
+            if key not in seen_names:
+                seen_names.add(key)
+                deduped.append(fund)
+        if len(deduped) < len(evaluated):
+            print(f"  Removed {len(evaluated) - len(deduped)} duplicate fund entries")
+        evaluated = deduped
 
         evaluated.sort(key=lambda x: x["blend_score"], reverse=True)
         top = evaluated[:TOP_N]
