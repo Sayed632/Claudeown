@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T02:38:11.463244",
+  "generated_at": "2026-07-16T02:50:20.533470",
   "methodology": "Blend Score = 0.20x(1Y CAGR) + 0.40x(3Y CAGR) + 0.40x(5Y CAGR). Direct-Growth plans only. Own calculation, not a Value Research/Morningstar/CRISIL rating.",
   "categories": {
     "Large Cap": [
@@ -10,14 +10,6 @@
         "cagr_3y": 17.15,
         "cagr_5y": 14.9,
         "blend_score": 14.93
-      },
-      {
-        "code": 118641,
-        "name": "Reliance Focused Large Cap Fund - Direct Plan Growth Plan - Bonus Option",
-        "cagr_1y": 9.37,
-        "cagr_3y": 9.84,
-        "cagr_5y": 16.44,
-        "blend_score": 12.39
       },
       {
         "code": 118643,
@@ -52,14 +44,6 @@
         "blend_score": 11.63
       },
       {
-        "code": 118633,
-        "name": "Nippon India Large Cap Fund - Direct Plan Growth Plan - Bonus Option",
-        "cagr_1y": -0.39,
-        "cagr_3y": 13.49,
-        "cagr_5y": 15.78,
-        "blend_score": 11.63
-      },
-      {
         "code": 148980,
         "name": "BANK OF INDIA Large Cap Fund Direct Plan Growth",
         "cagr_1y": 5.02,
@@ -82,6 +66,22 @@
         "cagr_3y": 13.56,
         "cagr_5y": 12.94,
         "blend_score": 11.03
+      },
+      {
+        "code": 120586,
+        "name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth",
+        "cagr_1y": -1.5,
+        "cagr_3y": 13.11,
+        "cagr_5y": 13.64,
+        "blend_score": 10.4
+      },
+      {
+        "code": 119160,
+        "name": "Tata Large Cap Fund -Direct Plan Growth Option",
+        "cagr_1y": 2.11,
+        "cagr_3y": 12.24,
+        "cagr_5y": 11.98,
+        "blend_score": 10.11
       }
     ],
     "Mid Cap": [
@@ -240,8 +240,8 @@
         "blend_score": 17.29
       },
       {
-        "code": 118777,
-        "name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Bonus Option",
+        "code": 118778,
+        "name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Growth Option",
         "cagr_1y": 4.66,
         "cagr_3y": 18.29,
         "cagr_5y": 20.02,
