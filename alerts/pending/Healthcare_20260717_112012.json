@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-17T11:20:12.308081",
+  "stocks": [
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 442.0,
+      "alert_pct_move": -1.2400822130144058,
+      "alert_relative_volume": 7.455771898959195
+    }
+  ]
+}
