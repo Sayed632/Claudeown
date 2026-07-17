@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-17T11:20:47.427622",
+  "stocks": [
+    {
+      "ticker": "AIIL.NS",
+      "alert_price": 561.0499877929688,
+      "alert_pct_move": 7.439673435039111,
+      "alert_relative_volume": 14.91616140639617
+    },
+    {
+      "ticker": "FEDERALBNK.NS",
+      "alert_price": 349.0,
+      "alert_pct_move": 5.469932438009613,
+      "alert_relative_volume": 6.672920955340107
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 242.6999969482422,
+      "alert_pct_move": -1.2410999193317651,
+      "alert_relative_volume": 6.374075289245916
+    }
+  ]
+}
