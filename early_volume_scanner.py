@@ -194,6 +194,30 @@ def run_scan():
         print(f"No hits in sector '{label}' - staying silent (matrix mode).")
         return
 
+    # Save flagged stocks to a uniquely-named file for the follow-up checker
+    # to re-examine later. One file per sector+run (not a shared file) so
+    # parallel matrix jobs never write-conflict with each other.
+    if top:
+        os.makedirs("alerts/pending", exist_ok=True)
+        alert_time = datetime.now()
+        filename = f"alerts/pending/{label.replace(' ', '_')}_{alert_time.strftime('%Y%m%d_%H%M%S')}.json"
+        pending_record = {
+            "sector": label,
+            "alert_time": alert_time.isoformat(),
+            "stocks": [
+                {
+                    "ticker": h["ticker"],
+                    "alert_price": h["last_price"],
+                    "alert_pct_move": h["pct_move"],
+                    "alert_relative_volume": h["relative_volume"],
+                }
+                for h in top
+            ],
+        }
+        with open(filename, "w") as f:
+            json.dump(pending_record, f, indent=2)
+        print(f"Wrote pending alert file: {filename}")
+
     lines = [f"[EarlyVolume-{label}] ⚡ *Early Volume Spike — {label}* — {now_str}", "_From Claudeown repo_", ""]
 
     if not top:

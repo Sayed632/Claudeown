@@ -1,0 +1,53 @@
+name: Early Volume Follow-Up Check
+
+# Triggered externally by cron-job.org, roughly every 10 min from
+# ~9:50 AM to ~11:15 AM IST - by the time this runs, alerts from
+# earlier in the 9:15-10:15 scan window have had 30+ min to develop.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  followup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run follow-up checker
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python early_volume_followup.py
+
+      - name: Commit processed alert files, with retry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain alerts/ 2>/dev/null)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          for attempt in 1 2 3 4 5; do
+            git add alerts/
+            git commit -m "Process early-volume follow-up alerts [automated]" || true
+            if git push; then
+              echo "Pushed successfully on attempt $attempt"
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt) - pulling latest and retrying..."
+            sleep $((RANDOM % 5 + 1))
+            git pull --rebase
+          done
+          echo "WARNING: could not push after 5 attempts"

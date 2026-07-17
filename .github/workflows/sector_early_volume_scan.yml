@@ -21,6 +21,9 @@ name: Sectorwise Early Volume Scan (All Nifty 500)
 on:
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   generate-sector-list:
     runs-on: ubuntu-latest
@@ -62,3 +65,28 @@ jobs:
           MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
           SECTOR: ${{ matrix.sector }}
         run: python early_volume_scanner.py
+
+      # 18 sector jobs run in parallel and may try to push around the same
+      # moment - since each writes a UNIQUELY-named file (no shared file
+      # being edited), conflicts only happen at the "update branch ref"
+      # step, not on file content. Retry with re-pull handles that safely.
+      - name: Commit pending alert file (if any), with retry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain alerts/pending/ 2>/dev/null)" ]; then
+            echo "No new pending alert file for this sector - nothing to commit."
+            exit 0
+          fi
+          for attempt in 1 2 3 4 5 6 7 8; do
+            git add alerts/pending/
+            git commit -m "Add pending early-volume alert: ${{ matrix.sector }} [automated]" || true
+            if git push; then
+              echo "Pushed successfully on attempt $attempt"
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt) - pulling latest and retrying..."
+            sleep $((RANDOM % 5 + 1))
+            git pull --rebase
+          done
+          echo "WARNING: could not push pending alert file after 8 attempts"
