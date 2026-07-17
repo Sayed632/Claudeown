@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-17T11:20:02.777098",
+  "stocks": [
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1979.800048828125,
+      "alert_pct_move": 12.488639137961648,
+      "alert_relative_volume": 7.477186446978452
+    }
+  ]
+}
