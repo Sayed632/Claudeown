@@ -1,0 +1,12 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-17T11:20:13.618400",
+  "stocks": [
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 17970.0,
+      "alert_pct_move": 2.685714285714286,
+      "alert_relative_volume": 3.124385348604188
+    }
+  ]
+}
