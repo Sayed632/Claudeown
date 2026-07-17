@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-17T11:20:08.103612",
+  "stocks": [
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3549.0,
+      "alert_pct_move": -2.740476842970677,
+      "alert_relative_volume": 5.855226725064532
+    }
+  ]
+}
