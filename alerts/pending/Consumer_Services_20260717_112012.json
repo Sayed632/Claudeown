@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-17T11:20:12.501633",
+  "stocks": [
+    {
+      "ticker": "VENTIVE.NS",
+      "alert_price": 622.1500244140625,
+      "alert_pct_move": 1.1626055957825203,
+      "alert_relative_volume": 3.7779027321371865
+    }
+  ]
+}
