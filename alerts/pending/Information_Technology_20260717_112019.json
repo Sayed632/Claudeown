@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-17T11:20:19.040343",
+  "stocks": [
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1571.0,
+      "alert_pct_move": 1.6894281295539815,
+      "alert_relative_volume": 4.29085792761942
+    }
+  ]
+}
