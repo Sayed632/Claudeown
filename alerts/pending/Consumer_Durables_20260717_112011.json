@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-17T11:20:11.682368",
+  "stocks": [
+    {
+      "ticker": "CAMPUS.NS",
+      "alert_price": 232.33999633789062,
+      "alert_pct_move": 2.397533092877945,
+      "alert_relative_volume": 231.59255655262444
+    },
+    {
+      "ticker": "BATAINDIA.NS",
+      "alert_price": 695.0,
+      "alert_pct_move": 2.2058823529411766,
+      "alert_relative_volume": 4.0753017051842155
+    },
+    {
+      "ticker": "HAVELLS.NS",
+      "alert_price": 1187.300048828125,
+      "alert_pct_move": 1.2191004968563512,
+      "alert_relative_volume": 3.0782351321804966
+    }
+  ]
+}
