@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-20T03:50:48.015300",
+  "stocks": [
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 756.0999755859375,
+      "alert_pct_move": -1.1246288065659684,
+      "alert_relative_volume": 5.6087856174027
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1605.300048828125,
+      "alert_pct_move": 1.2871489746871818,
+      "alert_relative_volume": 4.795507835538492
+    }
+  ]
+}
