@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-20T03:55:54.938048",
+  "stocks": [
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 9285.5,
+      "alert_pct_move": 1.2043596730245232,
+      "alert_relative_volume": 9.618528596996839
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1308.199951171875,
+      "alert_pct_move": 2.027764856505971,
+      "alert_relative_volume": 5.747909136320667
+    },
+    {
+      "ticker": "SONACOMS.NS",
+      "alert_price": 714.5,
+      "alert_pct_move": 1.4626508966802751,
+      "alert_relative_volume": 4.4314343342327644
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 439.5,
+      "alert_pct_move": 1.1507479861910241,
+      "alert_relative_volume": 3.0467500988481047
+    }
+  ]
+}
