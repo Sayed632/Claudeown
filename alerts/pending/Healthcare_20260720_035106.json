@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-20T03:51:06.946489",
+  "stocks": [
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 971.7999877929688,
+      "alert_pct_move": 1.9352821817288774,
+      "alert_relative_volume": 16.947523453427976
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 177.10000610351562,
+      "alert_pct_move": -1.6111077202690973,
+      "alert_relative_volume": 4.741726956688453
+    },
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 554.2999877929688,
+      "alert_pct_move": 2.099827383726852,
+      "alert_relative_volume": 4.404429048796032
+    }
+  ]
+}
