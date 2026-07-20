@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-20T03:50:54.692159",
+  "stocks": [
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2748.10009765625,
+      "alert_pct_move": -2.1366759699940308,
+      "alert_relative_volume": 8.050993047598224
+    },
+    {
+      "ticker": "ESCORTS.NS",
+      "alert_price": 3002.60009765625,
+      "alert_pct_move": 2.3311344701323784,
+      "alert_relative_volume": 7.648149655276651
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 2069.0,
+      "alert_pct_move": 5.009386830730617,
+      "alert_relative_volume": 7.489385899564416
+    },
+    {
+      "ticker": "PREMIERENE.NS",
+      "alert_price": 1024.0,
+      "alert_pct_move": -1.0341114986771291,
+      "alert_relative_volume": 7.415999284246351
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 325.29998779296875,
+      "alert_pct_move": -1.8258693825576136,
+      "alert_relative_volume": 5.260276681264071
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3346.60009765625,
+      "alert_pct_move": -1.002807346361485,
+      "alert_relative_volume": 4.133140665729488
+    }
+  ]
+}
