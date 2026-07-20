@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-20T03:55:38.258536",
+  "stocks": [
+    {
+      "ticker": "RELIANCE.NS",
+      "alert_price": 1338.9000244140625,
+      "alert_pct_move": 1.6783091408300894,
+      "alert_relative_volume": 4.201842431416987
+    },
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1392.800048828125,
+      "alert_pct_move": 3.630956013997396,
+      "alert_relative_volume": 3.968893295178772
+    }
+  ]
+}
