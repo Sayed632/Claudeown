@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-20T03:55:48.101621",
+  "stocks": [
+    {
+      "ticker": "ESCORTS.NS",
+      "alert_price": 3013.0,
+      "alert_pct_move": 2.6855718812432485,
+      "alert_relative_volume": 10.058068682546947
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2753.5,
+      "alert_pct_move": -1.9443786103572793,
+      "alert_relative_volume": 9.965223793088967
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 2032.199951171875,
+      "alert_pct_move": 3.1416485210243073,
+      "alert_relative_volume": 9.89677671386925
+    },
+    {
+      "ticker": "ELGIEQUIP.NS",
+      "alert_price": 588.9000244140625,
+      "alert_pct_move": 1.0206727991144013,
+      "alert_relative_volume": 3.8189412479253626
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 325.75,
+      "alert_pct_move": -1.6900576430851646,
+      "alert_relative_volume": 3.564881426686024
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 585.5,
+      "alert_pct_move": 1.3852813852813852,
+      "alert_relative_volume": 3.085460190711507
+    }
+  ]
+}
