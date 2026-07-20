@@ -1,0 +1,66 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-20T03:51:21.371917",
+  "stocks": [
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 110.12000274658203,
+      "alert_pct_move": 2.303979348751364,
+      "alert_relative_volume": 37.923526656328015
+    },
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 471.3999938964844,
+      "alert_pct_move": -3.183405256582386,
+      "alert_relative_volume": 30.429022622258078
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 22.889999389648438,
+      "alert_pct_move": -2.263025981720564,
+      "alert_relative_volume": 11.73413360100006
+    },
+    {
+      "ticker": "AIIL.NS",
+      "alert_price": 551.6500244140625,
+      "alert_pct_move": -2.25036798463387,
+      "alert_relative_volume": 9.878320055040355
+    },
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1548.0999755859375,
+      "alert_pct_move": -1.520357787154103,
+      "alert_relative_volume": 9.506032126264138
+    },
+    {
+      "ticker": "FEDERALBNK.NS",
+      "alert_price": 347.8500061035156,
+      "alert_pct_move": 1.0310829034015356,
+      "alert_relative_volume": 7.351832968119769
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 127.23999786376953,
+      "alert_pct_move": 1.6699930582569342,
+      "alert_relative_volume": 3.8879320923858938
+    },
+    {
+      "ticker": "RBLBANK.NS",
+      "alert_price": 364.8999938964844,
+      "alert_pct_move": 1.024358129681453,
+      "alert_relative_volume": 3.8396143142085437
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 239.63999938964844,
+      "alert_pct_move": -1.3827163005561984,
+      "alert_relative_volume": 3.5913060624587554
+    },
+    {
+      "ticker": "CANFINHOME.NS",
+      "alert_price": 877.5499877929688,
+      "alert_pct_move": -2.570225835496195,
+      "alert_relative_volume": 3.50707952170585
+    }
+  ]
+}
