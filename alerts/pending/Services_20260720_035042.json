@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-20T03:50:42.854534",
+  "stocks": [
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1833.199951171875,
+      "alert_pct_move": -4.471081231272798,
+      "alert_relative_volume": 8.608978437979198
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1387.5,
+      "alert_pct_move": 3.259659925560454,
+      "alert_relative_volume": 5.859487111291412
+    }
+  ]
+}
