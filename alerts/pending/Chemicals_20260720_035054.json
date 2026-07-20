@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-20T03:50:54.161579",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 757.5999755859375,
+      "alert_pct_move": 2.2264202595546663,
+      "alert_relative_volume": 14.610940184084244
+    },
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 718.75,
+      "alert_pct_move": -2.871621621621622,
+      "alert_relative_volume": 12.941776022206486
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4169.0,
+      "alert_pct_move": 1.1794995342225274,
+      "alert_relative_volume": 6.3483533937478684
+    },
+    {
+      "ticker": "SOLARINDS.NS",
+      "alert_price": 18839.0,
+      "alert_pct_move": 1.0947142473839548,
+      "alert_relative_volume": 4.442020175356624
+    }
+  ]
+}
