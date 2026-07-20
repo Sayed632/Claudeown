@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-20T03:50:58.054177",
+  "stocks": [
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1386.699951171875,
+      "alert_pct_move": 3.1770797002883184,
+      "alert_relative_volume": 4.260488433228327
+    }
+  ]
+}
