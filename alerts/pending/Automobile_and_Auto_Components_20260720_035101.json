@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-20T03:51:01.119570",
+  "stocks": [
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1329.699951171875,
+      "alert_pct_move": 3.7045704109243696,
+      "alert_relative_volume": 5.308883754379146
+    }
+  ]
+}
