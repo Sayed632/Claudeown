@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-20T03:51:18.075233",
+  "stocks": [
+    {
+      "ticker": "CAMPUS.NS",
+      "alert_price": 228.75,
+      "alert_pct_move": -1.187904967602592,
+      "alert_relative_volume": 5.233471125328694
+    }
+  ]
+}
