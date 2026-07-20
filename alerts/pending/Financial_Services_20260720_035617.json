@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-20T03:56:17.525121",
+  "stocks": [
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 111.26000213623047,
+      "alert_pct_move": 3.3630646294208,
+      "alert_relative_volume": 42.69907368978336
+    },
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 467.54998779296875,
+      "alert_pct_move": -3.9741232996666382,
+      "alert_relative_volume": 25.751631790352143
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 22.8799991607666,
+      "alert_pct_move": -2.305725507123035,
+      "alert_relative_volume": 10.21197319420555
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 1158.0,
+      "alert_pct_move": 1.5166169517542405,
+      "alert_relative_volume": 8.925219409635742
+    },
+    {
+      "ticker": "AIIL.NS",
+      "alert_price": 554.9500122070312,
+      "alert_pct_move": -1.6656266121295955,
+      "alert_relative_volume": 8.63093423539528
+    },
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1550.0999755859375,
+      "alert_pct_move": -1.3931313240497774,
+      "alert_relative_volume": 6.583366189008086
+    },
+    {
+      "ticker": "RBLBANK.NS",
+      "alert_price": 369.04998779296875,
+      "alert_pct_move": 2.173304352337087,
+      "alert_relative_volume": 4.992171089999201
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 127.91999816894531,
+      "alert_pct_move": 2.2133412779013173,
+      "alert_relative_volume": 4.41878789433872
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 26.190000534057617,
+      "alert_pct_move": 1.0027004466711802,
+      "alert_relative_volume": 3.670804317207759
+    },
+    {
+      "ticker": "SBIN.NS",
+      "alert_price": 1054.800048828125,
+      "alert_pct_move": 1.325653105487512,
+      "alert_relative_volume": 3.612769702020903
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 240.3000030517578,
+      "alert_pct_move": -1.1111098552436984,
+      "alert_relative_volume": 3.295160815911714
+    },
+    {
+      "ticker": "CANFINHOME.NS",
+      "alert_price": 880.0999755859375,
+      "alert_pct_move": -2.2871140603869238,
+      "alert_relative_volume": 3.2727330062941538
+    }
+  ]
+}
