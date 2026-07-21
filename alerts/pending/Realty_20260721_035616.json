@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-07-21T03:56:16.628540",
+  "stocks": [
+    {
+      "ticker": "SOBHA.NS",
+      "alert_price": 1500.0999755859375,
+      "alert_pct_move": -2.874718317517805,
+      "alert_relative_volume": 49.67433600493465
+    }
+  ]
+}
