@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-07-21T03:56:11.698772",
+  "stocks": [
+    {
+      "ticker": "JKCEMENT.NS",
+      "alert_price": 5730.0,
+      "alert_pct_move": 3.8984587488667275,
+      "alert_relative_volume": 19.422033078504345
+    }
+  ]
+}
