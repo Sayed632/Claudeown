@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-21T03:50:47.684432",
+  "stocks": [
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 756.1500244140625,
+      "alert_pct_move": 1.7698552374242935,
+      "alert_relative_volume": 4.822071009345319
+    }
+  ]
+}
