@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-21T03:51:30.262983",
+  "stocks": [
+    {
+      "ticker": "INDIAMART.NS",
+      "alert_price": 1967.699951171875,
+      "alert_pct_move": 1.9533653456930051,
+      "alert_relative_volume": 4.517686425384507
+    },
+    {
+      "ticker": "MANYAVAR.NS",
+      "alert_price": 421.5,
+      "alert_pct_move": 1.079136690647482,
+      "alert_relative_volume": 3.5462000259263227
+    }
+  ]
+}
