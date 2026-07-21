@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-21T03:51:24.549425",
+  "stocks": [
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 574.2999877929688,
+      "alert_pct_move": 2.1886099275745106,
+      "alert_relative_volume": 4.237525804358516
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4282.39990234375,
+      "alert_pct_move": 2.2052482659606203,
+      "alert_relative_volume": 4.049870146561097
+    }
+  ]
+}
