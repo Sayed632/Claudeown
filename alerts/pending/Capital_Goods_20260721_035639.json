@@ -1,0 +1,24 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-21T03:56:39.336258",
+  "stocks": [
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1042.0999755859375,
+      "alert_pct_move": 3.178215404548267,
+      "alert_relative_volume": 58.99204803133637
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 319.04998779296875,
+      "alert_pct_move": 1.7703310344397927,
+      "alert_relative_volume": 9.77526292152395
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3936.800048828125,
+      "alert_pct_move": -1.3036502046593474,
+      "alert_relative_volume": 5.588675002546168
+    }
+  ]
+}
