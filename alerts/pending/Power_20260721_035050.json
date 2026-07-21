@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-21T03:50:50.169090",
+  "stocks": [
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 17.729999542236328,
+      "alert_pct_move": -1.4452486503043223,
+      "alert_relative_volume": 33.81085977731108
+    }
+  ]
+}
