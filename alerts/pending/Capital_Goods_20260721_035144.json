@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-21T03:51:44.386380",
+  "stocks": [
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1036.800048828125,
+      "alert_pct_move": 2.6534701810024752,
+      "alert_relative_volume": 37.6275142067399
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 317.3999938964844,
+      "alert_pct_move": 1.2440171918610445,
+      "alert_relative_volume": 11.787046611487376
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3905.199951171875,
+      "alert_pct_move": -2.0958708542136875,
+      "alert_relative_volume": 5.865335463608249
+    },
+    {
+      "ticker": "SUPREMEIND.NS",
+      "alert_price": 3372.699951171875,
+      "alert_pct_move": -1.3974579397200702,
+      "alert_relative_volume": 3.574913752271666
+    }
+  ]
+}
