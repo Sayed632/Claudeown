@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-21T03:55:45.258433",
+  "stocks": [
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 270.5,
+      "alert_pct_move": -1.2773722627737227,
+      "alert_relative_volume": 3.1841367082380088
+    }
+  ]
+}
