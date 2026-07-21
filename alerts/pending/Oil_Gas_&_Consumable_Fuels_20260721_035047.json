@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-21T03:50:47.097965",
+  "stocks": [
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1245.699951171875,
+      "alert_pct_move": 1.8977465171267895,
+      "alert_relative_volume": 6.226131401444614
+    },
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 175.22999572753906,
+      "alert_pct_move": 1.6710121972921073,
+      "alert_relative_volume": 3.5108368672196275
+    }
+  ]
+}
