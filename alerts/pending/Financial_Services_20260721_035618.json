@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-21T03:56:18.231030",
+  "stocks": [
+    {
+      "ticker": "KARURVYSYA.NS",
+      "alert_price": 326.75,
+      "alert_pct_move": 4.660469962864743,
+      "alert_relative_volume": 79.9299075312502
+    },
+    {
+      "ticker": "AIIL.NS",
+      "alert_price": 548.5499877929688,
+      "alert_pct_move": -1.8694118438338552,
+      "alert_relative_volume": 21.2755514917372
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1349.5999755859375,
+      "alert_pct_move": 1.0860609890758453,
+      "alert_relative_volume": 17.567298448191607
+    },
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 35.58000183105469,
+      "alert_pct_move": 1.1370139920665574,
+      "alert_relative_volume": 11.635565717739295
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 178.0800018310547,
+      "alert_pct_move": 1.2911690483952105,
+      "alert_relative_volume": 7.973746139837409
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 112.79000091552734,
+      "alert_pct_move": 1.0029576116653833,
+      "alert_relative_volume": 6.690842486740261
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 342.8999938964844,
+      "alert_pct_move": 1.5097709555399164,
+      "alert_relative_volume": 6.212264339055577
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 148.49000549316406,
+      "alert_pct_move": 1.0479813384850136,
+      "alert_relative_volume": 5.992122979128085
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 130.25,
+      "alert_pct_move": 1.157195990005232,
+      "alert_relative_volume": 5.131059317412234
+    }
+  ]
+}
