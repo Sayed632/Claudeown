@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-21T03:56:02.698074",
+  "stocks": [
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 3760.300048828125,
+      "alert_pct_move": 1.1513126786314727,
+      "alert_relative_volume": 8.900190718372537
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 765.0999755859375,
+      "alert_pct_move": 2.974424708739906,
+      "alert_relative_volume": 4.956033962134415
+    }
+  ]
+}
