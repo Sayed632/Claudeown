@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-22T03:50:49.645577",
+  "stocks": [
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1718.5,
+      "alert_pct_move": -1.8392615565175032,
+      "alert_relative_volume": 4.0947233759417605
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 17.440000534057617,
+      "alert_pct_move": -1.5245542878190312,
+      "alert_relative_volume": 3.335229459749731
+    },
+    {
+      "ticker": "NLCINDIA.NS",
+      "alert_price": 291.75,
+      "alert_pct_move": -1.001022085115769,
+      "alert_relative_volume": 3.0874588998385684
+    }
+  ]
+}
