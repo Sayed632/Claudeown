@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-22T03:50:48.791594",
+  "stocks": [
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 41.61000061035156,
+      "alert_pct_move": -2.4384545798815465,
+      "alert_relative_volume": 9.278479271653483
+    }
+  ]
+}
