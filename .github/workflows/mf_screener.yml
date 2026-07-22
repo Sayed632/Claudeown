@@ -3,10 +3,11 @@ name: Weekly Mutual Fund Screener
 # Runs weekly, not daily - mutual fund NAVs update once a day and
 # rankings don't meaningfully shift hour to hour, unlike stock scans.
 # Monday mornings, after the weekend's data has settled.
+#
+# NOTE: native GitHub `schedule:` proved unreliable elsewhere in this
+# repo - removed for consistency, dispatched externally via cron-job.org.
 
 on:
-  schedule:
-    - cron: "30 3 * * 1"  # 9:00 AM IST, every Monday
   workflow_dispatch: {}
 
 permissions:

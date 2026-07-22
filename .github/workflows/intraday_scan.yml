@@ -1,10 +1,13 @@
 name: Intraday ORB Scan
 
+# NOTE: native GitHub `schedule:` proved unreliable elsewhere in this
+# repo, especially at frequent intervals (Top Gainers, every 30 min,
+# drifted by 1h43m-2h13m). This one runs every 15 min, so it's likely
+# the MOST affected - removed schedule, dispatched externally via
+# cron-job.org instead.
+# (First 30 min of market is skipped on purpose - that's the Opening Range itself.)
+
 on:
-  schedule:
-    # Runs every 15 min, 9:45 AM to 3:15 PM IST (4:15-9:45 UTC), weekdays.
-    # (First 30 min of market is skipped on purpose - that's the Opening Range itself.)
-    - cron: "*/15 4-9 * * 1-5"
   workflow_dispatch: {}
 
 permissions:

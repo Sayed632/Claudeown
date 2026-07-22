@@ -1,9 +1,11 @@
 name: Weekly Dark Horse Screen
 
+# NOTE: native GitHub `schedule:` proved unreliable on other Claudeown
+# workflows (Top Gainers drifted by 1h43m-2h13m instead of firing every
+# 30 min). Removed here too for consistency; dispatched externally via
+# cron-job.org instead.
+
 on:
-  schedule:
-    # 10:30 UTC = 4:00 PM IST, Friday only (after market close)
-    - cron: "30 10 * * 5"
   workflow_dispatch: {}
 
 jobs:

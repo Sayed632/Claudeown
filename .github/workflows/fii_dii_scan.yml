@@ -1,10 +1,9 @@
 name: Daily FII DII Bulk Deals
 
+# NOTE: native GitHub `schedule:` proved unreliable elsewhere in this
+# repo - removed for consistency, dispatched externally via cron-job.org.
+
 on:
-  schedule:
-    # 12:30 UTC = 6:00 PM IST, weekdays - bulk deals data is usually
-    # published by NSE after market close, sometimes with a delay
-    - cron: "30 12 * * 1-5"
   workflow_dispatch: {}
 
 jobs:

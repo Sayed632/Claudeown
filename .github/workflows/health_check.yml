@@ -1,10 +1,9 @@
 name: Daily Health Check
 
+# NOTE: native GitHub `schedule:` proved unreliable elsewhere in this
+# repo - removed for consistency, dispatched externally via cron-job.org.
+
 on:
-  schedule:
-    # 3:00 UTC = 8:30 AM IST, weekdays - runs before market open so you
-    # know ahead of time if today's bots are likely to have issues
-    - cron: "0 3 * * 1-5"
   workflow_dispatch: {}
 
 jobs:
