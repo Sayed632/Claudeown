@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-22T03:56:02.879100",
+  "stocks": [
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10805.0,
+      "alert_pct_move": 1.7899199246349504,
+      "alert_relative_volume": 23.255346244476456
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 3926.199951171875,
+      "alert_pct_move": 2.322062267024213,
+      "alert_relative_volume": 15.775527517645012
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5106.0,
+      "alert_pct_move": 1.2633162997028073,
+      "alert_relative_volume": 5.718009328639752
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1438.5,
+      "alert_pct_move": -1.8021724332090243,
+      "alert_relative_volume": 4.619489070580686
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2938.300048828125,
+      "alert_pct_move": 1.320691338900862,
+      "alert_relative_volume": 3.4672733556143873
+    }
+  ]
+}
