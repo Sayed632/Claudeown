@@ -1,0 +1,48 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-22T03:56:07.206349",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 181.6199951171875,
+      "alert_pct_move": -1.164562175456981,
+      "alert_relative_volume": 5.54915478407342
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1974.0,
+      "alert_pct_move": -1.146778713710613,
+      "alert_relative_volume": 5.388822111453729
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2453.5,
+      "alert_pct_move": -1.382688359420861,
+      "alert_relative_volume": 4.470753838084674
+    },
+    {
+      "ticker": "AJANTPHARM.NS",
+      "alert_price": 3487.39990234375,
+      "alert_pct_move": -2.395748604988805,
+      "alert_relative_volume": 4.438851344259869
+    },
+    {
+      "ticker": "ABBOTINDIA.NS",
+      "alert_price": 28555.0,
+      "alert_pct_move": -1.15957078573901,
+      "alert_relative_volume": 4.15148539873824
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 406.70001220703125,
+      "alert_pct_move": -1.9999970585466869,
+      "alert_relative_volume": 3.376110525538788
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1297.5,
+      "alert_pct_move": -2.0754716981132075,
+      "alert_relative_volume": 3.0521567162028864
+    }
+  ]
+}
