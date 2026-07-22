@@ -1,0 +1,18 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-22T03:50:56.998270",
+  "stocks": [
+    {
+      "ticker": "AAVAS.NS",
+      "alert_price": 1471.800048828125,
+      "alert_pct_move": -3.6149280400704,
+      "alert_relative_volume": 52.919848580369646
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 991.0999755859375,
+      "alert_pct_move": -2.4411899037436138,
+      "alert_relative_volume": 9.535554847035696
+    }
+  ]
+}
