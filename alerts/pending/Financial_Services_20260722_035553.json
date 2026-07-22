@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-22T03:55:53.343426",
+  "stocks": [
+    {
+      "ticker": "AAVAS.NS",
+      "alert_price": 1452.300048828125,
+      "alert_pct_move": -4.891941792526195,
+      "alert_relative_volume": 41.505982563973035
+    },
+    {
+      "ticker": "M&MFIN.NS",
+      "alert_price": 367.29998779296875,
+      "alert_pct_move": 1.3520954688216702,
+      "alert_relative_volume": 36.11166689890166
+    },
+    {
+      "ticker": "CRISIL.NS",
+      "alert_price": 4328.2001953125,
+      "alert_pct_move": -1.6318137428977273,
+      "alert_relative_volume": 19.602623106226666
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 976.2000122070312,
+      "alert_pct_move": -3.907866055021399,
+      "alert_relative_volume": 19.456085301714054
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 585.7000122070312,
+      "alert_pct_move": 2.0383296527929007,
+      "alert_relative_volume": 3.964658723598978
+    }
+  ]
+}
