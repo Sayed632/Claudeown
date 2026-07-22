@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-22T03:55:43.939787",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 801.5,
+      "alert_pct_move": -1.5053763440860215,
+      "alert_relative_volume": 7.43404917577236
+    },
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 3785.0,
+      "alert_pct_move": -1.866735805029816,
+      "alert_relative_volume": 4.776887586818531
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 491.25,
+      "alert_pct_move": -2.30685213537169,
+      "alert_relative_volume": 3.0671517575300498
+    }
+  ]
+}
