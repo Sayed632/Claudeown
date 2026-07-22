@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-22T03:51:25.898425",
+  "stocks": [
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1726.300048828125,
+      "alert_pct_move": -1.3937226837424261,
+      "alert_relative_volume": 4.16385587761348
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 17.43000030517578,
+      "alert_pct_move": -1.5810208569822317,
+      "alert_relative_volume": 3.069072116818367
+    }
+  ]
+}
