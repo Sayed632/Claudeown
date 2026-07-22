@@ -1,0 +1,58 @@
+name: Crypto Scan (Top 100)
+
+# Dispatch-only from the start - native GitHub `schedule:` proved
+# unreliable for every other frequent workflow in this repo, so this
+# one skips that mistake entirely. Trigger externally via cron-job.org,
+# same active-hours pattern as the stock scans: every 30 min,
+# 9:00 AM - 3:30 PM IST (3:30-10:00 UTC), all days (crypto doesn't
+# observe NSE weekday-only hours, but this deliberately mirrors your
+# stock scan schedule for consistency - see script docstring for the
+# tradeoff this implies).
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crypto_scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run crypto scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python crypto_scanner.py
+
+      - name: Commit volume history, with retry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain crypto_volume_history.json 2>/dev/null)" ]; then
+            echo "No history changes to commit."
+            exit 0
+          fi
+          for attempt in 1 2 3 4 5; do
+            git add crypto_volume_history.json
+            git commit -m "Update crypto volume history [automated]" || true
+            if git push; then
+              echo "Pushed successfully on attempt $attempt"
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt) - pulling latest and retrying..."
+            sleep $((RANDOM % 5 + 1))
+            git pull --rebase
+          done
+          echo "WARNING: could not push after 5 attempts"
