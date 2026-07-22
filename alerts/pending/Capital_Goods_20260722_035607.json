@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-22T03:56:07.985782",
+  "stocks": [
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2415.0,
+      "alert_pct_move": 1.5901080937466332,
+      "alert_relative_volume": 12.296491065647057
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 322.70001220703125,
+      "alert_pct_move": 1.47799126007272,
+      "alert_relative_volume": 6.003154056804473
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 831.4000244140625,
+      "alert_pct_move": -1.3760350635750298,
+      "alert_relative_volume": 3.6402540977365807
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2598.0,
+      "alert_pct_move": -1.4453205965177385,
+      "alert_relative_volume": 3.4490322319875784
+    }
+  ]
+}
