@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-22T03:50:49.852801",
+  "stocks": [
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 597.0,
+      "alert_pct_move": -1.3304665656357688,
+      "alert_relative_volume": 4.210430558052456
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 596.25,
+      "alert_pct_move": 3.3989377882803615,
+      "alert_relative_volume": 3.503016160470738
+    }
+  ]
+}
