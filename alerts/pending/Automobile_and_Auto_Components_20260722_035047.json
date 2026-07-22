@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-22T03:50:47.379057",
+  "stocks": [
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 3908.89990234375,
+      "alert_pct_move": 1.8711996784070408,
+      "alert_relative_volume": 14.08554810047888
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2942.300048828125,
+      "alert_pct_move": 1.4586223733836208,
+      "alert_relative_volume": 4.594808312281675
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1438.9000244140625,
+      "alert_pct_move": -1.7748651489305285,
+      "alert_relative_volume": 3.320862288045428
+    }
+  ]
+}
