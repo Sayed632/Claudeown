@@ -1,9 +1,12 @@
 name: Live Top Gainers Scan
 
+# NOTE: native GitHub `schedule:` was tested and proved unreliable -
+# on 21-Jul-2026, runs meant to fire every 30 min instead fired at
+# 06:25, 09:08, 11:22 UTC (gaps of 1h43m and 2h13m). Removed the
+# schedule trigger; this is now dispatched externally via cron-job.org,
+# same reliable pattern used for the other Claudeown workflows.
+
 on:
-  schedule:
-    # Every 30 min, 9:45 AM to 3:15 PM IST (4:15-9:45 UTC), weekdays
-    - cron: "*/30 4-9 * * 1-5"
   workflow_dispatch: {}
 
 jobs:
