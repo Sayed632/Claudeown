@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-22T03:51:06.567376",
+  "stocks": [
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1973.5999755859375,
+      "alert_pct_move": -1.166810984188444,
+      "alert_relative_volume": 5.975801073893617
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2457.0,
+      "alert_pct_move": -1.2420074583644,
+      "alert_relative_volume": 4.288495396747168
+    },
+    {
+      "ticker": "AJANTPHARM.NS",
+      "alert_price": 3515.0,
+      "alert_pct_move": -1.6232857542681218,
+      "alert_relative_volume": 3.662308913053836
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 504.79998779296875,
+      "alert_pct_move": -1.1068712467325654,
+      "alert_relative_volume": 3.0902880765072607
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1306.5999755859375,
+      "alert_pct_move": -1.3886810878537734,
+      "alert_relative_volume": 3.0873758923672145
+    }
+  ]
+}
