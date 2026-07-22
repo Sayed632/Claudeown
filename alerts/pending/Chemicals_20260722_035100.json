@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-22T03:51:00.515079",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 801.4000244140625,
+      "alert_pct_move": -1.517662130376344,
+      "alert_relative_volume": 6.707462946535529
+    }
+  ]
+}
