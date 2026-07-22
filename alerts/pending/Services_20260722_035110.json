@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-22T03:51:10.570853",
+  "stocks": [
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 339.29998779296875,
+      "alert_pct_move": 1.1326342154899405,
+      "alert_relative_volume": 4.603063441623191
+    },
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5144.5,
+      "alert_pct_move": -1.2097935669707154,
+      "alert_relative_volume": 3.134276008007877
+    }
+  ]
+}
