@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-22T03:56:09.515480",
+  "stocks": [
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 596.6500244140625,
+      "alert_pct_move": -1.3883089907243307,
+      "alert_relative_volume": 3.8735141915300213
+    }
+  ]
+}
