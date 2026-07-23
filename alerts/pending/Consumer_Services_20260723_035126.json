@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-23T03:51:26.558608",
+  "stocks": [
+    {
+      "ticker": "ETERNAL.NS",
+      "alert_price": 286.20001220703125,
+      "alert_pct_move": -1.293326381142695,
+      "alert_relative_volume": 5.349464997437134
+    }
+  ]
+}
