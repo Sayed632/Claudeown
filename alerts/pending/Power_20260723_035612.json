@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-23T03:56:12.251195",
+  "stocks": [
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1426.300048828125,
+      "alert_pct_move": -1.607334930341353,
+      "alert_relative_volume": 6.792195700537125
+    }
+  ]
+}
