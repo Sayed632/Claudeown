@@ -1,0 +1,24 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-07-23T03:51:18.885478",
+  "stocks": [
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 39.849998474121094,
+      "alert_pct_move": 1.1934926187353554,
+      "alert_relative_volume": 11.314181608133001
+    },
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 215.99000549316406,
+      "alert_pct_move": -2.342086502991425,
+      "alert_relative_volume": 4.82254073902131
+    },
+    {
+      "ticker": "TATACOMM.NS",
+      "alert_price": 1751.0999755859375,
+      "alert_pct_move": -1.1794596170464164,
+      "alert_relative_volume": 3.9197284535299604
+    }
+  ]
+}
