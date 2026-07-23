@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-23T03:55:38.636725",
+  "stocks": [
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1330.9000244140625,
+      "alert_pct_move": 1.5566596271699733,
+      "alert_relative_volume": 6.882920661856995
+    },
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 274.0,
+      "alert_pct_move": -1.3678862346821634,
+      "alert_relative_volume": 4.033497784086238
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 312.5,
+      "alert_pct_move": 2.1241830065359477,
+      "alert_relative_volume": 3.520047929919157
+    },
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 178.94000244140625,
+      "alert_pct_move": 2.450474458695649,
+      "alert_relative_volume": 3.288548919406794
+    }
+  ]
+}
