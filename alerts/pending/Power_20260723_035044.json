@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-23T03:50:44.201015",
+  "stocks": [
+    {
+      "ticker": "NTPCGREEN.NS",
+      "alert_price": 95.22000122070312,
+      "alert_pct_move": 1.6330438034236754,
+      "alert_relative_volume": 68.76686139377807
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1417.300048828125,
+      "alert_pct_move": -2.2281958679501677,
+      "alert_relative_volume": 8.775965834730343
+    }
+  ]
+}
