@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-23T03:56:11.467656",
+  "stocks": [
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 11097.0,
+      "alert_pct_move": -1.2722419928825623,
+      "alert_relative_volume": 24.408690955491878
+    }
+  ]
+}
