@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-23T03:50:48.639237",
+  "stocks": [
+    {
+      "ticker": "SONACOMS.NS",
+      "alert_price": 710.9500122070312,
+      "alert_pct_move": -1.8905694811931877,
+      "alert_relative_volume": 6.646801698554501
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1479.699951171875,
+      "alert_pct_move": -1.379636957168893,
+      "alert_relative_volume": 3.556234653122785
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 11098.5,
+      "alert_pct_move": 1.199051700556214,
+      "alert_relative_volume": 3.1465477509648347
+    }
+  ]
+}
