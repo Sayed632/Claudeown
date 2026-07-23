@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-23T03:51:14.092171",
+  "stocks": [
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 274.29998779296875,
+      "alert_pct_move": -1.2598992634255928,
+      "alert_relative_volume": 4.637391712028461
+    }
+  ]
+}
