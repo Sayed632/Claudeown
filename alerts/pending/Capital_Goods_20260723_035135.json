@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-23T03:51:35.764153",
+  "stocks": [
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1106.199951171875,
+      "alert_pct_move": 2.9981332562267227,
+      "alert_relative_volume": 19.137888206067547
+    },
+    {
+      "ticker": "HEG.NS",
+      "alert_price": 605.9500122070312,
+      "alert_pct_move": -1.1097491298194615,
+      "alert_relative_volume": 13.516838157462402
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2725.199951171875,
+      "alert_pct_move": 1.0643408556230298,
+      "alert_relative_volume": 5.248232419252337
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 984.0999755859375,
+      "alert_pct_move": -2.1380271004354885,
+      "alert_relative_volume": 3.353237023114273
+    }
+  ]
+}
