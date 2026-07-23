@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-23T03:55:38.672768",
+  "stocks": [
+    {
+      "ticker": "UNITDSPR.NS",
+      "alert_price": 1429.800048828125,
+      "alert_pct_move": 1.6782888974347179,
+      "alert_relative_volume": 6.0229429477095255
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "alert_price": 1473.5,
+      "alert_pct_move": -1.5303410879740758,
+      "alert_relative_volume": 3.6759256672879594
+    },
+    {
+      "ticker": "UBL.NS",
+      "alert_price": 1444.699951171875,
+      "alert_pct_move": 1.5249438630973295,
+      "alert_relative_volume": 3.341084342838332
+    }
+  ]
+}
