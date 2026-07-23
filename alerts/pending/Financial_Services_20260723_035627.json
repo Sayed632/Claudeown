@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-23T03:56:27.562053",
+  "stocks": [
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 575.0,
+      "alert_pct_move": -1.2875536480686696,
+      "alert_relative_volume": 16.12720826060193
+    },
+    {
+      "ticker": "UTIAMC.NS",
+      "alert_price": 916.0,
+      "alert_pct_move": -2.4390269271058624,
+      "alert_relative_volume": 14.893674471528884
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 26.1200008392334,
+      "alert_pct_move": -1.1355005154967024,
+      "alert_relative_volume": 5.176122186184608
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 120.66999816894531,
+      "alert_pct_move": 1.2671991108003693,
+      "alert_relative_volume": 3.317147641820283
+    }
+  ]
+}
