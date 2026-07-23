@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-23T03:56:05.234756",
+  "stocks": [
+    {
+      "ticker": "DRREDDY.NS",
+      "alert_price": 1149.0,
+      "alert_pct_move": 4.340723841955963,
+      "alert_relative_volume": 14.452588095276804
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2513.800048828125,
+      "alert_pct_move": 3.219189850871113,
+      "alert_relative_volume": 3.522889461687579
+    }
+  ]
+}
