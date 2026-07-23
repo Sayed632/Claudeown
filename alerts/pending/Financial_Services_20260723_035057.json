@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-23T03:50:57.420478",
+  "stocks": [
+    {
+      "ticker": "UTIAMC.NS",
+      "alert_price": 922.7000122070312,
+      "alert_pct_move": -1.7254246230466508,
+      "alert_relative_volume": 19.760846949501648
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 565.7999877929688,
+      "alert_pct_move": -2.866954885327253,
+      "alert_relative_volume": 16.938426071627163
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "alert_price": 1022.5999755859375,
+      "alert_pct_move": -1.2982069020122011,
+      "alert_relative_volume": 7.924242586515558
+    },
+    {
+      "ticker": "AAVAS.NS",
+      "alert_price": 1419.0999755859375,
+      "alert_pct_move": -1.039053306419979,
+      "alert_relative_volume": 4.91574983996323
+    }
+  ]
+}
