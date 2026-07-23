@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-23T03:55:46.360228",
+  "stocks": [
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 11099.5,
+      "alert_pct_move": 1.208169964438771,
+      "alert_relative_volume": 3.344811629007058
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 37.130001068115234,
+      "alert_pct_move": 1.1992435483111308,
+      "alert_relative_volume": 3.2911292534967522
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 3939.199951171875,
+      "alert_pct_move": 1.056951030576578,
+      "alert_relative_volume": 3.1620114601156644
+    }
+  ]
+}
