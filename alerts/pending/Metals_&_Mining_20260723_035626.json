@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-07-23T03:56:26.336535",
+  "stocks": [
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1908.9000244140625,
+      "alert_pct_move": 1.5426352265216274,
+      "alert_relative_volume": 3.0525251587859485
+    }
+  ]
+}
