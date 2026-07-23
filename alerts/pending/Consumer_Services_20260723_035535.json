@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-23T03:55:35.890163",
+  "stocks": [
+    {
+      "ticker": "ETERNAL.NS",
+      "alert_price": 283.45001220703125,
+      "alert_pct_move": -2.241765727314005,
+      "alert_relative_volume": 5.367951311786595
+    },
+    {
+      "ticker": "VMM.NS",
+      "alert_price": 110.19000244140625,
+      "alert_pct_move": -1.7564204318661625,
+      "alert_relative_volume": 3.290763526961191
+    }
+  ]
+}
