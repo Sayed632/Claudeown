@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-24T03:56:04.972634",
+  "stocks": [
+    {
+      "ticker": "HEG.NS",
+      "alert_price": 636.3499755859375,
+      "alert_pct_move": 4.0467627514681475,
+      "alert_relative_volume": 5.463853183811361
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 17617.0,
+      "alert_pct_move": -1.2333912653473118,
+      "alert_relative_volume": 4.710720918720137
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 892.75,
+      "alert_pct_move": 3.567285382830626,
+      "alert_relative_volume": 3.7563887794761794
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4628.0,
+      "alert_pct_move": 1.9742662520765994,
+      "alert_relative_volume": 3.697021133471687
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3156.60009765625,
+      "alert_pct_move": -1.755365774782135,
+      "alert_relative_volume": 3.4550492824465047
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 662.5999755859375,
+      "alert_pct_move": 1.322725470974958,
+      "alert_relative_volume": 3.363857719723812
+    }
+  ]
+}
