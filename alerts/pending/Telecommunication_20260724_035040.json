@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-07-24T03:50:40.990720",
+  "stocks": [
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 39.459999084472656,
+      "alert_pct_move": -2.3267386284728615,
+      "alert_relative_volume": 11.843233660367812
+    },
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 502.6000061035156,
+      "alert_pct_move": 1.5353547683869948,
+      "alert_relative_volume": 3.374163374399111
+    }
+  ]
+}
