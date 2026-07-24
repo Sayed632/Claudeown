@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-24T03:51:05.212709",
+  "stocks": [
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 557.0499877929688,
+      "alert_pct_move": 1.6514576264541514,
+      "alert_relative_volume": 4.022151728083317
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1382.0,
+      "alert_pct_move": 1.8422991893883567,
+      "alert_relative_volume": 3.8890344190655757
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 23.399999618530273,
+      "alert_pct_move": -1.969003787928729,
+      "alert_relative_volume": 3.3918609720982684
+    }
+  ]
+}
