@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-07-24T03:50:49.469757",
+  "stocks": [
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 225.16000366210938,
+      "alert_pct_move": 1.4188591654491687,
+      "alert_relative_volume": 3.79817294955463
+    }
+  ]
+}
