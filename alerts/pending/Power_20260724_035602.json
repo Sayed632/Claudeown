@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-24T03:56:02.312280",
+  "stocks": [
+    {
+      "ticker": "NTPCGREEN.NS",
+      "alert_price": 97.5999984741211,
+      "alert_pct_move": 1.1608572535430068,
+      "alert_relative_volume": 8.512740252671199
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 23.209999084472656,
+      "alert_pct_move": -2.7649842126354054,
+      "alert_relative_volume": 3.4428669028342687
+    }
+  ]
+}
