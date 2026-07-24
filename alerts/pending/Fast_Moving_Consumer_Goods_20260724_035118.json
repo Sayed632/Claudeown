@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-24T03:51:18.486218",
+  "stocks": [
+    {
+      "ticker": "UNITDSPR.NS",
+      "alert_price": 1432.9000244140625,
+      "alert_pct_move": 1.4011782018406003,
+      "alert_relative_volume": 3.9199715666859545
+    }
+  ]
+}
