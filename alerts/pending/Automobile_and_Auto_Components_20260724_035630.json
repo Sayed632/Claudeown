@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-24T03:56:30.238326",
+  "stocks": [
+    {
+      "ticker": "SONACOMS.NS",
+      "alert_price": 730.9500122070312,
+      "alert_pct_move": 3.387554767614038,
+      "alert_relative_volume": 9.085535099162309
+    },
+    {
+      "ticker": "ENDURANCE.NS",
+      "alert_price": 2623.0,
+      "alert_pct_move": -2.41452080440792,
+      "alert_relative_volume": 4.282838293483905
+    }
+  ]
+}
