@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-24T03:51:04.601645",
+  "stocks": [
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 926.2000122070312,
+      "alert_pct_move": -1.5099970053572562,
+      "alert_relative_volume": 17.402852641467188
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 267.8999938964844,
+      "alert_pct_move": -1.271425144436933,
+      "alert_relative_volume": 17.135301017973333
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1974.800048828125,
+      "alert_pct_move": 2.656344489956501,
+      "alert_relative_volume": 5.041110625089128
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 122.83999633789062,
+      "alert_pct_move": 1.52065813048812,
+      "alert_relative_volume": 4.196463099345517
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 990.9000244140625,
+      "alert_pct_move": 1.4019660290516596,
+      "alert_relative_volume": 3.561601365452581
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 360.0,
+      "alert_pct_move": 1.1377967844016128,
+      "alert_relative_volume": 3.417998773020889
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 1007.7000122070312,
+      "alert_pct_move": -1.0895146956159107,
+      "alert_relative_volume": 3.116600053432426
+    }
+  ]
+}
