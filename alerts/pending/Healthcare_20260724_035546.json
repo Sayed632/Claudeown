@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-24T03:55:46.989672",
+  "stocks": [
+    {
+      "ticker": "CIPLA.NS",
+      "alert_price": 1438.9000244140625,
+      "alert_pct_move": 3.40639773007995,
+      "alert_relative_volume": 12.19055011309643
+    }
+  ]
+}
