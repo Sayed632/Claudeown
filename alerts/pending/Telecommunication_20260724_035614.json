@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-07-24T03:56:14.718800",
+  "stocks": [
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 39.33000183105469,
+      "alert_pct_move": -2.648513996067085,
+      "alert_relative_volume": 9.428200793039563
+    }
+  ]
+}
