@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-24T03:56:28.722599",
+  "stocks": [
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 914.1500244140625,
+      "alert_pct_move": -2.791365303967921,
+      "alert_relative_volume": 17.48411678795924
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 2016.5,
+      "alert_pct_move": 4.824039672693929,
+      "alert_relative_volume": 12.12774292499359
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 122.77999877929688,
+      "alert_pct_move": 1.4710733713197315,
+      "alert_relative_volume": 3.9389286775260035
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 988.2000122070312,
+      "alert_pct_move": 1.125665151718144,
+      "alert_relative_volume": 3.7902821382365817
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 1000.0999755859375,
+      "alert_pct_move": -1.8354939567226707,
+      "alert_relative_volume": 3.099775950355136
+    }
+  ]
+}
