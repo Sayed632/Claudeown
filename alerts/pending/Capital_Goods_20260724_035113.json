@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-24T03:51:13.985548",
+  "stocks": [
+    {
+      "ticker": "HEG.NS",
+      "alert_price": 631.2000122070312,
+      "alert_pct_move": 3.2047150757839913,
+      "alert_relative_volume": 5.8467365538138125
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 17561.0,
+      "alert_pct_move": -1.5473454056175366,
+      "alert_relative_volume": 5.330007112105237
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4626.60009765625,
+      "alert_pct_move": 1.943420527286524,
+      "alert_relative_volume": 3.6382107849260015
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 885.4500122070312,
+      "alert_pct_move": 2.720419049539588,
+      "alert_relative_volume": 3.1433332535941467
+    }
+  ]
+}
