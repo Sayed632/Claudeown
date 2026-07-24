@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-24T03:56:35.813758",
+  "stocks": [
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 247.1300048828125,
+      "alert_pct_move": -3.51761116980945,
+      "alert_relative_volume": 4.941185080198725
+    },
+    {
+      "ticker": "ETERNAL.NS",
+      "alert_price": 280.0,
+      "alert_pct_move": -1.6853890444890158,
+      "alert_relative_volume": 3.466202491459732
+    },
+    {
+      "ticker": "VMM.NS",
+      "alert_price": 107.36000061035156,
+      "alert_pct_move": -1.4231962167283174,
+      "alert_relative_volume": 3.0776144812890975
+    }
+  ]
+}
