@@ -1,0 +1,42 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-24T03:50:48.385908",
+  "stocks": [
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 860.0,
+      "alert_pct_move": 3.2971007878817336,
+      "alert_relative_volume": 41.410759510213055
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2329.199951171875,
+      "alert_pct_move": 1.3753417554194731,
+      "alert_relative_volume": 19.054692855639825
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1041.800048828125,
+      "alert_pct_move": 1.1554543287667889,
+      "alert_relative_volume": 7.542581686611092
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1275.0,
+      "alert_pct_move": 2.938803902110764,
+      "alert_relative_volume": 5.2188566893494
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10916.0,
+      "alert_pct_move": 2.4207168324263466,
+      "alert_relative_volume": 4.613349614735531
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3430.800048828125,
+      "alert_pct_move": 1.8978926709372363,
+      "alert_relative_volume": 3.2777587020097885
+    }
+  ]
+}
