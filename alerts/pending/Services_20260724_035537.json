@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-24T03:55:37.926171",
+  "stocks": [
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 336.70001220703125,
+      "alert_pct_move": -3.9920158291113146,
+      "alert_relative_volume": 20.657170635207095
+    },
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 4892.5,
+      "alert_pct_move": -1.598954143201931,
+      "alert_relative_volume": 16.185985331440268
+    }
+  ]
+}
