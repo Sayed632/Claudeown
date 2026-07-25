@@ -21,6 +21,9 @@ import json
 import requests
 import pandas as pd
 import yfinance as yf
+from datetime import datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 # ============================================================
 # CONFIG - the only section you should need to edit
@@ -189,7 +192,7 @@ def run_scan():
     top_signals = signals[:MAX_SIGNALS_TO_SEND]
 
     # Build the message - ALWAYS send something, this is the key fix.
-    today = time.strftime("%d-%b-%Y")
+    today = datetime.now(IST).strftime("%d-%b-%Y")
     lines = [f"[Swing] 📊 *Swing Scan* — {today}", "_From Claudeown repo_", ""]
 
     if top_signals:

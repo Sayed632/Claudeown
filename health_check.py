@@ -19,7 +19,9 @@ how bots silently break in worse ways. What it DOES do:
 import os
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 import pandas as pd
@@ -141,7 +143,7 @@ def check_nse_access() -> tuple:
 
 
 def run_health_check():
-    today_str = datetime.now().strftime("%d-%b-%Y %H:%M")
+    today_str = datetime.now(IST).strftime("%d-%b-%Y %H:%M")
     print(f"Running self-check at {today_str}")
 
     results = []

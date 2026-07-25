@@ -18,7 +18,9 @@ send me the raw output and I'll fix the parsing in one pass.
 import os
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 
@@ -146,7 +148,7 @@ def run_scan():
     session = get_nse_session()
     raw_data = fetch_gainers_raw(session)
 
-    now_str = datetime.now().strftime("%d-%b-%Y %H:%M")
+    now_str = datetime.now(IST).strftime("%d-%b-%Y %H:%M")
     lines = [f"[TopGainers] 📈 *Live Top Gainers* — {now_str}", "_From Claudeown repo_", ""]
 
     if raw_data is None:

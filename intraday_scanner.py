@@ -29,7 +29,7 @@ import os
 import sys
 import json
 import time
-from datetime import datetime, date
+from datetime import datetime, date, timezone, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
@@ -105,7 +105,7 @@ def send_telegram(message: str) -> bool:
 
 def load_state() -> dict:
     """Load today's already-alerted tickers. Resets automatically on a new day."""
-    today_str = date.today().isoformat()
+    today_str = datetime.now(IST).date().isoformat()
     if os.path.exists(STATE_FILE):
         try:
             with open(STATE_FILE) as f:

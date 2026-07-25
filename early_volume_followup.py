@@ -19,7 +19,9 @@ from earlier in the 9:15-10:15 window will have had time to develop.
 import os
 import glob
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 import yfinance as yf
@@ -87,7 +89,7 @@ def run_followup():
         print("Nothing pending - exiting.")
         return
 
-    now = datetime.now()
+    now = datetime.now(IST)
     results_by_sector = {}
     any_processed = False
 
@@ -96,6 +98,11 @@ def run_followup():
             record = json.load(f)
 
         alert_time = datetime.fromisoformat(record["alert_time"])
+        if alert_time.tzinfo is None:
+            # Backward-compat: files written before this timezone fix stored
+            # naive UTC time (GitHub Actions runner default). Treat as UTC
+            # and convert to IST for a correct comparison against `now`.
+            alert_time = alert_time.replace(tzinfo=timezone.utc).astimezone(IST)
         elapsed_minutes = (now - alert_time).total_seconds() / 60
 
         if elapsed_minutes < MIN_FOLLOWUP_MINUTES:
@@ -139,7 +146,7 @@ def run_followup():
 
 
 def send_followup_summary(results_by_sector: dict):
-    now_str = datetime.now().strftime("%d-%b-%Y %H:%M")
+    now_str = datetime.now(IST).strftime("%d-%b-%Y %H:%M")
     lines = [f"[EarlyVolume-Followup] 🔍 *Follow-Up Check* — {now_str}", "_From Claudeown repo_", ""]
 
     outcome_emoji = {"HELD": "✅", "REVERSED": "🔄", "FLAT": "➖"}

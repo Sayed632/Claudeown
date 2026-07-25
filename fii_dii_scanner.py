@@ -32,7 +32,9 @@ IMPORTANT HONESTY NOTES:
 import os
 import sys
 import time
-from datetime import date, datetime
+from datetime import date, datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 import yfinance as yf
@@ -355,7 +357,7 @@ def format_bulk_deals_section(deals: list) -> str:
 
 
 def run_scan():
-    today = date.today()
+    today = datetime.now(IST).date()
     print(f"Fetching FII/DII + bulk deals for {today}")
 
     session = get_nse_session()

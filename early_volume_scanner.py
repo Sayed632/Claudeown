@@ -28,7 +28,9 @@ endpoint instead of yfinance.
 import os
 import sys
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 import yfinance as yf
@@ -156,7 +158,7 @@ def check_stock(ticker: str):
 
 def run_scan():
     universe = load_universe()
-    now_str = datetime.now().strftime("%d-%b-%Y %H:%M")
+    now_str = datetime.now(IST).strftime("%d-%b-%Y %H:%M")
     sector = os.environ.get("SECTOR")
     label = f"{sector}" if sector else "Combined"
 
@@ -199,7 +201,7 @@ def run_scan():
     # parallel matrix jobs never write-conflict with each other.
     if top:
         os.makedirs("alerts/pending", exist_ok=True)
-        alert_time = datetime.now()
+        alert_time = datetime.now(IST)
         filename = f"alerts/pending/{label.replace(' ', '_')}_{alert_time.strftime('%Y%m%d_%H%M%S')}.json"
         pending_record = {
             "sector": label,

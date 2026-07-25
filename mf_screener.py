@@ -36,7 +36,9 @@ import os
 import re
 import json
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 
@@ -254,7 +256,7 @@ def run_screener():
         print(f"  {category}: {len(evaluated)} funds had full 5-year history, top {len(top)} selected")
 
     output = {
-        "generated_at": datetime.now().isoformat(),
+        "generated_at": datetime.now(IST).isoformat(),
         "methodology": "Blend Score = 0.20x(1Y CAGR) + 0.40x(3Y CAGR) + 0.40x(5Y CAGR). Direct-Growth plans only. Own calculation, not a Value Research/Morningstar/CRISIL rating.",
         "categories": results,
     }
@@ -266,7 +268,7 @@ def run_screener():
 
 
 def send_telegram_summary(results: dict):
-    now_str = datetime.now().strftime("%d-%b-%Y")
+    now_str = datetime.now(IST).strftime("%d-%b-%Y")
     lines = [f"[MFScreener] 📈 *Top Mutual Funds* — {now_str}", "_From Claudeown repo_", ""]
     lines.append(
         "_Methodology: 20% x 1Y-CAGR + 40% x 3Y-CAGR + 40% x 5Y-CAGR, "

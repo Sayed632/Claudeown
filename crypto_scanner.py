@@ -26,7 +26,9 @@ HONESTY NOTES:
 """
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 
@@ -117,7 +119,7 @@ def find_volume_spikes(coins: list, history: dict) -> list:
 
 
 def run_scanner():
-    now_str = datetime.now().strftime("%d-%b-%Y %H:%M")
+    now_str = datetime.now(IST).strftime("%d-%b-%Y %H:%M")
 
     try:
         coins = fetch_top_100()

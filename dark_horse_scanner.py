@@ -22,7 +22,9 @@ import os
 import sys
 import time
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 import pandas as pd
@@ -183,7 +185,7 @@ def run_scan():
     candidates.sort(key=lambda x: x["score"], reverse=True)
     top = candidates[:MAX_SIGNALS_TO_SEND]
 
-    today = datetime.now().strftime("%d-%b-%Y")
+    today = datetime.now(IST).strftime("%d-%b-%Y")
     lines = [f"[DarkHorse] 🐴 *Dark Horse Screen* — {today}", "_From Claudeown repo_", ""]
 
     if top:

@@ -21,7 +21,9 @@ and this script will apply it everywhere automatically going forward.
 import os
 import sys
 import json
-from datetime import date
+from datetime import date, datetime, timezone, timedelta
+
+IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 import yfinance as yf
@@ -104,7 +106,7 @@ def test_ticker(ticker: str) -> bool:
 
 
 def run_maintenance():
-    today_str = date.today().isoformat()
+    today_str = datetime.now(IST).date().isoformat()
     print(f"Running ticker maintenance for {today_str}")
 
     universe = load_universe()
