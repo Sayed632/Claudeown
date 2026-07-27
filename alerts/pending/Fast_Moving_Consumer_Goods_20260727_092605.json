@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-27T09:26:05.962964+05:30",
+  "stocks": [
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 2177.60009765625,
+      "alert_pct_move": 1.7047311351746066,
+      "alert_relative_volume": 15.927853733701681
+    },
+    {
+      "ticker": "UBL.NS",
+      "alert_price": 1450.199951171875,
+      "alert_pct_move": 2.306874862213404,
+      "alert_relative_volume": 7.3672875048501725
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "alert_price": 1105.0999755859375,
+      "alert_pct_move": -1.5851855411093427,
+      "alert_relative_volume": 4.466157308981551
+    },
+    {
+      "ticker": "BBTC.NS",
+      "alert_price": 1494.9000244140625,
+      "alert_pct_move": 2.0409572978882253,
+      "alert_relative_volume": 3.069632634485965
+    }
+  ]
+}
