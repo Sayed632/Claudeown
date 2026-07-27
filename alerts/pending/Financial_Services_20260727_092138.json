@@ -1,0 +1,72 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-27T09:21:38.280947+05:30",
+  "stocks": [
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 88.4800033569336,
+      "alert_pct_move": 2.2890212218885475,
+      "alert_relative_volume": 78.15582281675101
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 92.38999938964844,
+      "alert_pct_move": -1.6185754586166903,
+      "alert_relative_volume": 15.395790009398512
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 141.99000549316406,
+      "alert_pct_move": -1.8863983585625614,
+      "alert_relative_volume": 9.73228405761144
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 249.5,
+      "alert_pct_move": -2.9182879377431905,
+      "alert_relative_volume": 8.638287777561201
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 1011.2000122070312,
+      "alert_pct_move": -1.240356666101162,
+      "alert_relative_volume": 7.19386700599187
+    },
+    {
+      "ticker": "SBICARD.NS",
+      "alert_price": 638.0999755859375,
+      "alert_pct_move": 1.1171837301867866,
+      "alert_relative_volume": 5.540582407171654
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 245.10000610351562,
+      "alert_pct_move": 1.2182582206846297,
+      "alert_relative_volume": 5.239130005666022
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 364.25,
+      "alert_pct_move": 1.4482697072335289,
+      "alert_relative_volume": 4.958321654955074
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 126.3499984741211,
+      "alert_pct_move": 1.4370592089047824,
+      "alert_relative_volume": 4.910176857108103
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 879.9500122070312,
+      "alert_pct_move": 1.3475395573891447,
+      "alert_relative_volume": 3.590248151348837
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 240.82000732421875,
+      "alert_pct_move": -1.2385125734200952,
+      "alert_relative_volume": 3.4272792966982006
+    }
+  ]
+}
