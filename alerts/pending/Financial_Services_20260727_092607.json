@@ -1,0 +1,72 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-27T09:26:07.706843+05:30",
+  "stocks": [
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 87.45999908447266,
+      "alert_pct_move": 1.1098255311822616,
+      "alert_relative_volume": 69.52654530337949
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 1556.800048828125,
+      "alert_pct_move": -2.370495882136388,
+      "alert_relative_volume": 50.1481047851713
+    },
+    {
+      "ticker": "AUBANK.NS",
+      "alert_price": 1044.800048828125,
+      "alert_pct_move": 1.6738102034675524,
+      "alert_relative_volume": 19.283690219888527
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 92.48999786376953,
+      "alert_pct_move": -1.5120921552181612,
+      "alert_relative_volume": 12.029587193781085
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 141.5,
+      "alert_pct_move": -2.2249870049354885,
+      "alert_relative_volume": 9.01989164229621
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 249.39999389648438,
+      "alert_pct_move": -2.95720081848857,
+      "alert_relative_volume": 6.456821230656722
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 887.5,
+      "alert_pct_move": 2.2171033688453785,
+      "alert_relative_volume": 6.085732888381538
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 26.540000915527344,
+      "alert_pct_move": 1.104765392485119,
+      "alert_relative_volume": 5.8813028218394034
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 364.6499938964844,
+      "alert_pct_move": 1.5596731078973425,
+      "alert_relative_volume": 4.961230930746435
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 126.16999816894531,
+      "alert_pct_move": 1.2925502905491058,
+      "alert_relative_volume": 3.7519384256627446
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 170.3000030517578,
+      "alert_pct_move": 1.2364771227921607,
+      "alert_relative_volume": 3.6610785975721307
+    }
+  ]
+}
