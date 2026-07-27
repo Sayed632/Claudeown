@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-27T09:25:42.538022+05:30",
+  "stocks": [
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1391.0,
+      "alert_pct_move": -3.396070809427297,
+      "alert_relative_volume": 3.4890872267501534
+    }
+  ]
+}
