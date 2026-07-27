@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-27T09:20:51.703465+05:30",
+  "stocks": [
+    {
+      "ticker": "UBL.NS",
+      "alert_price": 1439.300048828125,
+      "alert_pct_move": 1.5379223159171076,
+      "alert_relative_volume": 5.121639231511906
+    }
+  ]
+}
