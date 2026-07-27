@@ -1,0 +1,48 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-27T09:26:03.644757+05:30",
+  "stocks": [
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1676.0,
+      "alert_pct_move": 3.3547129522128896,
+      "alert_relative_volume": 21.630295941359392
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 13359.0,
+      "alert_pct_move": -5.463166088741065,
+      "alert_relative_volume": 7.319070715527205
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1262.699951171875,
+      "alert_pct_move": -2.8542926806087396,
+      "alert_relative_volume": 4.729582054611591
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1068.0,
+      "alert_pct_move": 1.7530511472993047,
+      "alert_relative_volume": 4.40048039873463
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 295.0,
+      "alert_pct_move": -1.58465387823186,
+      "alert_relative_volume": 4.20635379885476
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 17770.0,
+      "alert_pct_move": -1.233881725211205,
+      "alert_relative_volume": 3.6361646404678054
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1321.4000244140625,
+      "alert_pct_move": -2.1547556894437245,
+      "alert_relative_volume": 3.0259687272932108
+    }
+  ]
+}
