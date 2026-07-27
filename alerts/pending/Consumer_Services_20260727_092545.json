@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-27T09:25:45.707886+05:30",
+  "stocks": [
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 187.50999450683594,
+      "alert_pct_move": 2.229853003336851,
+      "alert_relative_volume": 27.907293826856733
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 115.12999725341797,
+      "alert_pct_move": 1.884953321608822,
+      "alert_relative_volume": 4.595809077352593
+    },
+    {
+      "ticker": "MANYAVAR.NS",
+      "alert_price": 406.1000061035156,
+      "alert_pct_move": -1.908211086107337,
+      "alert_relative_volume": 4.531579655314187
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 57.630001068115234,
+      "alert_pct_move": 1.4255568068311681,
+      "alert_relative_volume": 3.266593520415523
+    }
+  ]
+}
