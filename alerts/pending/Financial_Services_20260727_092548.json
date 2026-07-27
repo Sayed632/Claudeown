@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-27T09:25:48.803901+05:30",
+  "stocks": [
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 87.58999633789062,
+      "alert_pct_move": 1.2601113732839595,
+      "alert_relative_volume": 69.52654530337949
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 1557.800048828125,
+      "alert_pct_move": -2.3077842293513346,
+      "alert_relative_volume": 50.1481047851713
+    },
+    {
+      "ticker": "AUBANK.NS",
+      "alert_price": 1044.199951171875,
+      "alert_pct_move": 1.6154122207400983,
+      "alert_relative_volume": 19.283690219888527
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 92.4800033569336,
+      "alert_pct_move": -1.5227347986493105,
+      "alert_relative_volume": 12.029587193781085
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 141.5500030517578,
+      "alert_pct_move": -2.1904354216463506,
+      "alert_relative_volume": 9.01989164229621
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 249.5500030517578,
+      "alert_pct_move": -2.898831497370501,
+      "alert_relative_volume": 6.456821230656722
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 26.549999237060547,
+      "alert_pct_move": 1.142854236421131,
+      "alert_relative_volume": 6.09939624084104
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 886.5,
+      "alert_pct_move": 2.101929167866398,
+      "alert_relative_volume": 6.085732888381538
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 364.70001220703125,
+      "alert_pct_move": 1.5736038451894758,
+      "alert_relative_volume": 4.961230930746435
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 866.1500244140625,
+      "alert_pct_move": -1.0340479509531757,
+      "alert_relative_volume": 3.908990723780897
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 126.23999786376953,
+      "alert_pct_move": 1.3487478629609795,
+      "alert_relative_volume": 3.7519384256627446
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 170.1999969482422,
+      "alert_pct_move": 1.1770275313108136,
+      "alert_relative_volume": 3.6610785975721307
+    }
+  ]
+}
