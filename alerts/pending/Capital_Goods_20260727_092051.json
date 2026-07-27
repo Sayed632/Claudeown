@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-27T09:20:51.015165+05:30",
+  "stocks": [
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1656.5,
+      "alert_pct_move": 2.152196900561248,
+      "alert_relative_volume": 19.00582847085724
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 13625.0,
+      "alert_pct_move": -3.5807798457292477,
+      "alert_relative_volume": 5.672969882277287
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1261.0999755859375,
+      "alert_pct_move": -2.977386658592508,
+      "alert_relative_volume": 5.592290317799322
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 295.6000061035156,
+      "alert_pct_move": -1.3844850363584236,
+      "alert_relative_volume": 5.192614793739137
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2478.300048828125,
+      "alert_pct_move": -1.1053452183509578,
+      "alert_relative_volume": 4.221087417427701
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1322.699951171875,
+      "alert_pct_move": -2.058500468576453,
+      "alert_relative_volume": 3.919975980029524
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 1626.699951171875,
+      "alert_pct_move": -1.1545239450527067,
+      "alert_relative_volume": 3.8797395566034076
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1063.699951171875,
+      "alert_pct_move": 1.3433666076512827,
+      "alert_relative_volume": 3.5368993982534804
+    }
+  ]
+}
