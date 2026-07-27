@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-27T09:25:38.265720+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 61.9900016784668,
+      "alert_pct_move": 3.2478359980090383,
+      "alert_relative_volume": 10.914107040819122
+    },
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 567.2999877929688,
+      "alert_pct_move": 1.294527302566441,
+      "alert_relative_volume": 6.5822167253855834
+    }
+  ]
+}
