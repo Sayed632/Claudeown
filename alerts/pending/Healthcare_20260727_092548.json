@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-27T09:25:48.528369+05:30",
+  "stocks": [
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1880.0,
+      "alert_pct_move": 4.183984483236354,
+      "alert_relative_volume": 38.831370909086246
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 1661.5,
+      "alert_pct_move": 2.057739557739558,
+      "alert_relative_volume": 11.577948804069441
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2599.0,
+      "alert_pct_move": 5.01010101010101,
+      "alert_relative_volume": 9.37485717658612
+    },
+    {
+      "ticker": "ONESOURCE.NS",
+      "alert_price": 1644.9000244140625,
+      "alert_pct_move": -4.031503826484101,
+      "alert_relative_volume": 4.1209363850892835
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2410.0,
+      "alert_pct_move": 1.52926020873885,
+      "alert_relative_volume": 3.138200081133831
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1256.0,
+      "alert_pct_move": 1.3475309056645628,
+      "alert_relative_volume": 3.044835665227087
+    }
+  ]
+}
