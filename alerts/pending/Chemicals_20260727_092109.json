@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-27T09:21:09.498838+05:30",
+  "stocks": [
+    {
+      "ticker": "ATUL.NS",
+      "alert_price": 6753.5,
+      "alert_pct_move": 2.832127902550438,
+      "alert_relative_volume": 34.72227705406018
+    }
+  ]
+}
