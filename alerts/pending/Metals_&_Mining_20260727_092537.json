@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-07-27T09:25:37.060134+05:30",
+  "stocks": [
+    {
+      "ticker": "JINDALSTEL.NS",
+      "alert_price": 1041.699951171875,
+      "alert_pct_move": -1.344831225860362,
+      "alert_relative_volume": 5.566195605584035
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 512.0999755859375,
+      "alert_pct_move": 1.135572116739815,
+      "alert_relative_volume": 4.601010423420599
+    }
+  ]
+}
