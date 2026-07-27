@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-27T09:20:43.775087+05:30",
+  "stocks": [
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1098.199951171875,
+      "alert_pct_move": 1.3099585951914205,
+      "alert_relative_volume": 4.43108037696859
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1196.800048828125,
+      "alert_pct_move": -2.142269106449305,
+      "alert_relative_volume": 4.243061149464892
+    }
+  ]
+}
