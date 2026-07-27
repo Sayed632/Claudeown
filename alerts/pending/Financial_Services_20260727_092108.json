@@ -1,0 +1,66 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-27T09:21:08.299468+05:30",
+  "stocks": [
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 88.44999694824219,
+      "alert_pct_move": 2.254331732071893,
+      "alert_relative_volume": 83.08037415017915
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 92.30999755859375,
+      "alert_pct_move": -1.70376535099763,
+      "alert_relative_volume": 15.395790009398512
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 142.25999450683594,
+      "alert_pct_move": -1.6998387873944185,
+      "alert_relative_volume": 9.625657576670548
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 248.89999389648438,
+      "alert_pct_move": -3.1517533476714497,
+      "alert_relative_volume": 8.598349534176961
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 1012.7999877929688,
+      "alert_pct_move": -1.0840937939664432,
+      "alert_relative_volume": 7.19386700599187
+    },
+    {
+      "ticker": "SBICARD.NS",
+      "alert_price": 638.25,
+      "alert_pct_move": 1.140957506744044,
+      "alert_relative_volume": 6.464012808366931
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 363.6000061035156,
+      "alert_pct_move": 1.2672381187130004,
+      "alert_relative_volume": 5.784708597447587
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 126.43000030517578,
+      "alert_pct_move": 1.5012867559686416,
+      "alert_relative_volume": 5.2403070264809175
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 245.8000030517578,
+      "alert_pct_move": 1.507333986072188,
+      "alert_relative_volume": 4.78348949539016
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 240.89999389648438,
+      "alert_pct_move": -1.2057096807581436,
+      "alert_relative_volume": 3.805091000528325
+    }
+  ]
+}
