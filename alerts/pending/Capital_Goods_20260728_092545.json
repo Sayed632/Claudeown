@@ -1,0 +1,60 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-28T09:25:45.268369+05:30",
+  "stocks": [
+    {
+      "ticker": "USHAMART.NS",
+      "alert_price": 512.7999877929688,
+      "alert_pct_move": -1.3656542195964754,
+      "alert_relative_volume": 117.83249955873877
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2686.39990234375,
+      "alert_pct_move": -1.0388342406989404,
+      "alert_relative_volume": 35.31044349493189
+    },
+    {
+      "ticker": "BEL.NS",
+      "alert_price": 394.04998779296875,
+      "alert_pct_move": -2.9672539102290245,
+      "alert_relative_volume": 16.65205076067647
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 308.3500061035156,
+      "alert_pct_move": -2.2662421224990092,
+      "alert_relative_volume": 11.313683256363822
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1641.5,
+      "alert_pct_move": -2.52375296912114,
+      "alert_relative_volume": 6.614888583724273
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 51.97999954223633,
+      "alert_pct_move": -2.201320696242879,
+      "alert_relative_volume": 6.073034213993308
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 852.4500122070312,
+      "alert_pct_move": -1.870611231915955,
+      "alert_relative_volume": 4.131438265568358
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1077.0,
+      "alert_pct_move": 1.7477562588568731,
+      "alert_relative_volume": 3.081549723438893
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4105.0,
+      "alert_pct_move": -1.5280589231177566,
+      "alert_relative_volume": 3.0758283930739787
+    }
+  ]
+}
