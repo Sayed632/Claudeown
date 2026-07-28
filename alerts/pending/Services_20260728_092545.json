@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-28T09:25:45.889176+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 5230.0,
+      "alert_pct_move": 2.078657167951596,
+      "alert_relative_volume": 28.79317613295582
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 269.0,
+      "alert_pct_move": 1.509433962264151,
+      "alert_relative_volume": 8.89197933342901
+    },
+    {
+      "ticker": "CONCOR.NS",
+      "alert_price": 518.9500122070312,
+      "alert_pct_move": 1.0613460967928432,
+      "alert_relative_volume": 6.327244089232113
+    }
+  ]
+}
