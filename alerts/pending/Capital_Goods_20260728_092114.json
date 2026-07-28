@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-28T09:21:14.523917+05:30",
+  "stocks": [
+    {
+      "ticker": "BEL.NS",
+      "alert_price": 397.0,
+      "alert_pct_move": -2.2408288516981743,
+      "alert_relative_volume": 17.00108989447582
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 307.29998779296875,
+      "alert_pct_move": -2.599052997474247,
+      "alert_relative_volume": 13.69497213347837
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1645.699951171875,
+      "alert_pct_move": -2.274349692881532,
+      "alert_relative_volume": 6.705395359164299
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 52.380001068115234,
+      "alert_pct_move": -1.4487308290833372,
+      "alert_relative_volume": 4.433798679087529
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 859.3499755859375,
+      "alert_pct_move": -1.0763251398303677,
+      "alert_relative_volume": 3.56807272956829
+    }
+  ]
+}
