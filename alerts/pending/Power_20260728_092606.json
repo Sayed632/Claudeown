@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-28T09:26:06.833776+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAPOWER.NS",
+      "alert_price": 373.8500061035156,
+      "alert_pct_move": -1.9409820056352458,
+      "alert_relative_volume": 12.376467965942611
+    }
+  ]
+}
