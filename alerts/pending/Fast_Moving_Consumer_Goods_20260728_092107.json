@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-28T09:21:07.921805+05:30",
+  "stocks": [
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 2094.800048828125,
+      "alert_pct_move": -1.1886769420695755,
+      "alert_relative_volume": 45.437067661866784
+    }
+  ]
+}
