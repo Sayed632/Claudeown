@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-28T09:25:48.315371+05:30",
+  "stocks": [
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2669.89990234375,
+      "alert_pct_move": 1.343704776760296,
+      "alert_relative_volume": 5.818454854704675
+    }
+  ]
+}
