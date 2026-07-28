@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-07-28T09:20:45.038667+05:30",
+  "stocks": [
+    {
+      "ticker": "LODHA.NS",
+      "alert_price": 1248.5999755859375,
+      "alert_pct_move": 1.4709447855292566,
+      "alert_relative_volume": 9.058206378879486
+    }
+  ]
+}
