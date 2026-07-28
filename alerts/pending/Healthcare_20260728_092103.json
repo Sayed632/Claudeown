@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-28T09:21:03.530134+05:30",
+  "stocks": [
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 18794.0,
+      "alert_pct_move": -1.1986121333193145,
+      "alert_relative_volume": 3.5782086728202223
+    }
+  ]
+}
