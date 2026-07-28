@@ -1,0 +1,32 @@
+name: Penny/Small-Cap Speculative Mover Scan
+
+# Dispatch-only from the start (native GitHub schedule proved unreliable
+# for every other frequent workflow in this repo). Trigger externally
+# via cron-job.org, once daily after market close - this scans the FULL
+# ~2,200-stock NSE universe in Stage 1, so it's intentionally NOT a
+# high-frequency intraday scan like Early Volume; a 5-day surge + red
+# flags pattern doesn't need to be checked every few minutes.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  penny_scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run penny/small-cap scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python penny_stock_scanner.py
