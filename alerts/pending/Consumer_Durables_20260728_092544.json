@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-28T09:25:44.614379+05:30",
+  "stocks": [
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 6189.5,
+      "alert_pct_move": -1.3782664117272148,
+      "alert_relative_volume": 3.9248542989639037
+    }
+  ]
+}
