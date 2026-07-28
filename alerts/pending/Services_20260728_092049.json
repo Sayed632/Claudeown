@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-28T09:20:49.748933+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 5210.0,
+      "alert_pct_move": 1.6882990143456622,
+      "alert_relative_volume": 11.456062844687603
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 269.4700012207031,
+      "alert_pct_move": 1.6867929134728774,
+      "alert_relative_volume": 4.746567670854984
+    }
+  ]
+}
