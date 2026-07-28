@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-28T09:25:48.841536+05:30",
+  "stocks": [
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2796.0,
+      "alert_pct_move": -1.646265935847904,
+      "alert_relative_volume": 3.4840496146405218
+    }
+  ]
+}
