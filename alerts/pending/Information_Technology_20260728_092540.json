@@ -1,0 +1,78 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-28T09:25:40.722906+05:30",
+  "stocks": [
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1628.0999755859375,
+      "alert_pct_move": 3.3779891007156406,
+      "alert_relative_volume": 22.274444082576167
+    },
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 320.5,
+      "alert_pct_move": 1.6653449643140366,
+      "alert_relative_volume": 7.222540397748417
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2431.0,
+      "alert_pct_move": 1.6219400392980483,
+      "alert_relative_volume": 7.088137221339131
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 43.720001220703125,
+      "alert_pct_move": 1.5563344843588105,
+      "alert_relative_volume": 5.673623025604608
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2360.699951171875,
+      "alert_pct_move": 1.5922881945812484,
+      "alert_relative_volume": 5.536340519675468
+    },
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 583.4500122070312,
+      "alert_pct_move": 3.448583724650931,
+      "alert_relative_volume": 5.486808828586698
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 740.6500244140625,
+      "alert_pct_move": 2.590208725097813,
+      "alert_relative_volume": 5.413057275785152
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1621.0999755859375,
+      "alert_pct_move": 1.2744439955238087,
+      "alert_relative_volume": 5.220354600851384
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1539.199951171875,
+      "alert_pct_move": 2.613330078125,
+      "alert_relative_volume": 4.551776012743207
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 729.3499755859375,
+      "alert_pct_move": 1.3197194307421167,
+      "alert_relative_volume": 4.189914466693609
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 532.1500244140625,
+      "alert_pct_move": 3.894965195543075,
+      "alert_relative_volume": 3.5581930904938823
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1318.5,
+      "alert_pct_move": 1.345119139123751,
+      "alert_relative_volume": 3.425089653670029
+    }
+  ]
+}
