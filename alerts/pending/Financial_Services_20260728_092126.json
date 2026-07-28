@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-28T09:21:26.908255+05:30",
+  "stocks": [
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 240.47999572753906,
+      "alert_pct_move": -4.850838608514868,
+      "alert_relative_volume": 36.536559578863184
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 954.2000122070312,
+      "alert_pct_move": 1.2951180686869692,
+      "alert_relative_volume": 5.415989483718849
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 129.27000427246094,
+      "alert_pct_move": 2.1090093448031375,
+      "alert_relative_volume": 5.210700612825353
+    },
+    {
+      "ticker": "HUDCO.NS",
+      "alert_price": 199.36000061035156,
+      "alert_pct_move": -1.0030808538496276,
+      "alert_relative_volume": 4.100870770062632
+    },
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 164.0,
+      "alert_pct_move": -1.3237045659677769,
+      "alert_relative_volume": 3.665672388803779
+    },
+    {
+      "ticker": "SBICARD.NS",
+      "alert_price": 654.5,
+      "alert_pct_move": 1.4728682170542635,
+      "alert_relative_volume": 3.111160394438423
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 394.70001220703125,
+      "alert_pct_move": -1.102479035127636,
+      "alert_relative_volume": 3.0709670707658945
+    }
+  ]
+}
