@@ -1,0 +1,48 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-28T09:20:49.317109+05:30",
+  "stocks": [
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1623.0,
+      "alert_pct_move": 3.054160571483448,
+      "alert_relative_volume": 23.442160002088283
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 389.6499938964844,
+      "alert_pct_move": -1.5289406428882013,
+      "alert_relative_volume": 9.661039220360644
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2367.0,
+      "alert_pct_move": 1.8634096371301367,
+      "alert_relative_volume": 5.333908654843079
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1522.800048828125,
+      "alert_pct_move": 1.5200032552083333,
+      "alert_relative_volume": 3.9949593133511203
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 741.0,
+      "alert_pct_move": 2.6386851542161684,
+      "alert_relative_volume": 3.7636693327979978
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 731.5999755859375,
+      "alert_pct_move": 1.6322845590757757,
+      "alert_relative_volume": 3.4114992501201975
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1317.0,
+      "alert_pct_move": 1.2298232129131437,
+      "alert_relative_volume": 3.334994879847623
+    }
+  ]
+}
