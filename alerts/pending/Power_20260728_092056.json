@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-28T09:20:56.995051+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAPOWER.NS",
+      "alert_price": 376.20001220703125,
+      "alert_pct_move": -1.324586962090164,
+      "alert_relative_volume": 15.3998226925375
+    },
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1688.4000244140625,
+      "alert_pct_move": 1.5762287337161858,
+      "alert_relative_volume": 3.0877016121151377
+    }
+  ]
+}
