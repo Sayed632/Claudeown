@@ -1,0 +1,42 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-28T09:26:41.341044+05:30",
+  "stocks": [
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 239.47000122070312,
+      "alert_pct_move": -5.250456589398094,
+      "alert_relative_volume": 28.607735206005803
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "alert_price": 1187.199951171875,
+      "alert_pct_move": -1.4690076258231437,
+      "alert_relative_volume": 13.135885149645594
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 130.3699951171875,
+      "alert_pct_move": 2.9778804806518613,
+      "alert_relative_volume": 7.988777529810686
+    },
+    {
+      "ticker": "HUDCO.NS",
+      "alert_price": 197.47000122070312,
+      "alert_pct_move": -1.9416047111453258,
+      "alert_relative_volume": 4.6459733221060695
+    },
+    {
+      "ticker": "SBICARD.NS",
+      "alert_price": 659.3499755859375,
+      "alert_pct_move": 2.2248024164244184,
+      "alert_relative_volume": 3.845171361890848
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 392.70001220703125,
+      "alert_pct_move": -1.6036065644219488,
+      "alert_relative_volume": 3.1236904638379865
+    }
+  ]
+}
