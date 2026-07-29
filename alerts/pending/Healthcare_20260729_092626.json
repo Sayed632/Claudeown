@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-29T09:26:26.551427+05:30",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 198.0,
+      "alert_pct_move": 2.404961856579856,
+      "alert_relative_volume": 8.033626292134642
+    }
+  ]
+}
