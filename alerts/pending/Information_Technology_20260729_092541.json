@@ -1,0 +1,42 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-29T09:25:41.854084+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4445.89990234375,
+      "alert_pct_move": -1.377553186695874,
+      "alert_relative_volume": 11.847137884551161
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 299.1499938964844,
+      "alert_pct_move": -1.773105931022154,
+      "alert_relative_volume": 10.364301821123867
+    },
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 597.25,
+      "alert_pct_move": -1.4194893013934977,
+      "alert_relative_volume": 8.53561533886277
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1609.5,
+      "alert_pct_move": -1.979293544457978,
+      "alert_relative_volume": 8.04540962804643
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1135.5,
+      "alert_pct_move": -1.1233040874101654,
+      "alert_relative_volume": 6.27777953458243
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 11622.0,
+      "alert_pct_move": 1.5820295428721265,
+      "alert_relative_volume": 3.481368829527369
+    }
+  ]
+}
