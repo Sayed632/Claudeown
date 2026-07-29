@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-29T09:26:06.253560+05:30",
+  "stocks": [
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 4066.60009765625,
+      "alert_pct_move": 1.3331339537542393,
+      "alert_relative_volume": 6.452552636372555
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 38.619998931884766,
+      "alert_pct_move": 3.427956009818504,
+      "alert_relative_volume": 5.284540125489343
+    },
+    {
+      "ticker": "UNOMINDA.NS",
+      "alert_price": 1179.0999755859375,
+      "alert_pct_move": 1.3146525275728063,
+      "alert_relative_volume": 3.935318957665148
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1233.699951171875,
+      "alert_pct_move": 1.9586736505681819,
+      "alert_relative_volume": 3.2175813206731645
+    },
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 3318.0,
+      "alert_pct_move": 1.0968921389396709,
+      "alert_relative_volume": 3.026403537111924
+    }
+  ]
+}
