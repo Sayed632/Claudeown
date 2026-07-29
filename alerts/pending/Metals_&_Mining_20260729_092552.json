@@ -1,0 +1,36 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-07-29T09:25:52.405632+05:30",
+  "stocks": [
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 526.9000244140625,
+      "alert_pct_move": 2.589573493057845,
+      "alert_relative_volume": 20.209517352634883
+    },
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 171.16000366210938,
+      "alert_pct_move": 3.1146442543844772,
+      "alert_relative_volume": 15.218436831417891
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 568.5,
+      "alert_pct_move": 2.3770957135249535,
+      "alert_relative_volume": 10.336968512666534
+    },
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 42.65999984741211,
+      "alert_pct_move": 1.0900452041617805,
+      "alert_relative_volume": 5.2122922718477405
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1630.0,
+      "alert_pct_move": -1.2599980744421835,
+      "alert_relative_volume": 3.932378259402775
+    }
+  ]
+}
