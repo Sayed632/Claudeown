@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-07-29T09:20:46.223223+05:30",
+  "stocks": [
+    {
+      "ticker": "NLCINDIA.NS",
+      "alert_price": 303.6499938964844,
+      "alert_pct_move": 1.0482508806936357,
+      "alert_relative_volume": 4.2454466879131205
+    }
+  ]
+}
