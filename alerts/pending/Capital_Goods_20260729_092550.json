@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-29T09:25:50.318826+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 257.45001220703125,
+      "alert_pct_move": 4.230774172887146,
+      "alert_relative_volume": 10.22381879595833
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 18112.0,
+      "alert_pct_move": 1.0432357043235705,
+      "alert_relative_volume": 7.3526803226097455
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 711.7999877929688,
+      "alert_pct_move": 1.5261749507392035,
+      "alert_relative_volume": 6.247990791069068
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 309.25,
+      "alert_pct_move": 2.0964035098943348,
+      "alert_relative_volume": 6.196909676952932
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 1672.5999755859375,
+      "alert_pct_move": 1.9008133732063626,
+      "alert_relative_volume": 3.8689040239632306
+    }
+  ]
+}
