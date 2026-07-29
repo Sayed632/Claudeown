@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-29T09:21:48.540596+05:30",
+  "stocks": [
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 7515.0,
+      "alert_pct_move": 1.1576255216045228,
+      "alert_relative_volume": 3.711086398799429
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 196.60000610351562,
+      "alert_pct_move": 1.680889525423659,
+      "alert_relative_volume": 3.5291823158135593
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1827.300048828125,
+      "alert_pct_move": 1.235459768871191,
+      "alert_relative_volume": 3.212455294380919
+    }
+  ]
+}
