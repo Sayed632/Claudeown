@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-29T09:21:44.242171+05:30",
+  "stocks": [
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 38.470001220703125,
+      "alert_pct_move": 3.026248161482448,
+      "alert_relative_volume": 5.901857908196977
+    }
+  ]
+}
