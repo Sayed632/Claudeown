@@ -1,0 +1,24 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-29T09:21:08.500634+05:30",
+  "stocks": [
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 309.3500061035156,
+      "alert_pct_move": 2.129419721690563,
+      "alert_relative_volume": 7.42118369384051
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 712.4000244140625,
+      "alert_pct_move": 1.6117599802626,
+      "alert_relative_volume": 5.470222935537594
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 13868.0,
+      "alert_pct_move": 2.57396449704142,
+      "alert_relative_volume": 5.103188699255868
+    }
+  ]
+}
