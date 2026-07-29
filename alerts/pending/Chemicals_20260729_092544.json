@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-29T09:25:44.195809+05:30",
+  "stocks": [
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 446.45001220703125,
+      "alert_pct_move": 1.3622431226496894,
+      "alert_relative_volume": 8.146320560692345
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 827.5,
+      "alert_pct_move": 1.4093137254901962,
+      "alert_relative_volume": 4.981709621556037
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6828.5,
+      "alert_pct_move": 2.108411214953271,
+      "alert_relative_volume": 4.1235699082080615
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 328.04998779296875,
+      "alert_pct_move": 2.212174892007048,
+      "alert_relative_volume": 3.63533752663125
+    }
+  ]
+}
