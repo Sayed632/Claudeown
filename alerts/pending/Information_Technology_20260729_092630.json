@@ -1,0 +1,36 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-29T09:26:30.464189+05:30",
+  "stocks": [
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 298.54998779296875,
+      "alert_pct_move": -1.9701199279242014,
+      "alert_relative_volume": 9.705863849223503
+    },
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 596.2000122070312,
+      "alert_pct_move": -1.5927975188203072,
+      "alert_relative_volume": 8.292950467477805
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1612.800048828125,
+      "alert_pct_move": -1.7783161493224726,
+      "alert_relative_volume": 7.485252848746243
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1135.800048828125,
+      "alert_pct_move": -1.0971765341407294,
+      "alert_relative_volume": 6.225536184230587
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 11660.0,
+      "alert_pct_move": 1.9141683419281532,
+      "alert_relative_volume": 3.415998583874031
+    }
+  ]
+}
