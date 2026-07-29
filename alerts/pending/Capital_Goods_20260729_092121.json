@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-29T09:21:21.479902+05:30",
+  "stocks": [
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 48.470001220703125,
+      "alert_pct_move": 1.000207387889517,
+      "alert_relative_volume": 12.919365079268731
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 309.1000061035156,
+      "alert_pct_move": 2.046884229766639,
+      "alert_relative_volume": 7.300579338705059
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 710.75,
+      "alert_pct_move": 1.3764120311083432,
+      "alert_relative_volume": 6.68447487442454
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 13827.0,
+      "alert_pct_move": 2.2707100591715976,
+      "alert_relative_volume": 5.541416675219577
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 832.5,
+      "alert_pct_move": -1.022467701291571,
+      "alert_relative_volume": 3.319874470717502
+    }
+  ]
+}
