@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-29T09:25:51.545737+05:30",
+  "stocks": [
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 233.1300048828125,
+      "alert_pct_move": -1.1574644791293394,
+      "alert_relative_volume": 8.105038105443935
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 309.54998779296875,
+      "alert_pct_move": -1.0073630607909743,
+      "alert_relative_volume": 5.244716707312315
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 221.94000244140625,
+      "alert_pct_move": -4.307330034861067,
+      "alert_relative_volume": 4.2930329398308205
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 666.5,
+      "alert_pct_move": 1.4923081484395049,
+      "alert_relative_volume": 4.271714106928714
+    }
+  ]
+}
