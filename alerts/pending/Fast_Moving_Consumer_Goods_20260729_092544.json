@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-29T09:25:44.446843+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDUNILVR.NS",
+      "alert_price": 2076.300048828125,
+      "alert_pct_move": 1.1743542651625167,
+      "alert_relative_volume": 6.627628475101094
+    },
+    {
+      "ticker": "GODREJAGRO.NS",
+      "alert_price": 561.7000122070312,
+      "alert_pct_move": -1.4561382092927633,
+      "alert_relative_volume": 5.3741727837759825
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 236.6999969482422,
+      "alert_pct_move": 2.9130421514096465,
+      "alert_relative_volume": 3.4355728987681595
+    }
+  ]
+}
