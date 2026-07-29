@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-07-29T09:25:43.785793+05:30",
+  "stocks": [
+    {
+      "ticker": "LT.NS",
+      "alert_price": 3954.10009765625,
+      "alert_pct_move": 1.4131853720505259,
+      "alert_relative_volume": 7.707755319239254
+    },
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 126.7699966430664,
+      "alert_pct_move": 1.2135701741049152,
+      "alert_relative_volume": 4.340048685225154
+    }
+  ]
+}
