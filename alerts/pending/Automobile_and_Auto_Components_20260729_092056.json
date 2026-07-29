@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-29T09:20:56.306877+05:30",
+  "stocks": [
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 38.38999938964844,
+      "alert_pct_move": 2.811995802811414,
+      "alert_relative_volume": 5.987467354791088
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 670.2000122070312,
+      "alert_pct_move": 1.0859746918599171,
+      "alert_relative_volume": 4.4090885225790615
+    }
+  ]
+}
