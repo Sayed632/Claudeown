@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-29T09:25:43.169607+05:30",
+  "stocks": [
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 619.25,
+      "alert_pct_move": 1.003103027069108,
+      "alert_relative_volume": 3.159315613157452
+    }
+  ]
+}
