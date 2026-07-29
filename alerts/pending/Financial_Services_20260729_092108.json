@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-29T09:21:08.503679+05:30",
+  "stocks": [
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 233.3800048828125,
+      "alert_pct_move": -1.0514693975754272,
+      "alert_relative_volume": 6.852853486973061
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 224.24000549316406,
+      "alert_pct_move": -3.3156501640420206,
+      "alert_relative_volume": 4.097366243433671
+    },
+    {
+      "ticker": "SUNDARMFIN.NS",
+      "alert_price": 4475.39990234375,
+      "alert_pct_move": 1.1389808439265536,
+      "alert_relative_volume": 3.112510280346862
+    }
+  ]
+}
