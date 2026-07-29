@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-29T09:20:53.696104+05:30",
+  "stocks": [
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 830.0,
+      "alert_pct_move": 1.715686274509804,
+      "alert_relative_volume": 6.495071632858526
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 445.54998779296875,
+      "alert_pct_move": 1.1579011112707798,
+      "alert_relative_volume": 4.426073161114015
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 326.20001220703125,
+      "alert_pct_move": 1.6357687491264052,
+      "alert_relative_volume": 3.75794985273621
+    },
+    {
+      "ticker": "COROMANDEL.NS",
+      "alert_price": 2057.5,
+      "alert_pct_move": 1.01133955221309,
+      "alert_relative_volume": 3.028399930142322
+    }
+  ]
+}
