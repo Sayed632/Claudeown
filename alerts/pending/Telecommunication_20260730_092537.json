@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-07-30T09:25:37.631092+05:30",
+  "stocks": [
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 190.82000732421875,
+      "alert_pct_move": -1.1039075707240336,
+      "alert_relative_volume": 3.0786071261898984
+    }
+  ]
+}
