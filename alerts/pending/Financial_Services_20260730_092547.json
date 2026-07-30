@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-30T09:25:47.271886+05:30",
+  "stocks": [
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 606.4500122070312,
+      "alert_pct_move": -1.1571959460837373,
+      "alert_relative_volume": 16.03183645592038
+    },
+    {
+      "ticker": "BAJAJHFL.NS",
+      "alert_price": 85.88999938964844,
+      "alert_pct_move": -1.2985489508267005,
+      "alert_relative_volume": 11.883371279579311
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 148.52000427246094,
+      "alert_pct_move": -4.4641722254519856,
+      "alert_relative_volume": 5.725097241816141
+    },
+    {
+      "ticker": "IDBI.NS",
+      "alert_price": 85.01000213623047,
+      "alert_pct_move": 1.0219852581786155,
+      "alert_relative_volume": 3.0262752922003493
+    }
+  ]
+}
