@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-30T09:20:45.340487+05:30",
+  "stocks": [
+    {
+      "ticker": "TBOTEK.NS",
+      "alert_price": 1508.5999755859375,
+      "alert_pct_move": -1.8796763846544713,
+      "alert_relative_volume": 16.242575593952484
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 121.20999908447266,
+      "alert_pct_move": 1.7887111359302064,
+      "alert_relative_volume": 15.613519376386142
+    },
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 203.19000244140625,
+      "alert_pct_move": 5.024035333320189,
+      "alert_relative_volume": 13.401574988627495
+    },
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 97.0,
+      "alert_pct_move": 2.1052631578947367,
+      "alert_relative_volume": 7.018580089101738
+    }
+  ]
+}
