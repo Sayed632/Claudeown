@@ -1,0 +1,42 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-30T09:21:05.243629+05:30",
+  "stocks": [
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 603.4500122070312,
+      "alert_pct_move": -1.6461536609704168,
+      "alert_relative_volume": 19.980077767753826
+    },
+    {
+      "ticker": "BAJAJHFL.NS",
+      "alert_price": 85.9800033569336,
+      "alert_pct_move": -1.195119887672022,
+      "alert_relative_volume": 14.287914073843643
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 608.5999755859375,
+      "alert_pct_move": 1.0376027647249917,
+      "alert_relative_volume": 11.912559555837477
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 254.35000610351562,
+      "alert_pct_move": -1.0311260297604572,
+      "alert_relative_volume": 4.76782141418364
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 151.24000549316406,
+      "alert_pct_move": -2.7145253045500457,
+      "alert_relative_volume": 4.471966763149647
+    },
+    {
+      "ticker": "360ONE.NS",
+      "alert_price": 1150.199951171875,
+      "alert_pct_move": -1.185571205165378,
+      "alert_relative_volume": 3.1625521297567385
+    }
+  ]
+}
