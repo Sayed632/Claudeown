@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-07-30T09:20:42.669268+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHNOE.NS",
+      "alert_price": 978.0999755859375,
+      "alert_pct_move": -2.45337950749067,
+      "alert_relative_volume": 4.237642514613337
+    },
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 93.33000183105469,
+      "alert_pct_move": -1.1858074678406267,
+      "alert_relative_volume": 3.0849788110190333
+    }
+  ]
+}
