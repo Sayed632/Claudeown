@@ -1,0 +1,30 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-30T09:20:50.253768+05:30",
+  "stocks": [
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 379.75,
+      "alert_pct_move": -2.7653279043741366,
+      "alert_relative_volume": 35.52405564281514
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 198.35000610351562,
+      "alert_pct_move": 2.237004133581771,
+      "alert_relative_volume": 18.126291742082675
+    },
+    {
+      "ticker": "ERIS.NS",
+      "alert_price": 1378.4000244140625,
+      "alert_pct_move": -2.3104164128942237,
+      "alert_relative_volume": 9.743543653739229
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 19336.0,
+      "alert_pct_move": -1.3570043873074176,
+      "alert_relative_volume": 4.417724735914609
+    }
+  ]
+}
