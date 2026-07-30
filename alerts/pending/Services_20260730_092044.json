@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-30T09:20:44.492884+05:30",
+  "stocks": [
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 323.8999938964844,
+      "alert_pct_move": 4.906880614245952,
+      "alert_relative_volume": 145.91439183714215
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "alert_price": 1676.5,
+      "alert_pct_move": -2.1764527812699215,
+      "alert_relative_volume": 31.743192745194467
+    }
+  ]
+}
