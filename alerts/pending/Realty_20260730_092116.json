@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-07-30T09:21:16.435115+05:30",
+  "stocks": [
+    {
+      "ticker": "PRESTIGE.NS",
+      "alert_price": 1628.300048828125,
+      "alert_pct_move": 1.0613268479689673,
+      "alert_relative_volume": 5.094060246162964
+    }
+  ]
+}
