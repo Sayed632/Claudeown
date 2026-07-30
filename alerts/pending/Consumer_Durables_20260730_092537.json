@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-30T09:25:37.112860+05:30",
+  "stocks": [
+    {
+      "ticker": "VGUARD.NS",
+      "alert_price": 321.1499938964844,
+      "alert_pct_move": 5.990096995539398,
+      "alert_relative_volume": 41.54597282952488
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "alert_price": 2679.39990234375,
+      "alert_pct_move": -2.955454460566824,
+      "alert_relative_volume": 8.404683897606656
+    }
+  ]
+}
