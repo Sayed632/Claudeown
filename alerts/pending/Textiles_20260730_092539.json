@@ -1,0 +1,12 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-07-30T09:25:39.323685+05:30",
+  "stocks": [
+    {
+      "ticker": "VTL.NS",
+      "alert_price": 639.75,
+      "alert_pct_move": 1.2663237039968342,
+      "alert_relative_volume": 7.973127919414541
+    }
+  ]
+}
