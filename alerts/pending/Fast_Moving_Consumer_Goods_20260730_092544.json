@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-30T09:25:44.450447+05:30",
+  "stocks": [
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 417.29998779296875,
+      "alert_pct_move": -2.4087975125176664,
+      "alert_relative_volume": 23.474646686394397
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 2134.10009765625,
+      "alert_pct_move": -1.952586515353176,
+      "alert_relative_volume": 4.151617479696931
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 383.6000061035156,
+      "alert_pct_move": 1.723680693395619,
+      "alert_relative_volume": 3.8316692940970394
+    },
+    {
+      "ticker": "GILLETTE.NS",
+      "alert_price": 7818.5,
+      "alert_pct_move": -1.2192040429564117,
+      "alert_relative_volume": 3.5793711345226695
+    }
+  ]
+}
