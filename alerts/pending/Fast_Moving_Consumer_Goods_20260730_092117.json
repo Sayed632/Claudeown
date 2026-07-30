@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-30T09:21:17.840297+05:30",
+  "stocks": [
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 418.25,
+      "alert_pct_move": -2.1866244083383215,
+      "alert_relative_volume": 20.10800114367186
+    },
+    {
+      "ticker": "PGHH.NS",
+      "alert_price": 8548.0,
+      "alert_pct_move": -1.1277543230582383,
+      "alert_relative_volume": 7.259557398395449
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 2139.699951171875,
+      "alert_pct_move": -1.69531125741053,
+      "alert_relative_volume": 4.387597683539641
+    },
+    {
+      "ticker": "VBL.NS",
+      "alert_price": 454.04998779296875,
+      "alert_pct_move": 1.4410146562780541,
+      "alert_relative_volume": 3.1292162588090813
+    }
+  ]
+}
