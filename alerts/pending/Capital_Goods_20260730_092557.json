@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-30T09:25:57.560771+05:30",
+  "stocks": [
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2584.0,
+      "alert_pct_move": -1.2609858616736722,
+      "alert_relative_volume": 39.580744071882286
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1390.0,
+      "alert_pct_move": 1.1865799961789156,
+      "alert_relative_volume": 24.96592240247063
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 75.25,
+      "alert_pct_move": -2.1074576410810177,
+      "alert_relative_volume": 6.823109883590239
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 46.54999923706055,
+      "alert_pct_move": -1.813964592110215,
+      "alert_relative_volume": 4.897939508391746
+    }
+  ]
+}
