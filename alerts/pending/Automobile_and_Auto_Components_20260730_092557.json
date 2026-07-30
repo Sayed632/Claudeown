@@ -1,0 +1,48 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-30T09:25:57.061427+05:30",
+  "stocks": [
+    {
+      "ticker": "BALKRISIND.NS",
+      "alert_price": 2287.39990234375,
+      "alert_pct_move": 2.5739866521860986,
+      "alert_relative_volume": 116.93882460908995
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 17661.0,
+      "alert_pct_move": 1.9864872668476066,
+      "alert_relative_volume": 14.987530943843257
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "alert_price": 7773.5,
+      "alert_pct_move": -1.0186541032660597,
+      "alert_relative_volume": 8.078816821284871
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 4137.2001953125,
+      "alert_pct_move": 1.3671851399983275,
+      "alert_relative_volume": 5.737744949827269
+    },
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 9723.0,
+      "alert_pct_move": -1.9166750731362856,
+      "alert_relative_volume": 4.027775193175319
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5234.10009765625,
+      "alert_pct_move": 1.2613940402083639,
+      "alert_relative_volume": 3.7494663408501747
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 668.7999877929688,
+      "alert_pct_move": -1.3423862359290064,
+      "alert_relative_volume": 3.0105619358730156
+    }
+  ]
+}
