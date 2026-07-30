@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-30T09:21:26.574736+05:30",
+  "stocks": [
+    {
+      "ticker": "BALKRISIND.NS",
+      "alert_price": 2272.300048828125,
+      "alert_pct_move": 1.8968631761491033,
+      "alert_relative_volume": 130.0994476798045
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 17720.0,
+      "alert_pct_move": 2.3271929318011204,
+      "alert_relative_volume": 17.114239108364373
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 4132.7998046875,
+      "alert_pct_move": 1.259369421610304,
+      "alert_relative_volume": 5.264908503598279
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 669.0,
+      "alert_pct_move": -1.3128815597484549,
+      "alert_relative_volume": 3.7592677795217937
+    },
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 9732.0,
+      "alert_pct_move": -1.8258852012508826,
+      "alert_relative_volume": 3.740005022548711
+    }
+  ]
+}
