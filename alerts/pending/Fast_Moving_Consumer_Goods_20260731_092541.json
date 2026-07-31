@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-31T09:25:41.456521+05:30",
+  "stocks": [
+    {
+      "ticker": "AWL.NS",
+      "alert_price": 193.72000122070312,
+      "alert_pct_move": -2.408059838436713,
+      "alert_relative_volume": 43.037470357788834
+    },
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 455.70001220703125,
+      "alert_pct_move": 2.1290900358810654,
+      "alert_relative_volume": 5.583772357835272
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 2243.800048828125,
+      "alert_pct_move": -1.3237105769080044,
+      "alert_relative_volume": 3.0996085535621796
+    }
+  ]
+}
