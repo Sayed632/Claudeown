@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-07-31T09:20:55.116334+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 2159.89990234375,
+      "alert_pct_move": 2.389187122244608,
+      "alert_relative_volume": 45.339676015167356
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 659.75,
+      "alert_pct_move": -2.1868050407709414,
+      "alert_relative_volume": 18.83918826833903
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 702.2999877929688,
+      "alert_pct_move": -1.341573101145079,
+      "alert_relative_volume": 6.136535969373883
+    }
+  ]
+}
