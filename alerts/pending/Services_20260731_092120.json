@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-31T09:21:20.411876+05:30",
+  "stocks": [
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 316.0,
+      "alert_pct_move": 1.103827336994336,
+      "alert_relative_volume": 10.091043448242385
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 286.3500061035156,
+      "alert_pct_move": -3.5858565308028196,
+      "alert_relative_volume": 3.3702454950828473
+    }
+  ]
+}
