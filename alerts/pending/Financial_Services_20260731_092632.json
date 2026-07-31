@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-07-31T09:26:32.196777+05:30",
+  "stocks": [
+    {
+      "ticker": "NIVABUPA.NS",
+      "alert_price": 87.4800033569336,
+      "alert_pct_move": -1.8512217517443048,
+      "alert_relative_volume": 42.33202183616856
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 1106.5,
+      "alert_pct_move": 1.4765201050494277,
+      "alert_relative_volume": 19.667787572888667
+    },
+    {
+      "ticker": "LICHSGFIN.NS",
+      "alert_price": 524.9000244140625,
+      "alert_pct_move": -1.3716624625196325,
+      "alert_relative_volume": 9.699485200918664
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 407.5,
+      "alert_pct_move": 2.155930367285829,
+      "alert_relative_volume": 7.14324451752948
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 281.6499938964844,
+      "alert_pct_move": 1.0584792107083736,
+      "alert_relative_volume": 4.336566333474425
+    }
+  ]
+}
