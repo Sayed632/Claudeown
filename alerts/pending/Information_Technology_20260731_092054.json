@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-31T09:20:54.839252+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4396.39990234375,
+      "alert_pct_move": 2.2466184949108503,
+      "alert_relative_volume": 17.36841651980302
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5286.2998046875,
+      "alert_pct_move": -1.330825214071898,
+      "alert_relative_volume": 5.19501192809157
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 181.16000366210938,
+      "alert_pct_move": -1.964386468915924,
+      "alert_relative_volume": 4.417539886389791
+    }
+  ]
+}
