@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-07-31T09:26:02.264792+05:30",
+  "stocks": [
+    {
+      "ticker": "VGUARD.NS",
+      "alert_price": 324.5,
+      "alert_pct_move": 1.24804992199688,
+      "alert_relative_volume": 28.47224661834752
+    }
+  ]
+}
