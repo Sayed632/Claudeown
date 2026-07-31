@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-07-31T09:27:31.005496+05:30",
+  "stocks": [
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1489.0999755859375,
+      "alert_pct_move": -2.513913218596563,
+      "alert_relative_volume": 20.14270444615298
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1362.300048828125,
+      "alert_pct_move": -1.0244097163497146,
+      "alert_relative_volume": 11.178630561825434
+    },
+    {
+      "ticker": "MANKIND.NS",
+      "alert_price": 2452.0,
+      "alert_pct_move": -3.21689362541938,
+      "alert_relative_volume": 9.576983191381187
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 391.04998779296875,
+      "alert_pct_move": -1.5731185985479685,
+      "alert_relative_volume": 9.265247466607148
+    },
+    {
+      "ticker": "AJANTPHARM.NS",
+      "alert_price": 3409.10009765625,
+      "alert_pct_move": -2.2844516755451756,
+      "alert_relative_volume": 3.6130663703768318
+    }
+  ]
+}
