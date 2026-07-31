@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-07-31T09:26:12.681551+05:30",
+  "stocks": [
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 265.3500061035156,
+      "alert_pct_move": -1.3018411458218047,
+      "alert_relative_volume": 3.8371911490110646
+    }
+  ]
+}
