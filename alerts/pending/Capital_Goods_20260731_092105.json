@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-07-31T09:21:05.939884+05:30",
+  "stocks": [
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 3649.0,
+      "alert_pct_move": -4.175420168067227,
+      "alert_relative_volume": 55.48319996154592
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 14323.0,
+      "alert_pct_move": 2.2779205941159666,
+      "alert_relative_volume": 8.011109312326592
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 720.25,
+      "alert_pct_move": 2.4756384745630537,
+      "alert_relative_volume": 7.877846920974819
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 869.0,
+      "alert_pct_move": 1.935483870967742,
+      "alert_relative_volume": 7.818262761039228
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4203.7998046875,
+      "alert_pct_move": 1.3207954853579176,
+      "alert_relative_volume": 6.8503525102401
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3197.60009765625,
+      "alert_pct_move": 1.2860341354529616,
+      "alert_relative_volume": 6.325297704754513
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 563.5499877929688,
+      "alert_pct_move": -1.6320538004264469,
+      "alert_relative_volume": 5.922386947193867
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1340.0,
+      "alert_pct_move": 1.692346486640818,
+      "alert_relative_volume": 4.918635561034176
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 302.6000061035156,
+      "alert_pct_move": 2.1089927016289187,
+      "alert_relative_volume": 4.313597166776816
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1367.5,
+      "alert_pct_move": -1.0133912414042707,
+      "alert_relative_volume": 3.4554028631081932
+    }
+  ]
+}
