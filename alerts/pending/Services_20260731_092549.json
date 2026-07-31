@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-07-31T09:25:49.593392+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 291.1300048828125,
+      "alert_pct_move": -1.9764293323863635,
+      "alert_relative_volume": 3.609416388146765
+    }
+  ]
+}
