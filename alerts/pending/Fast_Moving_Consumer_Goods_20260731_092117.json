@@ -1,0 +1,36 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-07-31T09:21:17.275865+05:30",
+  "stocks": [
+    {
+      "ticker": "AWL.NS",
+      "alert_price": 194.33999633789062,
+      "alert_pct_move": -2.0957197290223553,
+      "alert_relative_volume": 50.52841461568033
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 2190.39990234375,
+      "alert_pct_move": 1.883808634804264,
+      "alert_relative_volume": 7.298358775852755
+    },
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 454.54998779296875,
+      "alert_pct_move": 1.8713526126178623,
+      "alert_relative_volume": 7.179811621551055
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 2237.300048828125,
+      "alert_pct_move": -1.6095630892943382,
+      "alert_relative_volume": 3.120304570536811
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 424.0,
+      "alert_pct_move": -1.3379872018615475,
+      "alert_relative_volume": 3.0644303522583347
+    }
+  ]
+}
