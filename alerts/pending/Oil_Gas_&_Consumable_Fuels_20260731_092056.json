@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-07-31T09:20:56.438566+05:30",
+  "stocks": [
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1164.0,
+      "alert_pct_move": 1.944294116527644,
+      "alert_relative_volume": 29.803127815936335
+    }
+  ]
+}
