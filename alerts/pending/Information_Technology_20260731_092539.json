@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-07-31T09:25:39.471146+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4455.5,
+      "alert_pct_move": 3.6211033625975046,
+      "alert_relative_volume": 15.682799745238551
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 181.5800018310547,
+      "alert_pct_move": -1.7371024252962146,
+      "alert_relative_volume": 3.726009615520233
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 45.29999923706055,
+      "alert_pct_move": -1.4574765408986654,
+      "alert_relative_volume": 3.094203895953149
+    }
+  ]
+}
