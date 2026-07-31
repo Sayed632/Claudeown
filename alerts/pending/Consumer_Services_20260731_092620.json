@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-07-31T09:26:20.982509+05:30",
+  "stocks": [
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 292.4800109863281,
+      "alert_pct_move": 1.204156050632569,
+      "alert_relative_volume": 12.466372554617644
+    }
+  ]
+}
