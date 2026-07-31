@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-07-31T09:20:53.565941+05:30",
+  "stocks": [
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 314.25,
+      "alert_pct_move": -4.9167927382753405,
+      "alert_relative_volume": 10.147986614489115
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 7594.0,
+      "alert_pct_move": 1.2465835610959268,
+      "alert_relative_volume": 6.099956350938455
+    }
+  ]
+}
