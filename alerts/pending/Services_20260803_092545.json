@@ -1,0 +1,30 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-03T09:25:45.871717+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 5481.0,
+      "alert_pct_move": -2.3864648263579697,
+      "alert_relative_volume": 211.33182458148207
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 338.20001220703125,
+      "alert_pct_move": 5.506169111278204,
+      "alert_relative_volume": 11.13845968488841
+    },
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 63.630001068115234,
+      "alert_pct_move": 1.2088470640088251,
+      "alert_relative_volume": 7.198233450627629
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1407.0,
+      "alert_pct_move": 3.160053875976242,
+      "alert_relative_volume": 7.156842345615162
+    }
+  ]
+}
