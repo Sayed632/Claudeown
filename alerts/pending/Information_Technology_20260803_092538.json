@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-03T09:25:38.886669+05:30",
+  "stocks": [
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 295.95001220703125,
+      "alert_pct_move": -1.0862299022070776,
+      "alert_relative_volume": 10.120660717205439
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4683.2001953125,
+      "alert_pct_move": 2.512921272716371,
+      "alert_relative_volume": 9.466127933102708
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5386.5,
+      "alert_pct_move": -2.1881242055565644,
+      "alert_relative_volume": 5.551359081106639
+    }
+  ]
+}
