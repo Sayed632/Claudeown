@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-03T09:20:53.075349+05:30",
+  "stocks": [
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2818.800048828125,
+      "alert_pct_move": -1.9581943903107992,
+      "alert_relative_volume": 33.152526824433956
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 367.20001220703125,
+      "alert_pct_move": 1.943364731474975,
+      "alert_relative_volume": 14.477048089979087
+    },
+    {
+      "ticker": "IFCI.NS",
+      "alert_price": 78.44999694824219,
+      "alert_pct_move": 1.4877022653082856,
+      "alert_relative_volume": 13.980720246670531
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 420.54998779296875,
+      "alert_pct_move": 2.348501834953894,
+      "alert_relative_volume": 12.798050789038905
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 121.94000244140625,
+      "alert_pct_move": 1.2370324042468206,
+      "alert_relative_volume": 9.397779202653071
+    },
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1583.9000244140625,
+      "alert_pct_move": 1.9240684951134168,
+      "alert_relative_volume": 5.867004919879355
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 260.54998779296875,
+      "alert_pct_move": -1.325506594131795,
+      "alert_relative_volume": 4.967312906762244
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2665.0,
+      "alert_pct_move": -1.340143337266469,
+      "alert_relative_volume": 3.017933280215108
+    }
+  ]
+}
