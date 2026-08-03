@@ -1,0 +1,42 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-03T09:20:46.729114+05:30",
+  "stocks": [
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 780.3499755859375,
+      "alert_pct_move": 2.16011003827592,
+      "alert_relative_volume": 100.1669223640297
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 844.0499877929688,
+      "alert_pct_move": 1.3386916859259486,
+      "alert_relative_volume": 10.386409256187468
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1587.0,
+      "alert_pct_move": 1.607015506344819,
+      "alert_relative_volume": 5.85558973057376
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6929.0,
+      "alert_pct_move": 1.9720382634289921,
+      "alert_relative_volume": 5.488258231893
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 128.72000122070312,
+      "alert_pct_move": 1.0281748064836858,
+      "alert_relative_volume": 5.103326303330343
+    },
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 740.5999755859375,
+      "alert_pct_move": -1.305976613710428,
+      "alert_relative_volume": 3.107692587413614
+    }
+  ]
+}
