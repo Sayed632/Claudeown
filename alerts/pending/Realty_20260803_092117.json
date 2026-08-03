@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-08-03T09:21:17.659669+05:30",
+  "stocks": [
+    {
+      "ticker": "ANANTRAJ.NS",
+      "alert_price": 635.3499755859375,
+      "alert_pct_move": 1.4936063236321886,
+      "alert_relative_volume": 4.096669297206627
+    }
+  ]
+}
