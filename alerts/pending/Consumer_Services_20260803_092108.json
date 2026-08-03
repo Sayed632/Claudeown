@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-03T09:21:08.690107+05:30",
+  "stocks": [
+    {
+      "ticker": "TBOTEK.NS",
+      "alert_price": 1622.4000244140625,
+      "alert_pct_move": 5.152634567504865,
+      "alert_relative_volume": 19.525584321317243
+    },
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 94.31999969482422,
+      "alert_pct_move": -1.2356024137966297,
+      "alert_relative_volume": 14.531061445585827
+    }
+  ]
+}
