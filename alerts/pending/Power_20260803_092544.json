@@ -1,0 +1,36 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-08-03T09:25:44.113238+05:30",
+  "stocks": [
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 24.170000076293945,
+      "alert_pct_move": 2.5891367749535004,
+      "alert_relative_volume": 11.627712984040347
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 18.809999465942383,
+      "alert_pct_move": 1.1834282493207315,
+      "alert_relative_volume": 11.24495036979688
+    },
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 70.20999908447266,
+      "alert_pct_move": 1.4595407236591285,
+      "alert_relative_volume": 8.69274084084589
+    },
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 80.27999877929688,
+      "alert_pct_move": 1.9687480709687744,
+      "alert_relative_volume": 8.182465680511717
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1415.0,
+      "alert_pct_move": 1.8351925152932709,
+      "alert_relative_volume": 5.683258023708386
+    }
+  ]
+}
