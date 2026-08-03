@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-03T09:25:52.147589+05:30",
+  "stocks": [
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1401.5,
+      "alert_pct_move": -2.5585794047708164,
+      "alert_relative_volume": 17.40788873327974
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2393.5,
+      "alert_pct_move": -1.8896579689654407,
+      "alert_relative_volume": 8.747740128222414
+    },
+    {
+      "ticker": "GLENMARK.NS",
+      "alert_price": 2207.89990234375,
+      "alert_pct_move": -2.1407698729466706,
+      "alert_relative_volume": 6.501154376125701
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 397.0,
+      "alert_pct_move": 3.358498748111918,
+      "alert_relative_volume": 4.930076657774121
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1741.5,
+      "alert_pct_move": 1.0150812064965198,
+      "alert_relative_volume": 3.94340291370286
+    }
+  ]
+}
