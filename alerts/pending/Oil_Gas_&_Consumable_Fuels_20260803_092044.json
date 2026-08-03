@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-03T09:20:44.200152+05:30",
+  "stocks": [
+    {
+      "ticker": "GAIL.NS",
+      "alert_price": 175.33999633789062,
+      "alert_pct_move": -3.765093702114766,
+      "alert_relative_volume": 19.128525879299687
+    },
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 144.82000732421875,
+      "alert_pct_move": 1.5924266740539685,
+      "alert_relative_volume": 15.404298112667922
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1319.300048828125,
+      "alert_pct_move": 3.7022558924691196,
+      "alert_relative_volume": 7.57059152191677
+    },
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 665.4500122070312,
+      "alert_pct_move": 1.4405506413157394,
+      "alert_relative_volume": 3.1703084809352924
+    }
+  ]
+}
