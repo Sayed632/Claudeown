@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-03T09:20:43.784472+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 2242.699951171875,
+      "alert_pct_move": 1.383294252735035,
+      "alert_relative_volume": 5.315323311009088
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1344.4000244140625,
+      "alert_pct_move": 1.1131204196662843,
+      "alert_relative_volume": 3.2060534350397694
+    }
+  ]
+}
