@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-08-03T09:20:46.894808+05:30",
+  "stocks": [
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 287.75,
+      "alert_pct_move": 1.195707340778685,
+      "alert_relative_volume": 5.369474069704628
+    },
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 524.5,
+      "alert_pct_move": 1.4604870131901817,
+      "alert_relative_volume": 3.84459110579111
+    }
+  ]
+}
