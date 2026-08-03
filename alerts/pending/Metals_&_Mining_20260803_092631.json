@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-03T09:26:31.185203+05:30",
+  "stocks": [
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 518.7999877929688,
+      "alert_pct_move": -3.0008392120399194,
+      "alert_relative_volume": 12.64776675910014
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 190.85000610351562,
+      "alert_pct_move": -1.0832364006657114,
+      "alert_relative_volume": 3.6538599629107718
+    }
+  ]
+}
