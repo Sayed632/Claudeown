@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-03T09:25:48.286912+05:30",
+  "stocks": [
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2818.89990234375,
+      "alert_pct_move": -1.9547213454694599,
+      "alert_relative_volume": 27.58928878998786
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 422.0,
+      "alert_pct_move": 2.7013887243600165,
+      "alert_relative_volume": 17.652267026111137
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 367.20001220703125,
+      "alert_pct_move": 1.943364731474975,
+      "alert_relative_volume": 12.311089684400862
+    },
+    {
+      "ticker": "IFCI.NS",
+      "alert_price": 78.36000061035156,
+      "alert_pct_move": 1.371277511960778,
+      "alert_relative_volume": 10.065159451455292
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 121.97000122070312,
+      "alert_pct_move": 1.2619379916747437,
+      "alert_relative_volume": 8.286214774488666
+    },
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1581.199951171875,
+      "alert_pct_move": 1.7503186082287645,
+      "alert_relative_volume": 4.835526107670812
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 260.45001220703125,
+      "alert_pct_move": -1.3633689651067509,
+      "alert_relative_volume": 4.483094867237316
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 321.0,
+      "alert_pct_move": 1.5340838833302781,
+      "alert_relative_volume": 4.402125969988292
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 256.45001220703125,
+      "alert_pct_move": -1.2134028591772503,
+      "alert_relative_volume": 3.9466024831170476
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "alert_price": 2074.300048828125,
+      "alert_pct_move": 1.0867470189144737,
+      "alert_relative_volume": 3.7841791258202724
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2661.800048828125,
+      "alert_pct_move": -1.4586073987842678,
+      "alert_relative_volume": 3.419277459796792
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "alert_price": 1900.4000244140625,
+      "alert_pct_move": 1.4791517041933862,
+      "alert_relative_volume": 3.3139252250951827
+    }
+  ]
+}
