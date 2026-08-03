@@ -1,0 +1,24 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-08-03T09:26:27.997774+05:30",
+  "stocks": [
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 289.1499938964844,
+      "alert_pct_move": 1.6880561596405763,
+      "alert_relative_volume": 7.4083446430499755
+    },
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 202.10000610351562,
+      "alert_pct_move": 2.661792886781351,
+      "alert_relative_volume": 5.947985452951438
+    },
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 525.5,
+      "alert_pct_move": 1.6539293144546052,
+      "alert_relative_volume": 3.2050554118019714
+    }
+  ]
+}
