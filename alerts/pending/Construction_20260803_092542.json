@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-03T09:25:42.863077+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 128.2100067138672,
+      "alert_pct_move": 1.6490997429184935,
+      "alert_relative_volume": 5.7413410319590445
+    },
+    {
+      "ticker": "ENGINERSIN.NS",
+      "alert_price": 226.8300018310547,
+      "alert_pct_move": 1.740302729725196,
+      "alert_relative_volume": 3.595445180271057
+    }
+  ]
+}
