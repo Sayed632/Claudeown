@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-03T09:25:54.880333+05:30",
+  "stocks": [
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 530.9000244140625,
+      "alert_pct_move": 1.5105209204708414,
+      "alert_relative_volume": 12.48788596144798
+    },
+    {
+      "ticker": "DIXON.NS",
+      "alert_price": 13653.0,
+      "alert_pct_move": -1.065217391304348,
+      "alert_relative_volume": 6.639982736441713
+    },
+    {
+      "ticker": "KAJARIACER.NS",
+      "alert_price": 1197.5999755859375,
+      "alert_pct_move": -1.6183416127480188,
+      "alert_relative_volume": 4.194545436363374
+    },
+    {
+      "ticker": "CENTURYPLY.NS",
+      "alert_price": 810.9000244140625,
+      "alert_pct_move": 1.10972872993298,
+      "alert_relative_volume": 3.01848917019474
+    }
+  ]
+}
