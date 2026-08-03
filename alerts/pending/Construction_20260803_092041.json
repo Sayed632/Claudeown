@@ -1,0 +1,30 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-03T09:20:41.916379+05:30",
+  "stocks": [
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 479.29998779296875,
+      "alert_pct_move": 1.0754903953294077,
+      "alert_relative_volume": 8.13270625836045
+    },
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 128.30999755859375,
+      "alert_pct_move": 1.7283757652002216,
+      "alert_relative_volume": 7.667647124598465
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 228.6199951171875,
+      "alert_pct_move": 1.2219934912678123,
+      "alert_relative_volume": 4.404523657305984
+    },
+    {
+      "ticker": "ENGINERSIN.NS",
+      "alert_price": 226.6699981689453,
+      "alert_pct_move": 1.6685361164488928,
+      "alert_relative_volume": 3.6717675477805782
+    }
+  ]
+}
