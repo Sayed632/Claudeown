@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-03T09:25:38.596691+05:30",
+  "stocks": [
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 517.9000244140625,
+      "alert_pct_move": -3.169103850721136,
+      "alert_relative_volume": 13.455685379070966
+    }
+  ]
+}
