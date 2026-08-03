@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-03T09:26:04.115318+05:30",
+  "stocks": [
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 80.41999816894531,
+      "alert_pct_move": 2.0040612689568786,
+      "alert_relative_volume": 7.453143941927223
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 736.25,
+      "alert_pct_move": 1.621808143547274,
+      "alert_relative_volume": 6.159547340309187
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 1849.4000244140625,
+      "alert_pct_move": 1.3369876391267124,
+      "alert_relative_volume": 5.4123102354414625
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "alert_price": 1906.300048828125,
+      "alert_pct_move": 3.490773552015472,
+      "alert_relative_volume": 4.372686819639862
+    },
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 4188.10009765625,
+      "alert_pct_move": -2.835062816242073,
+      "alert_relative_volume": 3.998275638800153
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 396.54998779296875,
+      "alert_pct_move": 1.3416816160949383,
+      "alert_relative_volume": 3.972806681126495
+    },
+    {
+      "ticker": "ASTRAL.NS",
+      "alert_price": 1436.5999755859375,
+      "alert_pct_move": -1.878287033574631,
+      "alert_relative_volume": 3.7260390233342737
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3771.39990234375,
+      "alert_pct_move": -1.6276317410828145,
+      "alert_relative_volume": 3.7157259546844323
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 248.50999450683594,
+      "alert_pct_move": 1.848358404440958,
+      "alert_relative_volume": 3.283259943014277
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 14744.0,
+      "alert_pct_move": 1.9147024262113777,
+      "alert_relative_volume": 3.1546952305131626
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 48.869998931884766,
+      "alert_pct_move": 1.369010288209444,
+      "alert_relative_volume": 3.0930351929499746
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1091.800048828125,
+      "alert_pct_move": 1.847019480235541,
+      "alert_relative_volume": 3.078270443711546
+    }
+  ]
+}
