@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-03T09:25:52.781569+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 2238.60009765625,
+      "alert_pct_move": 1.1979566398499377,
+      "alert_relative_volume": 6.373125383417256
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 14025.0,
+      "alert_pct_move": -1.9299349695825467,
+      "alert_relative_volume": 6.102519009960781
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 18339.0,
+      "alert_pct_move": 1.0468896357926056,
+      "alert_relative_volume": 4.685373643228555
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1347.5999755859375,
+      "alert_pct_move": 1.3537906385766616,
+      "alert_relative_volume": 4.319357598592954
+    }
+  ]
+}
