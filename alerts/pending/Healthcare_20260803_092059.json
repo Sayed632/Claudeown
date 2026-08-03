@@ -1,0 +1,48 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-03T09:20:59.895317+05:30",
+  "stocks": [
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 8170.5,
+      "alert_pct_move": -2.5,
+      "alert_relative_volume": 16.19498557803933
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1964.800048828125,
+      "alert_pct_move": -1.2166893500188536,
+      "alert_relative_volume": 13.193736401392682
+    },
+    {
+      "ticker": "BLUEJET.NS",
+      "alert_price": 632.25,
+      "alert_pct_move": 1.0548989576270773,
+      "alert_relative_volume": 10.466143895285207
+    },
+    {
+      "ticker": "GLENMARK.NS",
+      "alert_price": 2216.39990234375,
+      "alert_pct_move": -1.7640302140531812,
+      "alert_relative_volume": 8.192312857038948
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 396.3999938964844,
+      "alert_pct_move": 3.2022878410613407,
+      "alert_relative_volume": 5.137360283580027
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 516.4500122070312,
+      "alert_pct_move": -1.3372814665694208,
+      "alert_relative_volume": 4.197666099961504
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 836.5,
+      "alert_pct_move": 1.1487303506650544,
+      "alert_relative_volume": 3.44744692916492
+    }
+  ]
+}
