@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-03T09:21:02.127541+05:30",
+  "stocks": [
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 7385.5,
+      "alert_pct_move": 1.497972926544355,
+      "alert_relative_volume": 9.579448865065807
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 398.75,
+      "alert_pct_move": 1.9039132224488966,
+      "alert_relative_volume": 6.383742203337744
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 247.61000061035156,
+      "alert_pct_move": 1.4795084468653945,
+      "alert_relative_volume": 4.613241227050382
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 80.80000305175781,
+      "alert_pct_move": 2.486056322817465,
+      "alert_relative_volume": 4.537041975227378
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 732.9000244140625,
+      "alert_pct_move": 1.1594236596359557,
+      "alert_relative_volume": 4.356287047479041
+    },
+    {
+      "ticker": "ASTRAL.NS",
+      "alert_price": 1441.0999755859375,
+      "alert_pct_move": -1.5709309735351458,
+      "alert_relative_volume": 4.234555196318173
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "alert_price": 1909.0999755859375,
+      "alert_pct_move": 3.6427782619944353,
+      "alert_relative_volume": 4.057754842420628
+    },
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 4153.0,
+      "alert_pct_move": -3.64939358780646,
+      "alert_relative_volume": 3.8497227754707732
+    }
+  ]
+}
