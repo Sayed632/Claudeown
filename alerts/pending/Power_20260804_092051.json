@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-08-04T09:20:51.944880+05:30",
+  "stocks": [
+    {
+      "ticker": "TORNTPOWER.NS",
+      "alert_price": 1355.5999755859375,
+      "alert_pct_move": -1.339157526496543,
+      "alert_relative_volume": 6.124954829145904
+    }
+  ]
+}
