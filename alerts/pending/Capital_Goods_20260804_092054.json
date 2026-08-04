@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-04T09:20:54.468581+05:30",
+  "stocks": [
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 5353.39990234375,
+      "alert_pct_move": 2.577171482817625,
+      "alert_relative_volume": 49.31687430028801
+    },
+    {
+      "ticker": "ELGIEQUIP.NS",
+      "alert_price": 584.9000244140625,
+      "alert_pct_move": 1.176275577806894,
+      "alert_relative_volume": 15.356569384486694
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1883.0,
+      "alert_pct_move": 2.587850721874149,
+      "alert_relative_volume": 11.471295939822904
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 260.8500061035156,
+      "alert_pct_move": -1.9360879310091634,
+      "alert_relative_volume": 9.2931878599263
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 15042.0,
+      "alert_pct_move": 1.4569000404694454,
+      "alert_relative_volume": 4.880933400592261
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 860.9500122070312,
+      "alert_pct_move": 1.677001736879982,
+      "alert_relative_volume": 4.171490665451351
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 624.3499755859375,
+      "alert_pct_move": 1.7436569292230926,
+      "alert_relative_volume": 3.8384790153836286
+    },
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 437.1000061035156,
+      "alert_pct_move": 1.6511642101199129,
+      "alert_relative_volume": 3.5976969117929674
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3313.5,
+      "alert_pct_move": 1.163219722544018,
+      "alert_relative_volume": 3.4284660081947753
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 7704.0,
+      "alert_pct_move": 1.0360655737704918,
+      "alert_relative_volume": 3.3135669315413563
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4538.2001953125,
+      "alert_pct_move": 2.1036289488908073,
+      "alert_relative_volume": 3.273324305412345
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1124.5,
+      "alert_pct_move": 1.2880606608773977,
+      "alert_relative_volume": 3.1589902659424642
+    }
+  ]
+}
