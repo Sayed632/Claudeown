@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-04T09:20:57.612588+05:30",
+  "stocks": [
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 415.1499938964844,
+      "alert_pct_move": -1.2840314001251907,
+      "alert_relative_volume": 12.975779013082304
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 2315.5,
+      "alert_pct_move": 2.0358678966112405,
+      "alert_relative_volume": 11.009557590399424
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 242.39999389648438,
+      "alert_pct_move": 2.8207821406084306,
+      "alert_relative_volume": 5.788220698442504
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 2039.699951171875,
+      "alert_pct_move": -1.701207172439759,
+      "alert_relative_volume": 3.0645225748009977
+    }
+  ]
+}
