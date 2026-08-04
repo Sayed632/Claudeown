@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-04T09:21:13.469351+05:30",
+  "stocks": [
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2615.0,
+      "alert_pct_move": -2.461767997016039,
+      "alert_relative_volume": 11.072065081459447
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1432.4000244140625,
+      "alert_pct_move": -1.8904092867080482,
+      "alert_relative_volume": 9.286889750651468
+    },
+    {
+      "ticker": "BLUEJET.NS",
+      "alert_price": 582.2999877929688,
+      "alert_pct_move": -1.713228830268904,
+      "alert_relative_volume": 8.238908278821766
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1894.800048828125,
+      "alert_pct_move": -1.3279174791231991,
+      "alert_relative_volume": 6.260441640648297
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 19388.0,
+      "alert_pct_move": -1.3333333333333335,
+      "alert_relative_volume": 3.45235345070335
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1936.800048828125,
+      "alert_pct_move": 1.4031439177028795,
+      "alert_relative_volume": 3.2107138623360183
+    }
+  ]
+}
