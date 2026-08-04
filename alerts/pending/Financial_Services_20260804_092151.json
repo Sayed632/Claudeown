@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-04T09:21:51.585889+05:30",
+  "stocks": [
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 395.70001220703125,
+      "alert_pct_move": 1.0728000528815453,
+      "alert_relative_volume": 105.42228993818821
+    },
+    {
+      "ticker": "NAM-INDIA.NS",
+      "alert_price": 1182.199951171875,
+      "alert_pct_move": 1.3459023722138876,
+      "alert_relative_volume": 3.5684153914490504
+    },
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 172.58999633789062,
+      "alert_pct_move": -1.388417252457278,
+      "alert_relative_volume": 3.3448322091300273
+    }
+  ]
+}
