@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-04T09:25:43.008754+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1631.800048828125,
+      "alert_pct_move": 3.3766264699477357,
+      "alert_relative_volume": 15.864503054583436
+    },
+    {
+      "ticker": "UPL.NS",
+      "alert_price": 597.4500122070312,
+      "alert_pct_move": -1.5408661460170587,
+      "alert_relative_volume": 11.716751929115016
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 7082.0,
+      "alert_pct_move": 1.1714285714285713,
+      "alert_relative_volume": 6.048466539699219
+    }
+  ]
+}
