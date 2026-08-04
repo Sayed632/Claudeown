@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-04T09:20:52.908562+05:30",
+  "stocks": [
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1401.300048828125,
+      "alert_pct_move": 3.8461555858203407,
+      "alert_relative_volume": 23.296502513904766
+    },
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 696.5999755859375,
+      "alert_pct_move": 1.1470833801192717,
+      "alert_relative_volume": 8.32072782526119
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 924.0499877929688,
+      "alert_pct_move": -1.171124300217246,
+      "alert_relative_volume": 7.794418943202864
+    }
+  ]
+}
