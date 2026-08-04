@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-08-04T09:21:17.122193+05:30",
+  "stocks": [
+    {
+      "ticker": "GRASIM.NS",
+      "alert_price": 3150.0,
+      "alert_pct_move": -1.1857722645440316,
+      "alert_relative_volume": 5.620374418038872
+    }
+  ]
+}
