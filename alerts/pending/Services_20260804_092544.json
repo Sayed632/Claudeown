@@ -1,0 +1,30 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-04T09:25:44.292776+05:30",
+  "stocks": [
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1511.0999755859375,
+      "alert_pct_move": -5.153149516829261,
+      "alert_relative_volume": 126.34174351561826
+    },
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 304.1000061035156,
+      "alert_pct_move": 1.620720502427945,
+      "alert_relative_volume": 40.692611811287335
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 343.75,
+      "alert_pct_move": -1.8418081045691488,
+      "alert_relative_volume": 7.747824962841946
+    },
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 333.75,
+      "alert_pct_move": 1.1363636363636365,
+      "alert_relative_volume": 4.768505559957446
+    }
+  ]
+}
