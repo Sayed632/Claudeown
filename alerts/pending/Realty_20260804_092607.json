@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-08-04T09:26:07.272762+05:30",
+  "stocks": [
+    {
+      "ticker": "DLF.NS",
+      "alert_price": 650.2999877929688,
+      "alert_pct_move": -1.3052111553253427,
+      "alert_relative_volume": 4.79210320288945
+    }
+  ]
+}
