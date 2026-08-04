@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-04T09:25:36.885340+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 130.39999389648438,
+      "alert_pct_move": -1.062222399739744,
+      "alert_relative_volume": 9.508162415785149
+    },
+    {
+      "ticker": "RITES.NS",
+      "alert_price": 216.8000030517578,
+      "alert_pct_move": -1.731480441471594,
+      "alert_relative_volume": 5.300026524355138
+    }
+  ]
+}
