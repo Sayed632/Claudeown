@@ -1,0 +1,36 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-04T09:20:52.432223+05:30",
+  "stocks": [
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1511.5999755859375,
+      "alert_pct_move": -5.121766136505139,
+      "alert_relative_volume": 117.00596921493788
+    },
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 303.3500061035156,
+      "alert_pct_move": 1.3700939360119049,
+      "alert_relative_volume": 42.29111357245517
+    },
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 64.48999786376953,
+      "alert_pct_move": 1.081502562633533,
+      "alert_relative_volume": 5.673744910388269
+    },
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 333.45001220703125,
+      "alert_pct_move": 1.0454582445549243,
+      "alert_relative_volume": 4.733748196584165
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 326.70001220703125,
+      "alert_pct_move": 1.3809192263867338,
+      "alert_relative_volume": 3.2397639141363386
+    }
+  ]
+}
