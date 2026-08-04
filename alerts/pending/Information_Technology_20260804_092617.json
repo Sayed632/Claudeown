@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-04T09:26:17.546403+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4712.0,
+      "alert_pct_move": 2.236978451274692,
+      "alert_relative_volume": 6.416584705846432
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 744.0999755859375,
+      "alert_pct_move": -1.4437118429221856,
+      "alert_relative_volume": 4.239199595392698
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 381.95001220703125,
+      "alert_pct_move": -1.8123361935652313,
+      "alert_relative_volume": 4.159565805198473
+    }
+  ]
+}
