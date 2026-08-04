@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-04T09:26:12.534755+05:30",
+  "stocks": [
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 171.58999633789062,
+      "alert_pct_move": 1.652839594604355,
+      "alert_relative_volume": 3.972777910310398
+    }
+  ]
+}
