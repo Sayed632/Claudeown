@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-04T09:20:59.249790+05:30",
+  "stocks": [
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 395.45001220703125,
+      "alert_pct_move": 1.0089430924728608,
+      "alert_relative_volume": 106.94656639886166
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1417.0,
+      "alert_pct_move": -1.0267480389199426,
+      "alert_relative_volume": 7.164792099999049
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 128.11000061035156,
+      "alert_pct_move": 1.0171904420687294,
+      "alert_relative_volume": 4.424453071940946
+    },
+    {
+      "ticker": "NAM-INDIA.NS",
+      "alert_price": 1181.9000244140625,
+      "alert_pct_move": 1.3201906913041148,
+      "alert_relative_volume": 3.8676105111397865
+    },
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 172.39999389648438,
+      "alert_pct_move": -1.4969776665631223,
+      "alert_relative_volume": 3.7604062264544442
+    }
+  ]
+}
