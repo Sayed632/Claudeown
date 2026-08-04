@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-04T09:25:41.482447+05:30",
+  "stocks": [
+    {
+      "ticker": "CASTROLIND.NS",
+      "alert_price": 188.30999755859375,
+      "alert_pct_move": 1.1875289535717946,
+      "alert_relative_volume": 14.263148622016601
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1323.9000244140625,
+      "alert_pct_move": -1.3413815986671331,
+      "alert_relative_volume": 4.320613674303311
+    }
+  ]
+}
