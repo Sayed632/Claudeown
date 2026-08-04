@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-04T09:25:48.852873+05:30",
+  "stocks": [
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 5351.60009765625,
+      "alert_pct_move": 2.542685197945755,
+      "alert_relative_volume": 49.90811234760805
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 327.25,
+      "alert_pct_move": 1.9470404984423675,
+      "alert_relative_volume": 16.55396486333993
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1882.300048828125,
+      "alert_pct_move": 2.549716634602288,
+      "alert_relative_volume": 11.397885105684141
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 259.75,
+      "alert_pct_move": -2.3496240601503757,
+      "alert_relative_volume": 8.874540336674505
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 626.0999755859375,
+      "alert_pct_move": 2.0288357657547085,
+      "alert_relative_volume": 5.011956791858807
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 15056.0,
+      "alert_pct_move": 1.551328746796169,
+      "alert_relative_volume": 4.07411138734371
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 863.0999755859375,
+      "alert_pct_move": 1.9309094285134338,
+      "alert_relative_volume": 4.017584570999187
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1685.0,
+      "alert_pct_move": 1.0919096855481145,
+      "alert_relative_volume": 3.834430247747413
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4567.0,
+      "alert_pct_move": 2.7515872682814613,
+      "alert_relative_volume": 3.625540368180389
+    },
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 437.0,
+      "alert_pct_move": 1.627906976744186,
+      "alert_relative_volume": 3.3200482068303705
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 7737.5,
+      "alert_pct_move": 1.4754098360655739,
+      "alert_relative_volume": 3.2968554291204906
+    }
+  ]
+}
