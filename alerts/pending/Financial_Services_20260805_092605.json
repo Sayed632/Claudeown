@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-05T09:26:05.532112+05:30",
+  "stocks": [
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 184.8699951171875,
+      "alert_pct_move": 4.099329314386395,
+      "alert_relative_volume": 154.1868921899972
+    },
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 391.95001220703125,
+      "alert_pct_move": 1.5414539396454014,
+      "alert_relative_volume": 46.20044035678209
+    },
+    {
+      "ticker": "PNBHOUSING.NS",
+      "alert_price": 1124.199951171875,
+      "alert_pct_move": 4.5767396438953485,
+      "alert_relative_volume": 38.09543846386499
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 131.11000061035156,
+      "alert_pct_move": 4.88800048828125,
+      "alert_relative_volume": 24.25445887247993
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2580.60009765625,
+      "alert_pct_move": -3.20329716218117,
+      "alert_relative_volume": 16.31727038349448
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3555.39990234375,
+      "alert_pct_move": -2.6824328740231937,
+      "alert_relative_volume": 9.65548094025088
+    },
+    {
+      "ticker": "ICICIGI.NS",
+      "alert_price": 1691.0,
+      "alert_pct_move": -3.1001075206463633,
+      "alert_relative_volume": 7.021541690534223
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 675.5999755859375,
+      "alert_pct_move": -1.1485897257860918,
+      "alert_relative_volume": 5.619221102865795
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 93.83999633789062,
+      "alert_pct_move": 1.97783064683621,
+      "alert_relative_volume": 3.2403428629026236
+    }
+  ]
+}
