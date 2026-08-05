@@ -1,0 +1,36 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-05T09:25:39.109982+05:30",
+  "stocks": [
+    {
+      "ticker": "NYKAA.NS",
+      "alert_price": 334.54998779296875,
+      "alert_pct_move": -2.9305110350732115,
+      "alert_relative_volume": 34.94665364975708
+    },
+    {
+      "ticker": "MANYAVAR.NS",
+      "alert_price": 488.54998779296875,
+      "alert_pct_move": -1.9566526668370867,
+      "alert_relative_volume": 16.72533170173331
+    },
+    {
+      "ticker": "VENTIVE.NS",
+      "alert_price": 614.0,
+      "alert_pct_move": -2.0264898611228657,
+      "alert_relative_volume": 13.185989576634727
+    },
+    {
+      "ticker": "JUBLFOOD.NS",
+      "alert_price": 476.3999938964844,
+      "alert_pct_move": 1.0392351848323171,
+      "alert_relative_volume": 5.1743129699046975
+    },
+    {
+      "ticker": "BLS.NS",
+      "alert_price": 253.6300048828125,
+      "alert_pct_move": 1.7450281309440139,
+      "alert_relative_volume": 4.440548812222858
+    }
+  ]
+}
