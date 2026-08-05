@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-05T09:21:21.541735+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1796.0999755859375,
+      "alert_pct_move": -2.103884919236118,
+      "alert_relative_volume": 221.28772038807188
+    },
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "alert_price": 1965.5999755859375,
+      "alert_pct_move": 1.3352593218561937,
+      "alert_relative_volume": 29.02520448168123
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1626.5,
+      "alert_pct_move": 1.1190550202051601,
+      "alert_relative_volume": 4.711376616842834
+    },
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 762.25,
+      "alert_pct_move": -1.0193449986756298,
+      "alert_relative_volume": 3.7362639959437587
+    }
+  ]
+}
