@@ -1,0 +1,24 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-08-05T09:25:44.471207+05:30",
+  "stocks": [
+    {
+      "ticker": "GODREJPROP.NS",
+      "alert_price": 2120.60009765625,
+      "alert_pct_move": 3.1570826495071884,
+      "alert_relative_volume": 10.41212669442064
+    },
+    {
+      "ticker": "OBEROIRLTY.NS",
+      "alert_price": 1808.0,
+      "alert_pct_move": 1.2544816711655713,
+      "alert_relative_volume": 4.4842574404607145
+    },
+    {
+      "ticker": "DLF.NS",
+      "alert_price": 659.2000122070312,
+      "alert_pct_move": 1.2362723629185968,
+      "alert_relative_volume": 3.4308495553787597
+    }
+  ]
+}
