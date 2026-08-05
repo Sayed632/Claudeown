@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-05T09:20:48.483026+05:30",
+  "stocks": [
+    {
+      "ticker": "MARICO.NS",
+      "alert_price": 853.0,
+      "alert_pct_move": -2.5588329665692733,
+      "alert_relative_volume": 11.908573812597862
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 2238.5,
+      "alert_pct_move": -1.0389036251105217,
+      "alert_relative_volume": 6.36742565633943
+    }
+  ]
+}
