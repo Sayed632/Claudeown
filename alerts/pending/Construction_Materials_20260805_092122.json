@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-08-05T09:21:22.459490+05:30",
+  "stocks": [
+    {
+      "ticker": "AMBUJACEM.NS",
+      "alert_price": 444.0,
+      "alert_pct_move": 1.0583802963209215,
+      "alert_relative_volume": 3.6284634681485297
+    }
+  ]
+}
