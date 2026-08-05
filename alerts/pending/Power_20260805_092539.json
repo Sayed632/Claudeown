@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-08-05T09:25:39.129095+05:30",
+  "stocks": [
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 24.530000686645508,
+      "alert_pct_move": 1.5735034124955427,
+      "alert_relative_volume": 6.085074417624326
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 19.139999389648438,
+      "alert_pct_move": 1.055960137018927,
+      "alert_relative_volume": 4.1028709571729784
+    },
+    {
+      "ticker": "NLCINDIA.NS",
+      "alert_price": 306.5,
+      "alert_pct_move": 1.155115511551155,
+      "alert_relative_volume": 3.599645402488977
+    }
+  ]
+}
