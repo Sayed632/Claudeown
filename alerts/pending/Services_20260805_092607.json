@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-05T09:26:07.872797+05:30",
+  "stocks": [
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 355.0,
+      "alert_pct_move": 1.4285714285714286,
+      "alert_relative_volume": 5.256630586981286
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1430.0,
+      "alert_pct_move": -1.3725101095921803,
+      "alert_relative_volume": 3.8765426230255207
+    }
+  ]
+}
