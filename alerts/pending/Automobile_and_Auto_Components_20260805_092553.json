@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-05T09:25:53.444349+05:30",
+  "stocks": [
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 41925.0,
+      "alert_pct_move": 1.2436609514609998,
+      "alert_relative_volume": 8.139198608478319
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 40.08000183105469,
+      "alert_pct_move": 3.485675974114427,
+      "alert_relative_volume": 6.315095696334851
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1025.75,
+      "alert_pct_move": -1.09439551182373,
+      "alert_relative_volume": 6.308557016441466
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 40.65999984741211,
+      "alert_pct_move": 1.9303095250572733,
+      "alert_relative_volume": 4.111135282907731
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1420.9000244140625,
+      "alert_pct_move": -2.943987403411031,
+      "alert_relative_volume": 4.035293754243305
+    }
+  ]
+}
