@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-05T09:25:44.878944+05:30",
+  "stocks": [
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 250.49000549316406,
+      "alert_pct_move": -1.1795764102777109,
+      "alert_relative_volume": 13.881382848631885
+    },
+    {
+      "ticker": "MARICO.NS",
+      "alert_price": 851.2000122070312,
+      "alert_pct_move": -2.764451854251342,
+      "alert_relative_volume": 10.268523419865387
+    },
+    {
+      "ticker": "EIDPARRY.NS",
+      "alert_price": 796.8499755859375,
+      "alert_pct_move": -1.0124253930512421,
+      "alert_relative_volume": 6.128483308650697
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 2238.699951171875,
+      "alert_pct_move": -1.0300640507570733,
+      "alert_relative_volume": 4.840680036648681
+    }
+  ]
+}
