@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-05T09:20:51.752617+05:30",
+  "stocks": [
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 412.75,
+      "alert_pct_move": 5.670761277616123,
+      "alert_relative_volume": 42.398931067799985
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 357.5,
+      "alert_pct_move": 1.7648768637831824,
+      "alert_relative_volume": 3.7881509027330256
+    }
+  ]
+}
