@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-05T09:21:46.706819+05:30",
+  "stocks": [
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 186.25999450683594,
+      "alert_pct_move": 4.882030715541763,
+      "alert_relative_volume": 105.08936228424908
+    },
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 392.0,
+      "alert_pct_move": 1.5544041450777202,
+      "alert_relative_volume": 53.28203517900757
+    },
+    {
+      "ticker": "PNBHOUSING.NS",
+      "alert_price": 1124.800048828125,
+      "alert_pct_move": 4.632562681686046,
+      "alert_relative_volume": 37.73995235739603
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2596.0,
+      "alert_pct_move": -2.625656414103526,
+      "alert_relative_volume": 15.450586692575666
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 367.20001220703125,
+      "alert_pct_move": 1.1291671811062323,
+      "alert_relative_volume": 14.034198518171277
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 128.8800048828125,
+      "alert_pct_move": 3.10400390625,
+      "alert_relative_volume": 12.320794780941945
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3607.0,
+      "alert_pct_move": -1.27004717753409,
+      "alert_relative_volume": 8.33925116950694
+    },
+    {
+      "ticker": "ICICIGI.NS",
+      "alert_price": 1698.0999755859375,
+      "alert_pct_move": -2.6932554385154472,
+      "alert_relative_volume": 8.265414647401693
+    }
+  ]
+}
