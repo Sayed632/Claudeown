@@ -1,0 +1,66 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-05T09:20:56.150643+05:30",
+  "stocks": [
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 185.7100067138672,
+      "alert_pct_move": 4.572335460003654,
+      "alert_relative_volume": 96.85484366816627
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 284.6499938964844,
+      "alert_pct_move": 1.3891340682045858,
+      "alert_relative_volume": 59.30003624814775
+    },
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 391.79998779296875,
+      "alert_pct_move": 1.5025875111318006,
+      "alert_relative_volume": 50.46188225930824
+    },
+    {
+      "ticker": "PNBHOUSING.NS",
+      "alert_price": 1124.699951171875,
+      "alert_pct_move": 4.623251271802325,
+      "alert_relative_volume": 36.13427114691559
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2607.10009765625,
+      "alert_pct_move": -2.209298662556264,
+      "alert_relative_volume": 15.138466024150057
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 367.0,
+      "alert_pct_move": 1.0740825753036567,
+      "alert_relative_volume": 13.26382298772908
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 127.5999984741211,
+      "alert_pct_move": 2.079998779296875,
+      "alert_relative_volume": 11.879068470616756
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2949.89990234375,
+      "alert_pct_move": 1.3015076354309751,
+      "alert_relative_volume": 8.3469097271746
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3609.699951171875,
+      "alert_pct_move": -1.196144751190264,
+      "alert_relative_volume": 8.294369604199066
+    },
+    {
+      "ticker": "ICICIGI.NS",
+      "alert_price": 1698.699951171875,
+      "alert_pct_move": -2.658874853200497,
+      "alert_relative_volume": 7.278633771893584
+    }
+  ]
+}
