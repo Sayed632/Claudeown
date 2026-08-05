@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-05T09:20:47.984873+05:30",
+  "stocks": [
+    {
+      "ticker": "ONGC.NS",
+      "alert_price": 241.19000244140625,
+      "alert_pct_move": -1.4746734335572307,
+      "alert_relative_volume": 11.152145821227636
+    },
+    {
+      "ticker": "OIL.NS",
+      "alert_price": 436.20001220703125,
+      "alert_pct_move": -2.5142473333523396,
+      "alert_relative_volume": 3.1272231492476097
+    }
+  ]
+}
