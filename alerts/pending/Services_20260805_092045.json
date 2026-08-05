@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-05T09:20:45.262299+05:30",
+  "stocks": [
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5490.0,
+      "alert_pct_move": 1.0305483989694517,
+      "alert_relative_volume": 5.166073365764349
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 356.8999938964844,
+      "alert_pct_move": 1.9714268275669644,
+      "alert_relative_volume": 4.5398830046698295
+    }
+  ]
+}
