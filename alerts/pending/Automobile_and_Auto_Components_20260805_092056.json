@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-05T09:20:56.219797+05:30",
+  "stocks": [
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1026.699951171875,
+      "alert_pct_move": -1.0027986364754014,
+      "alert_relative_volume": 7.94472211787283
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 41860.0,
+      "alert_pct_move": 1.086694035257184,
+      "alert_relative_volume": 6.109808201365346
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1423.199951171875,
+      "alert_pct_move": -2.7868885811560795,
+      "alert_relative_volume": 4.554770688677484
+    },
+    {
+      "ticker": "UNOMINDA.NS",
+      "alert_price": 1261.199951171875,
+      "alert_pct_move": 1.3419004557553234,
+      "alert_relative_volume": 4.491249796544432
+    }
+  ]
+}
