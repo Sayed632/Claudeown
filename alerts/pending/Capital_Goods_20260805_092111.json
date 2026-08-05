@@ -1,0 +1,18 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-05T09:21:11.115786+05:30",
+  "stocks": [
+    {
+      "ticker": "TIMKEN.NS",
+      "alert_price": 3161.89990234375,
+      "alert_pct_move": -1.4738891171568436,
+      "alert_relative_volume": 9.457989767947709
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1447.0,
+      "alert_pct_move": 1.1110351956754474,
+      "alert_relative_volume": 3.754755598215498
+    }
+  ]
+}
