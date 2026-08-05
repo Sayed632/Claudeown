@@ -1,0 +1,24 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-05T09:25:44.815485+05:30",
+  "stocks": [
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 727.3499755859375,
+      "alert_pct_move": 1.6064818596364443,
+      "alert_relative_volume": 9.602566595326929
+    },
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 870.4000244140625,
+      "alert_pct_move": 1.209305164425872,
+      "alert_relative_volume": 7.321514741528679
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 1765.0,
+      "alert_pct_move": 1.1229503444356423,
+      "alert_relative_volume": 3.8352941613224436
+    }
+  ]
+}
