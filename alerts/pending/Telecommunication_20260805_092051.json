@@ -1,0 +1,24 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-08-05T09:20:51.457335+05:30",
+  "stocks": [
+    {
+      "ticker": "BHARTIHEXA.NS",
+      "alert_price": 1581.0,
+      "alert_pct_move": -3.47985347985348,
+      "alert_relative_volume": 10.713892181489074
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "alert_price": 1980.0,
+      "alert_pct_move": -1.9801980198019802,
+      "alert_relative_volume": 8.786199608297657
+    },
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 540.5499877929688,
+      "alert_pct_move": 1.2360661925368506,
+      "alert_relative_volume": 4.104757448699345
+    }
+  ]
+}
