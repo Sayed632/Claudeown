@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-05T09:21:19.154118+05:30",
+  "stocks": [
+    {
+      "ticker": "MARICO.NS",
+      "alert_price": 851.4500122070312,
+      "alert_pct_move": -2.7358934817327514,
+      "alert_relative_volume": 11.203588332889122
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 2238.89990234375,
+      "alert_pct_move": -1.0212244764036251,
+      "alert_relative_volume": 6.327405361963443
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "alert_price": 1488.699951171875,
+      "alert_pct_move": -1.1487416220534528,
+      "alert_relative_volume": 4.020648412613078
+    }
+  ]
+}
