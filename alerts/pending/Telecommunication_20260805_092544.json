@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-08-05T09:25:44.902226+05:30",
+  "stocks": [
+    {
+      "ticker": "BHARTIHEXA.NS",
+      "alert_price": 1573.0,
+      "alert_pct_move": -3.968253968253968,
+      "alert_relative_volume": 10.700142847195128
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "alert_price": 1972.800048828125,
+      "alert_pct_move": -2.3366312461324257,
+      "alert_relative_volume": 9.95761814424842
+    }
+  ]
+}
