@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-06T09:20:58.012911+05:30",
+  "stocks": [
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1631.800048828125,
+      "alert_pct_move": -1.811178479075471,
+      "alert_relative_volume": 24.382771497000242
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 175.72000122070312,
+      "alert_pct_move": 1.1221712034861375,
+      "alert_relative_volume": 6.289297641979924
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 127.9800033569336,
+      "alert_pct_move": 1.0740803829182306,
+      "alert_relative_volume": 3.5406924319652737
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3494.0,
+      "alert_pct_move": -1.0422580808658073,
+      "alert_relative_volume": 3.059498599795162
+    }
+  ]
+}
