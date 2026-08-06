@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-06T09:25:44.750189+05:30",
+  "stocks": [
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1824.300048828125,
+      "alert_pct_move": -3.832364321132051,
+      "alert_relative_volume": 21.165242339121907
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 771.5,
+      "alert_pct_move": 1.5666172717927092,
+      "alert_relative_volume": 15.284762782093853
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4961.2001953125,
+      "alert_pct_move": 1.3772608875508332,
+      "alert_relative_volume": 4.795485220444744
+    }
+  ]
+}
