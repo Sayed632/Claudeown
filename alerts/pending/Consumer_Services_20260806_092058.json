@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-06T09:20:58.148268+05:30",
+  "stocks": [
+    {
+      "ticker": "NYKAA.NS",
+      "alert_price": 331.6000061035156,
+      "alert_pct_move": -1.0444643199793964,
+      "alert_relative_volume": 3.629769075778988
+    }
+  ]
+}
