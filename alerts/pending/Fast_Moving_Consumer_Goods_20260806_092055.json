@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-06T09:20:55.390543+05:30",
+  "stocks": [
+    {
+      "ticker": "GODREJAGRO.NS",
+      "alert_price": 545.7999877929688,
+      "alert_pct_move": -1.8786538799157304,
+      "alert_relative_volume": 38.24176544455962
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 638.7000122070312,
+      "alert_pct_move": -1.4047508115800973,
+      "alert_relative_volume": 10.160691147943707
+    }
+  ]
+}
