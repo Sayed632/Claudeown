@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-08-06T09:20:46.832814+05:30",
+  "stocks": [
+    {
+      "ticker": "SHREECEM.NS",
+      "alert_price": 26595.0,
+      "alert_pct_move": -1.1889281070035296,
+      "alert_relative_volume": 3.163254417122734
+    }
+  ]
+}
