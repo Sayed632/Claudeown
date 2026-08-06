@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-06T09:20:54.068491+05:30",
+  "stocks": [
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 903.0,
+      "alert_pct_move": -1.9543973941368076,
+      "alert_relative_volume": 11.768766805185114
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1488.199951171875,
+      "alert_pct_move": 1.0868088935381337,
+      "alert_relative_volume": 3.7886369873449115
+    },
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 705.0999755859375,
+      "alert_pct_move": -1.0802486446264785,
+      "alert_relative_volume": 3.7070618731648106
+    }
+  ]
+}
