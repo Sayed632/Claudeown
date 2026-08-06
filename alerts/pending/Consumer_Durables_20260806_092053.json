@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-06T09:20:53.976922+05:30",
+  "stocks": [
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 550.7999877929688,
+      "alert_pct_move": 1.1849017169677405,
+      "alert_relative_volume": 13.214898379120566
+    }
+  ]
+}
