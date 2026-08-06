@@ -1,0 +1,24 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-06T09:21:01.274496+05:30",
+  "stocks": [
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4240.5,
+      "alert_pct_move": 2.0454818914691373,
+      "alert_relative_volume": 11.861921072016038
+    },
+    {
+      "ticker": "HAL.NS",
+      "alert_price": 4757.10009765625,
+      "alert_pct_move": 1.374504510457112,
+      "alert_relative_volume": 11.239272998645607
+    },
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 444.95001220703125,
+      "alert_pct_move": 1.1364927517372372,
+      "alert_relative_volume": 8.079662820125947
+    }
+  ]
+}
