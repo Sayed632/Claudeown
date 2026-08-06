@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-08-06T09:26:07.469970+05:30",
+  "stocks": [
+    {
+      "ticker": "POWERGRID.NS",
+      "alert_price": 274.20001220703125,
+      "alert_pct_move": -2.071424211774554,
+      "alert_relative_volume": 6.573070564530631
+    }
+  ]
+}
