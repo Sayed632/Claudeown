@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-06T09:25:57.158013+05:30",
+  "stocks": [
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 899.0499877929688,
+      "alert_pct_move": -2.383280369927389,
+      "alert_relative_volume": 10.281961100139519
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1500.300048828125,
+      "alert_pct_move": 1.9087147526314105,
+      "alert_relative_volume": 3.8376643450546952
+    }
+  ]
+}
