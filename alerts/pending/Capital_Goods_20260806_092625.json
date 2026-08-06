@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-06T09:26:25.961172+05:30",
+  "stocks": [
+    {
+      "ticker": "CUMMINSIND.NS",
+      "alert_price": 5351.0,
+      "alert_pct_move": 1.8074581430745813,
+      "alert_relative_volume": 25.656605533905914
+    },
+    {
+      "ticker": "HAL.NS",
+      "alert_price": 4816.5,
+      "alert_pct_move": 2.640325187855505,
+      "alert_relative_volume": 22.547015917522412
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4290.0,
+      "alert_pct_move": 3.236674287089399,
+      "alert_relative_volume": 14.595086635955942
+    },
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 445.95001220703125,
+      "alert_pct_move": 1.3637913020846846,
+      "alert_relative_volume": 7.115173388017501
+    },
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 1255.0,
+      "alert_pct_move": 1.152579140074779,
+      "alert_relative_volume": 5.855099967759068
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "alert_price": 1967.5999755859375,
+      "alert_pct_move": -1.085862463107972,
+      "alert_relative_volume": 3.0874530690052167
+    }
+  ]
+}
