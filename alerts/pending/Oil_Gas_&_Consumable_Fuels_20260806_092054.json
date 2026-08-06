@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-06T09:20:54.160903+05:30",
+  "stocks": [
+    {
+      "ticker": "AEGISVOPAK.NS",
+      "alert_price": 285.20001220703125,
+      "alert_pct_move": 2.22222659750224,
+      "alert_relative_volume": 4.227335511368556
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "alert_price": 1298.4000244140625,
+      "alert_pct_move": 1.097872385725064,
+      "alert_relative_volume": 3.673264126336945
+    }
+  ]
+}
