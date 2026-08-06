@@ -1,0 +1,48 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-06T09:25:45.403691+05:30",
+  "stocks": [
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 21187.0,
+      "alert_pct_move": -2.0073077100966654,
+      "alert_relative_volume": 89.44739460819511
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 424.8500061035156,
+      "alert_pct_move": 1.6387574410324461,
+      "alert_relative_volume": 22.57946193916208
+    },
+    {
+      "ticker": "BLUEJET.NS",
+      "alert_price": 609.9000244140625,
+      "alert_pct_move": 2.332218861419882,
+      "alert_relative_volume": 11.395636920433038
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 526.8499755859375,
+      "alert_pct_move": 1.7084894953547296,
+      "alert_relative_volume": 6.629647899200053
+    },
+    {
+      "ticker": "AUROPHARMA.NS",
+      "alert_price": 1604.5999755859375,
+      "alert_pct_move": -1.31611466261147,
+      "alert_relative_volume": 4.775568855507978
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1405.199951171875,
+      "alert_pct_move": 1.1153486755849353,
+      "alert_relative_volume": 4.352074784984288
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 211.2899932861328,
+      "alert_pct_move": 2.947762439604036,
+      "alert_relative_volume": 3.9121255234959036
+    }
+  ]
+}
