@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-06T09:25:41.980243+05:30",
+  "stocks": [
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 8071.0,
+      "alert_pct_move": 1.8808381721787428,
+      "alert_relative_volume": 76.17788861411701
+    }
+  ]
+}
