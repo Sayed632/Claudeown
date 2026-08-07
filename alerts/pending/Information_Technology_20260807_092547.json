@@ -1,0 +1,30 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-07T09:25:47.373565+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1668.0,
+      "alert_pct_move": 1.4783749802267923,
+      "alert_relative_volume": 7.845164931759322
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2425.0,
+      "alert_pct_move": 1.9207308970713284,
+      "alert_relative_volume": 3.8274318432952428
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 334.5,
+      "alert_pct_move": 3.817500722211435,
+      "alert_relative_volume": 3.009770640442711
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4847.7001953125,
+      "alert_pct_move": 1.2468712471282373,
+      "alert_relative_volume": 3.0024590845745855
+    }
+  ]
+}
