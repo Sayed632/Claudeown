@@ -1,0 +1,48 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-07T09:20:59.557656+05:30",
+  "stocks": [
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1408.5999755859375,
+      "alert_pct_move": 1.148930079024882,
+      "alert_relative_volume": 23.209431387331264
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1373.9000244140625,
+      "alert_pct_move": 2.598764055155618,
+      "alert_relative_volume": 14.61670691373816
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 924.0,
+      "alert_pct_move": 1.4381353864123645,
+      "alert_relative_volume": 11.388088611307843
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 21989.0,
+      "alert_pct_move": 1.532991642425082,
+      "alert_relative_volume": 9.780970259333678
+    },
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1540.699951171875,
+      "alert_pct_move": -1.3004515584961562,
+      "alert_relative_volume": 4.45029492766622
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 857.0,
+      "alert_pct_move": 1.8540498137970787,
+      "alert_relative_volume": 3.8223508487264763
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5601.0,
+      "alert_pct_move": 1.4673913043478262,
+      "alert_relative_volume": 3.5372546130897575
+    }
+  ]
+}
