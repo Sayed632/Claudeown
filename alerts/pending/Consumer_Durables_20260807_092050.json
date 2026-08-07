@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-07T09:20:50.499286+05:30",
+  "stocks": [
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 627.9500122070312,
+      "alert_pct_move": 2.213727868731937,
+      "alert_relative_volume": 10.287693929066501
+    },
+    {
+      "ticker": "CROMPTON.NS",
+      "alert_price": 258.70001220703125,
+      "alert_pct_move": -4.167438226071314,
+      "alert_relative_volume": 10.128400926421696
+    },
+    {
+      "ticker": "BLUESTARCO.NS",
+      "alert_price": 1586.0999755859375,
+      "alert_pct_move": 2.342232908384571,
+      "alert_relative_volume": 8.396948514699746
+    }
+  ]
+}
