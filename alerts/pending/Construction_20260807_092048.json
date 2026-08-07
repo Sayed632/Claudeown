@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-07T09:20:48.397033+05:30",
+  "stocks": [
+    {
+      "ticker": "RITES.NS",
+      "alert_price": 229.52000427246094,
+      "alert_pct_move": -1.0305719252760839,
+      "alert_relative_volume": 4.178708932585995
+    }
+  ]
+}
