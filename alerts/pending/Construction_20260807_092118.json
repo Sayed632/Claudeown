@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-07T09:21:18.205112+05:30",
+  "stocks": [
+    {
+      "ticker": "AFCONS.NS",
+      "alert_price": 284.1499938964844,
+      "alert_pct_move": 1.3012455958946079,
+      "alert_relative_volume": 8.839977725382536
+    }
+  ]
+}
