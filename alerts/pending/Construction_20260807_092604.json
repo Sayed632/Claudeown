@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-07T09:26:04.604919+05:30",
+  "stocks": [
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 148.5,
+      "alert_pct_move": 1.0547826362349262,
+      "alert_relative_volume": 33.22770627911257
+    }
+  ]
+}
