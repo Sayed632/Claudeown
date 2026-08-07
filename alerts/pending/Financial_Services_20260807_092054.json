@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-07T09:20:54.111363+05:30",
+  "stocks": [
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3514.10009765625,
+      "alert_pct_move": 2.302768490720524,
+      "alert_relative_volume": 8.797962055195935
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 1094.5,
+      "alert_pct_move": -1.1559693184942523,
+      "alert_relative_volume": 4.500025436174143
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 127.8499984741211,
+      "alert_pct_move": -1.1443619701381738,
+      "alert_relative_volume": 3.4703799431944735
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2675.0,
+      "alert_pct_move": 1.441031475161168,
+      "alert_relative_volume": 3.1266927443756147
+    }
+  ]
+}
