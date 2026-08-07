@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-07T09:21:00.314729+05:30",
+  "stocks": [
+    {
+      "ticker": "TRENT.NS",
+      "alert_price": 3031.0,
+      "alert_pct_move": -1.9791718562275245,
+      "alert_relative_volume": 9.867072918213145
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 316.8500061035156,
+      "alert_pct_move": -1.492301533981535,
+      "alert_relative_volume": 8.187379543715718
+    }
+  ]
+}
