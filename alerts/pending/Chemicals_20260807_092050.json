@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-07T09:20:50.596173+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 696.9500122070312,
+      "alert_pct_move": 3.060999956677449,
+      "alert_relative_volume": 62.47420977086626
+    },
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1811.0,
+      "alert_pct_move": 2.42633476649677,
+      "alert_relative_volume": 24.310683355891452
+    },
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 4130.2998046875,
+      "alert_pct_move": 1.287452921446267,
+      "alert_relative_volume": 3.4391253620225677
+    }
+  ]
+}
