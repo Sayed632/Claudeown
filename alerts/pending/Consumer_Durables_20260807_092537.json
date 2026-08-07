@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-07T09:25:37.008265+05:30",
+  "stocks": [
+    {
+      "ticker": "CROMPTON.NS",
+      "alert_price": 253.6999969482422,
+      "alert_pct_move": -6.019638645663972,
+      "alert_relative_volume": 14.95987826565346
+    },
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 623.0,
+      "alert_pct_move": 1.407996216783849,
+      "alert_relative_volume": 11.90858043823875
+    },
+    {
+      "ticker": "BLUESTARCO.NS",
+      "alert_price": 1567.699951171875,
+      "alert_pct_move": 1.15498140274837,
+      "alert_relative_volume": 8.926082134058227
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 622.75,
+      "alert_pct_move": 2.5018537589389056,
+      "alert_relative_volume": 4.883704306278114
+    }
+  ]
+}
