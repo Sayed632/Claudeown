@@ -1,0 +1,54 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-07T09:26:34.158135+05:30",
+  "stocks": [
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 930.1500244140625,
+      "alert_pct_move": 2.1132944872169244,
+      "alert_relative_volume": 12.812802857270896
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1373.5,
+      "alert_pct_move": 2.568891422689363,
+      "alert_relative_volume": 12.538689440087442
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2375.0,
+      "alert_pct_move": -1.4522821576763485,
+      "alert_relative_volume": 8.472931303355141
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 1983.699951171875,
+      "alert_pct_move": 1.235006438983159,
+      "alert_relative_volume": 6.923879727121181
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 537.75,
+      "alert_pct_move": 2.1367521367521367,
+      "alert_relative_volume": 4.975470712747373
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 859.0,
+      "alert_pct_move": 2.091748879873618,
+      "alert_relative_volume": 3.930955724291565
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5595.0,
+      "alert_pct_move": 1.358695652173913,
+      "alert_relative_volume": 3.8556590917461606
+    },
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1540.800048828125,
+      "alert_pct_move": -1.294039152586483,
+      "alert_relative_volume": 3.050575610167882
+    }
+  ]
+}
