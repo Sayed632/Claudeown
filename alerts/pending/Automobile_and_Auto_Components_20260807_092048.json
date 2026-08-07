@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-07T09:20:48.189768+05:30",
+  "stocks": [
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 162.16000366210938,
+      "alert_pct_move": 4.102201460090828,
+      "alert_relative_volume": 13.64422274443677
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1475.5,
+      "alert_pct_move": 2.040110650069156,
+      "alert_relative_volume": 3.082092391830101
+    }
+  ]
+}
