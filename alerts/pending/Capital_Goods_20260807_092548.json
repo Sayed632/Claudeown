@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-07T09:25:48.921758+05:30",
+  "stocks": [
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3515.10009765625,
+      "alert_pct_move": 1.866292271007347,
+      "alert_relative_volume": 34.8690565716608
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2160.10009765625,
+      "alert_pct_move": 3.850966233473558,
+      "alert_relative_volume": 24.317251995861728
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 18575.0,
+      "alert_pct_move": 1.5415732793964905,
+      "alert_relative_volume": 9.757481614429151
+    },
+    {
+      "ticker": "PREMIERENE.NS",
+      "alert_price": 1024.800048828125,
+      "alert_pct_move": -2.269685991983126,
+      "alert_relative_volume": 8.902549381940243
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1756.199951171875,
+      "alert_pct_move": 1.5203148382358451,
+      "alert_relative_volume": 5.772324052802429
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1972.0,
+      "alert_pct_move": 1.206055940467026,
+      "alert_relative_volume": 3.169664029900072
+    }
+  ]
+}
