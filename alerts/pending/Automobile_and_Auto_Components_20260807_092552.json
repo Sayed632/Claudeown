@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-07T09:25:52.092274+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 432.70001220703125,
+      "alert_pct_move": -1.6143646618925644,
+      "alert_relative_volume": 15.564159926889474
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 161.3000030517578,
+      "alert_pct_move": 3.5501050443731295,
+      "alert_relative_volume": 12.323183663752934
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5648.5,
+      "alert_pct_move": 1.0917225950782998,
+      "alert_relative_volume": 3.701931191826714
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1483.699951171875,
+      "alert_pct_move": 2.607188877723029,
+      "alert_relative_volume": 3.177200660384264
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 41.4900016784668,
+      "alert_pct_move": 1.368192937003719,
+      "alert_relative_volume": 3.0537927980187867
+    }
+  ]
+}
