@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-07T09:20:53.880079+05:30",
+  "stocks": [
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3491.39990234375,
+      "alert_pct_move": 1.1794694336739737,
+      "alert_relative_volume": 34.610164213319266
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2170.0,
+      "alert_pct_move": 4.326923076923077,
+      "alert_relative_volume": 28.66221606795018
+    },
+    {
+      "ticker": "PREMIERENE.NS",
+      "alert_price": 1032.9000244140625,
+      "alert_pct_move": -1.4972297861348098,
+      "alert_relative_volume": 8.028758015395553
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 18624.0,
+      "alert_pct_move": 1.8094353031214125,
+      "alert_relative_volume": 7.048535864301575
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 648.75,
+      "alert_pct_move": 1.0435343562675514,
+      "alert_relative_volume": 3.8710746449338638
+    }
+  ]
+}
