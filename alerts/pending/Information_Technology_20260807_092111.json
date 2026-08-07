@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-07T09:21:11.779451+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4866.0,
+      "alert_pct_move": 1.6290726817042605,
+      "alert_relative_volume": 3.1636081706901598
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 334.3500061035156,
+      "alert_pct_move": 3.770947683477223,
+      "alert_relative_volume": 3.0003368877280505
+    }
+  ]
+}
