@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-07T09:20:50.233385+05:30",
+  "stocks": [
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1444.4000244140625,
+      "alert_pct_move": 1.861778872641925,
+      "alert_relative_volume": 7.013850674500552
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1258.5,
+      "alert_pct_move": 1.93585168367751,
+      "alert_relative_volume": 3.77485491139497
+    }
+  ]
+}
