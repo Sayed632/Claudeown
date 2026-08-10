@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-10T09:25:53.203535+05:30",
+  "stocks": [
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 860.0,
+      "alert_pct_move": -1.455255188425323,
+      "alert_relative_volume": 4.061542434896849
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 5036.89990234375,
+      "alert_pct_move": 1.591365517219645,
+      "alert_relative_volume": 3.724247875179645
+    }
+  ]
+}
