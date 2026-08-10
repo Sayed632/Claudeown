@@ -1,0 +1,48 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-10T09:26:07.825306+05:30",
+  "stocks": [
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 59.400001525878906,
+      "alert_pct_move": -2.238309468768233,
+      "alert_relative_volume": 13.479178255194153
+    },
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 107.5999984741211,
+      "alert_pct_move": -2.9143763453665694,
+      "alert_relative_volume": 8.614420632225308
+    },
+    {
+      "ticker": "NAUKRI.NS",
+      "alert_price": 1263.199951171875,
+      "alert_pct_move": 1.8956199827051459,
+      "alert_relative_volume": 5.128129041604905
+    },
+    {
+      "ticker": "DBREALTY.NS",
+      "alert_price": 118.16999816894531,
+      "alert_pct_move": -1.5250015258789062,
+      "alert_relative_volume": 4.338341616903704
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 133.50999450683594,
+      "alert_pct_move": -1.6138559253185147,
+      "alert_relative_volume": 3.9503045555054412
+    },
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 215.10000610351562,
+      "alert_pct_move": -2.6344342357720527,
+      "alert_relative_volume": 3.4617947099381277
+    },
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 92.8499984741211,
+      "alert_pct_move": -1.0760730126386537,
+      "alert_relative_volume": 3.1643741212023837
+    }
+  ]
+}
