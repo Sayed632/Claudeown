@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-10T09:20:49.765243+05:30",
+  "stocks": [
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 601.1500244140625,
+      "alert_pct_move": 1.0336175485819328,
+      "alert_relative_volume": 20.50080464199098
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 76.5199966430664,
+      "alert_pct_move": 1.6201773464338713,
+      "alert_relative_volume": 18.556995345620926
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3656.800048828125,
+      "alert_pct_move": 3.445545935731966,
+      "alert_relative_volume": 16.866022189300086
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 693.25,
+      "alert_pct_move": -1.147866524039523,
+      "alert_relative_volume": 14.55914187414423
+    },
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 783.25,
+      "alert_pct_move": -1.477987421383648,
+      "alert_relative_volume": 7.045010769517835
+    },
+    {
+      "ticker": "JINDALSAW.NS",
+      "alert_price": 276.45001220703125,
+      "alert_pct_move": 1.2266591097203567,
+      "alert_relative_volume": 6.868242884842382
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2081.39990234375,
+      "alert_pct_move": -2.5972203910500276,
+      "alert_relative_volume": 5.131325295230167
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 16419.0,
+      "alert_pct_move": -1.535232383808096,
+      "alert_relative_volume": 3.4361422154229886
+    }
+  ]
+}
