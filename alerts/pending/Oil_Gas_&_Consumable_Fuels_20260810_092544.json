@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-10T09:25:44.237605+05:30",
+  "stocks": [
+    {
+      "ticker": "OIL.NS",
+      "alert_price": 458.70001220703125,
+      "alert_pct_move": 1.7298776704657859,
+      "alert_relative_volume": 14.175466345181574
+    }
+  ]
+}
