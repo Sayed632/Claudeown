@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-10T09:21:06.997062+05:30",
+  "stocks": [
+    {
+      "ticker": "DELHIVERY.NS",
+      "alert_price": 471.70001220703125,
+      "alert_pct_move": 3.693123441626125,
+      "alert_relative_volume": 31.752387510412927
+    },
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 300.25,
+      "alert_pct_move": -1.7345730665058505,
+      "alert_relative_volume": 3.7789986807762763
+    }
+  ]
+}
