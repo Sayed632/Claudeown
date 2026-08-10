@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-10T09:26:02.503247+05:30",
+  "stocks": [
+    {
+      "ticker": "PFC.NS",
+      "alert_price": 404.75,
+      "alert_pct_move": -2.375785325255474,
+      "alert_relative_volume": 6.1006283847617375
+    },
+    {
+      "ticker": "SBIN.NS",
+      "alert_price": 1092.800048828125,
+      "alert_pct_move": -1.3718367483641696,
+      "alert_relative_volume": 5.675835323383095
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1480.300048828125,
+      "alert_pct_move": 2.3083850888445587,
+      "alert_relative_volume": 3.6893075744279717
+    }
+  ]
+}
