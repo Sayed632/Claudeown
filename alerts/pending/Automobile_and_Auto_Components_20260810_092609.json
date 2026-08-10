@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-10T09:26:09.589299+05:30",
+  "stocks": [
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 386.95001220703125,
+      "alert_pct_move": -1.1116728141169814,
+      "alert_relative_volume": 8.734859938177552
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5895.5,
+      "alert_pct_move": 1.6816143497757847,
+      "alert_relative_volume": 6.697621147142532
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 171.80999755859375,
+      "alert_pct_move": 1.0647044462316175,
+      "alert_relative_volume": 5.876323444226758
+    },
+    {
+      "ticker": "SONACOMS.NS",
+      "alert_price": 835.5999755859375,
+      "alert_pct_move": 1.654498246464416,
+      "alert_relative_volume": 3.319335798019812
+    }
+  ]
+}
