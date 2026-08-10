@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-10T09:21:18.368017+05:30",
+  "stocks": [
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 723.0999755859375,
+      "alert_pct_move": 1.6946751986271404,
+      "alert_relative_volume": 60.81561260668197
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1407.0999755859375,
+      "alert_pct_move": 3.008782985793375,
+      "alert_relative_volume": 49.967011331085324
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 567.5499877929688,
+      "alert_pct_move": 1.9489806624797594,
+      "alert_relative_volume": 11.475259514784272
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1418.9000244140625,
+      "alert_pct_move": 3.0278880860186232,
+      "alert_relative_volume": 6.711130259700371
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2045.9000244140625,
+      "alert_pct_move": 1.302240500398832,
+      "alert_relative_volume": 6.4090910087209245
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 553.75,
+      "alert_pct_move": 1.0492700729927007,
+      "alert_relative_volume": 6.237374293235573
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 22495.0,
+      "alert_pct_move": -1.8200069832402233,
+      "alert_relative_volume": 5.796663857893493
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2026.300048828125,
+      "alert_pct_move": 1.062346574968828,
+      "alert_relative_volume": 5.698511766090463
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 877.25,
+      "alert_pct_move": 1.065668202764977,
+      "alert_relative_volume": 5.4541174331905085
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2323.89990234375,
+      "alert_pct_move": -1.5296651549258475,
+      "alert_relative_volume": 5.00971026752261
+    },
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 929.5,
+      "alert_pct_move": 1.241697496700937,
+      "alert_relative_volume": 4.131206071901735
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1481.9000244140625,
+      "alert_pct_move": 1.4374700286847266,
+      "alert_relative_volume": 3.448170556658547
+    }
+  ]
+}
