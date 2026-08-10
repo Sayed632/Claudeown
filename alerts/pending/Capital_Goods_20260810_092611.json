@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-10T09:26:11.311481+05:30",
+  "stocks": [
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3678.10009765625,
+      "alert_pct_move": 4.048093285891089,
+      "alert_relative_volume": 15.78281476880929
+    },
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 780.7000122070312,
+      "alert_pct_move": -1.7987406028891508,
+      "alert_relative_volume": 6.63104598010886
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2066.800048828125,
+      "alert_pct_move": -3.280446287574797,
+      "alert_relative_volume": 6.0973329745818035
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1459.199951171875,
+      "alert_pct_move": 1.0176497869072343,
+      "alert_relative_volume": 5.43398746309481
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1809.5,
+      "alert_pct_move": 1.2137795379354073,
+      "alert_relative_volume": 4.306320898292839
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 233.27999877929688,
+      "alert_pct_move": -1.0645042530664317,
+      "alert_relative_volume": 4.1015562546847315
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 18976.0,
+      "alert_pct_move": -1.505242395930655,
+      "alert_relative_volume": 3.188887672988913
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 1820.300048828125,
+      "alert_pct_move": -1.04913715013859,
+      "alert_relative_volume": 3.0009798090597033
+    }
+  ]
+}
