@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-10T09:20:46.040786+05:30",
+  "stocks": [
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 386.70001220703125,
+      "alert_pct_move": -1.175562414883407,
+      "alert_relative_volume": 9.764442426606374
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5879.5,
+      "alert_pct_move": 1.4056571231459123,
+      "alert_relative_volume": 4.536213013886479
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 39.459999084472656,
+      "alert_pct_move": -1.0035161057549673,
+      "alert_relative_volume": 4.4681350340031045
+    }
+  ]
+}
