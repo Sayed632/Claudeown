@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-10T09:26:30.275883+05:30",
+  "stocks": [
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 542.0,
+      "alert_pct_move": 1.8988484907598124,
+      "alert_relative_volume": 3.3781414493561623
+    }
+  ]
+}
