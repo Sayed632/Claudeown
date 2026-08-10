@@ -1,0 +1,18 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-10T09:21:07.805026+05:30",
+  "stocks": [
+    {
+      "ticker": "PFC.NS",
+      "alert_price": 404.5,
+      "alert_pct_move": -2.4360844078217156,
+      "alert_relative_volume": 6.978548877865472
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1471.0,
+      "alert_pct_move": 1.6656282520761612,
+      "alert_relative_volume": 3.7566571242006326
+    }
+  ]
+}
