@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-10T09:25:43.919814+05:30",
+  "stocks": [
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 240.7899932861328,
+      "alert_pct_move": 2.734869984547205,
+      "alert_relative_volume": 8.476431692040336
+    },
+    {
+      "ticker": "BRITANNIA.NS",
+      "alert_price": 5608.5,
+      "alert_pct_move": 1.5296886314265024,
+      "alert_relative_volume": 3.2811617405720126
+    }
+  ]
+}
