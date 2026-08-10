@@ -1,0 +1,66 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-10T09:25:45.087867+05:30",
+  "stocks": [
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1393.0,
+      "alert_pct_move": 1.9765739385065886,
+      "alert_relative_volume": 53.51546443934122
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1416.0999755859375,
+      "alert_pct_move": 2.8245734674156813,
+      "alert_relative_volume": 10.129112962126285
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 567.75,
+      "alert_pct_move": 1.9849088468960492,
+      "alert_relative_volume": 9.553525565817942
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 943.6500244140625,
+      "alert_pct_move": 1.3478733924600637,
+      "alert_relative_volume": 8.613883552669321
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2050.800048828125,
+      "alert_pct_move": 1.5448640136339655,
+      "alert_relative_volume": 6.65962728942305
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2036.0,
+      "alert_pct_move": 1.546134663341646,
+      "alert_relative_volume": 6.312162245680229
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2323.199951171875,
+      "alert_pct_move": -1.5593241028866527,
+      "alert_relative_volume": 4.670883181514764
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 22482.0,
+      "alert_pct_move": -1.876745810055866,
+      "alert_relative_volume": 4.608518011043963
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 554.5999755859375,
+      "alert_pct_move": 1.2043751069229014,
+      "alert_relative_volume": 4.575987278081131
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 878.6500244140625,
+      "alert_pct_move": 1.2269613380256337,
+      "alert_relative_volume": 3.87971711384094
+    }
+  ]
+}
