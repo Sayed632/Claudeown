@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-10T09:20:56.156853+05:30",
+  "stocks": [
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 723.0,
+      "alert_pct_move": 1.6806149233084087,
+      "alert_relative_volume": 60.81561260668197
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1412.199951171875,
+      "alert_pct_move": 3.382134053577965,
+      "alert_relative_volume": 47.86634214225951
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 568.7999877929688,
+      "alert_pct_move": 2.1735181104033527,
+      "alert_relative_volume": 10.564196470386744
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1418.699951171875,
+      "alert_pct_move": 3.0133605483130594,
+      "alert_relative_volume": 6.711130259700371
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 556.0499877929688,
+      "alert_pct_move": 1.4689758746293338,
+      "alert_relative_volume": 6.237374293235573
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2042.699951171875,
+      "alert_pct_move": 1.1437896546436435,
+      "alert_relative_volume": 6.215522341023759
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 22577.0,
+      "alert_pct_move": -1.4621159217877095,
+      "alert_relative_volume": 5.50974785841077
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 879.75,
+      "alert_pct_move": 1.3536866359447004,
+      "alert_relative_volume": 5.4541174331905085
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2323.39990234375,
+      "alert_pct_move": -1.5508515956038136,
+      "alert_relative_volume": 4.56742457144538
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2028.199951171875,
+      "alert_pct_move": 1.1571047966022443,
+      "alert_relative_volume": 4.313045507352868
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1482.0,
+      "alert_pct_move": 1.4443134528935526,
+      "alert_relative_volume": 3.448170556658547
+    },
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 931.2000122070312,
+      "alert_pct_move": 1.4268638459262806,
+      "alert_relative_volume": 3.107632261469023
+    }
+  ]
+}
