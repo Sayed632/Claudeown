@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-11T09:26:06.132991+05:30",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 761.7000122070312,
+      "alert_pct_move": -1.7161274571572582,
+      "alert_relative_volume": 14.511628901095419
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 764.0999755859375,
+      "alert_pct_move": 1.609039306640625,
+      "alert_relative_volume": 3.4069850220037092
+    }
+  ]
+}
