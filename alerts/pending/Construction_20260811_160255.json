@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-11T16:02:55.602726+05:30",
+  "stocks": [
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 452.20001220703125,
+      "alert_pct_move": -4.970052241911623,
+      "alert_relative_volume": 5.04550568838832
+    },
+    {
+      "ticker": "KPIL.NS",
+      "alert_price": 1360.0999755859375,
+      "alert_pct_move": 3.3982020938296955,
+      "alert_relative_volume": 3.1918161922173955
+    }
+  ]
+}
