@@ -109,8 +109,19 @@ def load_universe() -> list:
 
 def check_stock(ticker: str):
     """
-    Returns a dict with today's relative volume and % move so far, or None
-    if data wasn't available / usable for this ticker.
+    Returns a dict with today's relative volume and % move, or None if
+    data wasn't available / usable for this ticker.
+
+    IMPORTANT: pct_move is computed vs. YESTERDAY'S CLOSE (the standard
+    "1D change" convention every broker app uses), NOT vs. today's own
+    opening price. An earlier version used today's open as the baseline,
+    which could look contradictory next to a broker app - e.g. a stock
+    gapping up at open then fading through the day could show "+1.8%"
+    here (vs. its own open) while the broker correctly shows "-3.1%"
+    (vs. yesterday's close) - both technically correct under their own
+    definition, but confusing to compare directly. Fixed after a real
+    case: DEVYANI showed +1.8% "so far" in an alert, but -3.11% on the
+    broker app a few hours later on the same day.
     """
     try:
         tk = yf.Ticker(ticker)
@@ -120,11 +131,7 @@ def check_stock(ticker: str):
             return None
 
         vol_so_far = intraday["Volume"].sum()
-        open_price = intraday["Open"].iloc[0]
         last_price = intraday["Close"].iloc[-1]
-        if open_price == 0:
-            return None
-        pct_move = (last_price - open_price) / open_price * 100
 
         # Average volume over the last 10 sessions, same elapsed-time-of-day
         # (approximated here as: 10-day average daily volume * fraction of
@@ -133,6 +140,14 @@ def check_stock(ticker: str):
         daily = tk.history(period="15d", interval="1d")
         if daily is None or len(daily) < 5:
             return None
+
+        # Previous close = the last COMPLETED session's close, i.e. exclude
+        # today's (possibly still-forming) row before taking .iloc[-1].
+        previous_close = daily["Close"].iloc[-2] if len(daily) >= 2 else None
+        if previous_close is None or previous_close == 0:
+            return None
+        pct_move = (last_price - previous_close) / previous_close * 100
+
         avg_daily_vol = daily["Volume"].iloc[:-1].mean()  # exclude today (partial)
         if avg_daily_vol == 0 or avg_daily_vol != avg_daily_vol:  # NaN check
             return None
@@ -229,7 +244,7 @@ def run_scan():
             direction = "🟢" if h["pct_move"] > 0 else "🔴"
             lines.append(
                 f"{direction} *{h['ticker']}* — {h['relative_volume']:.1f}x normal volume, "
-                f"{h['pct_move']:+.1f}% so far | ₹{h['last_price']:.2f}"
+                f"{h['pct_move']:+.1f}% (1D, vs prev close) | ₹{h['last_price']:.2f}"
             )
         lines.append(f"\nScreened: {checked}/{len(universe)} OK.")
 
