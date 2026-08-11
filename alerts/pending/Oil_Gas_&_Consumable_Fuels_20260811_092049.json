@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-11T09:20:49.880590+05:30",
+  "stocks": [
+    {
+      "ticker": "OIL.NS",
+      "alert_price": 475.0,
+      "alert_pct_move": 2.9698704898253347,
+      "alert_relative_volume": 14.629523376363036
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1292.0999755859375,
+      "alert_pct_move": 3.7664653271086492,
+      "alert_relative_volume": 5.908757281565579
+    }
+  ]
+}
