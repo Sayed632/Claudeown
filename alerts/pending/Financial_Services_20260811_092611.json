@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-11T09:26:11.191613+05:30",
+  "stocks": [
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 403.20001220703125,
+      "alert_pct_move": 2.2312419996782658,
+      "alert_relative_volume": 14.126988517445746
+    },
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1649.0,
+      "alert_pct_move": 1.3646391999967584,
+      "alert_relative_volume": 6.650470881450731
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3559.5,
+      "alert_pct_move": -1.7119977909705923,
+      "alert_relative_volume": 4.914125887692705
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2755.89990234375,
+      "alert_pct_move": -1.0448868099192101,
+      "alert_relative_volume": 3.065673184018507
+    }
+  ]
+}
