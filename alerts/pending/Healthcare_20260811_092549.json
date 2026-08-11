@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-11T09:25:49.250870+05:30",
+  "stocks": [
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 2899.699951171875,
+      "alert_pct_move": 1.8868570334460648,
+      "alert_relative_volume": 60.21459063910772
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1824.0,
+      "alert_pct_move": 1.1086474501108647,
+      "alert_relative_volume": 12.34096455973901
+    },
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 926.75,
+      "alert_pct_move": 1.7903221016446342,
+      "alert_relative_volume": 6.418701435921971
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1445.5,
+      "alert_pct_move": 1.4670802170599735,
+      "alert_relative_volume": 6.371945856728629
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 744.1500244140625,
+      "alert_pct_move": 1.4312001159389232,
+      "alert_relative_volume": 5.153701182710241
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 552.0999755859375,
+      "alert_pct_move": -2.265896313494009,
+      "alert_relative_volume": 3.3062049501680706
+    }
+  ]
+}
