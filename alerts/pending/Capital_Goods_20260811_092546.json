@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-11T09:25:46.048592+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 265.6000061035156,
+      "alert_pct_move": 1.238803096775094,
+      "alert_relative_volume": 13.75975812100258
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 419.75,
+      "alert_pct_move": -2.3837209302325584,
+      "alert_relative_volume": 12.922611320348546
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 35680.0,
+      "alert_pct_move": -1.7215259606114859,
+      "alert_relative_volume": 6.460824275976795
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1406.300048828125,
+      "alert_pct_move": -1.9999965973432055,
+      "alert_relative_volume": 5.694668583084355
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2060.89990234375,
+      "alert_pct_move": -4.063869789239197,
+      "alert_relative_volume": 5.109961717689719
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 845.5,
+      "alert_pct_move": 1.1182174625288752,
+      "alert_relative_volume": 4.518607648165776
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1121.199951171875,
+      "alert_pct_move": -1.2419710252637044,
+      "alert_relative_volume": 3.4136684126627923
+    },
+    {
+      "ticker": "SUPREMEIND.NS",
+      "alert_price": 3428.39990234375,
+      "alert_pct_move": -1.3438518028299826,
+      "alert_relative_volume": 3.155067105330322
+    }
+  ]
+}
