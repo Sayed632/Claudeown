@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-11T09:21:17.400745+05:30",
+  "stocks": [
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 60.47999954223633,
+      "alert_pct_move": -1.3376830424631818,
+      "alert_relative_volume": 17.733969134523647
+    },
+    {
+      "ticker": "BLS.NS",
+      "alert_price": 265.4700012207031,
+      "alert_pct_move": 1.3244279468332538,
+      "alert_relative_volume": 14.2419769579652
+    },
+    {
+      "ticker": "NAUKRI.NS",
+      "alert_price": 1319.699951171875,
+      "alert_pct_move": 1.9545678523349108,
+      "alert_relative_volume": 9.88872705744594
+    },
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 225.0,
+      "alert_pct_move": 1.9899367107124915,
+      "alert_relative_volume": 3.7027392109900434
+    }
+  ]
+}
