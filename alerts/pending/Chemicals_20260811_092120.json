@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-11T09:21:20.299508+05:30",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 766.7999877929688,
+      "alert_pct_move": -1.0580660912298387,
+      "alert_relative_volume": 7.491999646474328
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 7133.0,
+      "alert_pct_move": 1.0554650421477652,
+      "alert_relative_volume": 7.333435975355818
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 764.7000122070312,
+      "alert_pct_move": 1.6888314105094746,
+      "alert_relative_volume": 4.420019691959612
+    }
+  ]
+}
