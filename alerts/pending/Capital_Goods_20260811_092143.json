@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-11T09:21:43.893707+05:30",
+  "stocks": [
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 421.3999938964844,
+      "alert_pct_move": -2.0000014194222384,
+      "alert_relative_volume": 19.78078125234988
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 267.5,
+      "alert_pct_move": 1.963024119180824,
+      "alert_relative_volume": 14.286327071554226
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1416.5999755859375,
+      "alert_pct_move": -1.2822316664851916,
+      "alert_relative_volume": 6.389356232956656
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2071.0,
+      "alert_pct_move": -3.5937041675176133,
+      "alert_relative_volume": 4.514769047948212
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 845.9000244140625,
+      "alert_pct_move": 1.1660586874744607,
+      "alert_relative_volume": 3.883350976278928
+    }
+  ]
+}
