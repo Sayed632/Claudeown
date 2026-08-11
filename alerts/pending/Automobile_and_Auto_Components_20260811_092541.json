@@ -1,0 +1,48 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-11T09:25:41.683554+05:30",
+  "stocks": [
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 44980.0,
+      "alert_pct_move": 1.7186793306196293,
+      "alert_relative_volume": 21.030388576203123
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1207.75,
+      "alert_pct_move": 1.8596651544374314,
+      "alert_relative_volume": 17.479327861860302
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1406.5,
+      "alert_pct_move": 1.9202898550724639,
+      "alert_relative_volume": 14.404607928399788
+    },
+    {
+      "ticker": "BHARATFORG.NS",
+      "alert_price": 2060.39990234375,
+      "alert_pct_move": -3.267610218603286,
+      "alert_relative_volume": 10.883562015598773
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 647.9000244140625,
+      "alert_pct_move": 1.242286437281812,
+      "alert_relative_volume": 4.858565075363386
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 919.7000122070312,
+      "alert_pct_move": 1.6243107411084252,
+      "alert_relative_volume": 4.64664078716841
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 40.06999969482422,
+      "alert_pct_move": 1.4430372020866298,
+      "alert_relative_volume": 3.9459125427398454
+    }
+  ]
+}
