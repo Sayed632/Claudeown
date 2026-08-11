@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-11T16:03:00.574228+05:30",
+  "stocks": [
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 970.25,
+      "alert_pct_move": 8.081763039592895,
+      "alert_relative_volume": 9.969930959816478
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 131125.0,
+      "alert_pct_move": -2.0358610384759057,
+      "alert_relative_volume": 5.100930672757837
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 45185.0,
+      "alert_pct_move": 3.8616251005631534,
+      "alert_relative_volume": 4.335424045434428
+    },
+    {
+      "ticker": "BHARATFORG.NS",
+      "alert_price": 2051.0,
+      "alert_pct_move": -2.011375265969918,
+      "alert_relative_volume": 3.8844610951159386
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1209.0999755859375,
+      "alert_pct_move": 7.830190219787517,
+      "alert_relative_volume": 3.7748497366892138
+    }
+  ]
+}
