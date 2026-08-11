@@ -1,0 +1,42 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-11T09:20:50.391441+05:30",
+  "stocks": [
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 45020.0,
+      "alert_pct_move": 1.8091361374943467,
+      "alert_relative_volume": 24.21901066794117
+    },
+    {
+      "ticker": "BHARATFORG.NS",
+      "alert_price": 2079.699951171875,
+      "alert_pct_move": -2.3615046398180755,
+      "alert_relative_volume": 9.053442465061215
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1407.5,
+      "alert_pct_move": 1.9927536231884055,
+      "alert_relative_volume": 7.857216099262014
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 917.1500244140625,
+      "alert_pct_move": 1.3425441341505524,
+      "alert_relative_volume": 5.015112524636017
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 40.040000915527344,
+      "alert_pct_move": 1.3670909253856804,
+      "alert_relative_volume": 4.5284859456412905
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1498.300048828125,
+      "alert_pct_move": 1.7244907320961542,
+      "alert_relative_volume": 3.7895611328629935
+    }
+  ]
+}
