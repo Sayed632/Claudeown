@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-12T09:25:44.440810+05:30",
+  "stocks": [
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 512.5999755859375,
+      "alert_pct_move": -8.578568855699157,
+      "alert_relative_volume": 530.7964736203751
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 921.6500244140625,
+      "alert_pct_move": -4.2640477067056315,
+      "alert_relative_volume": 18.007338324573904
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1458.9000244140625,
+      "alert_pct_move": 2.1495640870871964,
+      "alert_relative_volume": 11.23116933276516
+    },
+    {
+      "ticker": "ZYDUSLIFE.NS",
+      "alert_price": 1155.300048828125,
+      "alert_pct_move": -2.9974770085537363,
+      "alert_relative_volume": 9.288088642193767
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1892.0999755859375,
+      "alert_pct_move": 1.5129540641934358,
+      "alert_relative_volume": 7.754325674635613
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8636.5,
+      "alert_pct_move": -1.3027826981315354,
+      "alert_relative_volume": 5.704158773669778
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 769.9500122070312,
+      "alert_pct_move": 1.1827320922036302,
+      "alert_relative_volume": 4.841029249366562
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 918.8499755859375,
+      "alert_pct_move": -2.7826321905275817,
+      "alert_relative_volume": 4.795178921177659
+    },
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 846.75,
+      "alert_pct_move": 1.852411723860162,
+      "alert_relative_volume": 4.112200832800862
+    },
+    {
+      "ticker": "MANKIND.NS",
+      "alert_price": 2392.800048828125,
+      "alert_pct_move": -1.327833038015464,
+      "alert_relative_volume": 3.939762181556321
+    },
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 2885.89990234375,
+      "alert_pct_move": -1.316509413406296,
+      "alert_relative_volume": 3.912903497672154
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1981.699951171875,
+      "alert_pct_move": 1.4176024141184749,
+      "alert_relative_volume": 3.10881175991385
+    }
+  ]
+}
