@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-12T09:25:50.391632+05:30",
+  "stocks": [
+    {
+      "ticker": "ANANDRATHI.NS",
+      "alert_price": 2206.10009765625,
+      "alert_pct_move": 2.228920187963392,
+      "alert_relative_volume": 8.764239424855795
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2929.5,
+      "alert_pct_move": 1.1917098445595855,
+      "alert_relative_volume": 8.728947655584937
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 116.16999816894531,
+      "alert_pct_move": 1.8766985991031797,
+      "alert_relative_volume": 7.09684666204939
+    }
+  ]
+}
