@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-12T09:26:06.317043+05:30",
+  "stocks": [
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 991.7999877929688,
+      "alert_pct_move": 2.2210757838669157,
+      "alert_relative_volume": 11.258730427325174
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 130885.0,
+      "alert_pct_move": -2.215166230855435,
+      "alert_relative_volume": 5.341655529331476
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 45840.0,
+      "alert_pct_move": 1.4495961049020691,
+      "alert_relative_volume": 5.273824488143681
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 40.119998931884766,
+      "alert_pct_move": 1.1598564958206172,
+      "alert_relative_volume": 3.688751929205563
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1395.4000244140625,
+      "alert_pct_move": 1.980557963814089,
+      "alert_relative_volume": 3.609569732823783
+    }
+  ]
+}
