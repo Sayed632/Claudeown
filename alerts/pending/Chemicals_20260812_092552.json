@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-12T09:25:52.986186+05:30",
+  "stocks": [
+    {
+      "ticker": "PIIND.NS",
+      "alert_price": 2642.0,
+      "alert_pct_move": -3.983140491585418,
+      "alert_relative_volume": 26.081526488052834
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6801.5,
+      "alert_pct_move": -2.4454962707974754,
+      "alert_relative_volume": 12.506678195138985
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 4069.699951171875,
+      "alert_pct_move": -1.1272842103814658,
+      "alert_relative_volume": 4.495998985175332
+    }
+  ]
+}
