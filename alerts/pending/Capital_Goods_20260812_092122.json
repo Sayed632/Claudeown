@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-12T09:21:22.123141+05:30",
+  "stocks": [
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1309.5,
+      "alert_pct_move": 8.415782296534905,
+      "alert_relative_volume": 100.94952275700201
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 397.5,
+      "alert_pct_move": -4.343638147803638,
+      "alert_relative_volume": 68.41038671240625
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 17300.0,
+      "alert_pct_move": 5.179961089494164,
+      "alert_relative_volume": 5.469892930247374
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1180.0999755859375,
+      "alert_pct_move": 5.27207632345562,
+      "alert_relative_volume": 3.080588172860468
+    }
+  ]
+}
