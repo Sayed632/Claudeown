@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-12T09:20:53.395270+05:30",
+  "stocks": [
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 131175.0,
+      "alert_pct_move": -1.998505790063504,
+      "alert_relative_volume": 7.112768861486328
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2750.5,
+      "alert_pct_move": -2.291296625222025,
+      "alert_relative_volume": 3.819673938234666
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1543.0999755859375,
+      "alert_pct_move": 1.1603481636676853,
+      "alert_relative_volume": 3.148142620204849
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1387.0,
+      "alert_pct_move": 1.366655741033591,
+      "alert_relative_volume": 3.01350544225103
+    }
+  ]
+}
