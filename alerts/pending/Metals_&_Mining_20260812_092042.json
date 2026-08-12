@@ -1,0 +1,30 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-12T09:20:42.970369+05:30",
+  "stocks": [
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 416.75,
+      "alert_pct_move": 7.40979381443299,
+      "alert_relative_volume": 30.379642014596477
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 1083.699951171875,
+      "alert_pct_move": 3.2980627577093324,
+      "alert_relative_volume": 10.915111126915692
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 595.8499755859375,
+      "alert_pct_move": 1.5682179815919683,
+      "alert_relative_volume": 4.3553939643030235
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 279.8999938964844,
+      "alert_pct_move": 1.7818159623579546,
+      "alert_relative_volume": 4.339646666064509
+    }
+  ]
+}
