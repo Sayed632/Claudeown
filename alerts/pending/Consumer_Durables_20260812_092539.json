@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-12T09:25:39.727868+05:30",
+  "stocks": [
+    {
+      "ticker": "BATAINDIA.NS",
+      "alert_price": 737.1500244140625,
+      "alert_pct_move": 5.3297206729051,
+      "alert_relative_volume": 83.22845029531602
+    }
+  ]
+}
