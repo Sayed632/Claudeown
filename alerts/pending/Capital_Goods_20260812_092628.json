@@ -1,0 +1,48 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-12T09:26:28.698886+05:30",
+  "stocks": [
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1326.199951171875,
+      "alert_pct_move": 9.798400296239192,
+      "alert_relative_volume": 89.80642788530518
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 401.25,
+      "alert_pct_move": -3.4412196397640495,
+      "alert_relative_volume": 59.060330756546556
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1936.800048828125,
+      "alert_pct_move": 1.813594023784684,
+      "alert_relative_volume": 9.635166251964469
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 4088.10009765625,
+      "alert_pct_move": 1.922216346453503,
+      "alert_relative_volume": 8.081826017604643
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 17225.0,
+      "alert_pct_move": 4.723978599221789,
+      "alert_relative_volume": 7.418473473895476
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1186.300048828125,
+      "alert_pct_move": 5.825160466380464,
+      "alert_relative_volume": 6.831316721006909
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 229.5,
+      "alert_pct_move": -3.225803960941102,
+      "alert_relative_volume": 3.1885656592424954
+    }
+  ]
+}
