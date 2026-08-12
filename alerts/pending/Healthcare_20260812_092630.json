@@ -1,0 +1,72 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-12T09:26:30.765073+05:30",
+  "stocks": [
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 511.70001220703125,
+      "alert_pct_move": -8.739075964547578,
+      "alert_relative_volume": 500.1442681694205
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 921.7000122070312,
+      "alert_pct_move": -4.258855248791961,
+      "alert_relative_volume": 17.9125279295622
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1458.4000244140625,
+      "alert_pct_move": 2.1145549835236697,
+      "alert_relative_volume": 10.443609987350111
+    },
+    {
+      "ticker": "ZYDUSLIFE.NS",
+      "alert_price": 1155.0,
+      "alert_pct_move": -3.022670025188917,
+      "alert_relative_volume": 9.652259067636948
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1891.5,
+      "alert_pct_move": 1.4807648062891063,
+      "alert_relative_volume": 7.5488171384545595
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8637.0,
+      "alert_pct_move": -1.2970687389292042,
+      "alert_relative_volume": 5.668456823577441
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 769.7000122070312,
+      "alert_pct_move": 1.1498784229757515,
+      "alert_relative_volume": 4.644158741310167
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 916.5999755859375,
+      "alert_pct_move": -3.020689635576569,
+      "alert_relative_volume": 4.623720991709356
+    },
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 849.7999877929688,
+      "alert_pct_move": 2.2192834244119197,
+      "alert_relative_volume": 4.112200832800862
+    },
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 2880.199951171875,
+      "alert_pct_move": -1.5114195270096646,
+      "alert_relative_volume": 4.036456981543216
+    },
+    {
+      "ticker": "MANKIND.NS",
+      "alert_price": 2392.199951171875,
+      "alert_pct_move": -1.3525793331185567,
+      "alert_relative_volume": 3.7824545119006596
+    }
+  ]
+}
