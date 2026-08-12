@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-12T09:20:50.276970+05:30",
+  "stocks": [
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 108.16999816894531,
+      "alert_pct_move": -1.088151458270575,
+      "alert_relative_volume": 4.075997053463756
+    }
+  ]
+}
