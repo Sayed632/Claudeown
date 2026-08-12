@@ -10,6 +10,9 @@ name: Penny/Small-Cap Speculative Mover Scan
 on:
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   penny_scan:
     runs-on: ubuntu-latest
@@ -29,4 +32,25 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python penny_stock_scanner.py
+
+      - name: Commit enrichment cache, with retry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain enrichment_cache_pennystock.json 2>/dev/null)" ]; then
+            echo "No cache changes to commit."
+            exit 0
+          fi
+          for attempt in 1 2 3 4 5; do
+            git add enrichment_cache_pennystock.json
+            git commit -m "Update penny stock enrichment cache [automated]" || true
+            if git push; then
+              echo "Pushed successfully on attempt $attempt"
+              exit 0
+            fi
+            sleep $((RANDOM % 5 + 1))
+            git pull --rebase
+          done
+          echo "WARNING: could not push after 5 attempts"

@@ -34,6 +34,10 @@ from datetime import datetime, timezone, timedelta
 import requests
 import yfinance as yf
 
+from stock_enrichment import load_cache, save_cache, already_enriched_today, enrich_stock
+
+ENRICHMENT_CACHE_FILE = "enrichment_cache_pennystock.json"
+
 IST = timezone(timedelta(hours=5, minutes=30))
 
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
@@ -214,6 +218,21 @@ def run_scanner():
             send_telegram(message[i:i + 3800])
     else:
         send_telegram(message)
+
+    # Enrichment: business summary, book value, contract news, delivery %,
+    # transparent scorecard. Once per ticker per day - skip if already done.
+    if top:
+        cache = load_cache(ENRICHMENT_CACHE_FILE)
+        for h in top:
+            ticker_full = h["symbol"] + ".NS"
+            if already_enriched_today(ticker_full, cache):
+                print(f"  {ticker_full}: already enriched today, skipping")
+                continue
+            print(f"  Enriching {ticker_full}...")
+            enrichment_text = enrich_stock(ticker_full, has_red_flags=True)
+            send_telegram(f"[PennyStockScan]{enrichment_text}")
+            cache[ticker_full] = {"date": datetime.now(IST).strftime("%Y-%m-%d")}
+        save_cache(ENRICHMENT_CACHE_FILE, cache)
 
 
 if __name__ == "__main__":

@@ -24,6 +24,10 @@ IST = timezone(timedelta(hours=5, minutes=30))
 
 import requests
 
+from stock_enrichment import load_cache, save_cache, already_enriched_today, enrich_stock
+
+ENRICHMENT_CACHE_FILE = "enrichment_cache_topgainers.json"
+
 try:
     from fii_dii_scanner import SECTOR_MAP  # reuse the same sector/tier map
 except Exception:
@@ -150,6 +154,7 @@ def run_scan():
 
     now_str = datetime.now(IST).strftime("%d-%b-%Y %H:%M")
     lines = [f"[TopGainers] 📈 *Live Top Gainers* — {now_str}", "_From Claudeown repo_", ""]
+    top = []
 
     if raw_data is None:
         lines.append("⚠️ Could not fetch data from NSE (feed unavailable right now).")
@@ -193,6 +198,23 @@ def run_scan():
     if not sent:
         print("Message FAILED to send.")
         sys.exit(1)
+
+    # Enrichment: once per ticker per day. Top Gainers is a market-wide
+    # feed with no fundamental pre-filtering, so has_red_flags is always
+    # False here - the scorecard will reflect whatever the data itself shows.
+    if top:
+        cache = load_cache(ENRICHMENT_CACHE_FILE)
+        for g in top:
+            ticker_full = g["symbol"] + ".NS"
+            if already_enriched_today(ticker_full, cache):
+                print(f"  {ticker_full}: already enriched today, skipping")
+                continue
+            print(f"  Enriching {ticker_full}...")
+            enrichment_text = enrich_stock(ticker_full, has_red_flags=False)
+            send_telegram(f"[TopGainers]{enrichment_text}")
+            cache[ticker_full] = {"date": datetime.now(IST).strftime("%Y-%m-%d")}
+        save_cache(ENRICHMENT_CACHE_FILE, cache)
+
     print("Done.")
 
 

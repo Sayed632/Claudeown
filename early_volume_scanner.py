@@ -35,6 +35,8 @@ IST = timezone(timedelta(hours=5, minutes=30))
 import requests
 import yfinance as yf
 
+from stock_enrichment import load_cache, save_cache, already_enriched_today, enrich_stock
+
 # ============================================================
 # CONFIG
 # ============================================================
@@ -261,6 +263,25 @@ def run_scan():
     if not sent:
         print("Message FAILED to send.")
         sys.exit(1)
+
+    # Enrichment: per-SECTOR cache file (not one shared file) - 18 sector
+    # jobs run in parallel, so a shared cache would hit write conflicts.
+    # Each sector only ever touches its own cache file, same safe pattern
+    # as the pending-alerts system.
+    if top and sector:
+        os.makedirs("enrichment_cache", exist_ok=True)
+        cache_file = f"enrichment_cache/{sector.replace(' ', '_')}.json"
+        cache = load_cache(cache_file)
+        for h in top:
+            if already_enriched_today(h["ticker"], cache):
+                print(f"  {h['ticker']}: already enriched today, skipping")
+                continue
+            print(f"  Enriching {h['ticker']}...")
+            enrichment_text = enrich_stock(h["ticker"], has_red_flags=False)
+            send_telegram(f"[EarlyVolume-{label}]{enrichment_text}")
+            cache[h["ticker"]] = {"date": datetime.now(IST).strftime("%Y-%m-%d")}
+        save_cache(cache_file, cache)
+
     print("Done.")
 
 
