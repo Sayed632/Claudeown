@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-08-12T09:20:54.639322+05:30",
+  "stocks": [
+    {
+      "ticker": "IDEA.NS",
+      "alert_price": 13.180000305175781,
+      "alert_pct_move": 2.249805695336947,
+      "alert_relative_volume": 8.47513328834943
+    },
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 220.4499969482422,
+      "alert_pct_move": 2.898614309117105,
+      "alert_relative_volume": 4.164850775212758
+    }
+  ]
+}
