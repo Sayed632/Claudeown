@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-12T09:25:44.607935+05:30",
+  "stocks": [
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 141.63999938964844,
+      "alert_pct_move": 1.1714281354631697,
+      "alert_relative_volume": 3.2607066906894695
+    },
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 279.79998779296875,
+      "alert_pct_move": 1.01082591803926,
+      "alert_relative_volume": 3.154629764121238
+    }
+  ]
+}
