@@ -1,0 +1,66 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-12T09:21:15.463943+05:30",
+  "stocks": [
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 512.4000244140625,
+      "alert_pct_move": -8.61422984509132,
+      "alert_relative_volume": 783.599360744797
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 932.8499755859375,
+      "alert_pct_move": -3.1006581741555457,
+      "alert_relative_volume": 15.5226287581599
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1449.5999755859375,
+      "alert_pct_move": 1.4983913419478292,
+      "alert_relative_volume": 10.151682730289144
+    },
+    {
+      "ticker": "ZYDUSLIFE.NS",
+      "alert_price": 1171.699951171875,
+      "alert_pct_move": -1.6204910854848869,
+      "alert_relative_volume": 7.690490702213935
+    },
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 573.0,
+      "alert_pct_move": 1.1920529801324504,
+      "alert_relative_volume": 7.507126578414237
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1899.0999755859375,
+      "alert_pct_move": 1.8885106878487483,
+      "alert_relative_volume": 6.935728948676676
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 770.9500122070312,
+      "alert_pct_move": 1.3141467691151447,
+      "alert_relative_volume": 6.119505856006494
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 925.5999755859375,
+      "alert_pct_move": -2.0684598553806186,
+      "alert_relative_volume": 5.9741011690808685
+    },
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 852.0,
+      "alert_pct_move": 2.4839147194908273,
+      "alert_relative_volume": 4.284299124621781
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1980.0999755859375,
+      "alert_pct_move": 1.3357203472844166,
+      "alert_relative_volume": 3.604013474360506
+    }
+  ]
+}
