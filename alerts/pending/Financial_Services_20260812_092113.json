@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-12T09:21:13.526209+05:30",
+  "stocks": [
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 2929.39990234375,
+      "alert_pct_move": 1.1882522398531952,
+      "alert_relative_volume": 10.997614327305463
+    },
+    {
+      "ticker": "ANANDRATHI.NS",
+      "alert_price": 2192.0,
+      "alert_pct_move": 1.5755329008341055,
+      "alert_relative_volume": 9.288774045488775
+    },
+    {
+      "ticker": "IFCI.NS",
+      "alert_price": 74.38999938964844,
+      "alert_pct_move": -1.7305120362018311,
+      "alert_relative_volume": 4.847131876750253
+    }
+  ]
+}
