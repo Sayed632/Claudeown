@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-12T09:21:17.853549+05:30",
+  "stocks": [
+    {
+      "ticker": "GODREJCP.NS",
+      "alert_price": 950.5,
+      "alert_pct_move": -7.986447241045498,
+      "alert_relative_volume": 173.70045916296178
+    },
+    {
+      "ticker": "BALRAMCHIN.NS",
+      "alert_price": 612.6500244140625,
+      "alert_pct_move": -2.4131831273469686,
+      "alert_relative_volume": 3.8548302015739266
+    }
+  ]
+}
