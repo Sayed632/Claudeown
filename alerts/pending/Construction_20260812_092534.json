@@ -1,0 +1,36 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-12T09:25:34.868384+05:30",
+  "stocks": [
+    {
+      "ticker": "KPIL.NS",
+      "alert_price": 1381.9000244140625,
+      "alert_pct_move": 2.5376622750820217,
+      "alert_relative_volume": 22.441430045238207
+    },
+    {
+      "ticker": "TECHNOE.NS",
+      "alert_price": 1000.0,
+      "alert_pct_move": -5.886786123355862,
+      "alert_relative_volume": 18.68785816537685
+    },
+    {
+      "ticker": "AFCONS.NS",
+      "alert_price": 272.45001220703125,
+      "alert_pct_move": 3.6522753968417065,
+      "alert_relative_volume": 9.298464282778715
+    },
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 448.3500061035156,
+      "alert_pct_move": -5.77913200531045,
+      "alert_relative_volume": 4.950270353950154
+    },
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 128.64999389648438,
+      "alert_pct_move": -1.0460738926345032,
+      "alert_relative_volume": 3.2053767865310876
+    }
+  ]
+}
