@@ -1,0 +1,48 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-13T09:20:55.252278+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8710.5,
+      "alert_pct_move": 1.320227986506921,
+      "alert_relative_volume": 11.950745742042855
+    },
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 929.0,
+      "alert_pct_move": 1.4967783666277126,
+      "alert_relative_volume": 9.575680235677664
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2415.0,
+      "alert_pct_move": -2.321626945921526,
+      "alert_relative_volume": 9.468673138727578
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1502.199951171875,
+      "alert_pct_move": 5.181347327401957,
+      "alert_relative_volume": 7.790218567246644
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 1875.9000244140625,
+      "alert_pct_move": 1.542708651259183,
+      "alert_relative_volume": 4.404653865633794
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 876.7999877929688,
+      "alert_pct_move": -1.5495158512540443,
+      "alert_relative_volume": 3.2812606625659884
+    },
+    {
+      "ticker": "BIOCON.NS",
+      "alert_price": 418.79998779296875,
+      "alert_pct_move": -1.690143710570716,
+      "alert_relative_volume": 3.023855288640104
+    }
+  ]
+}
