@@ -1,0 +1,18 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-08-13T09:25:34.434951+05:30",
+  "stocks": [
+    {
+      "ticker": "GRASIM.NS",
+      "alert_price": 3233.10009765625,
+      "alert_pct_move": -2.258297057536456,
+      "alert_relative_volume": 7.427362050809132
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "alert_price": 11634.0,
+      "alert_pct_move": -1.2393887945670627,
+      "alert_relative_volume": 5.747955973582239
+    }
+  ]
+}
