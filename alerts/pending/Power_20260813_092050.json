@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-08-13T09:20:50.290136+05:30",
+  "stocks": [
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1632.0,
+      "alert_pct_move": 2.0637898686679175,
+      "alert_relative_volume": 4.790497319227363
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1348.300048828125,
+      "alert_pct_move": 1.200930677295509,
+      "alert_relative_volume": 3.058651115184769
+    }
+  ]
+}
