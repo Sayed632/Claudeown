@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-13T09:21:40.397130+05:30",
+  "stocks": [
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1592.9000244140625,
+      "alert_pct_move": 4.610236782904031,
+      "alert_relative_volume": 16.5937768105631
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 46960.0,
+      "alert_pct_move": 3.9282947880933934,
+      "alert_relative_volume": 4.561824284580254
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1524.5,
+      "alert_pct_move": -2.8609674853819365,
+      "alert_relative_volume": 4.19950079985288
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 738.5499877929688,
+      "alert_pct_move": 2.3702232028004175,
+      "alert_relative_volume": 3.086694487933354
+    }
+  ]
+}
