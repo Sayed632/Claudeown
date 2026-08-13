@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-08-13T09:25:48.485753+05:30",
+  "stocks": [
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 667.0,
+      "alert_pct_move": 1.0070454546714933,
+      "alert_relative_volume": 4.472515036585517
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1323.199951171875,
+      "alert_pct_move": -4.08119237608735,
+      "alert_relative_volume": 3.3344047060183355
+    }
+  ]
+}
