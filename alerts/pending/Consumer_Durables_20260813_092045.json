@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-13T09:20:45.628628+05:30",
+  "stocks": [
+    {
+      "ticker": "KAJARIACER.NS",
+      "alert_price": 1259.4000244140625,
+      "alert_pct_move": 2.757836937126716,
+      "alert_relative_volume": 7.042404463666711
+    }
+  ]
+}
