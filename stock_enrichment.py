@@ -128,20 +128,44 @@ def get_contract_news(ticker: str, company_name: str) -> dict:
         return {"found": False, "text": "Could not complete news search this run."}
 
 
+_nse_bhavcopy_blocked_this_run = False  # circuit breaker - see docstring below
+
+
 def get_delivery_pct(ticker: str) -> float | None:
     """
     Previous session's delivery % from NSE's bhavcopy. Returns None
-    (gracefully) if unavailable - either NSE blocked the request, the
-    file isn't published yet, or the ticker isn't found in it.
+    (gracefully) if unavailable.
+
+    CIRCUIT BREAKER: if NSE blocks/times-out on the FIRST attempt for
+    any stock in this run, it will almost certainly block every
+    subsequent attempt too (same source IP, same block) - so retrying
+    up to 3 dates x 20s timeout for every single flagged stock would
+    waste minutes for nothing. Once one failure is seen, delivery % is
+    skipped for the rest of this run rather than retried per stock.
     """
+    global _nse_bhavcopy_blocked_this_run
+    if _nse_bhavcopy_blocked_this_run:
+        return None
+
     symbol = ticker.replace(".NS", "")
     try:
-        # Try today and, if not yet published, yesterday
+        # Try today and, if not yet published, yesterday - but with a
+        # short timeout and bailing after the first real failure, not
+        # burning 20s x 3 dates on a source that's clearly blocking us.
         for days_back in [0, 1, 2]:
             check_date = datetime.now(IST) - timedelta(days=days_back)
             date_str = check_date.strftime("%d%m%Y")
             url = NSE_BHAVCOPY_URL_TEMPLATE.format(date=date_str)
-            resp = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+            try:
+                resp = requests.get(url, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
+            except requests.exceptions.RequestException:
+                _nse_bhavcopy_blocked_this_run = True
+                print(f"  {ticker}: NSE bhavcopy unreachable - disabling delivery% for rest of this run")
+                return None
+            if resp.status_code == 403:
+                _nse_bhavcopy_blocked_this_run = True
+                print(f"  {ticker}: NSE returned 403 (blocked) - disabling delivery% for rest of this run")
+                return None
             if resp.status_code != 200:
                 continue
             lines = resp.text.strip().split("\n")
@@ -160,7 +184,7 @@ def get_delivery_pct(ticker: str) -> float | None:
                         continue
         return None
     except Exception as e:
-        print(f"  {ticker}: delivery % fetch error (NSE may be blocking this request) - {e}")
+        print(f"  {ticker}: delivery % fetch error - {e}")
         return None
 
 
