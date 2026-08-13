@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-08-13T09:20:49.541408+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4941.39990234375,
+      "alert_pct_move": 2.1499152871279334,
+      "alert_relative_volume": 3.8726167964249227
+    }
+  ]
+}
