@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-13T09:20:44.894904+05:30",
+  "stocks": [
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 301.95001220703125,
+      "alert_pct_move": 2.7215511712125866,
+      "alert_relative_volume": 4.999124046716907
+    }
+  ]
+}
