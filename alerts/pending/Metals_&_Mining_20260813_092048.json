@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-13T09:20:48.706779+05:30",
+  "stocks": [
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 506.3500061035156,
+      "alert_pct_move": 2.1175758537367,
+      "alert_relative_volume": 13.689692639460073
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 569.0,
+      "alert_pct_move": 3.8889880077120265,
+      "alert_relative_volume": 9.24323616702277
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 410.29998779296875,
+      "alert_pct_move": -2.3095267159598216,
+      "alert_relative_volume": 3.317104396184613
+    }
+  ]
+}
