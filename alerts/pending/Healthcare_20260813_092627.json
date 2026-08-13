@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-13T09:26:27.232419+05:30",
+  "stocks": [
+    {
+      "ticker": "ABBOTINDIA.NS",
+      "alert_price": 28350.0,
+      "alert_pct_move": 1.177730192719486,
+      "alert_relative_volume": 19.359382733283418
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8740.0,
+      "alert_pct_move": 1.663370943352332,
+      "alert_relative_volume": 15.3150168248908
+    },
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 931.9000244140625,
+      "alert_pct_move": 1.8136170482336444,
+      "alert_relative_volume": 10.72925528550823
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2435.800048828125,
+      "alert_pct_move": -1.4803371202583206,
+      "alert_relative_volume": 7.7199136641522195
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1505.800048828125,
+      "alert_pct_move": 5.433419710774889,
+      "alert_relative_volume": 6.789562291147428
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 1872.4000244140625,
+      "alert_pct_move": 1.3532532028589324,
+      "alert_relative_volume": 4.370904923556233
+    }
+  ]
+}
