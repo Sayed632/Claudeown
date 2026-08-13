@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-13T09:20:47.140436+05:30",
+  "stocks": [
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4693.39990234375,
+      "alert_pct_move": 2.794693221661816,
+      "alert_relative_volume": 28.119108786982853
+    },
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 772.8499755859375,
+      "alert_pct_move": 1.370665115062954,
+      "alert_relative_volume": 3.257784630665955
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 721.7000122070312,
+      "alert_pct_move": -1.5550352964880017,
+      "alert_relative_volume": 3.037733799987165
+    }
+  ]
+}
