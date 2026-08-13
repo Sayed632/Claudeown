@@ -1,0 +1,24 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-13T09:21:44.721710+05:30",
+  "stocks": [
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 3003.0,
+      "alert_pct_move": 1.1077034868189055,
+      "alert_relative_volume": 4.42345620206169
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 348.8500061035156,
+      "alert_pct_move": -1.0635280587315368,
+      "alert_relative_volume": 3.9606795500275265
+    },
+    {
+      "ticker": "ANANDRATHI.NS",
+      "alert_price": 2219.800048828125,
+      "alert_pct_move": 1.4070374064926907,
+      "alert_relative_volume": 3.726085803217737
+    }
+  ]
+}
