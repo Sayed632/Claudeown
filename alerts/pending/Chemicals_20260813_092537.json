@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-13T09:25:37.904362+05:30",
+  "stocks": [
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4723.5,
+      "alert_pct_move": 3.4539445893049523,
+      "alert_relative_volume": 32.693820319393744
+    },
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 779.25,
+      "alert_pct_move": 2.210122645115002,
+      "alert_relative_volume": 4.293971335367071
+    }
+  ]
+}
