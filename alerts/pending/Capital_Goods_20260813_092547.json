@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-13T09:25:47.493862+05:30",
+  "stocks": [
+    {
+      "ticker": "ASTRAL.NS",
+      "alert_price": 1559.5,
+      "alert_pct_move": 6.523224043715848,
+      "alert_relative_volume": 108.60106606413116
+    },
+    {
+      "ticker": "AIAENG.NS",
+      "alert_price": 4442.7001953125,
+      "alert_pct_move": -7.087583558270907,
+      "alert_relative_volume": 9.954826306476983
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 234.75999450683594,
+      "alert_pct_move": 2.5197558300613796,
+      "alert_relative_volume": 9.592144868506166
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 390.20001220703125,
+      "alert_pct_move": 1.1142830729612119,
+      "alert_relative_volume": 5.354815321510868
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1262.0,
+      "alert_pct_move": -1.4101049286822547,
+      "alert_relative_volume": 4.216625566327716
+    }
+  ]
+}
