@@ -101,7 +101,7 @@ def get_business_summary_and_book_value(ticker: str) -> dict:
 def get_contract_news(ticker: str, company_name: str) -> dict:
     """Gemini + Search grounding - specifically hunts for contract/order-win news."""
     if not GEMINI_API_KEY:
-        return {"found": False, "text": "GEMINI_API_KEY not configured - skipped."}
+        return {"found": False, "text": "Gemini API key not configured - skipped."}
 
     prompt = (
         f"Search for recent news (last 30 days) about {company_name} ({ticker}, NSE-listed India) "
@@ -231,6 +231,26 @@ def compute_scorecard(pb_ratio, contract_news_found: bool, delivery_pct, has_red
     return {"score": round(score, 1), "reasons": reasons}
 
 
+def _sanitize_for_telegram(text: str) -> str:
+    """
+    Strips characters that Telegram's legacy Markdown parser treats as
+    formatting (_ * ` [) from free-form external text (yfinance business
+    summaries, Gemini's news text) before inserting it into a message.
+
+    This matters more than it looks: an UNMATCHED one of these characters
+    doesn't just render oddly - it can make Telegram reject the ENTIRE
+    message with a 400 error, silently dropping a real alert. Since we
+    don't need bold/italic/links inside this specific text anyway, the
+    simplest robust fix is removing them rather than trying to escape
+    them correctly.
+    """
+    if not text:
+        return text
+    for ch in ["_", "*", "`", "[", "]"]:
+        text = text.replace(ch, "")
+    return text
+
+
 def enrich_stock(ticker: str, company_name_hint: str = None, has_red_flags: bool = False) -> str:
     """Returns a formatted Telegram-ready text block for one stock."""
     biz = get_business_summary_and_book_value(ticker)
@@ -239,13 +259,16 @@ def enrich_stock(ticker: str, company_name_hint: str = None, has_red_flags: bool
     delivery_pct = get_delivery_pct(ticker)
     scorecard = compute_scorecard(biz["pb_ratio"], news["found"], delivery_pct, has_red_flags)
 
+    safe_summary = _sanitize_for_telegram(biz["summary"])
+    safe_news_text = _sanitize_for_telegram(news["text"])
+
     lines = [f"\n📋 *{ticker.replace('.NS', '')} - Enrichment*"]
-    lines.append(f"_{biz['summary']}_")
+    lines.append(f"_{safe_summary}_")
     if biz["book_value"]:
         pb_str = f" (P/B: {biz['pb_ratio']:.1f}x)" if biz["pb_ratio"] else ""
         lines.append(f"Book value: ₹{biz['book_value']:.2f}{pb_str}")
-    if news["text"]:
-        lines.append(f"📰 {news['text']}")
+    if safe_news_text:
+        lines.append(f"📰 {safe_news_text}")
     if delivery_pct is not None:
         lines.append(f"📦 Delivery % (prev session): {delivery_pct:.1f}%")
     lines.append(f"🎯 Score: {scorecard['score']}/10")
