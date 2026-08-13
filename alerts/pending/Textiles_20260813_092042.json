@@ -1,0 +1,12 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-08-13T09:20:42.571345+05:30",
+  "stocks": [
+    {
+      "ticker": "PAGEIND.NS",
+      "alert_price": 37885.0,
+      "alert_pct_move": -1.070635853244549,
+      "alert_relative_volume": 3.001869222790841
+    }
+  ]
+}
