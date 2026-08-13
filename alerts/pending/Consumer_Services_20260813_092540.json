@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-13T09:25:40.794485+05:30",
+  "stocks": [
+    {
+      "ticker": "FIRSTCRY.NS",
+      "alert_price": 218.19000244140625,
+      "alert_pct_move": 1.9198433180111087,
+      "alert_relative_volume": 16.970313592458837
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 506.0,
+      "alert_pct_move": -1.4701563572059577,
+      "alert_relative_volume": 6.3157117424480935
+    },
+    {
+      "ticker": "BLS.NS",
+      "alert_price": 268.79998779296875,
+      "alert_pct_move": 2.2519715460273515,
+      "alert_relative_volume": 5.1686964742194474
+    },
+    {
+      "ticker": "DBREALTY.NS",
+      "alert_price": 112.69999694824219,
+      "alert_pct_move": -1.287554737916227,
+      "alert_relative_volume": 3.2845783790417014
+    }
+  ]
+}
