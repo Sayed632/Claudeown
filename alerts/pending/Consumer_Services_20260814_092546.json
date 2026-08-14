@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-08-14T09:25:46.609700+05:30",
+  "stocks": [
+    {
+      "ticker": "FIRSTCRY.NS",
+      "alert_price": 218.07000732421875,
+      "alert_pct_move": 1.8352516791686746,
+      "alert_relative_volume": 57.79435508685632
+    },
+    {
+      "ticker": "JUBLFOOD.NS",
+      "alert_price": 518.4500122070312,
+      "alert_pct_move": 5.4724900990928855,
+      "alert_relative_volume": 17.11836966622241
+    }
+  ]
+}
