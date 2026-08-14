@@ -1,0 +1,18 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-14T09:26:33.626635+05:30",
+  "stocks": [
+    {
+      "ticker": "SAMMAANCAP.NS",
+      "alert_price": 158.22999572753906,
+      "alert_pct_move": -2.224560379894153,
+      "alert_relative_volume": 18.265267034709137
+    },
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 509.0,
+      "alert_pct_move": 1.253230085535421,
+      "alert_relative_volume": 11.528234839978778
+    }
+  ]
+}
