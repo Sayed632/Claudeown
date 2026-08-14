@@ -1,11 +1,11 @@
 {
+  "SOLARINDS.NS": {
+    "date": "2026-08-14"
+  },
   "FLUOROCHEM.NS": {
-    "date": "2026-08-13"
+    "date": "2026-08-14"
   },
-  "HSCL.NS": {
-    "date": "2026-08-13"
-  },
-  "JUBLINGREA.NS": {
-    "date": "2026-08-13"
+  "SWANCORP.NS": {
+    "date": "2026-08-14"
   }
 }

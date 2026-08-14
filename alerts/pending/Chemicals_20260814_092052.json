@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-08-14T09:20:52.982152+05:30",
+  "stocks": [
+    {
+      "ticker": "SOLARINDS.NS",
+      "alert_price": 19600.0,
+      "alert_pct_move": -3.5622908876205472,
+      "alert_relative_volume": 20.760361842963178
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4858.2001953125,
+      "alert_pct_move": 3.0436717936523747,
+      "alert_relative_volume": 9.126985505346582
+    },
+    {
+      "ticker": "SWANCORP.NS",
+      "alert_price": 302.79998779296875,
+      "alert_pct_move": -1.8158256207343793,
+      "alert_relative_volume": 6.06123948476958
+    }
+  ]
+}
