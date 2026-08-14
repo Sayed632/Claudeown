@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-08-14T09:25:41.939538+05:30",
+  "stocks": [
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 168.32000732421875,
+      "alert_pct_move": 2.1173363188706404,
+      "alert_relative_volume": 54.234565881753426
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 17.729999542236328,
+      "alert_pct_move": 1.0832304264065773,
+      "alert_relative_volume": 3.3532886455720927
+    }
+  ]
+}
