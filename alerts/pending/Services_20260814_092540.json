@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-08-14T09:25:40.302473+05:30",
+  "stocks": [
+    {
+      "ticker": "CONCOR.NS",
+      "alert_price": 540.75,
+      "alert_pct_move": 1.3304554035640002,
+      "alert_relative_volume": 3.0537699092638926
+    }
+  ]
+}
