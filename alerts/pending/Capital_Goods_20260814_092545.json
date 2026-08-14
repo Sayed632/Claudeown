@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-08-14T09:25:45.579437+05:30",
+  "stocks": [
+    {
+      "ticker": "ELGIEQUIP.NS",
+      "alert_price": 590.5499877929688,
+      "alert_pct_move": 2.6062028178507504,
+      "alert_relative_volume": 14.067303011110424
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 328.3999938964844,
+      "alert_pct_move": 2.1303083077477925,
+      "alert_relative_volume": 10.419365196355661
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 429.5,
+      "alert_pct_move": 2.261904761904762,
+      "alert_relative_volume": 8.699092458842836
+    },
+    {
+      "ticker": "HEG.NS",
+      "alert_price": 701.0,
+      "alert_pct_move": 2.037845705967977,
+      "alert_relative_volume": 5.129620550231864
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1399.800048828125,
+      "alert_pct_move": 1.500984236722408,
+      "alert_relative_volume": 4.393526546226064
+    }
+  ]
+}
