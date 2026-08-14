@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-08-14T09:21:01.578194+05:30",
+  "stocks": [
+    {
+      "ticker": "SAMMAANCAP.NS",
+      "alert_price": 160.1199951171875,
+      "alert_pct_move": -1.0566685376747258,
+      "alert_relative_volume": 20.81703795260569
+    },
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 510.29998779296875,
+      "alert_pct_move": 1.511831191841614,
+      "alert_relative_volume": 10.261073341664742
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 252.5,
+      "alert_pct_move": -1.212834909816141,
+      "alert_relative_volume": 3.4599190011634686
+    },
+    {
+      "ticker": "GICRE.NS",
+      "alert_price": 349.29998779296875,
+      "alert_pct_move": -1.8406683147959524,
+      "alert_relative_volume": 3.241392241001624
+    }
+  ]
+}
