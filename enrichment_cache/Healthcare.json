@@ -1,26 +1,17 @@
 {
+  "MAXHEALTH.NS": {
+    "date": "2026-08-14"
+  },
   "APOLLOHOSP.NS": {
-    "date": "2026-08-13"
+    "date": "2026-08-14"
   },
-  "NATCOPHARM.NS": {
-    "date": "2026-08-13"
-  },
-  "CAPLIPOINT.NS": {
-    "date": "2026-08-13"
-  },
-  "VIJAYA.NS": {
-    "date": "2026-08-13"
+  "IPCALAB.NS": {
+    "date": "2026-08-14"
   },
   "WOCKPHARMA.NS": {
-    "date": "2026-08-13"
+    "date": "2026-08-14"
   },
-  "JUBLPHARMA.NS": {
-    "date": "2026-08-13"
-  },
-  "BIOCON.NS": {
-    "date": "2026-08-13"
-  },
-  "ABBOTINDIA.NS": {
-    "date": "2026-08-13"
+  "RAINBOW.NS": {
+    "date": "2026-08-14"
   }
 }
