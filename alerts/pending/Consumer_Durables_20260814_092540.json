@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-14T09:25:40.084209+05:30",
+  "stocks": [
+    {
+      "ticker": "BATAINDIA.NS",
+      "alert_price": 752.8499755859375,
+      "alert_pct_move": 3.4631966366203546,
+      "alert_relative_volume": 12.614945967951618
+    },
+    {
+      "ticker": "VOLTAS.NS",
+      "alert_price": 1308.0999755859375,
+      "alert_pct_move": 1.4424176491614968,
+      "alert_relative_volume": 10.293568608377342
+    },
+    {
+      "ticker": "KAJARIACER.NS",
+      "alert_price": 1273.0,
+      "alert_pct_move": 1.6610804695096189,
+      "alert_relative_volume": 3.8780151393244777
+    }
+  ]
+}
