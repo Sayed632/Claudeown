@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-08-14T09:25:49.837776+05:30",
+  "stocks": [
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1351.5999755859375,
+      "alert_pct_move": -3.0068191183396125,
+      "alert_relative_volume": 22.189797880628223
+    },
+    {
+      "ticker": "TMPV.NS",
+      "alert_price": 335.45001220703125,
+      "alert_pct_move": -4.047481021008506,
+      "alert_relative_volume": 14.688270114300607
+    },
+    {
+      "ticker": "ENDURANCE.NS",
+      "alert_price": 2949.199951171875,
+      "alert_pct_move": -2.3346690446062563,
+      "alert_relative_volume": 5.324159318154401
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 729.7999877929688,
+      "alert_pct_move": 2.608082642245167,
+      "alert_relative_volume": 5.192876373247396
+    }
+  ]
+}
