@@ -1,17 +1,20 @@
 {
-  "ASTRAL.NS": {
-    "date": "2026-08-13"
+  "PRAJIND.NS": {
+    "date": "2026-08-14"
   },
-  "AIAENG.NS": {
-    "date": "2026-08-13"
+  "ELGIEQUIP.NS": {
+    "date": "2026-08-14"
   },
-  "GPIL.NS": {
-    "date": "2026-08-13"
+  "BHEL.NS": {
+    "date": "2026-08-14"
   },
-  "RHIM.NS": {
-    "date": "2026-08-13"
+  "HEG.NS": {
+    "date": "2026-08-14"
   },
-  "FINCABLES.NS": {
-    "date": "2026-08-13"
+  "SCHNEIDER.NS": {
+    "date": "2026-08-14"
+  },
+  "SYRMA.NS": {
+    "date": "2026-08-14"
   }
 }
