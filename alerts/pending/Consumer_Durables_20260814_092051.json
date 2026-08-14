@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-08-14T09:20:51.370941+05:30",
+  "stocks": [
+    {
+      "ticker": "VOLTAS.NS",
+      "alert_price": 1307.0,
+      "alert_pct_move": 1.3571151609150833,
+      "alert_relative_volume": 9.175210184671858
+    },
+    {
+      "ticker": "BATAINDIA.NS",
+      "alert_price": 752.75,
+      "alert_pct_move": 3.4494571213887006,
+      "alert_relative_volume": 6.904496313062201
+    }
+  ]
+}
