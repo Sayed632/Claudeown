@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-14T09:20:48.567019+05:30",
+  "stocks": [
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 378.95001220703125,
+      "alert_pct_move": -5.380770984511548,
+      "alert_relative_volume": 9.03439086981456
+    }
+  ]
+}
