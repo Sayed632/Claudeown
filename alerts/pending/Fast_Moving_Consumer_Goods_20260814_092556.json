@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-08-14T09:25:56.380496+05:30",
+  "stocks": [
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 492.45001220703125,
+      "alert_pct_move": 5.3594391608175185,
+      "alert_relative_volume": 140.5278482807594
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 263.7799987792969,
+      "alert_pct_move": 8.892004952807294,
+      "alert_relative_volume": 13.870227348842015
+    }
+  ]
+}
