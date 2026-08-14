@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-08-14T09:21:01.024819+05:30",
+  "stocks": [
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 990.9000244140625,
+      "alert_pct_move": -2.210595445450935,
+      "alert_relative_volume": 6.721324866621561
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8691.5,
+      "alert_pct_move": 1.1816065192083818,
+      "alert_relative_volume": 6.020242086939597
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "alert_price": 1755.800048828125,
+      "alert_pct_move": -2.2546344652398966,
+      "alert_relative_volume": 4.801390017118094
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 1942.0999755859375,
+      "alert_pct_move": 1.526475550169915,
+      "alert_relative_volume": 4.148760993740404
+    },
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1432.800048828125,
+      "alert_pct_move": -3.319834761934885,
+      "alert_relative_volume": 3.6846559732407878
+    }
+  ]
+}
