@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-08-14T09:25:37.888688+05:30",
+  "stocks": [
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 45.79999923706055,
+      "alert_pct_move": 1.1260726677493926,
+      "alert_relative_volume": 9.742117667289866
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 377.5,
+      "alert_pct_move": -5.742821473158552,
+      "alert_relative_volume": 8.568650121987984
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 563.4500122070312,
+      "alert_pct_move": -2.5762884080371595,
+      "alert_relative_volume": 3.3292858213971877
+    }
+  ]
+}
