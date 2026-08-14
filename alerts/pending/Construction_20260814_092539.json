@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-08-14T09:25:39.585133+05:30",
+  "stocks": [
+    {
+      "ticker": "ENGINERSIN.NS",
+      "alert_price": 248.3699951171875,
+      "alert_pct_move": 3.238005331633205,
+      "alert_relative_volume": 34.382910877730545
+    }
+  ]
+}
