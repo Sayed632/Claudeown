@@ -45,7 +45,7 @@ CHAT_ID = os.environ.get("MY_CHAT_ID")
 
 EQUITY_LIST_URL = "https://raw.githubusercontent.com/Sayed632/PKScreener/main/results/Indices/EQUITY_L.csv"
 
-MAX_PRICE = 20.0
+MAX_PRICE <= 20.0
 MAX_MARKET_CAP_CR = 1000  # ₹1,000 Cr
 MAX_MARKET_CAP = MAX_MARKET_CAP_CR * 1e7  # 1 Cr = 1e7, so 1000 Cr = 1e10
 
