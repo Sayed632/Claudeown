@@ -1,0 +1,125 @@
+name: Run All Scans
+
+on:
+  workflow_dispatch: {}   # Manual trigger only
+
+jobs:
+  swing:
+    name: Daily Swing Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run Swing Scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python scanner.py
+
+  crypto:
+    name: Crypto Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: Run Crypto Scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python crypto_scanner.py
+
+  intraday:
+    name: Intraday ORB Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run Intraday Scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python intraday_scanner.py
+
+  steady_climber:
+    name: Steady Climber Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run Steady Climber
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python steady_climber_scanner.py
+
+  penny:
+    name: Penny Stock Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run Penny Stock Scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python penny_stock_scanner.py
+
+  top_gainers:
+    name: Live Top Gainers
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run Top Gainers
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python top_gainers_scanner.py
+
+  fii_dii:
+    name: FII DII Bulk Deals
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run FII DII Scanner
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python fii_dii_scanner.py
+
+  health:
+    name: Health Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run Health Check
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MY_CHAT_ID: ${{ secrets.MY_CHAT_ID }}
+        run: python health_check.py
