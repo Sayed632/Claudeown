@@ -53,6 +53,25 @@ def _load_universe(key: str = "main_universe") -> list:
 
 NSE_UNIVERSE = _load_universe("main_universe")
 
+# Nifty 50 constituents - for the EXCLUSIVE "Nifty 50 Swing Scanner" message,
+# separate from the regular scan above. This list needs periodic manual
+# verification: NSE reviews Nifty 50 composition twice a year (March and
+# September), so a name here can occasionally get replaced. If a ticker
+# below starts failing to fetch consistently, that's often why - check
+# NSE's current official Nifty 50 list and update this if needed.
+NIFTY_50 = [
+    "RELIANCE.NS", "TCS.NS", "HDFCBANK.NS", "ICICIBANK.NS", "INFY.NS",
+    "BHARTIARTL.NS", "ITC.NS", "SBIN.NS", "LT.NS", "KOTAKBANK.NS",
+    "AXISBANK.NS", "HINDUNILVR.NS", "BAJFINANCE.NS", "MARUTI.NS", "SUNPHARMA.NS",
+    "TITAN.NS", "ULTRACEMCO.NS", "NESTLEIND.NS", "ASIANPAINT.NS", "TATAMOTORS.NS",
+    "M&M.NS", "NTPC.NS", "POWERGRID.NS", "TATASTEEL.NS", "JSWSTEEL.NS",
+    "ADANIENT.NS", "ADANIPORTS.NS", "ONGC.NS", "COALINDIA.NS", "WIPRO.NS",
+    "HCLTECH.NS", "TECHM.NS", "BAJAJFINSV.NS", "DRREDDY.NS", "CIPLA.NS",
+    "DIVISLAB.NS", "GRASIM.NS", "BRITANNIA.NS", "EICHERMOT.NS", "HEROMOTOCO.NS",
+    "BAJAJ-AUTO.NS", "HINDALCO.NS", "INDUSINDBK.NS", "SBILIFE.NS", "HDFCLIFE.NS",
+    "BPCL.NS", "APOLLOHOSP.NS", "TATACONSUM.NS", "UPL.NS", "SHRIRAMFIN.NS",
+]
+
 # Swing strategy thresholds (matches your earlier backtest logic:
 # RSI pullback + Bollinger Bands + ATR)
 RSI_OVERSOLD = 35          # RSI below this = potential pullback buy
@@ -174,12 +193,12 @@ def analyze_stock(ticker: str, df: pd.DataFrame) -> dict | None:
         return None
 
 
-def run_scan():
-    print(f"Scanning {len(NSE_UNIVERSE)} stocks...")
+def scan_universe(universe: list) -> tuple[list, list]:
+    """Runs the RSI/BB/ATR swing check across a given list of tickers.
+    Returns (signals, failed_tickers)."""
     signals = []
     failed = []
-
-    for ticker in NSE_UNIVERSE:
+    for ticker in universe:
         df = fetch_stock_data(ticker)
         if df is None:
             failed.append(ticker.replace(".NS", ""))
@@ -187,13 +206,15 @@ def run_scan():
         result = analyze_stock(ticker, df)
         if result:
             signals.append(result)
-
     signals.sort(key=lambda x: x["score"], reverse=True)
-    top_signals = signals[:MAX_SIGNALS_TO_SEND]
+    return signals, failed
 
-    # Build the message - ALWAYS send something, this is the key fix.
+
+def build_message(tag: str, title: str, universe_size: int, signals: list, failed: list) -> str:
+    """Formats one scan's results into a Telegram-ready message."""
     today = datetime.now(IST).strftime("%d-%b-%Y")
-    lines = [f"[Swing] 📊 *Swing Scan* — {today}", "_From Claudeown repo_", ""]
+    top_signals = signals[:MAX_SIGNALS_TO_SEND]
+    lines = [f"[{tag}] 📊 *{title}* — {today}", "_From Claudeown repo_", ""]
 
     if top_signals:
         lines.append(f"Found {len(signals)} setup(s), showing top {len(top_signals)}:\n")
@@ -206,19 +227,40 @@ def run_scan():
     else:
         lines.append("No qualifying swing setups today. Market may be trending, not pulling back.")
 
-    lines.append(f"\n_Scanned: {len(NSE_UNIVERSE) - len(failed)}/{len(NSE_UNIVERSE)} stocks OK._")
+    lines.append(f"\n_Scanned: {universe_size - len(failed)}/{universe_size} stocks OK._")
     if failed:
         lines.append(f"_Failed to fetch: {', '.join(failed[:10])}{'...' if len(failed) > 10 else ''}_")
 
     lines.append("\n⚠️ Educational signal tool, not financial advice. Do your own risk management.")
+    return "\n".join(lines)
 
-    message = "\n".join(lines)
+
+def run_scan():
+    # ---- Regular scan (existing behavior, unchanged) ----
+    print(f"Scanning {len(NSE_UNIVERSE)} stocks (main universe)...")
+    signals, failed = scan_universe(NSE_UNIVERSE)
+    message = build_message("Swing", "Swing Scan", len(NSE_UNIVERSE), signals, failed)
     sent = send_telegram(message)
 
     if sent:
-        print("Message sent successfully.")
+        print("Main scan message sent successfully.")
     else:
-        print("Message FAILED to send. Check TELEGRAM_TOKEN / MY_CHAT_ID secrets.")
+        print("Main scan message FAILED to send. Check TELEGRAM_TOKEN / MY_CHAT_ID secrets.")
+
+    # ---- Exclusive Nifty 50 scan (separate message, per user request) ----
+    print(f"\nScanning {len(NIFTY_50)} stocks (Nifty 50 exclusive)...")
+    n50_signals, n50_failed = scan_universe(NIFTY_50)
+    n50_message = build_message(
+        "Nifty50Swing", "Nifty 50 Swing Scanner", len(NIFTY_50), n50_signals, n50_failed
+    )
+    n50_sent = send_telegram(n50_message)
+
+    if n50_sent:
+        print("Nifty 50 scan message sent successfully.")
+    else:
+        print("Nifty 50 scan message FAILED to send. Check TELEGRAM_TOKEN / MY_CHAT_ID secrets.")
+
+    if not sent or not n50_sent:
         sys.exit(1)
 
 
