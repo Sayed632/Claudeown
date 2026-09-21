@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-21T09:21:13.480127+05:30",
+  "stocks": [
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 473.1000061035156,
+      "alert_pct_move": -1.3141401487646014,
+      "alert_relative_volume": 7.828562240325901
+    },
+    {
+      "ticker": "MAHSCOOTER.NS",
+      "alert_price": 13497.0,
+      "alert_pct_move": 2.8499580888516345,
+      "alert_relative_volume": 7.23083310268475
+    },
+    {
+      "ticker": "GODIGIT.NS",
+      "alert_price": 232.6999969482422,
+      "alert_pct_move": -2.6359845404844404,
+      "alert_relative_volume": 6.977523058159921
+    },
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 397.45001220703125,
+      "alert_pct_move": -2.5141034322056925,
+      "alert_relative_volume": 4.219318014685851
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 179.11000061035156,
+      "alert_pct_move": 2.34857177734375,
+      "alert_relative_volume": 3.752985591847079
+    },
+    {
+      "ticker": "KARURVYSYA.NS",
+      "alert_price": 329.04998779296875,
+      "alert_pct_move": -1.7174433123204425,
+      "alert_relative_volume": 3.4726507720355193
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1822.0999755859375,
+      "alert_pct_move": -1.5027865539344696,
+      "alert_relative_volume": 3.212552461795897
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 126.29000091552734,
+      "alert_pct_move": 4.8397823969485465,
+      "alert_relative_volume": 3.1673767111163476
+    }
+  ]
+}
