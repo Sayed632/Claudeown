@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-21T09:20:57.257637+05:30",
+  "stocks": [
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1528.800048828125,
+      "alert_pct_move": -1.5329078405292784,
+      "alert_relative_volume": 6.700750175305517
+    }
+  ]
+}
