@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-21T09:20:59.742825+05:30",
+  "stocks": [
+    {
+      "ticker": "INDHOTEL.NS",
+      "alert_price": 743.0,
+      "alert_pct_move": 1.3988399863527807,
+      "alert_relative_volume": 3.9509063713095194
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 312.3999938964844,
+      "alert_pct_move": -1.7301038394454726,
+      "alert_relative_volume": 3.694457670902782
+    }
+  ]
+}
