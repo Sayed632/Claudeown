@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-09-21T09:25:45.328002+05:30",
+  "stocks": [
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 16.270000457763672,
+      "alert_pct_move": 5.8555665511109565,
+      "alert_relative_volume": 44.203320880735596
+    },
+    {
+      "ticker": "ACMESOLAR.NS",
+      "alert_price": 451.79998779296875,
+      "alert_pct_move": 3.8024096020605977,
+      "alert_relative_volume": 13.93983271261376
+    }
+  ]
+}
