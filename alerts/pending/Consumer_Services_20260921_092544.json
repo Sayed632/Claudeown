@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-21T09:25:44.466576+05:30",
+  "stocks": [
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 236.0800018310547,
+      "alert_pct_move": 2.5944118920812183,
+      "alert_relative_volume": 4.888333911564085
+    },
+    {
+      "ticker": "INDHOTEL.NS",
+      "alert_price": 749.7999877929688,
+      "alert_pct_move": 2.3268492382079495,
+      "alert_relative_volume": 3.7935344391287096
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 309.54998779296875,
+      "alert_pct_move": -2.6266141125610027,
+      "alert_relative_volume": 3.464046754635824
+    }
+  ]
+}
