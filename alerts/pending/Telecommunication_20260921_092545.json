@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-09-21T09:25:45.539300+05:30",
+  "stocks": [
+    {
+      "ticker": "BHARTIARTL.NS",
+      "alert_price": 1847.5999755859375,
+      "alert_pct_move": -2.4137786966452555,
+      "alert_relative_volume": 4.250005150929731
+    }
+  ]
+}
