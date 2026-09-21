@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-09-21T09:20:53.964181+05:30",
+  "stocks": [
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 261.20001220703125,
+      "alert_pct_move": -2.3916269620743833,
+      "alert_relative_volume": 4.81164199430856
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 80.4000015258789,
+      "alert_pct_move": 1.5792798179432754,
+      "alert_relative_volume": 3.7783810366935087
+    }
+  ]
+}
