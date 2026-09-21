@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-09-21T09:25:47.065105+05:30",
+  "stocks": [
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 634.0,
+      "alert_pct_move": -4.041170230622724,
+      "alert_relative_volume": 11.125140339649196
+    }
+  ]
+}
