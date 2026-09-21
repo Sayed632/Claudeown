@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-09-21T09:25:47.316298+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 682.5999755859375,
+      "alert_pct_move": -1.5362458585016228,
+      "alert_relative_volume": 3.6939232082098483
+    },
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 684.0,
+      "alert_pct_move": 1.2808210152902855,
+      "alert_relative_volume": 3.4326067288642452
+    }
+  ]
+}

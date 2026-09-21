@@ -1,11 +1,8 @@
 {
-  "SOLARINDS.NS": {
-    "date": "2026-08-14"
+  "TATACHEM.NS": {
+    "date": "2026-09-21"
   },
-  "FLUOROCHEM.NS": {
-    "date": "2026-08-14"
-  },
-  "SWANCORP.NS": {
-    "date": "2026-08-14"
+  "HSCL.NS": {
+    "date": "2026-09-21"
   }
 }
