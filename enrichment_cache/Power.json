@@ -1,8 +1,11 @@
 {
-  "CESC.NS": {
-    "date": "2026-08-14"
-  },
   "JPPOWER.NS": {
-    "date": "2026-08-14"
+    "date": "2026-09-21"
+  },
+  "ACMESOLAR.NS": {
+    "date": "2026-09-21"
+  },
+  "ADANIPOWER.NS": {
+    "date": "2026-09-21"
   }
 }
