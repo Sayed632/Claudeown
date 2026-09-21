@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-09-21T09:25:46.611271+05:30",
+  "stocks": [
+    {
+      "ticker": "GILLETTE.NS",
+      "alert_price": 6985.0,
+      "alert_pct_move": -1.244167962674961,
+      "alert_relative_volume": 19.891456043931033
+    },
+    {
+      "ticker": "PATANJALI.NS",
+      "alert_price": 377.1000061035156,
+      "alert_pct_move": 2.752045259813522,
+      "alert_relative_volume": 11.115719515210767
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1982.0999755859375,
+      "alert_pct_move": -1.7789903079317393,
+      "alert_relative_volume": 5.065139593083384
+    }
+  ]
+}
