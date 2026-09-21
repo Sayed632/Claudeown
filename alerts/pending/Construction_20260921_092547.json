@@ -1,0 +1,36 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-09-21T09:25:47.053424+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHNOE.NS",
+      "alert_price": 1045.75,
+      "alert_pct_move": 1.4847930082121001,
+      "alert_relative_volume": 9.972410824073632
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 211.52000427246094,
+      "alert_pct_move": -1.2926357274990532,
+      "alert_relative_volume": 7.150342076068746
+    },
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 108.72000122070312,
+      "alert_pct_move": -1.0286729805318824,
+      "alert_relative_volume": 7.019696597744433
+    },
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 83.47000122070312,
+      "alert_pct_move": 1.2985432949150735,
+      "alert_relative_volume": 5.936151498078818
+    },
+    {
+      "ticker": "RITES.NS",
+      "alert_price": 205.05999755859375,
+      "alert_pct_move": -1.047144821543293,
+      "alert_relative_volume": 3.418158051380384
+    }
+  ]
+}
