@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-21T09:20:58.116285+05:30",
+  "stocks": [
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 11625.0,
+      "alert_pct_move": -2.2780766644250168,
+      "alert_relative_volume": 7.547537396979949
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 164.10000610351562,
+      "alert_pct_move": -1.6363937526678645,
+      "alert_relative_volume": 4.073718211410927
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 713.5,
+      "alert_pct_move": -1.238841726874587,
+      "alert_relative_volume": 3.514463835295442
+    }
+  ]
+}

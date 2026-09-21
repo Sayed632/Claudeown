@@ -1,8 +1,11 @@
 {
-  "NETWEB.NS": {
-    "date": "2026-08-14"
+  "OFSS.NS": {
+    "date": "2026-09-21"
   },
-  "LTTS.NS": {
-    "date": "2026-08-14"
+  "WIPRO.NS": {
+    "date": "2026-09-21"
+  },
+  "TATATECH.NS": {
+    "date": "2026-09-21"
   }
 }
