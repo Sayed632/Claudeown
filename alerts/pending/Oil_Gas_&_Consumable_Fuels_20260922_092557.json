@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-09-22T09:25:57.480781+05:30",
+  "stocks": [
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1501.0999755859375,
+      "alert_pct_move": 6.0548219368127025,
+      "alert_relative_volume": 9.011342569871303
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "alert_price": 421.25,
+      "alert_pct_move": 2.7689695712417945,
+      "alert_relative_volume": 4.033761079532124
+    }
+  ]
+}
