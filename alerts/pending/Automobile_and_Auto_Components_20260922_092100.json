@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-22T09:21:00.625720+05:30",
+  "stocks": [
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1223.0999755859375,
+      "alert_pct_move": 2.0270208348395253,
+      "alert_relative_volume": 5.903638976818067
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1599.0,
+      "alert_pct_move": -2.5,
+      "alert_relative_volume": 3.750049379105245
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1197.9000244140625,
+      "alert_pct_move": -2.4670190492111743,
+      "alert_relative_volume": 3.4733251807768677
+    }
+  ]
+}
