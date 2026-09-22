@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-09-22T09:25:52.739472+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 518.0499877929688,
+      "alert_pct_move": 4.151587082806019,
+      "alert_relative_volume": 8.551627670932765
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 563.5,
+      "alert_pct_move": 1.2669579725601212,
+      "alert_relative_volume": 3.2193489929944104
+    }
+  ]
+}
