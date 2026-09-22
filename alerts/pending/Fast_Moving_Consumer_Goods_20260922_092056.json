@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-09-22T09:20:56.270031+05:30",
+  "stocks": [
+    {
+      "ticker": "PGHH.NS",
+      "alert_price": 7399.0,
+      "alert_pct_move": -1.1621693828479829,
+      "alert_relative_volume": 4.313891028063311
+    },
+    {
+      "ticker": "PATANJALI.NS",
+      "alert_price": 395.8999938964844,
+      "alert_pct_move": 7.874657737461682,
+      "alert_relative_volume": 4.285376526578286
+    },
+    {
+      "ticker": "CCL.NS",
+      "alert_price": 1053.0999755859375,
+      "alert_pct_move": -1.1730480749238636,
+      "alert_relative_volume": 3.9842836722022175
+    }
+  ]
+}
