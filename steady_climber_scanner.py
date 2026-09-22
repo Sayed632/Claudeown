@@ -59,6 +59,7 @@ import requests
 import yfinance as yf
 
 from stock_enrichment import load_cache, save_cache, already_enriched_today, enrich_stock
+from heatmap_chart import generate_heatmap_image, send_telegram_photo
 
 IST = timezone(timedelta(hours=5, minutes=30))
 
@@ -224,6 +225,25 @@ def run_scanner():
 
     message = "\n".join(lines)
     send_telegram(message)
+
+    # Heat map image of the top 5 - sent directly to Telegram as a photo,
+    # no external hosting needed. Sequential green scale (see
+    # heatmap_chart.py) since every stock here already passed strict
+    # filters - all are winners, none should read as "bad" (red).
+    if top:
+        top5_for_chart = top[:5]
+        try:
+            img_bytes = generate_heatmap_image(
+                top5_for_chart, title="Steady Climber - Top 5 (90d return)"
+            )
+            send_telegram_photo(
+                img_bytes,
+                caption="[SteadyClimber] Top 5 heat map",
+                telegram_token=TELEGRAM_TOKEN,
+                chat_id=CHAT_ID,
+            )
+        except Exception as e:
+            print(f"Heatmap generation/send failed (non-fatal, continuing): {e}")
 
     # Enrichment: once per ticker per day
     if top:
