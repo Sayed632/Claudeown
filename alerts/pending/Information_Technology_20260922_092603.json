@@ -1,0 +1,36 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-22T09:26:03.077737+05:30",
+  "stocks": [
+    {
+      "ticker": "MAPMYINDIA.NS",
+      "alert_price": 950.5,
+      "alert_pct_move": 5.681562619394847,
+      "alert_relative_volume": 15.581045395860071
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3223.0,
+      "alert_pct_move": -1.3377399768900833,
+      "alert_relative_volume": 12.88091035088838
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10944.0,
+      "alert_pct_move": -8.002689979825153,
+      "alert_relative_volume": 3.885990358176273
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 3286.699951171875,
+      "alert_pct_move": -1.8162822652165795,
+      "alert_relative_volume": 3.446604329885643
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4795.0,
+      "alert_pct_move": 2.797727516346875,
+      "alert_relative_volume": 3.4022210126023493
+    }
+  ]
+}

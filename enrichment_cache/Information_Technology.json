@@ -1,14 +1,17 @@
 {
+  "MAPMYINDIA.NS": {
+    "date": "2026-09-22"
+  },
+  "TATAELXSI.NS": {
+    "date": "2026-09-22"
+  },
   "OFSS.NS": {
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
-  "WIPRO.NS": {
-    "date": "2026-09-21"
+  "LTTS.NS": {
+    "date": "2026-09-22"
   },
-  "TATATECH.NS": {
-    "date": "2026-09-21"
-  },
-  "COFORGE.NS": {
-    "date": "2026-09-21"
+  "NETWEB.NS": {
+    "date": "2026-09-22"
   }
 }
