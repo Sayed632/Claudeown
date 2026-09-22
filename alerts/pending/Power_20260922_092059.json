@@ -1,0 +1,30 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-09-22T09:20:59.432623+05:30",
+  "stocks": [
+    {
+      "ticker": "NTPCGREEN.NS",
+      "alert_price": 93.05000305175781,
+      "alert_pct_move": 5.081874471952004,
+      "alert_relative_volume": 19.59016611915402
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 16.280000686645508,
+      "alert_pct_move": 5.920629849460305,
+      "alert_relative_volume": 19.290918274297052
+    },
+    {
+      "ticker": "ACMESOLAR.NS",
+      "alert_price": 456.6000061035156,
+      "alert_pct_move": 4.905228283403935,
+      "alert_relative_volume": 6.704232183801281
+    },
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 143.89999389648438,
+      "alert_pct_move": 1.6745531955266186,
+      "alert_relative_volume": 5.513489157917943
+    }
+  ]
+}

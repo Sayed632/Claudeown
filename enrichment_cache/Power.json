@@ -1,11 +1,14 @@
 {
+  "NTPCGREEN.NS": {
+    "date": "2026-09-22"
+  },
   "JPPOWER.NS": {
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
   "ACMESOLAR.NS": {
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
-  "ADANIPOWER.NS": {
-    "date": "2026-09-21"
+  "CESC.NS": {
+    "date": "2026-09-22"
   }
 }
