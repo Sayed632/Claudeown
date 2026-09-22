@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-22T09:25:58.245777+05:30",
+  "stocks": [
+    {
+      "ticker": "MANKIND.NS",
+      "alert_price": 2452.39990234375,
+      "alert_pct_move": 6.5936434298877495,
+      "alert_relative_volume": 8.323014225368533
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1560.199951171875,
+      "alert_pct_move": 4.403099952009966,
+      "alert_relative_volume": 4.096731435262465
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 456.6499938964844,
+      "alert_pct_move": 4.257989474083191,
+      "alert_relative_volume": 3.690539474325018
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2024.300048828125,
+      "alert_pct_move": 3.5977507076829585,
+      "alert_relative_volume": 3.157446139468169
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1929.800048828125,
+      "alert_pct_move": 1.7344100369351336,
+      "alert_relative_volume": 3.01497690421114
+    }
+  ]
+}
