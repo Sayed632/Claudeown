@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-22T09:20:56.950412+05:30",
+  "stocks": [
+    {
+      "ticker": "BLS.NS",
+      "alert_price": 231.77999877929688,
+      "alert_pct_move": 2.3311252888727925,
+      "alert_relative_volume": 3.003009792007656
+    }
+  ]
+}
