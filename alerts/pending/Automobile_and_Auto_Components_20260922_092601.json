@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-22T09:26:01.821914+05:30",
+  "stocks": [
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 10970.0,
+      "alert_pct_move": -1.5083497934997308,
+      "alert_relative_volume": 14.467075285146507
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1234.9000244140625,
+      "alert_pct_move": 3.0113425188150993,
+      "alert_relative_volume": 8.608474742860624
+    }
+  ]
+}
