@@ -1,0 +1,30 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-22T09:26:05.378894+05:30",
+  "stocks": [
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 744.9500122070312,
+      "alert_pct_move": 1.9083464031506496,
+      "alert_relative_volume": 4.071117250044621
+    },
+    {
+      "ticker": "UTIAMC.NS",
+      "alert_price": 918.7000122070312,
+      "alert_pct_move": 2.6480460566515363,
+      "alert_relative_volume": 3.156415080112247
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 180.8000030517578,
+      "alert_pct_move": 3.314287458147321,
+      "alert_relative_volume": 3.0900075755891057
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3206.89990234375,
+      "alert_pct_move": -1.8215773260740908,
+      "alert_relative_volume": 3.0646661008748057
+    }
+  ]
+}
