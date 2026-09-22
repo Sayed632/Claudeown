@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-22T09:26:03.205606+05:30",
+  "stocks": [
+    {
+      "ticker": "DMART.NS",
+      "alert_price": 3789.0,
+      "alert_pct_move": 1.0426971032429904,
+      "alert_relative_volume": 3.830608663824818
+    },
+    {
+      "ticker": "DBREALTY.NS",
+      "alert_price": 96.72000122070312,
+      "alert_pct_move": 1.086957475136092,
+      "alert_relative_volume": 3.3872366741194657
+    }
+  ]
+}
