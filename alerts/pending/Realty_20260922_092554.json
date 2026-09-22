@@ -1,0 +1,24 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-09-22T09:25:54.609018+05:30",
+  "stocks": [
+    {
+      "ticker": "SIGNATURE.NS",
+      "alert_price": 783.2999877929688,
+      "alert_pct_move": 3.48107208679595,
+      "alert_relative_volume": 4.785697064091736
+    },
+    {
+      "ticker": "PHOENIXLTD.NS",
+      "alert_price": 1939.800048828125,
+      "alert_pct_move": 3.296236413510692,
+      "alert_relative_volume": 3.7213269050797217
+    },
+    {
+      "ticker": "SOBHA.NS",
+      "alert_price": 1237.0,
+      "alert_pct_move": 1.7939474740022971,
+      "alert_relative_volume": 3.2170899667996613
+    }
+  ]
+}
