@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-09-22T09:26:04.870992+05:30",
+  "stocks": [
+    {
+      "ticker": "PATANJALI.NS",
+      "alert_price": 397.6000061035156,
+      "alert_pct_move": 8.33787632248382,
+      "alert_relative_volume": 3.9975244212431886
+    }
+  ]
+}
