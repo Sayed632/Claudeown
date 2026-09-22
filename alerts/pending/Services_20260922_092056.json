@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-09-22T09:20:56.355966+05:30",
+  "stocks": [
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 357.75,
+      "alert_pct_move": 2.7279253409906676,
+      "alert_relative_volume": 11.568384182776692
+    },
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1972.199951171875,
+      "alert_pct_move": 2.954686589439159,
+      "alert_relative_volume": 3.968110298674764
+    }
+  ]
+}
