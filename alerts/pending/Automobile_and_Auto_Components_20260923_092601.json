@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-23T09:26:01.793779+05:30",
+  "stocks": [
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 40.97999954223633,
+      "alert_pct_move": 8.47009228780872,
+      "alert_relative_volume": 31.71938855177439
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1245.800048828125,
+      "alert_pct_move": 3.3172995836975296,
+      "alert_relative_volume": 15.65631340255166
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1500.699951171875,
+      "alert_pct_move": -2.791818648338988,
+      "alert_relative_volume": 10.90349090539083
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 602.3499755859375,
+      "alert_pct_move": 1.7397159032744556,
+      "alert_relative_volume": 10.843139301254624
+    }
+  ]
+}
