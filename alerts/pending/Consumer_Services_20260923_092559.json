@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-23T09:25:59.703740+05:30",
+  "stocks": [
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 234.0500030517578,
+      "alert_pct_move": -1.8123053043256943,
+      "alert_relative_volume": 5.447062017826045
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 141.8000030517578,
+      "alert_pct_move": -1.875296905467622,
+      "alert_relative_volume": 4.259513896663029
+    }
+  ]
+}
