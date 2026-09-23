@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-23T09:26:01.313686+05:30",
+  "stocks": [
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 855.0,
+      "alert_pct_move": 1.7675385531642602,
+      "alert_relative_volume": 3.7360210608216278
+    }
+  ]
+}
