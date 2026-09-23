@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-23T09:21:05.964203+05:30",
+  "stocks": [
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 234.07000732421875,
+      "alert_pct_move": -1.8039131942150641,
+      "alert_relative_volume": 7.951709085211624
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 142.0,
+      "alert_pct_move": -1.7369002852721054,
+      "alert_relative_volume": 4.263797318687897
+    },
+    {
+      "ticker": "VMM.NS",
+      "alert_price": 104.3499984741211,
+      "alert_pct_move": 2.6561701010450056,
+      "alert_relative_volume": 3.3001935991700235
+    },
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 108.19000244140625,
+      "alert_pct_move": 2.0756718765712368,
+      "alert_relative_volume": 3.0811828493604776
+    }
+  ]
+}
