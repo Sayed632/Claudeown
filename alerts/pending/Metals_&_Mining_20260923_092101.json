@@ -1,0 +1,36 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-09-23T09:21:01.961461+05:30",
+  "stocks": [
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 266.20001220703125,
+      "alert_pct_move": 1.2167346794795628,
+      "alert_relative_volume": 5.003857230927608
+    },
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1892.699951171875,
+      "alert_pct_move": 1.9005021155283044,
+      "alert_relative_volume": 4.9664349850845255
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 515.9000244140625,
+      "alert_pct_move": 1.5151538807705514,
+      "alert_relative_volume": 4.585678026474943
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1561.0999755859375,
+      "alert_pct_move": -1.1962040768393987,
+      "alert_relative_volume": 4.261854812114279
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 600.5,
+      "alert_pct_move": 1.6934801016088061,
+      "alert_relative_volume": 3.8675287439848867
+    }
+  ]
+}
