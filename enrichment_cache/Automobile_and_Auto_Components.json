@@ -1,14 +1,14 @@
 {
+  "OLAELEC.NS": {
+    "date": "2026-09-23"
+  },
   "OLECTRA.NS": {
-    "date": "2026-09-22"
+    "date": "2026-09-23"
+  },
+  "JBMA.NS": {
+    "date": "2026-09-23"
   },
   "ATHERENERG.NS": {
-    "date": "2026-09-22"
-  },
-  "SUNDRMFAST.NS": {
-    "date": "2026-09-22"
-  },
-  "CRAFTSMAN.NS": {
-    "date": "2026-09-22"
+    "date": "2026-09-23"
   }
 }
