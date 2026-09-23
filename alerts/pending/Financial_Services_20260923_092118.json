@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-23T09:21:18.215278+05:30",
+  "stocks": [
+    {
+      "ticker": "360ONE.NS",
+      "alert_price": 1097.0999755859375,
+      "alert_pct_move": 2.274636480350969,
+      "alert_relative_volume": 18.74330124900753
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 189.1999969482422,
+      "alert_pct_move": 2.436383364565522,
+      "alert_relative_volume": 18.429728964495748
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 310.3999938964844,
+      "alert_pct_move": 1.8038701574612979,
+      "alert_relative_volume": 7.77818828213781
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 124.44000244140625,
+      "alert_pct_move": 1.2530519905673618,
+      "alert_relative_volume": 5.081296719484841
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "alert_price": 1857.699951171875,
+      "alert_pct_move": 1.881097197464092,
+      "alert_relative_volume": 4.9341605884565105
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 1031.300048828125,
+      "alert_pct_move": 2.2303787973254647,
+      "alert_relative_volume": 4.798263079574285
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 83.29000091552734,
+      "alert_pct_move": 1.0800963266595576,
+      "alert_relative_volume": 3.1090005733914476
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 1022.5999755859375,
+      "alert_pct_move": 2.7738668930590453,
+      "alert_relative_volume": 3.0832453469900862
+    }
+  ]
+}
