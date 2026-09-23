@@ -1,20 +1,20 @@
 {
-  "PRAJIND.NS": {
-    "date": "2026-08-14"
+  "RHIM.NS": {
+    "date": "2026-09-23"
   },
-  "ELGIEQUIP.NS": {
-    "date": "2026-08-14"
+  "ELECON.NS": {
+    "date": "2026-09-23"
   },
-  "BHEL.NS": {
-    "date": "2026-08-14"
+  "TARIL.NS": {
+    "date": "2026-09-23"
   },
-  "HEG.NS": {
-    "date": "2026-08-14"
+  "GRAPHITE.NS": {
+    "date": "2026-09-23"
   },
-  "SCHNEIDER.NS": {
-    "date": "2026-08-14"
+  "JYOTICNC.NS": {
+    "date": "2026-09-23"
   },
-  "SYRMA.NS": {
-    "date": "2026-08-14"
+  "WELCORP.NS": {
+    "date": "2026-09-23"
   }
 }

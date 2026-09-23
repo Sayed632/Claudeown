@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-09-23T09:26:04.778070+05:30",
+  "stocks": [
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 390.25,
+      "alert_pct_move": 6.046195652173913,
+      "alert_relative_volume": 93.75514934224226
+    },
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 443.8999938964844,
+      "alert_pct_move": 7.364852047508365,
+      "alert_relative_volume": 22.980291482387713
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 285.20001220703125,
+      "alert_pct_move": 2.497758205581761,
+      "alert_relative_volume": 5.0489658221779905
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 838.9000244140625,
+      "alert_pct_move": 3.211126601018329,
+      "alert_relative_volume": 4.333906463296735
+    },
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 1108.3499755859375,
+      "alert_pct_move": 2.2180139882687318,
+      "alert_relative_volume": 3.4505814506015704
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2818.5,
+      "alert_pct_move": 2.019765078160438,
+      "alert_relative_volume": 3.1072592193609
+    }
+  ]
+}
