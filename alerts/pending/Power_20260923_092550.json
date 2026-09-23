@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-09-23T09:25:50.549839+05:30",
+  "stocks": [
+    {
+      "ticker": "ACMESOLAR.NS",
+      "alert_price": 466.3999938964844,
+      "alert_pct_move": 1.8118287889944327,
+      "alert_relative_volume": 4.961091650379297
+    }
+  ]
+}
