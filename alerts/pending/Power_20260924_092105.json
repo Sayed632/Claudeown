@@ -1,0 +1,36 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-09-24T09:21:05.440306+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 46.119998931884766,
+      "alert_pct_move": -3.9566878545743998,
+      "alert_relative_volume": 5.615012225603564
+    },
+    {
+      "ticker": "ADANIPOWER.NS",
+      "alert_price": 201.9499969482422,
+      "alert_pct_move": -1.3916045219957156,
+      "alert_relative_volume": 5.238442628544597
+    },
+    {
+      "ticker": "NTPCGREEN.NS",
+      "alert_price": 93.51000213623047,
+      "alert_pct_move": -2.0016726780198755,
+      "alert_relative_volume": 4.930120669172218
+    },
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1345.5999755859375,
+      "alert_pct_move": -2.4927553923233696,
+      "alert_relative_volume": 3.7876919813240826
+    },
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 62.45000076293945,
+      "alert_pct_move": -1.0457928078420164,
+      "alert_relative_volume": 3.1650345899460217
+    }
+  ]
+}
