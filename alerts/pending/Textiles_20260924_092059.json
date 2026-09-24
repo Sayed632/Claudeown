@@ -1,0 +1,18 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-09-24T09:20:59.007212+05:30",
+  "stocks": [
+    {
+      "ticker": "VTL.NS",
+      "alert_price": 570.9000244140625,
+      "alert_pct_move": 3.574022454780336,
+      "alert_relative_volume": 9.691695905525982
+    },
+    {
+      "ticker": "WELSPUNLIV.NS",
+      "alert_price": 226.8300018310547,
+      "alert_pct_move": 1.3674744157701835,
+      "alert_relative_volume": 3.645871215490927
+    }
+  ]
+}
