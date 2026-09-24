@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-09-24T09:25:54.006606+05:30",
+  "stocks": [
+    {
+      "ticker": "WHIRLPOOL.NS",
+      "alert_price": 821.0999755859375,
+      "alert_pct_move": -5.102574332743426,
+      "alert_relative_volume": 27.490719914303288
+    }
+  ]
+}
