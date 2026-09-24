@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-24T09:21:13.840764+05:30",
+  "stocks": [
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 286.25,
+      "alert_pct_move": -7.661290322580645,
+      "alert_relative_volume": 128.45493802070985
+    },
+    {
+      "ticker": "MFSL.NS",
+      "alert_price": 1406.699951171875,
+      "alert_pct_move": -9.490413372409657,
+      "alert_relative_volume": 75.34630008053112
+    },
+    {
+      "ticker": "ICICIPRULI.NS",
+      "alert_price": 452.0,
+      "alert_pct_move": -7.120105688084072,
+      "alert_relative_volume": 23.938669117523748
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "alert_price": 914.4000244140625,
+      "alert_pct_move": -4.251306344077225,
+      "alert_relative_volume": 21.053997937964837
+    },
+    {
+      "ticker": "AUBANK.NS",
+      "alert_price": 1015.0999755859375,
+      "alert_pct_move": -2.0551957088352215,
+      "alert_relative_volume": 19.19827716966773
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "alert_price": 1670.0,
+      "alert_pct_move": -5.065088785318142,
+      "alert_relative_volume": 16.732035880240506
+    },
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 532.9500122070312,
+      "alert_pct_move": -2.139178094228154,
+      "alert_relative_volume": 13.15214567372142
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "alert_price": 526.7999877929688,
+      "alert_pct_move": -5.79399565572025,
+      "alert_relative_volume": 12.408766043507866
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "alert_price": 1195.0,
+      "alert_pct_move": -3.8384125731149825,
+      "alert_relative_volume": 12.263256528353905
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 22.610000610351562,
+      "alert_pct_move": -2.7108397890327947,
+      "alert_relative_volume": 11.1373426878194
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 3424.0,
+      "alert_pct_move": 1.4819205690574984,
+      "alert_relative_volume": 10.212950942853103
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 989.4000244140625,
+      "alert_pct_move": -5.157201809430354,
+      "alert_relative_volume": 8.633768581522842
+    }
+  ]
+}
