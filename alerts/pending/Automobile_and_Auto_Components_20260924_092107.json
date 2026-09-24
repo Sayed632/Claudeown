@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-24T09:21:07.200936+05:30",
+  "stocks": [
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 43.15999984741211,
+      "alert_pct_move": 3.0809671565216705,
+      "alert_relative_volume": 27.524366959672683
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1257.0,
+      "alert_pct_move": 3.2698036826083494,
+      "alert_relative_volume": 7.581973995805386
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1533.5,
+      "alert_pct_move": 1.7449608333437272,
+      "alert_relative_volume": 4.326951553758258
+    },
+    {
+      "ticker": "BHARATFORG.NS",
+      "alert_price": 1981.699951171875,
+      "alert_pct_move": -1.112776887630988,
+      "alert_relative_volume": 3.4925119335271386
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 430.79998779296875,
+      "alert_pct_move": 1.138625530448439,
+      "alert_relative_volume": 3.3280297969329764
+    }
+  ]
+}
