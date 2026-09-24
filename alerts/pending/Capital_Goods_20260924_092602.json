@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-09-24T09:26:02.125766+05:30",
+  "stocks": [
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 1175.0999755859375,
+      "alert_pct_move": 1.2144681813899656,
+      "alert_relative_volume": 11.493185282159125
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 228.61000061035156,
+      "alert_pct_move": -1.951450926528369,
+      "alert_relative_volume": 5.76693368567401
+    },
+    {
+      "ticker": "SHYAMMETL.NS",
+      "alert_price": 1127.9000244140625,
+      "alert_pct_move": 3.089301670994337,
+      "alert_relative_volume": 4.176174230282538
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 721.4000244140625,
+      "alert_pct_move": 2.6538633104322304,
+      "alert_relative_volume": 3.603138036387922
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1287.0,
+      "alert_pct_move": 6.24947974245614,
+      "alert_relative_volume": 3.2701038585601365
+    },
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 452.8500061035156,
+      "alert_pct_move": -2.946849511388465,
+      "alert_relative_volume": 3.082783271706529
+    }
+  ]
+}
