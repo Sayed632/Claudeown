@@ -1,0 +1,66 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-24T09:25:59.370499+05:30",
+  "stocks": [
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2924.699951171875,
+      "alert_pct_move": 5.307309248273158,
+      "alert_relative_volume": 7.5739342627558495
+    },
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1394.0,
+      "alert_pct_move": -2.5787982238083087,
+      "alert_relative_volume": 7.473732243611938
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1936.5999755859375,
+      "alert_pct_move": 1.4032844314909951,
+      "alert_relative_volume": 7.067155977874238
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 604.9500122070312,
+      "alert_pct_move": 2.170247787694545,
+      "alert_relative_volume": 5.4437483420304185
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 213.67999267578125,
+      "alert_pct_move": 1.3950778713026817,
+      "alert_relative_volume": 5.221520816029079
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1501.699951171875,
+      "alert_pct_move": -2.0033981175330613,
+      "alert_relative_volume": 4.550504498752867
+    },
+    {
+      "ticker": "AUROPHARMA.NS",
+      "alert_price": 1733.5,
+      "alert_pct_move": 1.9705882352941178,
+      "alert_relative_volume": 3.872245876462086
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "alert_price": 1983.0,
+      "alert_pct_move": 1.039438737788226,
+      "alert_relative_volume": 3.343270031181528
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1638.0,
+      "alert_pct_move": 2.343017806935333,
+      "alert_relative_volume": 3.132101420351527
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 1039.800048828125,
+      "alert_pct_move": -1.896402974143645,
+      "alert_relative_volume": 3.0056522679680744
+    }
+  ]
+}
