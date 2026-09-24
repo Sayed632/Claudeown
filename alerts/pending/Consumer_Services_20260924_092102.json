@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-24T09:21:02.386309+05:30",
+  "stocks": [
+    {
+      "ticker": "NAUKRI.NS",
+      "alert_price": 1224.5999755859375,
+      "alert_pct_move": -6.088958927458781,
+      "alert_relative_volume": 7.772257988310354
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 48.459999084472656,
+      "alert_pct_move": -1.283359271047023,
+      "alert_relative_volume": 6.168798971831118
+    }
+  ]
+}
