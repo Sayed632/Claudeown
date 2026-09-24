@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-24T09:21:06.757975+05:30",
+  "stocks": [
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1932.0999755859375,
+      "alert_pct_move": 1.1676576703145436,
+      "alert_relative_volume": 10.658689977782934
+    },
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1379.4000244140625,
+      "alert_pct_move": -3.599133351129033,
+      "alert_relative_volume": 9.196649341474492
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 213.3000030517578,
+      "alert_pct_move": 1.2147658213270716,
+      "alert_relative_volume": 5.242889580398836
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 605.75,
+      "alert_pct_move": 2.3053580437247176,
+      "alert_relative_volume": 4.45653190274536
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "alert_price": 1991.0,
+      "alert_pct_move": 1.4470612843854553,
+      "alert_relative_volume": 3.4656360000467776
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 1038.5,
+      "alert_pct_move": -2.019060658659097,
+      "alert_relative_volume": 3.1689000610469673
+    }
+  ]
+}
