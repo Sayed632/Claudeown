@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-24T09:25:52.771511+05:30",
+  "stocks": [
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5303.0,
+      "alert_pct_move": 1.202290076335878,
+      "alert_relative_volume": 6.992352419989617
+    }
+  ]
+}
