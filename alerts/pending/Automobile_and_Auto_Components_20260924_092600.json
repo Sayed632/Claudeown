@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-24T09:26:00.432954+05:30",
+  "stocks": [
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1259.9000244140625,
+      "alert_pct_move": 3.5080574231930797,
+      "alert_relative_volume": 6.879145818749707
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 432.70001220703125,
+      "alert_pct_move": 1.584692993674382,
+      "alert_relative_volume": 5.745620044149867
+    },
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 981.0,
+      "alert_pct_move": 1.6422292063412562,
+      "alert_relative_volume": 3.0865682238826277
+    }
+  ]
+}
