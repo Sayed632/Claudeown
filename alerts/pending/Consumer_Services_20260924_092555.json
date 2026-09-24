@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-24T09:25:55.927682+05:30",
+  "stocks": [
+    {
+      "ticker": "VMM.NS",
+      "alert_price": 107.3499984741211,
+      "alert_pct_move": 1.2735834661519752,
+      "alert_relative_volume": 6.296115870532014
+    },
+    {
+      "ticker": "NAUKRI.NS",
+      "alert_price": 1228.5999755859375,
+      "alert_pct_move": -5.782210461201112,
+      "alert_relative_volume": 5.80912645741365
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 48.310001373291016,
+      "alert_pct_move": -1.5889158216996984,
+      "alert_relative_volume": 4.180473581568175
+    }
+  ]
+}
