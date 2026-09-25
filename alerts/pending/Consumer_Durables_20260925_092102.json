@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-09-25T09:21:02.396263+05:30",
+  "stocks": [
+    {
+      "ticker": "VGUARD.NS",
+      "alert_price": 305.1499938964844,
+      "alert_pct_move": -1.1179559749827066,
+      "alert_relative_volume": 5.2240266943252145
+    },
+    {
+      "ticker": "WHIRLPOOL.NS",
+      "alert_price": 842.6500244140625,
+      "alert_pct_move": -1.2654505405700167,
+      "alert_relative_volume": 3.0884535374125646
+    }
+  ]
+}
