@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-25T09:25:58.941954+05:30",
+  "stocks": [
+    {
+      "ticker": "GLENMARK.NS",
+      "alert_price": 2407.60009765625,
+      "alert_pct_move": -2.7232283775252526,
+      "alert_relative_volume": 4.468642916154775
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1461.0,
+      "alert_pct_move": -1.2036819205024132,
+      "alert_relative_volume": 3.6701096972554255
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2821.89990234375,
+      "alert_pct_move": 1.0057932931675495,
+      "alert_relative_volume": 3.2890528597840123
+    }
+  ]
+}
