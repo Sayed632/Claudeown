@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-09-25T09:25:50.221044+05:30",
+  "stocks": [
+    {
+      "ticker": "INDIACEM.NS",
+      "alert_price": 323.20001220703125,
+      "alert_pct_move": -4.955146652202265,
+      "alert_relative_volume": 3.0082414210128894
+    }
+  ]
+}
