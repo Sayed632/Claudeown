@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-09-25T09:21:03.654022+05:30",
+  "stocks": [
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 258.75,
+      "alert_pct_move": -1.070536388319427,
+      "alert_relative_volume": 3.2249055707747725
+    }
+  ]
+}
