@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-25T09:26:02.056425+05:30",
+  "stocks": [
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1246.800048828125,
+      "alert_pct_move": 3.280326313615957,
+      "alert_relative_volume": 61.84432659421885
+    },
+    {
+      "ticker": "MFSL.NS",
+      "alert_price": 1437.699951171875,
+      "alert_pct_move": -8.010753809356777,
+      "alert_relative_volume": 13.167114106802403
+    },
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 560.5999755859375,
+      "alert_pct_move": 2.075739826205397,
+      "alert_relative_volume": 10.928272224585799
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "alert_price": 1113.199951171875,
+      "alert_pct_move": -7.679556635135717,
+      "alert_relative_volume": 10.512128815476359
+    },
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1403.0,
+      "alert_pct_move": -4.713394679661191,
+      "alert_relative_volume": 3.5047059069984745
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "alert_price": 518.4500122070312,
+      "alert_pct_move": -1.2193890971913246,
+      "alert_relative_volume": 3.144171142527457
+    },
+    {
+      "ticker": "ICICIGI.NS",
+      "alert_price": 1582.0,
+      "alert_pct_move": 5.424498583126947,
+      "alert_relative_volume": 3.1066076125260795
+    }
+  ]
+}

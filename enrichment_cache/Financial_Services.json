@@ -1,38 +1,23 @@
 {
-  "LTF.NS": {
-    "date": "2026-09-24"
+  "POLICYBZR.NS": {
+    "date": "2026-09-25"
   },
   "MFSL.NS": {
-    "date": "2026-09-24"
-  },
-  "ICICIPRULI.NS": {
-    "date": "2026-09-24"
-  },
-  "INDUSINDBK.NS": {
-    "date": "2026-09-24"
-  },
-  "AUBANK.NS": {
-    "date": "2026-09-24"
-  },
-  "CHOLAFIN.NS": {
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "STARHEALTH.NS": {
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
-  "HDFCLIFE.NS": {
-    "date": "2026-09-24"
+  "HOMEFIRST.NS": {
+    "date": "2026-09-25"
   },
-  "AXISBANK.NS": {
-    "date": "2026-09-24"
+  "CHOLAHLDNG.NS": {
+    "date": "2026-09-25"
   },
-  "YESBANK.NS": {
-    "date": "2026-09-24"
+  "FIVESTAR.NS": {
+    "date": "2026-09-25"
   },
-  "MCX.NS": {
-    "date": "2026-09-24"
-  },
-  "BAJFINANCE.NS": {
-    "date": "2026-09-24"
+  "ICICIGI.NS": {
+    "date": "2026-09-25"
   }
 }
