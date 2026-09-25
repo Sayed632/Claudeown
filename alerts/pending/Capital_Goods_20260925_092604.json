@@ -1,0 +1,18 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-09-25T09:26:04.297745+05:30",
+  "stocks": [
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2794.199951171875,
+      "alert_pct_move": 3.788723046206167,
+      "alert_relative_volume": 5.709804808757437
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 31265.0,
+      "alert_pct_move": 1.7906560312550872,
+      "alert_relative_volume": 4.200190889504527
+    }
+  ]
+}
