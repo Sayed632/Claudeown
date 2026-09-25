@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-09-25T09:20:59.300322+05:30",
+  "stocks": [
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 61.5,
+      "alert_pct_move": -1.1889486801264268,
+      "alert_relative_volume": 5.1881774334027755
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 20.389999389648438,
+      "alert_pct_move": -1.354623539487238,
+      "alert_relative_volume": 3.387182577107747
+    },
+    {
+      "ticker": "ADANIPOWER.NS",
+      "alert_price": 196.85000610351562,
+      "alert_pct_move": -1.318422739298443,
+      "alert_relative_volume": 3.270592181533214
+    }
+  ]
+}

@@ -1,17 +1,11 @@
 {
-  "RELINFRA.NS": {
-    "date": "2026-09-24"
+  "SJVN.NS": {
+    "date": "2026-09-25"
+  },
+  "RPOWER.NS": {
+    "date": "2026-09-25"
   },
   "ADANIPOWER.NS": {
-    "date": "2026-09-24"
-  },
-  "NTPCGREEN.NS": {
-    "date": "2026-09-24"
-  },
-  "ADANIENSOL.NS": {
-    "date": "2026-09-24"
-  },
-  "SJVN.NS": {
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   }
 }
