@@ -1,0 +1,30 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-25T09:25:51.531539+05:30",
+  "stocks": [
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10632.0,
+      "alert_pct_move": -2.000184348787907,
+      "alert_relative_volume": 6.563513408514983
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 994.4000244140625,
+      "alert_pct_move": -1.9812691558341546,
+      "alert_relative_volume": 4.127405997714931
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2047.4000244140625,
+      "alert_pct_move": -1.8974592997574269,
+      "alert_relative_volume": 3.8785848335534356
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 509.54998779296875,
+      "alert_pct_move": -1.412399755788509,
+      "alert_relative_volume": 3.150572398368499
+    }
+  ]
+}
