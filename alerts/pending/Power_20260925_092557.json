@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-09-25T09:25:57.388085+05:30",
+  "stocks": [
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 61.439998626708984,
+      "alert_pct_move": -1.2853519122487267,
+      "alert_relative_volume": 5.143627605210692
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 20.389999389648438,
+      "alert_pct_move": -1.354623539487238,
+      "alert_relative_volume": 3.176107150554406
+    }
+  ]
+}
