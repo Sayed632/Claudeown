@@ -1,0 +1,48 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-25T09:20:59.828095+05:30",
+  "stocks": [
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10602.0,
+      "alert_pct_move": -2.276707530647986,
+      "alert_relative_volume": 5.115945180009296
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3148.0,
+      "alert_pct_move": -1.1244440065041799,
+      "alert_relative_volume": 5.035834540419312
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2044.300048828125,
+      "alert_pct_move": -2.0459967020543846,
+      "alert_relative_volume": 4.8871266705709555
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 992.5,
+      "alert_pct_move": -2.168555938886151,
+      "alert_relative_volume": 4.077669009681825
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 631.0499877929688,
+      "alert_pct_move": -1.197749219955046,
+      "alert_relative_volume": 3.1836038421590134
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 509.3999938964844,
+      "alert_pct_move": -1.4414205362024641,
+      "alert_relative_volume": 3.162760113482779
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 161.77000427246094,
+      "alert_pct_move": -1.142749403667984,
+      "alert_relative_volume": 3.066184119988958
+    }
+  ]
+}

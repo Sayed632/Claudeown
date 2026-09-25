@@ -1,5 +1,23 @@
 {
-  "PERSISTENT.NS": {
-    "date": "2026-09-24"
+  "OFSS.NS": {
+    "date": "2026-09-25"
+  },
+  "TATAELXSI.NS": {
+    "date": "2026-09-25"
+  },
+  "TCS.NS": {
+    "date": "2026-09-25"
+  },
+  "INFY.NS": {
+    "date": "2026-09-25"
+  },
+  "INTELLECT.NS": {
+    "date": "2026-09-25"
+  },
+  "KPITTECH.NS": {
+    "date": "2026-09-25"
+  },
+  "WIPRO.NS": {
+    "date": "2026-09-25"
   }
 }
