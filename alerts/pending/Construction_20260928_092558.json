@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-09-28T09:25:58.311222+05:30",
+  "stocks": [
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 17.209999084472656,
+      "alert_pct_move": -2.6583778992669655,
+      "alert_relative_volume": 3.6181027966414203
+    }
+  ]
+}
