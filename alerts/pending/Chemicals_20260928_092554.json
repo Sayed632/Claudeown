@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-09-28T09:25:54.575327+05:30",
+  "stocks": [
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 667.0499877929688,
+      "alert_pct_move": 1.668954826168408,
+      "alert_relative_volume": 9.731596275105684
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3665.0,
+      "alert_pct_move": -1.4148939174337654,
+      "alert_relative_volume": 4.71511125889736
+    }
+  ]
+}
