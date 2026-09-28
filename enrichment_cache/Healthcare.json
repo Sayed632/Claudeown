@@ -1,11 +1,17 @@
 {
-  "GLENMARK.NS": {
-    "date": "2026-09-25"
+  "ASTRAZEN.NS": {
+    "date": "2026-09-28"
   },
-  "CONCORDBIO.NS": {
-    "date": "2026-09-25"
+  "DRREDDY.NS": {
+    "date": "2026-09-28"
   },
-  "CAPLIPOINT.NS": {
-    "date": "2026-09-25"
+  "FORTIS.NS": {
+    "date": "2026-09-28"
+  },
+  "MAXHEALTH.NS": {
+    "date": "2026-09-28"
+  },
+  "WOCKPHARMA.NS": {
+    "date": "2026-09-28"
   }
 }

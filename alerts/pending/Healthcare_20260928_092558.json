@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-28T09:25:58.592526+05:30",
+  "stocks": [
+    {
+      "ticker": "ASTRAZEN.NS",
+      "alert_price": 6410.0,
+      "alert_pct_move": -1.4604150653343582,
+      "alert_relative_volume": 5.384801837859524
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "alert_price": 1214.699951171875,
+      "alert_pct_move": 1.1407120043193173,
+      "alert_relative_volume": 4.803261066071024
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 827.5499877929688,
+      "alert_pct_move": -1.2293355723696968,
+      "alert_relative_volume": 3.8369129685601067
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 994.0999755859375,
+      "alert_pct_move": -1.9625270625308184,
+      "alert_relative_volume": 3.4100573477783813
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2226.800048828125,
+      "alert_pct_move": -1.712572702846518,
+      "alert_relative_volume": 3.278130122757604
+    }
+  ]
+}
