@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-09-28T09:25:55.966507+05:30",
+  "stocks": [
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 5288.5,
+      "alert_pct_move": -2.001297137033262,
+      "alert_relative_volume": 5.2507037025580745
+    },
+    {
+      "ticker": "WHIRLPOOL.NS",
+      "alert_price": 903.0,
+      "alert_pct_move": -1.7303323529892347,
+      "alert_relative_volume": 4.512466829220486
+    },
+    {
+      "ticker": "CROMPTON.NS",
+      "alert_price": 216.2100067138672,
+      "alert_pct_move": -1.0933208247563724,
+      "alert_relative_volume": 3.490525105659538
+    }
+  ]
+}
