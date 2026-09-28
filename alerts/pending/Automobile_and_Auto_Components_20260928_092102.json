@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-28T09:21:02.714888+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 696.4000244140625,
+      "alert_pct_move": -1.1497481314318665,
+      "alert_relative_volume": 5.641230720121324
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1183.300048828125,
+      "alert_pct_move": -1.9797799296255316,
+      "alert_relative_volume": 4.352305469788604
+    }
+  ]
+}
