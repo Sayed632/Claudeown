@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-09-28T09:25:50.908072+05:30",
+  "stocks": [
+    {
+      "ticker": "SIGNATURE.NS",
+      "alert_price": 801.2999877929688,
+      "alert_pct_move": 1.578248411275376,
+      "alert_relative_volume": 60.723512734174435
+    }
+  ]
+}
