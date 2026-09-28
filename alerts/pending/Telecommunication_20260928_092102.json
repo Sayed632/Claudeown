@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-09-28T09:21:02.256417+05:30",
+  "stocks": [
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 36.70000076293945,
+      "alert_pct_move": 6.562143514366422,
+      "alert_relative_volume": 84.0221591554647
+    },
+    {
+      "ticker": "IDEA.NS",
+      "alert_price": 13.949999809265137,
+      "alert_pct_move": -2.1739159511991617,
+      "alert_relative_volume": 4.571973595829765
+    }
+  ]
+}
