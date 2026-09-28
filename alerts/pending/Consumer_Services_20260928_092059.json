@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-28T09:20:59.660820+05:30",
+  "stocks": [
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 132.80999755859375,
+      "alert_pct_move": -1.6367994696604722,
+      "alert_relative_volume": 3.4966828913359715
+    },
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 869.7999877929688,
+      "alert_pct_move": -1.3104882410974266,
+      "alert_relative_volume": 3.252770195199246
+    }
+  ]
+}
