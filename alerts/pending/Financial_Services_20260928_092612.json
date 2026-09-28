@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-28T09:26:12.680717+05:30",
+  "stocks": [
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1186.5,
+      "alert_pct_move": 1.758147512864494,
+      "alert_relative_volume": 7.693581206206431
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 21.700000762939453,
+      "alert_pct_move": -3.5555521647135415,
+      "alert_relative_volume": 6.6971108704874815
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1616.5,
+      "alert_pct_move": -3.8598800684970245,
+      "alert_relative_volume": 6.0790235901298555
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 279.3500061035156,
+      "alert_pct_move": -3.003470102945964,
+      "alert_relative_volume": 5.608722459060123
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 87.05999755859375,
+      "alert_pct_move": -2.0256617593902253,
+      "alert_relative_volume": 4.790275071655197
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 123.12999725341797,
+      "alert_pct_move": -1.488119563278043,
+      "alert_relative_volume": 3.2195766864782174
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2780.89990234375,
+      "alert_pct_move": -1.9082926862874778,
+      "alert_relative_volume": 3.13057994531865
+    },
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 218.50999450683594,
+      "alert_pct_move": -3.1298544080087907,
+      "alert_relative_volume": 3.0673723598552356
+    }
+  ]
+}
