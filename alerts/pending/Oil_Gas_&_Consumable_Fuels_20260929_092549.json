@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-09-29T09:25:49.785835+05:30",
+  "stocks": [
+    {
+      "ticker": "IGL.NS",
+      "alert_price": 141.11000061035156,
+      "alert_pct_move": -2.649186904958533,
+      "alert_relative_volume": 4.598903271113129
+    },
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 286.25,
+      "alert_pct_move": -1.2420238149761973,
+      "alert_relative_volume": 3.716972693768233
+    }
+  ]
+}
