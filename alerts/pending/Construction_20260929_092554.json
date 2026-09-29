@@ -1,0 +1,24 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-09-29T09:25:54.274764+05:30",
+  "stocks": [
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 136.0800018310547,
+      "alert_pct_move": 2.4544453599359963,
+      "alert_relative_volume": 79.68896348323574
+    },
+    {
+      "ticker": "RITES.NS",
+      "alert_price": 193.60000610351562,
+      "alert_pct_move": -1.2798911320300352,
+      "alert_relative_volume": 4.386522923010418
+    },
+    {
+      "ticker": "KPIL.NS",
+      "alert_price": 1357.199951171875,
+      "alert_pct_move": -1.3375999375272598,
+      "alert_relative_volume": 3.3109234630478164
+    }
+  ]
+}
