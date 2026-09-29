@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-09-29T09:21:04.160922+05:30",
+  "stocks": [
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1482.0,
+      "alert_pct_move": -1.3972055888223553,
+      "alert_relative_volume": 3.802727356820571
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3624.5,
+      "alert_pct_move": -2.504306413025561,
+      "alert_relative_volume": 3.5762964331635803
+    }
+  ]
+}
