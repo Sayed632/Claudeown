@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-09-29T09:21:05.005483+05:30",
+  "stocks": [
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 134.92999267578125,
+      "alert_pct_move": 1.5886050558723015,
+      "alert_relative_volume": 74.50547331924832
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 200.5800018310547,
+      "alert_pct_move": -1.0702826973836315,
+      "alert_relative_volume": 3.220197660445839
+    }
+  ]
+}
