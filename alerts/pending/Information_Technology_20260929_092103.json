@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-29T09:21:03.404533+05:30",
+  "stocks": [
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 485.0,
+      "alert_pct_move": 2.234402664395603,
+      "alert_relative_volume": 27.623650224803857
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4492.0,
+      "alert_pct_move": -1.6314464031534,
+      "alert_relative_volume": 3.359276183636186
+    }
+  ]
+}
