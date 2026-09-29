@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-29T09:21:03.093563+05:30",
+  "stocks": [
+    {
+      "ticker": "TMPV.NS",
+      "alert_price": 276.04998779296875,
+      "alert_pct_move": -2.0230744301796806,
+      "alert_relative_volume": 5.771773685812149
+    },
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 712.25,
+      "alert_pct_move": 1.1000709723207949,
+      "alert_relative_volume": 5.765687370000061
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 4082.300048828125,
+      "alert_pct_move": -1.8040497289805792,
+      "alert_relative_volume": 3.249530155196322
+    }
+  ]
+}

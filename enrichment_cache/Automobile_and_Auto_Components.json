@@ -1,11 +1,11 @@
 {
+  "TMPV.NS": {
+    "date": "2026-09-29"
+  },
   "RKFORGE.NS": {
-    "date": "2026-09-28"
+    "date": "2026-09-29"
   },
-  "OLECTRA.NS": {
-    "date": "2026-09-28"
-  },
-  "OLAELEC.NS": {
-    "date": "2026-09-28"
+  "TVSMOTOR.NS": {
+    "date": "2026-09-29"
   }
 }
