@@ -1,32 +1,38 @@
 {
-  "POLICYBZR.NS": {
-    "date": "2026-09-28"
+  "JMFINANCIL.NS": {
+    "date": "2026-09-29"
   },
-  "YESBANK.NS": {
-    "date": "2026-09-28"
+  "360ONE.NS": {
+    "date": "2026-09-29"
   },
-  "NUVAMA.NS": {
-    "date": "2026-09-28"
+  "BAJAJHLDNG.NS": {
+    "date": "2026-09-29"
   },
-  "ANGELONE.NS": {
-    "date": "2026-09-28"
+  "NIVABUPA.NS": {
+    "date": "2026-09-29"
   },
-  "BAJAJHFL.NS": {
-    "date": "2026-09-28"
+  "CAMS.NS": {
+    "date": "2026-09-29"
   },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-09-28"
+  "CENTRALBK.NS": {
+    "date": "2026-09-29"
+  },
+  "MAHSCOOTER.NS": {
+    "date": "2026-09-29"
+  },
+  "KARURVYSYA.NS": {
+    "date": "2026-09-29"
+  },
+  "JIOFIN.NS": {
+    "date": "2026-09-29"
+  },
+  "ICICIPRULI.NS": {
+    "date": "2026-09-29"
+  },
+  "IOB.NS": {
+    "date": "2026-09-29"
   },
   "SBFC.NS": {
-    "date": "2026-09-28"
-  },
-  "J&KBANK.NS": {
-    "date": "2026-09-28"
-  },
-  "CANBK.NS": {
-    "date": "2026-09-28"
-  },
-  "CUB.NS": {
-    "date": "2026-09-28"
+    "date": "2026-09-29"
   }
 }

@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-09-29T09:26:02.770255+05:30",
+  "stocks": [
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 124.38999938964844,
+      "alert_pct_move": -2.57675509685441,
+      "alert_relative_volume": 7.10607081074424
+    },
+    {
+      "ticker": "360ONE.NS",
+      "alert_price": 1032.199951171875,
+      "alert_pct_move": -3.802427663385368,
+      "alert_relative_volume": 7.057446901921942
+    },
+    {
+      "ticker": "BAJAJHLDNG.NS",
+      "alert_price": 10784.0,
+      "alert_pct_move": -1.4259597806215722,
+      "alert_relative_volume": 6.8962486124710995
+    },
+    {
+      "ticker": "NIVABUPA.NS",
+      "alert_price": 73.30000305175781,
+      "alert_pct_move": -5.0395119401651485,
+      "alert_relative_volume": 6.664251886618777
+    },
+    {
+      "ticker": "CAMS.NS",
+      "alert_price": 672.5999755859375,
+      "alert_pct_move": -2.7402230556765432,
+      "alert_relative_volume": 6.244290766592655
+    },
+    {
+      "ticker": "CENTRALBK.NS",
+      "alert_price": 30.1299991607666,
+      "alert_pct_move": -1.5037626333008478,
+      "alert_relative_volume": 5.142288295100728
+    },
+    {
+      "ticker": "MAHSCOOTER.NS",
+      "alert_price": 12675.0,
+      "alert_pct_move": -2.888446215139442,
+      "alert_relative_volume": 4.253946202993381
+    },
+    {
+      "ticker": "KARURVYSYA.NS",
+      "alert_price": 317.6000061035156,
+      "alert_pct_move": -3.1559706413371864,
+      "alert_relative_volume": 3.8595185990754635
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 218.13999938964844,
+      "alert_pct_move": -1.0702950613839286,
+      "alert_relative_volume": 3.7438765358111823
+    },
+    {
+      "ticker": "ICICIPRULI.NS",
+      "alert_price": 446.1499938964844,
+      "alert_pct_move": -2.735996942786761,
+      "alert_relative_volume": 3.3346017086514568
+    },
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 31.299999237060547,
+      "alert_pct_move": -2.1263299403044003,
+      "alert_relative_volume": 3.1585330280817363
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 86.13999938964844,
+      "alert_pct_move": -3.0609961760300326,
+      "alert_relative_volume": 3.117245359683663
+    }
+  ]
+}
