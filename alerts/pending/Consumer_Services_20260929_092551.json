@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-29T09:25:51.588266+05:30",
+  "stocks": [
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 76.08999633789062,
+      "alert_pct_move": -1.3995099866275504,
+      "alert_relative_volume": 6.380798791807724
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 300.79998779296875,
+      "alert_pct_move": 2.06989322472514,
+      "alert_relative_volume": 4.424164432753984
+    },
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 848.2000122070312,
+      "alert_pct_move": -3.761271265352626,
+      "alert_relative_volume": 4.380330467147431
+    },
+    {
+      "ticker": "VENTIVE.NS",
+      "alert_price": 555.0,
+      "alert_pct_move": -1.778601541471232,
+      "alert_relative_volume": 3.279488524477389
+    }
+  ]
+}
