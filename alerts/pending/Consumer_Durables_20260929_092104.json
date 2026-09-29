@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-09-29T09:21:04.238344+05:30",
+  "stocks": [
+    {
+      "ticker": "KAJARIACER.NS",
+      "alert_price": 1188.0,
+      "alert_pct_move": -2.47105953445723,
+      "alert_relative_volume": 19.21169409010259
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 576.2999877929688,
+      "alert_pct_move": 2.180848899462544,
+      "alert_relative_volume": 9.694123211332201
+    },
+    {
+      "ticker": "CENTURYPLY.NS",
+      "alert_price": 676.6500244140625,
+      "alert_pct_move": -2.5631776917101083,
+      "alert_relative_volume": 5.054877834879765
+    }
+  ]
+}
