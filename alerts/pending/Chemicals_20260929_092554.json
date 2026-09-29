@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-09-29T09:25:54.960359+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 614.5,
+      "alert_pct_move": -4.201420483928995,
+      "alert_relative_volume": 4.835661505549425
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1481.699951171875,
+      "alert_pct_move": -1.4171689173735862,
+      "alert_relative_volume": 3.8372877654785116
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3620.89990234375,
+      "alert_pct_move": -2.6011457061630794,
+      "alert_relative_volume": 3.670335698461363
+    }
+  ]
+}
