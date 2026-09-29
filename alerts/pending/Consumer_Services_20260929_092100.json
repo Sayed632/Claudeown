@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-29T09:21:00.864573+05:30",
+  "stocks": [
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 847.7999877929688,
+      "alert_pct_move": -3.8066589575456797,
+      "alert_relative_volume": 5.329230460711102
+    },
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 76.19999694824219,
+      "alert_pct_move": -1.2569667535556222,
+      "alert_relative_volume": 4.458414612086456
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 300.1499938964844,
+      "alert_pct_move": 1.8493320202594459,
+      "alert_relative_volume": 4.160069807149359
+    },
+    {
+      "ticker": "JUBLFOOD.NS",
+      "alert_price": 470.70001220703125,
+      "alert_pct_move": -1.6711927712548518,
+      "alert_relative_volume": 3.402230065639262
+    }
+  ]
+}
