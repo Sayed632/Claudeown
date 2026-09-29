@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-09-29T09:25:52.068946+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 4680.0,
+      "alert_pct_move": -1.465388584832543,
+      "alert_relative_volume": 19.07271297616101
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1538.4000244140625,
+      "alert_pct_move": 2.7518083479724766,
+      "alert_relative_volume": 8.846561388946462
+    },
+    {
+      "ticker": "DELHIVERY.NS",
+      "alert_price": 411.6000061035156,
+      "alert_pct_move": -2.625977237511654,
+      "alert_relative_volume": 3.5088918861641196
+    }
+  ]
+}
