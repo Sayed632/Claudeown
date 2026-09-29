@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-09-29T09:21:00.009802+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 4685.5,
+      "alert_pct_move": -1.3495893620155728,
+      "alert_relative_volume": 29.121385315932777
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1558.699951171875,
+      "alert_pct_move": 4.107667780236252,
+      "alert_relative_volume": 9.589220339354613
+    }
+  ]
+}
