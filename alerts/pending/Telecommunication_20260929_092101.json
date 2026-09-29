@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-09-29T09:21:01.571831+05:30",
+  "stocks": [
+    {
+      "ticker": "ITI.NS",
+      "alert_price": 244.8000030517578,
+      "alert_pct_move": -3.2028434322707042,
+      "alert_relative_volume": 4.756558350744015
+    },
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 34.400001525878906,
+      "alert_pct_move": -4.946109888794034,
+      "alert_relative_volume": 4.059502301637993
+    }
+  ]
+}
