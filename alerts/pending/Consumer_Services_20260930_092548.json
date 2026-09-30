@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-09-30T09:25:48.506037+05:30",
+  "stocks": [
+    {
+      "ticker": "VMM.NS",
+      "alert_price": 101.9000015258789,
+      "alert_pct_move": -2.3010560456915132,
+      "alert_relative_volume": 3.6971792304690734
+    },
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 860.25,
+      "alert_pct_move": -1.0012097456485716,
+      "alert_relative_volume": 3.422391981189913
+    },
+    {
+      "ticker": "DMART.NS",
+      "alert_price": 3832.39990234375,
+      "alert_pct_move": 2.1973307291666666,
+      "alert_relative_volume": 3.382643254149565
+    }
+  ]
+}
