@@ -1,0 +1,24 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-09-30T09:20:56.328578+05:30",
+  "stocks": [
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 135.82000732421875,
+      "alert_pct_move": 3.4188726342516067,
+      "alert_relative_volume": 7.424001067262852
+    },
+    {
+      "ticker": "HINDPETRO.NS",
+      "alert_price": 356.79998779296875,
+      "alert_pct_move": 2.1763961398236376,
+      "alert_relative_volume": 4.382125527528483
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 307.75,
+      "alert_pct_move": 1.8196856906534327,
+      "alert_relative_volume": 3.5335453490427478
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "IGL.NS": {
-    "date": "2026-09-29"
+  "IOC.NS": {
+    "date": "2026-09-30"
   },
-  "PETRONET.NS": {
-    "date": "2026-09-29"
+  "HINDPETRO.NS": {
+    "date": "2026-09-30"
   },
-  "CHENNPETRO.NS": {
-    "date": "2026-09-29"
+  "BPCL.NS": {
+    "date": "2026-09-30"
   }
 }
