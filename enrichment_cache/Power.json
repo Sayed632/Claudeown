@@ -1,11 +1,17 @@
 {
-  "SJVN.NS": {
-    "date": "2026-09-25"
+  "RELINFRA.NS": {
+    "date": "2026-09-30"
   },
-  "RPOWER.NS": {
-    "date": "2026-09-25"
+  "NAVA.NS": {
+    "date": "2026-09-30"
+  },
+  "ADANIENSOL.NS": {
+    "date": "2026-09-30"
   },
   "ADANIPOWER.NS": {
-    "date": "2026-09-25"
+    "date": "2026-09-30"
+  },
+  "RPOWER.NS": {
+    "date": "2026-09-30"
   }
 }
