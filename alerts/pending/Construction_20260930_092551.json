@@ -1,0 +1,24 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-09-30T09:25:51.931062+05:30",
+  "stocks": [
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 79.56999969482422,
+      "alert_pct_move": 1.9997404382446935,
+      "alert_relative_volume": 5.497853314362002
+    },
+    {
+      "ticker": "RITES.NS",
+      "alert_price": 197.69000244140625,
+      "alert_pct_move": 2.7975690037504677,
+      "alert_relative_volume": 4.799077960497295
+    },
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 104.75,
+      "alert_pct_move": 2.225040257768849,
+      "alert_relative_volume": 4.224996546803568
+    }
+  ]
+}
