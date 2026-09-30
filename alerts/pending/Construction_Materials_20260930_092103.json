@@ -1,0 +1,18 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-09-30T09:21:03.004689+05:30",
+  "stocks": [
+    {
+      "ticker": "NUVOCO.NS",
+      "alert_price": 338.45001220703125,
+      "alert_pct_move": 3.866811682523913,
+      "alert_relative_volume": 3.4383324246436637
+    },
+    {
+      "ticker": "RAMCOCEM.NS",
+      "alert_price": 866.8499755859375,
+      "alert_pct_move": 2.1445767570019076,
+      "alert_relative_volume": 3.3174149018937973
+    }
+  ]
+}
