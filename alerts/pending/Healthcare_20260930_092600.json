@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-09-30T09:26:00.925496+05:30",
+  "stocks": [
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 952.5999755859375,
+      "alert_pct_move": -3.0037675117953038,
+      "alert_relative_volume": 6.58891080318079
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8470.5,
+      "alert_pct_move": -4.3961625282167045,
+      "alert_relative_volume": 5.506048153049058
+    },
+    {
+      "ticker": "GLENMARK.NS",
+      "alert_price": 2379.300048828125,
+      "alert_pct_move": -2.5476121716926072,
+      "alert_relative_volume": 4.310378482942503
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 9402.0,
+      "alert_pct_move": -1.5497382198952878,
+      "alert_relative_volume": 4.021196909480871
+    },
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 863.8499755859375,
+      "alert_pct_move": 1.1119564899015337,
+      "alert_relative_volume": 3.9928357253475046
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "alert_price": 1218.4000244140625,
+      "alert_pct_move": -2.6759325302896526,
+      "alert_relative_volume": 3.5844359996186483
+    }
+  ]
+}
