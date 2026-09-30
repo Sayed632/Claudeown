@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-09-30T09:21:01.021726+05:30",
+  "stocks": [
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 57.689998626708984,
+      "alert_pct_move": 1.6384783873803683,
+      "alert_relative_volume": 7.613737139970303
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "alert_price": 1799.0,
+      "alert_pct_move": -1.2623490669593853,
+      "alert_relative_volume": 5.266483908521093
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 268.3999938964844,
+      "alert_pct_move": 7.834471867488234,
+      "alert_relative_volume": 4.524731257787892
+    }
+  ]
+}
