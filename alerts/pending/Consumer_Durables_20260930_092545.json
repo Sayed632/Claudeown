@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-09-30T09:25:45.422315+05:30",
+  "stocks": [
+    {
+      "ticker": "KAJARIACER.NS",
+      "alert_price": 1234.4000244140625,
+      "alert_pct_move": 3.774697302569357,
+      "alert_relative_volume": 15.737180416101076
+    },
+    {
+      "ticker": "AMBER.NS",
+      "alert_price": 6772.5,
+      "alert_pct_move": 2.5126769091046697,
+      "alert_relative_volume": 7.397838195310624
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 457.70001220703125,
+      "alert_pct_move": 1.0709961440095415,
+      "alert_relative_volume": 3.3019030304093095
+    }
+  ]
+}
