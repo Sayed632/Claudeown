@@ -1,0 +1,48 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-30T09:25:50.045225+05:30",
+  "stocks": [
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 629.2999877929688,
+      "alert_pct_move": 2.617201433831023,
+      "alert_relative_volume": 5.072353700195677
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2215.89990234375,
+      "alert_pct_move": 2.854623226314426,
+      "alert_relative_volume": 3.780226373137391
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1543.5,
+      "alert_pct_move": 2.1847070506454815,
+      "alert_relative_volume": 3.718831767069885
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 705.75,
+      "alert_pct_move": 2.766654532216964,
+      "alert_relative_volume": 3.510203443205873
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1795.699951171875,
+      "alert_pct_move": 1.280313094860406,
+      "alert_relative_volume": 3.4747265087242054
+    },
+    {
+      "ticker": "MAPMYINDIA.NS",
+      "alert_price": 859.2000122070312,
+      "alert_pct_move": 1.656412659465356,
+      "alert_relative_volume": 3.374204062057644
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2085.699951171875,
+      "alert_pct_move": 2.622511617671269,
+      "alert_relative_volume": 3.1340542832401557
+    }
+  ]
+}
