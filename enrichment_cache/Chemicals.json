@@ -1,11 +1,17 @@
 {
-  "PIDILITIND.NS": {
-    "date": "2026-09-29"
+  "SUMICHEM.NS": {
+    "date": "2026-09-30"
   },
-  "BAYERCROP.NS": {
-    "date": "2026-09-29"
+  "SOLARINDS.NS": {
+    "date": "2026-09-30"
   },
-  "TATACHEM.NS": {
-    "date": "2026-09-29"
+  "AARTIIND.NS": {
+    "date": "2026-09-30"
+  },
+  "RCF.NS": {
+    "date": "2026-09-30"
+  },
+  "JUBLINGREA.NS": {
+    "date": "2026-09-30"
   }
 }

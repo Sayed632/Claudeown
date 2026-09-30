@@ -1,0 +1,36 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-09-30T09:21:00.053799+05:30",
+  "stocks": [
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 440.8999938964844,
+      "alert_pct_move": 1.6484135784402016,
+      "alert_relative_volume": 6.1590930805786
+    },
+    {
+      "ticker": "SOLARINDS.NS",
+      "alert_price": 19660.0,
+      "alert_pct_move": 5.415549597855228,
+      "alert_relative_volume": 5.189972007458693
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 483.3999938964844,
+      "alert_pct_move": 2.872951729166005,
+      "alert_relative_volume": 3.2763339001919864
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 109.61000061035156,
+      "alert_pct_move": 1.3874757113417078,
+      "alert_relative_volume": 3.1829305198260696
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 658.1500244140625,
+      "alert_pct_move": 2.9807619395791085,
+      "alert_relative_volume": 3.027854236421772
+    }
+  ]
+}
