@@ -1,0 +1,54 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-09-30T09:21:02.965575+05:30",
+  "stocks": [
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 628.8499755859375,
+      "alert_pct_move": 2.5438199080207906,
+      "alert_relative_volume": 6.865477284611234
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2210.199951171875,
+      "alert_pct_move": 2.59005065714219,
+      "alert_relative_volume": 4.539587977718791
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2080.0,
+      "alert_pct_move": 2.342057420495283,
+      "alert_relative_volume": 4.040325937410719
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1542.5999755859375,
+      "alert_pct_move": 2.125122514792287,
+      "alert_relative_volume": 3.994373604778697
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 706.5,
+      "alert_pct_move": 2.875864579541318,
+      "alert_relative_volume": 3.804639371746432
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 276.6000061035156,
+      "alert_pct_move": 1.9723524805587558,
+      "alert_relative_volume": 3.667870569630453
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 313.04998779296875,
+      "alert_pct_move": 1.4091271182134475,
+      "alert_relative_volume": 3.538631112434229
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 159.6699981689453,
+      "alert_pct_move": 1.8368550329335462,
+      "alert_relative_volume": 3.2917863090450292
+    }
+  ]
+}

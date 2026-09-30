@@ -1,8 +1,26 @@
 {
-  "NEWGEN.NS": {
-    "date": "2026-09-29"
+  "INTELLECT.NS": {
+    "date": "2026-09-30"
   },
-  "NETWEB.NS": {
-    "date": "2026-09-29"
+  "MPHASIS.NS": {
+    "date": "2026-09-30"
+  },
+  "TCS.NS": {
+    "date": "2026-09-30"
+  },
+  "TECHM.NS": {
+    "date": "2026-09-30"
+  },
+  "TATATECH.NS": {
+    "date": "2026-09-30"
+  },
+  "BSOFT.NS": {
+    "date": "2026-09-30"
+  },
+  "HAPPSTMNDS.NS": {
+    "date": "2026-09-30"
+  },
+  "WIPRO.NS": {
+    "date": "2026-09-30"
   }
 }
