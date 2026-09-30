@@ -1,0 +1,42 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-09-30T09:20:59.104528+05:30",
+  "stocks": [
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10848.0,
+      "alert_pct_move": -1.5965166908563133,
+      "alert_relative_volume": 5.68437409722254
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5313.5,
+      "alert_pct_move": 2.0257296466973886,
+      "alert_relative_volume": 4.603356791815278
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 405.6499938964844,
+      "alert_pct_move": 4.119606658503058,
+      "alert_relative_volume": 3.9724967513003957
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 341.8500061035156,
+      "alert_pct_move": 2.105740312901808,
+      "alert_relative_volume": 3.391146510069635
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1425.0,
+      "alert_pct_move": 1.279317697228145,
+      "alert_relative_volume": 3.220169593557344
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 162.2100067138672,
+      "alert_pct_move": 2.3019735188407937,
+      "alert_relative_volume": 3.082428328903212
+    }
+  ]
+}

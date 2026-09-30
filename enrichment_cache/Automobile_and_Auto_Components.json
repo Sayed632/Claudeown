@@ -1,11 +1,20 @@
 {
-  "TMPV.NS": {
-    "date": "2026-09-29"
+  "BAJAJ-AUTO.NS": {
+    "date": "2026-09-30"
   },
-  "RKFORGE.NS": {
-    "date": "2026-09-29"
+  "HEROMOTOCO.NS": {
+    "date": "2026-09-30"
   },
-  "TVSMOTOR.NS": {
-    "date": "2026-09-29"
+  "APOLLOTYRE.NS": {
+    "date": "2026-09-30"
+  },
+  "JKTYRE.NS": {
+    "date": "2026-09-30"
+  },
+  "ATHERENERG.NS": {
+    "date": "2026-09-30"
+  },
+  "MOTHERSON.NS": {
+    "date": "2026-09-30"
   }
 }
