@@ -1,0 +1,36 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-09-30T09:25:46.775786+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 259.54998779296875,
+      "alert_pct_move": 4.278824490816833,
+      "alert_relative_volume": 16.396267954053904
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "alert_price": 1795.0,
+      "alert_pct_move": -1.481888035126235,
+      "alert_relative_volume": 6.9147619651288545
+    },
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 57.959999084472656,
+      "alert_pct_move": 2.1141663115310654,
+      "alert_relative_volume": 6.704777465635452
+    },
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 4964.5,
+      "alert_pct_move": 1.8986042692939247,
+      "alert_relative_volume": 3.741400082801096
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1564.5,
+      "alert_pct_move": 1.7362433557094503,
+      "alert_relative_volume": 3.3761912963067076
+    }
+  ]
+}
