@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-09-30T09:25:50.541204+05:30",
+  "stocks": [
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 135.3000030517578,
+      "alert_pct_move": 3.0229202507818487,
+      "alert_relative_volume": 6.125439537952947
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1478.199951171875,
+      "alert_pct_move": 2.874238016291616,
+      "alert_relative_volume": 4.23662814939719
+    },
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 177.72000122070312,
+      "alert_pct_move": 3.5362700495517303,
+      "alert_relative_volume": 4.070172802581785
+    },
+    {
+      "ticker": "HINDPETRO.NS",
+      "alert_price": 356.79998779296875,
+      "alert_pct_move": 2.1763961398236376,
+      "alert_relative_volume": 3.684877066929686
+    }
+  ]
+}
