@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-01T09:20:57.131926+05:30",
+  "stocks": [
+    {
+      "ticker": "IGL.NS",
+      "alert_price": 140.0800018310547,
+      "alert_pct_move": -2.7964740560880936,
+      "alert_relative_volume": 5.989071131320695
+    },
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1033.0999755859375,
+      "alert_pct_move": -1.6563564411292242,
+      "alert_relative_volume": 5.121997716348074
+    },
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1365.5,
+      "alert_pct_move": -1.057892605188904,
+      "alert_relative_volume": 4.366659572298231
+    },
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 166.41000366210938,
+      "alert_pct_move": -1.7012166922091483,
+      "alert_relative_volume": 3.5682800255140577
+    }
+  ]
+}

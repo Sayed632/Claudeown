@@ -1,17 +1,14 @@
 {
-  "IOC.NS": {
-    "date": "2026-09-30"
+  "IGL.NS": {
+    "date": "2026-10-01"
   },
-  "HINDPETRO.NS": {
-    "date": "2026-09-30"
+  "MGL.NS": {
+    "date": "2026-10-01"
   },
-  "BPCL.NS": {
-    "date": "2026-09-30"
-  },
-  "CHENNPETRO.NS": {
-    "date": "2026-09-30"
+  "AEGISLOG.NS": {
+    "date": "2026-10-01"
   },
   "MRPL.NS": {
-    "date": "2026-09-30"
+    "date": "2026-10-01"
   }
 }
