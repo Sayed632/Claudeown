@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-01T09:25:45.949141+05:30",
+  "stocks": [
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6381.0,
+      "alert_pct_move": 2.927655456085168,
+      "alert_relative_volume": 7.2408269933155776
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1332.5999755859375,
+      "alert_pct_move": 1.810676960028665,
+      "alert_relative_volume": 3.9810591387852576
+    }
+  ]
+}
