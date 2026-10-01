@@ -1,0 +1,24 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-10-01T09:20:53.126859+05:30",
+  "stocks": [
+    {
+      "ticker": "AMBUJACEM.NS",
+      "alert_price": 365.79998779296875,
+      "alert_pct_move": -2.1925166328960564,
+      "alert_relative_volume": 5.085209771582785
+    },
+    {
+      "ticker": "NUVOCO.NS",
+      "alert_price": 329.0,
+      "alert_pct_move": -2.6050882507319972,
+      "alert_relative_volume": 4.643736654249598
+    },
+    {
+      "ticker": "JKCEMENT.NS",
+      "alert_price": 4940.5,
+      "alert_pct_move": -2.669424743892829,
+      "alert_relative_volume": 3.0571724915145495
+    }
+  ]
+}
