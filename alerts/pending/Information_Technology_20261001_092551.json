@@ -1,0 +1,48 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-01T09:25:51.892900+05:30",
+  "stocks": [
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2220.60009765625,
+      "alert_pct_move": 3.0727904898473803,
+      "alert_relative_volume": 7.809858666203819
+    },
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 493.5,
+      "alert_pct_move": 2.3646533400036067,
+      "alert_relative_volume": 6.353060410920562
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3133.300048828125,
+      "alert_pct_move": 1.4374096891480914,
+      "alert_relative_volume": 5.893609578061937
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1533.5999755859375,
+      "alert_pct_move": 1.5292933191617013,
+      "alert_relative_volume": 3.8553293009897907
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 277.3500061035156,
+      "alert_pct_move": 2.0794971080749036,
+      "alert_relative_volume": 3.666776429420462
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 3186.199951171875,
+      "alert_pct_move": 3.3943357412008046,
+      "alert_relative_volume": 3.5222705506160836
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1014.0999755859375,
+      "alert_pct_move": 2.011870082605293,
+      "alert_relative_volume": 3.093970395246976
+    }
+  ]
+}
