@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-01T09:20:55.519686+05:30",
+  "stocks": [
+    {
+      "ticker": "GMRAIRPORT.NS",
+      "alert_price": 94.05999755859375,
+      "alert_pct_move": -1.1455637938047714,
+      "alert_relative_volume": 3.848554994227151
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "alert_price": 1768.300048828125,
+      "alert_pct_move": -1.6682421834748717,
+      "alert_relative_volume": 3.360701244071753
+    }
+  ]
+}
