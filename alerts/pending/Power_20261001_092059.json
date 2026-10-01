@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-01T09:20:59.002492+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 46.47999954223633,
+      "alert_pct_move": 7.047447034393424,
+      "alert_relative_volume": 14.964131003923276
+    },
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1332.9000244140625,
+      "alert_pct_move": 1.3920621609602863,
+      "alert_relative_volume": 4.2240331058288225
+    }
+  ]
+}
