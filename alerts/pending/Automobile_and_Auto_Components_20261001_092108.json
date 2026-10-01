@@ -1,0 +1,54 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-01T09:21:08.525754+05:30",
+  "stocks": [
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10430.0,
+      "alert_pct_move": -4.0831340812948325,
+      "alert_relative_volume": 7.479833796216982
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 342.29998779296875,
+      "alert_pct_move": -1.3544703766660662,
+      "alert_relative_volume": 5.041226768440635
+    },
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 2874.199951171875,
+      "alert_pct_move": -2.569493180614407,
+      "alert_relative_volume": 4.567170918471562
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1120.9000244140625,
+      "alert_pct_move": -1.1726262855214185,
+      "alert_relative_volume": 4.354853025039076
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 11747.0,
+      "alert_pct_move": -1.8383889028160776,
+      "alert_relative_volume": 3.5270333914140686
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5114.5,
+      "alert_pct_move": -2.413661514978058,
+      "alert_relative_volume": 3.465057049614882
+    },
+    {
+      "ticker": "BALKRISIND.NS",
+      "alert_price": 2070.10009765625,
+      "alert_pct_move": -2.2153945367855457,
+      "alert_relative_volume": 3.3779161405573745
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 682.9500122070312,
+      "alert_pct_move": 1.5161668089232627,
+      "alert_relative_volume": 3.3612624749884223
+    }
+  ]
+}
