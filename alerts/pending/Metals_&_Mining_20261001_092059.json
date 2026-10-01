@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-01T09:20:59.293147+05:30",
+  "stocks": [
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1820.0,
+      "alert_pct_move": -3.397027600849257,
+      "alert_relative_volume": 8.874033303240328
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 499.75,
+      "alert_pct_move": -1.5658877321021953,
+      "alert_relative_volume": 4.578626358967444
+    }
+  ]
+}
