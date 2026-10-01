@@ -1,0 +1,18 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-10-01T09:25:50.716980+05:30",
+  "stocks": [
+    {
+      "ticker": "NUVOCO.NS",
+      "alert_price": 324.8500061035156,
+      "alert_pct_move": -3.833624084495209,
+      "alert_relative_volume": 5.545305413114295
+    },
+    {
+      "ticker": "AMBUJACEM.NS",
+      "alert_price": 365.0,
+      "alert_pct_move": -2.406417112299465,
+      "alert_relative_volume": 4.655603385650586
+    }
+  ]
+}
