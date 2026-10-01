@@ -1,0 +1,30 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-01T09:21:01.778748+05:30",
+  "stocks": [
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 238.3699951171875,
+      "alert_pct_move": 4.9995553832801125,
+      "alert_relative_volume": 14.662952479011357
+    },
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 34.79999923706055,
+      "alert_pct_move": -1.0801622081263242,
+      "alert_relative_volume": 9.57955612436141
+    },
+    {
+      "ticker": "BHARTIHEXA.NS",
+      "alert_price": 1378.9000244140625,
+      "alert_pct_move": -2.1640413985858933,
+      "alert_relative_volume": 4.754513472442087
+    },
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 260.3500061035156,
+      "alert_pct_move": -1.9951017936156972,
+      "alert_relative_volume": 3.4479290001966123
+    }
+  ]
+}
