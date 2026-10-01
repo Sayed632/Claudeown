@@ -1,32 +1,26 @@
 {
-  "INTELLECT.NS": {
-    "date": "2026-09-30"
+  "HEXT.NS": {
+    "date": "2026-10-01"
+  },
+  "TATAELXSI.NS": {
+    "date": "2026-10-01"
   },
   "MPHASIS.NS": {
-    "date": "2026-09-30"
-  },
-  "TCS.NS": {
-    "date": "2026-09-30"
+    "date": "2026-10-01"
   },
   "TECHM.NS": {
-    "date": "2026-09-30"
+    "date": "2026-10-01"
   },
-  "TATATECH.NS": {
-    "date": "2026-09-30"
+  "LTTS.NS": {
+    "date": "2026-10-01"
+  },
+  "SONATSOFTW.NS": {
+    "date": "2026-10-01"
+  },
+  "INFY.NS": {
+    "date": "2026-10-01"
   },
   "BSOFT.NS": {
-    "date": "2026-09-30"
-  },
-  "HAPPSTMNDS.NS": {
-    "date": "2026-09-30"
-  },
-  "WIPRO.NS": {
-    "date": "2026-09-30"
-  },
-  "COFORGE.NS": {
-    "date": "2026-09-30"
-  },
-  "MAPMYINDIA.NS": {
-    "date": "2026-09-30"
+    "date": "2026-10-01"
   }
 }
