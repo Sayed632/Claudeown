@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-01T09:25:49.064254+05:30",
+  "stocks": [
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1805.300048828125,
+      "alert_pct_move": -4.1772797861929405,
+      "alert_relative_volume": 10.106359210118113
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 497.70001220703125,
+      "alert_pct_move": -1.9696670788974049,
+      "alert_relative_volume": 5.38870470583045
+    },
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 179.4199981689453,
+      "alert_pct_move": -1.1405627095519142,
+      "alert_relative_volume": 3.393559746349943
+    }
+  ]
+}
