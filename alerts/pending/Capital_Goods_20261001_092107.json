@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-01T09:21:07.518793+05:30",
+  "stocks": [
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 290.29998779296875,
+      "alert_pct_move": 7.478704640129292,
+      "alert_relative_volume": 85.60071126490791
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3298.199951171875,
+      "alert_pct_move": 3.0687484741210938,
+      "alert_relative_volume": 8.6806529107104
+    },
+    {
+      "ticker": "ESCORTS.NS",
+      "alert_price": 2655.0,
+      "alert_pct_move": -1.8919500441829404,
+      "alert_relative_volume": 8.06555121741269
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 225.7100067138672,
+      "alert_pct_move": -3.1786155450095013,
+      "alert_relative_volume": 5.653746034055973
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2560.0,
+      "alert_pct_move": 1.4584674041006376,
+      "alert_relative_volume": 5.296285908458376
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2148.5,
+      "alert_pct_move": -1.5307715220057778,
+      "alert_relative_volume": 4.968672217635631
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 150.61000061035156,
+      "alert_pct_move": -2.3218119037355387,
+      "alert_relative_volume": 4.535588137195297
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2267.39990234375,
+      "alert_pct_move": -1.5970857394302589,
+      "alert_relative_volume": 3.835257036290396
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 808.7999877929688,
+      "alert_pct_move": -1.1428266628470738,
+      "alert_relative_volume": 3.776647907305937
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1960.300048828125,
+      "alert_pct_move": -1.6111210195039856,
+      "alert_relative_volume": 3.1112587221632086
+    }
+  ]
+}

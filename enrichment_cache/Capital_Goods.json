@@ -1,8 +1,32 @@
 {
-  "WELCORP.NS": {
-    "date": "2026-09-25"
+  "TARIL.NS": {
+    "date": "2026-10-01"
   },
-  "POWERINDIA.NS": {
-    "date": "2026-09-25"
+  "ENRIN.NS": {
+    "date": "2026-10-01"
+  },
+  "ESCORTS.NS": {
+    "date": "2026-10-01"
+  },
+  "JWL.NS": {
+    "date": "2026-10-01"
+  },
+  "RRKABEL.NS": {
+    "date": "2026-10-01"
+  },
+  "GRSE.NS": {
+    "date": "2026-10-01"
+  },
+  "ASHOKLEY.NS": {
+    "date": "2026-10-01"
+  },
+  "KIRLOSENG.NS": {
+    "date": "2026-10-01"
+  },
+  "TITAGARH.NS": {
+    "date": "2026-10-01"
+  },
+  "BEML.NS": {
+    "date": "2026-10-01"
   }
 }
