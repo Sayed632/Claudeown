@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-01T09:20:55.343694+05:30",
+  "stocks": [
+    {
+      "ticker": "HAVELLS.NS",
+      "alert_price": 1031.5999755859375,
+      "alert_pct_move": 1.5354306679072343,
+      "alert_relative_volume": 4.151032343744298
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 447.8500061035156,
+      "alert_pct_move": -1.6686806235194336,
+      "alert_relative_volume": 3.5158674015722835
+    }
+  ]
+}
