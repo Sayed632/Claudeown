@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-01T09:25:51.069029+05:30",
+  "stocks": [
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 106.08999633789062,
+      "alert_pct_move": 1.8431392941290208,
+      "alert_relative_volume": 10.92286215767338
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 450.0,
+      "alert_pct_move": -1.1857694266267012,
+      "alert_relative_volume": 3.252768342655692
+    },
+    {
+      "ticker": "NAUKRI.NS",
+      "alert_price": 1196.199951171875,
+      "alert_pct_move": -1.9106231101373514,
+      "alert_relative_volume": 3.160315246007961
+    }
+  ]
+}
