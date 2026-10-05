@@ -1,8 +1,11 @@
 {
-  "RELINFRA.NS": {
-    "date": "2026-10-01"
+  "CESC.NS": {
+    "date": "2026-10-05"
   },
-  "ADANIENSOL.NS": {
-    "date": "2026-10-01"
+  "RPOWER.NS": {
+    "date": "2026-10-05"
+  },
+  "RELINFRA.NS": {
+    "date": "2026-10-05"
   }
 }
