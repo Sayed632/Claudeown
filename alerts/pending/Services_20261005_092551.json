@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-05T09:25:51.891775+05:30",
+  "stocks": [
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 286.5,
+      "alert_pct_move": 7.2832851885804715,
+      "alert_relative_volume": 44.84171107063131
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 409.6499938964844,
+      "alert_pct_move": 2.9400631563157926,
+      "alert_relative_volume": 4.936969852690622
+    },
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 56.900001525878906,
+      "alert_pct_move": 1.083674898614714,
+      "alert_relative_volume": 4.339328148188643
+    }
+  ]
+}
