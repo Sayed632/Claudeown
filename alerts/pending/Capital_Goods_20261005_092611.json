@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-05T09:26:11.860937+05:30",
+  "stocks": [
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 292.8999938964844,
+      "alert_pct_move": 4.30911917006095,
+      "alert_relative_volume": 10.163901614741489
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1307.9000244140625,
+      "alert_pct_move": 2.5482201174436216,
+      "alert_relative_volume": 6.631899335134503
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3393.699951171875,
+      "alert_pct_move": 1.790640407074835,
+      "alert_relative_volume": 6.179324207808502
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 431.8999938964844,
+      "alert_pct_move": 2.589072184438094,
+      "alert_relative_volume": 5.183829136347706
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 18167.0,
+      "alert_pct_move": 2.9408431550317315,
+      "alert_relative_volume": 4.7106203269631735
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2584.0,
+      "alert_pct_move": 2.612979513302911,
+      "alert_relative_volume": 3.796744262824253
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 2293.800048828125,
+      "alert_pct_move": 2.278507993436605,
+      "alert_relative_volume": 3.7217666941211123
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2146.89990234375,
+      "alert_pct_move": 1.695789068800909,
+      "alert_relative_volume": 3.603518246054641
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 8123.5,
+      "alert_pct_move": 1.6708385481852315,
+      "alert_relative_volume": 3.3551451881683927
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 4625.0,
+      "alert_pct_move": 2.7321190581963575,
+      "alert_relative_volume": 3.2757350176020634
+    }
+  ]
+}

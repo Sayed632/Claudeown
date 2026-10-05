@@ -22,5 +22,17 @@
   },
   "GRAPHITE.NS": {
     "date": "2026-10-05"
+  },
+  "RRKABEL.NS": {
+    "date": "2026-10-05"
+  },
+  "KIRLOSENG.NS": {
+    "date": "2026-10-05"
+  },
+  "POLYCAB.NS": {
+    "date": "2026-10-05"
+  },
+  "KEI.NS": {
+    "date": "2026-10-05"
   }
 }
