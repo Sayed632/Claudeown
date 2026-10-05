@@ -1,8 +1,11 @@
 {
-  "GMRAIRPORT.NS": {
-    "date": "2026-10-01"
+  "SCI.NS": {
+    "date": "2026-10-05"
   },
-  "ADANIPORTS.NS": {
-    "date": "2026-10-01"
+  "REDINGTON.NS": {
+    "date": "2026-10-05"
+  },
+  "MMTC.NS": {
+    "date": "2026-10-05"
   }
 }
