@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-05T09:26:01.270697+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 7984.0,
+      "alert_pct_move": -1.8380770885842506,
+      "alert_relative_volume": 7.331976135413449
+    }
+  ]
+}
