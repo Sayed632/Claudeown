@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-05T09:21:00.066691+05:30",
+  "stocks": [
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1479.699951171875,
+      "alert_pct_move": 1.0724010363302596,
+      "alert_relative_volume": 9.778565112176386
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 472.5,
+      "alert_pct_move": 1.5910543537678186,
+      "alert_relative_volume": 3.6415672005332493
+    }
+  ]
+}
