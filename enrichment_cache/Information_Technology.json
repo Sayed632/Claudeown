@@ -1,26 +1,29 @@
 {
-  "HEXT.NS": {
-    "date": "2026-10-01"
-  },
-  "TATAELXSI.NS": {
-    "date": "2026-10-01"
-  },
-  "MPHASIS.NS": {
-    "date": "2026-10-01"
-  },
-  "TECHM.NS": {
-    "date": "2026-10-01"
-  },
-  "LTTS.NS": {
-    "date": "2026-10-01"
-  },
-  "SONATSOFTW.NS": {
-    "date": "2026-10-01"
+  "PERSISTENT.NS": {
+    "date": "2026-10-05"
   },
   "INFY.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
   },
   "BSOFT.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
+  },
+  "NETWEB.NS": {
+    "date": "2026-10-05"
+  },
+  "NEWGEN.NS": {
+    "date": "2026-10-05"
+  },
+  "CYIENT.NS": {
+    "date": "2026-10-05"
+  },
+  "MPHASIS.NS": {
+    "date": "2026-10-05"
+  },
+  "SONATSOFTW.NS": {
+    "date": "2026-10-05"
+  },
+  "WIPRO.NS": {
+    "date": "2026-10-05"
   }
 }

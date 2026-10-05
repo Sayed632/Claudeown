@@ -1,0 +1,60 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-05T09:21:01.849944+05:30",
+  "stocks": [
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5481.0,
+      "alert_pct_move": 2.1240916713247624,
+      "alert_relative_volume": 6.376785171873316
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1024.449951171875,
+      "alert_pct_move": -1.0193283891908214,
+      "alert_relative_volume": 6.073029050347645
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 275.0,
+      "alert_pct_move": 1.9462465245597778,
+      "alert_relative_volume": 5.080343310291407
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4612.10009765625,
+      "alert_pct_move": 2.0308452300786364,
+      "alert_relative_volume": 4.041006093909298
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 463.79998779296875,
+      "alert_pct_move": 1.632514865741717,
+      "alert_relative_volume": 4.00023694922433
+    },
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 1128.0,
+      "alert_pct_move": 2.118416162525253,
+      "alert_relative_volume": 3.816574092475873
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2287.39990234375,
+      "alert_pct_move": 1.6531842493597844,
+      "alert_relative_volume": 3.6388238021220385
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 257.20001220703125,
+      "alert_pct_move": 1.239916991708,
+      "alert_relative_volume": 3.478811596424409
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 162.49000549316406,
+      "alert_pct_move": 1.9705047187815339,
+      "alert_relative_volume": 3.139203319604386
+    }
+  ]
+}
