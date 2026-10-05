@@ -1,32 +1,32 @@
 {
-  "WELCORP.NS": {
-    "date": "2026-10-02"
-  },
-  "REDINGTON.NS": {
-    "date": "2026-10-02"
-  },
-  "WELSPUNLIV.NS": {
-    "date": "2026-10-02"
-  },
-  "JYOTICNC.NS": {
-    "date": "2026-10-02"
-  },
-  "SYRMA.NS": {
-    "date": "2026-10-02"
+  "PAYTM.NS": {
+    "date": "2026-10-05"
   },
   "AKUMS.NS": {
-    "date": "2026-10-02"
-  },
-  "PAYTM.NS": {
-    "date": "2026-10-02"
+    "date": "2026-10-05"
   },
   "LAURUSLABS.NS": {
-    "date": "2026-10-02"
-  },
-  "ACMESOLAR.NS": {
-    "date": "2026-10-02"
+    "date": "2026-10-05"
   },
   "DIVISLAB.NS": {
-    "date": "2026-10-02"
+    "date": "2026-10-05"
+  },
+  "SAILIFE.NS": {
+    "date": "2026-10-05"
+  },
+  "IPCALAB.NS": {
+    "date": "2026-10-05"
+  },
+  "GLAND.NS": {
+    "date": "2026-10-05"
+  },
+  "LALPATHLAB.NS": {
+    "date": "2026-10-05"
+  },
+  "RBLBANK.NS": {
+    "date": "2026-10-05"
+  },
+  "INDGN.NS": {
+    "date": "2026-10-05"
   }
 }
