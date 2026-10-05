@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-05T09:21:03.860194+05:30",
+  "stocks": [
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 292.29998779296875,
+      "alert_pct_move": 2.381782064087128,
+      "alert_relative_volume": 6.358845358615752
+    },
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 133.8300018310547,
+      "alert_pct_move": 1.895847085877917,
+      "alert_relative_volume": 5.093699757420106
+    },
+    {
+      "ticker": "ONGC.NS",
+      "alert_price": 225.27000427246094,
+      "alert_pct_move": 1.3041368974915666,
+      "alert_relative_volume": 4.28005577923058
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 304.8999938964844,
+      "alert_pct_move": 1.430468298622719,
+      "alert_relative_volume": 3.3969004129254414
+    }
+  ]
+}
