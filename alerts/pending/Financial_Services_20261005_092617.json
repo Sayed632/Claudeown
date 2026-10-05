@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-05T09:26:17.589342+05:30",
+  "stocks": [
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 135.02999877929688,
+      "alert_pct_move": 4.286378772699777,
+      "alert_relative_volume": 15.561021606054782
+    },
+    {
+      "ticker": "SAMMAANCAP.NS",
+      "alert_price": 137.3300018310547,
+      "alert_pct_move": 3.660934676877739,
+      "alert_relative_volume": 13.649412835209786
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 23.75,
+      "alert_pct_move": 3.576099799000559,
+      "alert_relative_volume": 10.952436393734533
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 980.7000122070312,
+      "alert_pct_move": 3.416642922190569,
+      "alert_relative_volume": 7.7572728832593665
+    },
+    {
+      "ticker": "AUBANK.NS",
+      "alert_price": 1017.0,
+      "alert_pct_move": 3.0395136778115504,
+      "alert_relative_volume": 7.228713484267359
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 120.6500015258789,
+      "alert_pct_move": 1.9347760254464412,
+      "alert_relative_volume": 6.319427260744011
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 599.9000244140625,
+      "alert_pct_move": 2.7578000955360173,
+      "alert_relative_volume": 4.702920034935848
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 113.22000122070312,
+      "alert_pct_move": 3.331205198544253,
+      "alert_relative_volume": 4.390371330985848
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 965.7999877929688,
+      "alert_pct_move": 2.2010569093088623,
+      "alert_relative_volume": 4.348893023586917
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 236.08999633789062,
+      "alert_pct_move": 2.28315953836248,
+      "alert_relative_volume": 4.191450938034337
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 81.94000244140625,
+      "alert_pct_move": 1.7888229085791925,
+      "alert_relative_volume": 4.063282779718073
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2733.39990234375,
+      "alert_pct_move": 1.3458827397264241,
+      "alert_relative_volume": 3.5347376088708313
+    }
+  ]
+}
