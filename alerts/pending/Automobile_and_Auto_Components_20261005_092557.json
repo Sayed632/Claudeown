@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-05T09:25:57.708925+05:30",
+  "stocks": [
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5043.0,
+      "alert_pct_move": -2.418730650154799,
+      "alert_relative_volume": 6.878229568723505
+    },
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 10613.0,
+      "alert_pct_move": 3.380089616208845,
+      "alert_relative_volume": 3.974249371189735
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 660.2999877929688,
+      "alert_pct_move": -1.0564153818659865,
+      "alert_relative_volume": 3.266853482944932
+    }
+  ]
+}
