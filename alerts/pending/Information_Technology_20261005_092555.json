@@ -1,0 +1,48 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-05T09:25:55.576263+05:30",
+  "stocks": [
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5468.5,
+      "alert_pct_move": 1.8911868828023104,
+      "alert_relative_volume": 5.824311751070576
+    },
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 1142.800048828125,
+      "alert_pct_move": 3.458272142539582,
+      "alert_relative_volume": 4.851904535962086
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 276.3999938964844,
+      "alert_pct_move": 2.4652433351193235,
+      "alert_relative_volume": 4.764092053790249
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1019.5,
+      "alert_pct_move": -1.497584541062802,
+      "alert_relative_volume": 4.662824314542429
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1230.300048828125,
+      "alert_pct_move": -1.0296779832031797,
+      "alert_relative_volume": 3.9375206146830783
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4599.7998046875,
+      "alert_pct_move": 1.7587329034582926,
+      "alert_relative_volume": 3.639885280263022
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2289.699951171875,
+      "alert_pct_move": 1.7553995581338855,
+      "alert_relative_volume": 3.007504603272939
+    }
+  ]
+}
