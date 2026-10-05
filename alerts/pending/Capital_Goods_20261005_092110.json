@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-05T09:21:10.426166+05:30",
+  "stocks": [
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 289.0,
+      "alert_pct_move": 2.920232394410588,
+      "alert_relative_volume": 8.889040434350532
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 431.25,
+      "alert_pct_move": 2.434679334916865,
+      "alert_relative_volume": 6.2645421093368485
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3386.800048828125,
+      "alert_pct_move": 1.5836847278981703,
+      "alert_relative_volume": 5.37669980501599
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 18330.0,
+      "alert_pct_move": 3.8644605621033543,
+      "alert_relative_volume": 4.757234491825921
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1298.5,
+      "alert_pct_move": 1.811194538478229,
+      "alert_relative_volume": 4.730275450260619
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 31830.0,
+      "alert_pct_move": 1.725790987535954,
+      "alert_relative_volume": 3.5353109419874955
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2151.10009765625,
+      "alert_pct_move": 1.8947467268088392,
+      "alert_relative_volume": 3.4269907493213836
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 806.0,
+      "alert_pct_move": 2.5249602454356204,
+      "alert_relative_volume": 3.106365421764716
+    }
+  ]
+}

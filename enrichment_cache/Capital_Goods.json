@@ -1,32 +1,26 @@
 {
   "TARIL.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
+  },
+  "BHEL.NS": {
+    "date": "2026-10-05"
   },
   "ENRIN.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
   },
-  "ESCORTS.NS": {
-    "date": "2026-10-01"
+  "APARINDS.NS": {
+    "date": "2026-10-05"
   },
-  "JWL.NS": {
-    "date": "2026-10-01"
+  "SCHNEIDER.NS": {
+    "date": "2026-10-05"
   },
-  "RRKABEL.NS": {
-    "date": "2026-10-01"
+  "POWERINDIA.NS": {
+    "date": "2026-10-05"
   },
   "GRSE.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
   },
-  "ASHOKLEY.NS": {
-    "date": "2026-10-01"
-  },
-  "KIRLOSENG.NS": {
-    "date": "2026-10-01"
-  },
-  "TITAGARH.NS": {
-    "date": "2026-10-01"
-  },
-  "BEML.NS": {
-    "date": "2026-10-01"
+  "GRAPHITE.NS": {
+    "date": "2026-10-05"
   }
 }
