@@ -60,6 +60,7 @@ import yfinance as yf
 
 from stock_enrichment import load_cache, save_cache, already_enriched_today, enrich_stock
 from heatmap_chart import generate_heatmap_image, send_telegram_photo
+from sector_strength import get_sector_quadrant, build_ticker_to_sector_map
 
 IST = timezone(timedelta(hours=5, minutes=30))
 
@@ -196,6 +197,41 @@ def run_scanner():
         if (i + 1) % 30 == 0:
             print(f"  ...{i + 1}/{len(universe)} checked, {len(hits)} qualifying so far")
 
+    print(f"Trend-quality pass: {len(hits)} stocks qualified. Applying sector-strength filter...")
+    # Only keep hits whose sector is currently LEADING or IMPROVING (per
+    # real NSE sector index RRG classification) - stock-level quality AND
+    # sector-level tailwind together, for fewer/higher-conviction results.
+    # Stocks in UNKNOWN (unmapped) sectors are excluded too - see
+    # sector_strength.py docstring for the honest coverage trade-off this
+    # implies.
+    try:
+        with open("sector_stock_lists.json") as f:
+            sector_lists = json.load(f)
+        ticker_to_sector = build_ticker_to_sector_map(sector_lists)
+    except Exception as e:
+        print(f"Could not load sector_stock_lists.json - skipping sector filter: {e}")
+        ticker_to_sector = {}
+
+    quadrant_cache = {}  # avoid recomputing the same sector's quadrant repeatedly
+    sector_filtered_hits = []
+    for hit in hits:
+        sector = ticker_to_sector.get(hit["ticker"])
+        if not sector:
+            continue  # ticker not found in sector mapping - exclude
+        if sector not in quadrant_cache:
+            quadrant_cache[sector] = get_sector_quadrant(sector)
+        quadrant = quadrant_cache[sector]
+        if quadrant in ("LEADING", "IMPROVING"):
+            hit["sector"] = sector
+            hit["sector_quadrant"] = quadrant
+            sector_filtered_hits.append(hit)
+
+    print(
+        f"Sector-strength filter: {len(sector_filtered_hits)}/{len(hits)} survived "
+        f"(sector must be LEADING or IMPROVING). Sector quadrants this run: {quadrant_cache}"
+    )
+    hits = sector_filtered_hits
+
     hits.sort(key=lambda x: x["relative_strength"], reverse=True)
     top = hits[:MAX_RESULTS]
 
@@ -203,7 +239,8 @@ def run_scanner():
     lines.append(
         f"_Criteria: price > SMA50 > SMA200, trend R\u00b2 \u2265 {MIN_R_SQUARED} over "
         f"{TREND_WINDOW_DAYS}d (smooth, not choppy), within {WITHIN_52W_HIGH_PCT:.0f}% of "
-        f"52-week high, beating Nifty 50 ({nifty_return:+.1f}% over same window)._\n"
+        f"52-week high, beating Nifty 50 ({nifty_return:+.1f}% over same window), AND sector "
+        f"currently LEADING/IMPROVING (8 of 18 sectors have a reliable index - others excluded)._\n"
     )
 
     if not top:
@@ -211,8 +248,8 @@ def run_scanner():
     else:
         for h in top:
             lines.append(
-                f"📈 *{h['ticker'].replace('.NS', '')}* — {h['trend_return_pct']:+.1f}% "
-                f"({TREND_WINDOW_DAYS}d) | vs Nifty: {h['relative_strength']:+.1f}% | "
+                f"📈 *{h['ticker'].replace('.NS', '')}* ({h.get('sector', '?')}: {h.get('sector_quadrant', '?')}) — "
+                f"{h['trend_return_pct']:+.1f}% ({TREND_WINDOW_DAYS}d) | vs Nifty: {h['relative_strength']:+.1f}% | "
                 f"R\u00b2: {h['r_squared']:.2f} | ₹{h['price']:.2f}\n"
                 f"   {h['pct_below_52w_high']:.1f}% below 52w high"
             )
