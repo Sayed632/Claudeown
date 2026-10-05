@@ -1,11 +1,17 @@
 {
-  "LLOYDSME.NS": {
-    "date": "2026-10-01"
-  },
   "GMDCLTD.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
   },
   "SAIL.NS": {
-    "date": "2026-10-01"
+    "date": "2026-10-05"
+  },
+  "HINDCOPPER.NS": {
+    "date": "2026-10-05"
+  },
+  "NATIONALUM.NS": {
+    "date": "2026-10-05"
+  },
+  "VEDL.NS": {
+    "date": "2026-10-05"
   }
 }
