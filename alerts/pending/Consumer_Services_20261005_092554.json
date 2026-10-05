@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-05T09:25:54.789679+05:30",
+  "stocks": [
+    {
+      "ticker": "NYKAA.NS",
+      "alert_price": 340.25,
+      "alert_pct_move": 4.708412746025953,
+      "alert_relative_volume": 14.587659259639638
+    },
+    {
+      "ticker": "DMART.NS",
+      "alert_price": 3661.60009765625,
+      "alert_pct_move": -3.970624241902701,
+      "alert_relative_volume": 10.632142078369998
+    },
+    {
+      "ticker": "ETERNAL.NS",
+      "alert_price": 310.6000061035156,
+      "alert_pct_move": -1.0512863514285367,
+      "alert_relative_volume": 4.111043680691956
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 461.79998779296875,
+      "alert_pct_move": 1.6956576934504277,
+      "alert_relative_volume": 3.780739125856553
+    }
+  ]
+}
