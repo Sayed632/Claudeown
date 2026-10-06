@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-06T09:25:53.695762+05:30",
+  "stocks": [
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 544.1500244140625,
+      "alert_pct_move": -1.706999925690576,
+      "alert_relative_volume": 9.539789786087896
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 7824.0,
+      "alert_pct_move": -2.016280525986224,
+      "alert_relative_volume": 5.228585635204668
+    }
+  ]
+}
