@@ -1,0 +1,42 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-06T09:25:47.178800+05:30",
+  "stocks": [
+    {
+      "ticker": "JINDALSTEL.NS",
+      "alert_price": 1061.300048828125,
+      "alert_pct_move": -3.280779950611197,
+      "alert_relative_volume": 25.04321991529635
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 263.8500061035156,
+      "alert_pct_move": 3.450305017236957,
+      "alert_relative_volume": 11.6962812984357
+    },
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1858.800048828125,
+      "alert_pct_move": 4.615038144223515,
+      "alert_relative_volume": 8.346903919590106
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1467.9000244140625,
+      "alert_pct_move": 3.1190744231866874,
+      "alert_relative_volume": 5.455585587446408
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 345.1000061035156,
+      "alert_pct_move": 1.5000017951516544,
+      "alert_relative_volume": 4.089245385159911
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 484.3999938964844,
+      "alert_pct_move": 1.2012953250436118,
+      "alert_relative_volume": 3.2999859835675105
+    }
+  ]
+}
