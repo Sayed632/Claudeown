@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-06T09:25:57.343149+05:30",
+  "stocks": [
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "alert_price": 1766.699951171875,
+      "alert_pct_move": 2.0977765976456317,
+      "alert_relative_volume": 5.6708755582592705
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4554.7001953125,
+      "alert_pct_move": 2.8195493280042503,
+      "alert_relative_volume": 3.893262860561115
+    }
+  ]
+}
