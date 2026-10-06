@@ -1,0 +1,18 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-10-06T09:25:47.201423+05:30",
+  "stocks": [
+    {
+      "ticker": "PAGEIND.NS",
+      "alert_price": 38185.0,
+      "alert_pct_move": 1.9217936740958226,
+      "alert_relative_volume": 4.903017333441062
+    },
+    {
+      "ticker": "WELSPUNLIV.NS",
+      "alert_price": 238.72000122070312,
+      "alert_pct_move": 3.669603852633776,
+      "alert_relative_volume": 4.766960063591511
+    }
+  ]
+}
