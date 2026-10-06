@@ -1,0 +1,48 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-06T09:25:49.475243+05:30",
+  "stocks": [
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 466.04998779296875,
+      "alert_pct_move": 8.915633194823894,
+      "alert_relative_volume": 29.660536673778
+    },
+    {
+      "ticker": "BALRAMCHIN.NS",
+      "alert_price": 690.9500122070312,
+      "alert_pct_move": 2.8965021901759123,
+      "alert_relative_volume": 15.750823423840618
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 243.89999389648438,
+      "alert_pct_move": 5.620992478114719,
+      "alert_relative_volume": 11.113965958636642
+    },
+    {
+      "ticker": "AWL.NS",
+      "alert_price": 181.3000030517578,
+      "alert_pct_move": 2.9236499197949857,
+      "alert_relative_volume": 5.309501203803592
+    },
+    {
+      "ticker": "GODREJCP.NS",
+      "alert_price": 858.9000244140625,
+      "alert_pct_move": 2.616490372050478,
+      "alert_relative_volume": 5.092113941566053
+    },
+    {
+      "ticker": "EIDPARRY.NS",
+      "alert_price": 709.0,
+      "alert_pct_move": 5.107110344742096,
+      "alert_relative_volume": 4.597361266415393
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1892.0,
+      "alert_pct_move": 2.286860028369783,
+      "alert_relative_volume": 3.0465947287199957
+    }
+  ]
+}
