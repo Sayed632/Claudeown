@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-06T09:20:56.156915+05:30",
+  "stocks": [
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 260.5,
+      "alert_pct_move": 4.087583630838154,
+      "alert_relative_volume": 5.909339972131902
+    },
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 476.1499938964844,
+      "alert_pct_move": 2.7957645397610693,
+      "alert_relative_volume": 4.609773178575756
+    }
+  ]
+}
