@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-06T09:21:01.924135+05:30",
+  "stocks": [
+    {
+      "ticker": "BLS.NS",
+      "alert_price": 220.32000732421875,
+      "alert_pct_move": 1.7597399261226796,
+      "alert_relative_volume": 5.712716023423817
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 46.15999984741211,
+      "alert_pct_move": 4.10464521551878,
+      "alert_relative_volume": 3.9243085403102227
+    },
+    {
+      "ticker": "TRENT.NS",
+      "alert_price": 2838.0,
+      "alert_pct_move": 10.0,
+      "alert_relative_volume": 3.8600353909505842
+    }
+  ]
+}
