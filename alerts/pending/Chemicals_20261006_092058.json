@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-06T09:20:58.965768+05:30",
+  "stocks": [
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 815.9500122070312,
+      "alert_pct_move": 1.6063787572571642,
+      "alert_relative_volume": 4.031312879515101
+    }
+  ]
+}
