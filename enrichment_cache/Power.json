@@ -1,11 +1,14 @@
 {
-  "CESC.NS": {
-    "date": "2026-10-05"
-  },
   "RPOWER.NS": {
-    "date": "2026-10-05"
+    "date": "2026-10-06"
   },
-  "RELINFRA.NS": {
-    "date": "2026-10-05"
+  "NAVA.NS": {
+    "date": "2026-10-06"
+  },
+  "NLCINDIA.NS": {
+    "date": "2026-10-06"
+  },
+  "ADANIGREEN.NS": {
+    "date": "2026-10-06"
   }
 }
