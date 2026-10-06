@@ -1,32 +1,5 @@
 {
-  "PERSISTENT.NS": {
-    "date": "2026-10-05"
-  },
-  "INFY.NS": {
-    "date": "2026-10-05"
-  },
-  "BSOFT.NS": {
-    "date": "2026-10-05"
-  },
   "NETWEB.NS": {
-    "date": "2026-10-05"
-  },
-  "NEWGEN.NS": {
-    "date": "2026-10-05"
-  },
-  "CYIENT.NS": {
-    "date": "2026-10-05"
-  },
-  "MPHASIS.NS": {
-    "date": "2026-10-05"
-  },
-  "SONATSOFTW.NS": {
-    "date": "2026-10-05"
-  },
-  "WIPRO.NS": {
-    "date": "2026-10-05"
-  },
-  "HCLTECH.NS": {
-    "date": "2026-10-05"
+    "date": "2026-10-06"
   }
 }
