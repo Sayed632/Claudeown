@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-06T09:20:58.833747+05:30",
+  "stocks": [
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 57.09000015258789,
+      "alert_pct_move": 1.3491892363373166,
+      "alert_relative_volume": 4.243640535710814
+    }
+  ]
+}
