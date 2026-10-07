@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-07T09:25:58.885837+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 4590.2998046875,
+      "alert_pct_move": 1.6812844228608304,
+      "alert_relative_volume": 3.480971067009631
+    }
+  ]
+}
