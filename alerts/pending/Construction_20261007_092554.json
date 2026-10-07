@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-10-07T09:25:54.025023+05:30",
+  "stocks": [
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 17.559999465942383,
+      "alert_pct_move": -1.5695105619429637,
+      "alert_relative_volume": 3.32490062259704
+    },
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 369.0,
+      "alert_pct_move": -1.5737513983831788,
+      "alert_relative_volume": 3.141686564643142
+    }
+  ]
+}
