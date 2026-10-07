@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-07T09:21:00.309615+05:30",
+  "stocks": [
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1366.800048828125,
+      "alert_pct_move": 6.4486019336545946,
+      "alert_relative_volume": 17.919908260587096
+    },
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 577.9500122070312,
+      "alert_pct_move": 3.8171366147010852,
+      "alert_relative_volume": 5.879393110612449
+    }
+  ]
+}
