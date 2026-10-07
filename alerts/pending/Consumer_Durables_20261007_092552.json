@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-07T09:25:52.933850+05:30",
+  "stocks": [
+    {
+      "ticker": "TITAN.NS",
+      "alert_price": 4348.7998046875,
+      "alert_pct_move": -4.42198231456044,
+      "alert_relative_volume": 22.459764875675027
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 555.75,
+      "alert_pct_move": 1.3864772867722464,
+      "alert_relative_volume": 9.035105392770417
+    },
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 521.2000122070312,
+      "alert_pct_move": -1.2224034698366157,
+      "alert_relative_volume": 3.178966322588577
+    }
+  ]
+}
