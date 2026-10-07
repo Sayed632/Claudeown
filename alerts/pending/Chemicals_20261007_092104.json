@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-07T09:21:04.737685+05:30",
+  "stocks": [
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "alert_price": 1905.0,
+      "alert_pct_move": -2.915092885295087,
+      "alert_relative_volume": 5.768849304742824
+    }
+  ]
+}
