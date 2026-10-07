@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-07T09:26:02.219068+05:30",
+  "stocks": [
+    {
+      "ticker": "BALRAMCHIN.NS",
+      "alert_price": 695.5,
+      "alert_pct_move": 3.5740878629932986,
+      "alert_relative_volume": 4.568323093825042
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 244.0,
+      "alert_pct_move": 2.8581058698288033,
+      "alert_relative_volume": 3.168551381445123
+    }
+  ]
+}
