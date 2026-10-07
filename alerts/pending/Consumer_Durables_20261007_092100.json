@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-07T09:21:00.190104+05:30",
+  "stocks": [
+    {
+      "ticker": "TITAN.NS",
+      "alert_price": 4374.0,
+      "alert_pct_move": -3.868131868131868,
+      "alert_relative_volume": 19.59326179580243
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 557.0,
+      "alert_pct_move": 1.6145170467514913,
+      "alert_relative_volume": 12.187928671853834
+    }
+  ]
+}
