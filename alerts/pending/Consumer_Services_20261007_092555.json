@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-07T09:25:55.046822+05:30",
+  "stocks": [
+    {
+      "ticker": "JUBLFOOD.NS",
+      "alert_price": 463.95001220703125,
+      "alert_pct_move": 4.094682409728705,
+      "alert_relative_volume": 10.2970077066513
+    },
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 111.97000122070312,
+      "alert_pct_move": 1.67998404284322,
+      "alert_relative_volume": 6.3195659562705595
+    },
+    {
+      "ticker": "THELEELA.NS",
+      "alert_price": 586.7999877929688,
+      "alert_pct_move": 1.5927999646638553,
+      "alert_relative_volume": 4.195781532748182
+    },
+    {
+      "ticker": "TBOTEK.NS",
+      "alert_price": 1719.199951171875,
+      "alert_pct_move": 3.7537689301071215,
+      "alert_relative_volume": 3.1544980133552754
+    }
+  ]
+}
