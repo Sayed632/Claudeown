@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-07T09:25:59.506514+05:30",
+  "stocks": [
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 3067.300048828125,
+      "alert_pct_move": 2.0358587267134065,
+      "alert_relative_volume": 8.949522064986283
+    },
+    {
+      "ticker": "ERIS.NS",
+      "alert_price": 1211.4000244140625,
+      "alert_pct_move": 2.2537413980456797,
+      "alert_relative_volume": 6.974144934893398
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1555.5,
+      "alert_pct_move": 2.9246310953372907,
+      "alert_relative_volume": 5.526685308736851
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 823.2999877929688,
+      "alert_pct_move": 2.7391293287282705,
+      "alert_relative_volume": 4.793878118973024
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 203.17999267578125,
+      "alert_pct_move": 1.326545155916711,
+      "alert_relative_volume": 4.188365587209075
+    },
+    {
+      "ticker": "KIMS.NS",
+      "alert_price": 700.75,
+      "alert_pct_move": 1.0599906730820183,
+      "alert_relative_volume": 3.047270877315574
+    }
+  ]
+}

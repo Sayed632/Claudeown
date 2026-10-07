@@ -1,8 +1,20 @@
 {
-  "APOLLOHOSP.NS": {
-    "date": "2026-10-06"
+  "GLAND.NS": {
+    "date": "2026-10-07"
   },
-  "METROPOLIS.NS": {
-    "date": "2026-10-06"
+  "ERIS.NS": {
+    "date": "2026-10-07"
+  },
+  "SAILIFE.NS": {
+    "date": "2026-10-07"
+  },
+  "AKUMS.NS": {
+    "date": "2026-10-07"
+  },
+  "PPLPHARMA.NS": {
+    "date": "2026-10-07"
+  },
+  "KIMS.NS": {
+    "date": "2026-10-07"
   }
 }
