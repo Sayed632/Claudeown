@@ -1,0 +1,30 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-07T09:21:05.268162+05:30",
+  "stocks": [
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 329.95001220703125,
+      "alert_pct_move": -2.1645627258617495,
+      "alert_relative_volume": 8.009951859955388
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 72.9000015258789,
+      "alert_pct_move": -1.9897765288920504,
+      "alert_relative_volume": 4.625220555436062
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1475.9000244140625,
+      "alert_pct_move": -1.6656672392126697,
+      "alert_relative_volume": 3.8738442736709118
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 485.95001220703125,
+      "alert_pct_move": -1.1392484436997077,
+      "alert_relative_volume": 3.125215435774261
+    }
+  ]
+}
