@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-08T09:25:50.296228+05:30",
+  "stocks": [
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 71.77999877929688,
+      "alert_pct_move": -1.4011047111299657,
+      "alert_relative_volume": 7.493997826862223
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "alert_price": 2691.60009765625,
+      "alert_pct_move": -1.8738571762212906,
+      "alert_relative_volume": 4.527176010232448
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 317.20001220703125,
+      "alert_pct_move": -1.2760584319036266,
+      "alert_relative_volume": 3.6250936277272587
+    }
+  ]
+}
