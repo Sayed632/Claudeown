@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-08T09:25:52.507430+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 276.0,
+      "alert_pct_move": 6.051873198847262,
+      "alert_relative_volume": 113.75146967434135
+    },
+    {
+      "ticker": "GMRAIRPORT.NS",
+      "alert_price": 89.68000030517578,
+      "alert_pct_move": -1.6558856188217719,
+      "alert_relative_volume": 4.168027682811006
+    }
+  ]
+}
