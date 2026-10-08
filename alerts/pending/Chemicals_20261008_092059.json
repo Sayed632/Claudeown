@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-08T09:20:59.617696+05:30",
+  "stocks": [
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 494.79998779296875,
+      "alert_pct_move": 2.836951900579482,
+      "alert_relative_volume": 9.956794781387506
+    },
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1602.0,
+      "alert_pct_move": 3.0954356670452343,
+      "alert_relative_volume": 8.028000005571494
+    }
+  ]
+}
