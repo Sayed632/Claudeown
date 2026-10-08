@@ -1,32 +1,23 @@
 {
-  "PAYTM.NS": {
-    "date": "2026-10-07"
-  },
   "AKUMS.NS": {
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   },
   "DIVISLAB.NS": {
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   },
   "LAURUSLABS.NS": {
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   },
   "GLAND.NS": {
-    "date": "2026-10-07"
-  },
-  "SAILIFE.NS": {
-    "date": "2026-10-07"
-  },
-  "LALPATHLAB.NS": {
-    "date": "2026-10-07"
-  },
-  "AJANTPHARM.NS": {
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   },
   "IPCALAB.NS": {
-    "date": "2026-10-07"
+    "date": "2026-10-08"
+  },
+  "RBLBANK.NS": {
+    "date": "2026-10-08"
   },
   "INDGN.NS": {
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   }
 }
