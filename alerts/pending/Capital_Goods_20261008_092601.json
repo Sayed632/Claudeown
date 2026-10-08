@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-08T09:26:01.794660+05:30",
+  "stocks": [
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 24200.0,
+      "alert_pct_move": 4.648648648648648,
+      "alert_relative_volume": 7.134213066044547
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 442.3500061035156,
+      "alert_pct_move": -1.3712360973209308,
+      "alert_relative_volume": 4.983864371862076
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1415.9000244140625,
+      "alert_pct_move": -3.941653703252205,
+      "alert_relative_volume": 4.224303670868287
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 65.68000030517578,
+      "alert_pct_move": -2.1162417306059593,
+      "alert_relative_volume": 4.124836769928792
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 37.77000045776367,
+      "alert_pct_move": -1.4866971636820525,
+      "alert_relative_volume": 3.8979001303793472
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 739.5999755859375,
+      "alert_pct_move": -2.9969225857772277,
+      "alert_relative_volume": 3.4222181588698932
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 2026.5,
+      "alert_pct_move": -2.6657060518731988,
+      "alert_relative_volume": 3.1913154120988065
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3306.800048828125,
+      "alert_pct_move": -1.729567642552006,
+      "alert_relative_volume": 3.0842867457975482
+    }
+  ]
+}
