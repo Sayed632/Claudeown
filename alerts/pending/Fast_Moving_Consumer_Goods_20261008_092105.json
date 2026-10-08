@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-08T09:21:05.986538+05:30",
+  "stocks": [
+    {
+      "ticker": "ITC.NS",
+      "alert_price": 261.3999938964844,
+      "alert_pct_move": -1.6183733959320772,
+      "alert_relative_volume": 11.442845402235777
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 416.3999938964844,
+      "alert_pct_move": 2.0213157229869707,
+      "alert_relative_volume": 3.195294564298249
+    }
+  ]
+}
