@@ -1,20 +1,14 @@
 {
-  "GLAND.NS": {
-    "date": "2026-10-07"
+  "FORTIS.NS": {
+    "date": "2026-10-09"
   },
-  "ERIS.NS": {
-    "date": "2026-10-07"
+  "APOLLOHOSP.NS": {
+    "date": "2026-10-09"
   },
-  "SAILIFE.NS": {
-    "date": "2026-10-07"
+  "MAXHEALTH.NS": {
+    "date": "2026-10-09"
   },
-  "AKUMS.NS": {
-    "date": "2026-10-07"
-  },
-  "PPLPHARMA.NS": {
-    "date": "2026-10-07"
-  },
-  "KIMS.NS": {
-    "date": "2026-10-07"
+  "POLYMED.NS": {
+    "date": "2026-10-09"
   }
 }
