@@ -1,0 +1,78 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-09T09:25:53.470464+05:30",
+  "stocks": [
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 564.2999877929688,
+      "alert_pct_move": 10.344152234618953,
+      "alert_relative_volume": 450.3519431030476
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2167.5,
+      "alert_pct_move": 4.407514450867052,
+      "alert_relative_volume": 15.80013916138071
+    },
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 1147.0,
+      "alert_pct_move": 5.743528314979458,
+      "alert_relative_volume": 14.038448994401033
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 247.0,
+      "alert_pct_move": 2.532173623108027,
+      "alert_relative_volume": 9.792778142691075
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 715.7000122070312,
+      "alert_pct_move": 3.0303011665081883,
+      "alert_relative_volume": 7.70122942911331
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 455.6000061035156,
+      "alert_pct_move": 3.710452711924197,
+      "alert_relative_volume": 7.26173732894111
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5618.0,
+      "alert_pct_move": 2.7432333577176298,
+      "alert_relative_volume": 6.690770749651036
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1866.199951171875,
+      "alert_pct_move": 2.8606019372194074,
+      "alert_relative_volume": 5.643061456249575
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1022.4500122070312,
+      "alert_pct_move": 2.552659198298019,
+      "alert_relative_volume": 5.3260384111608285
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 279.70001220703125,
+      "alert_pct_move": 2.9065580459407463,
+      "alert_relative_volume": 5.112286862289232
+    },
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 236.60000610351562,
+      "alert_pct_move": 2.7534142916395603,
+      "alert_relative_volume": 5.025178036617226
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3054.199951171875,
+      "alert_pct_move": 1.9425884903830106,
+      "alert_relative_volume": 4.91896861223794
+    }
+  ]
+}

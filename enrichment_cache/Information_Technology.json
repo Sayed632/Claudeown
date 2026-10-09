@@ -1,41 +1,38 @@
 {
-  "LATENTVIEW.NS": {
-    "date": "2026-10-08"
-  },
-  "BSOFT.NS": {
-    "date": "2026-10-08"
-  },
-  "SONATSOFTW.NS": {
-    "date": "2026-10-08"
-  },
-  "NEWGEN.NS": {
-    "date": "2026-10-08"
-  },
-  "ZENSARTECH.NS": {
-    "date": "2026-10-08"
-  },
-  "TATATECH.NS": {
-    "date": "2026-10-08"
-  },
-  "LTTS.NS": {
-    "date": "2026-10-08"
-  },
-  "OFSS.NS": {
-    "date": "2026-10-08"
-  },
-  "NETWEB.NS": {
-    "date": "2026-10-08"
+  "HEXT.NS": {
+    "date": "2026-10-09"
   },
   "TCS.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
+  },
+  "CYIENT.NS": {
+    "date": "2026-10-09"
+  },
+  "SONATSOFTW.NS": {
+    "date": "2026-10-09"
+  },
+  "TATATECH.NS": {
+    "date": "2026-10-09"
+  },
+  "ZENSARTECH.NS": {
+    "date": "2026-10-09"
+  },
+  "PERSISTENT.NS": {
+    "date": "2026-10-09"
+  },
+  "COFORGE.NS": {
+    "date": "2026-10-09"
   },
   "INFY.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   },
-  "HCLTECH.NS": {
-    "date": "2026-10-08"
+  "BSOFT.NS": {
+    "date": "2026-10-09"
   },
-  "HAPPSTMNDS.NS": {
-    "date": "2026-10-08"
+  "LATENTVIEW.NS": {
+    "date": "2026-10-09"
+  },
+  "TATAELXSI.NS": {
+    "date": "2026-10-09"
   }
 }
