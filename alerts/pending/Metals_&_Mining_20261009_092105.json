@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-09T09:21:05.585995+05:30",
+  "stocks": [
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 169.77999877929688,
+      "alert_pct_move": 2.123307536419173,
+      "alert_relative_volume": 6.212476694381542
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 257.79998779296875,
+      "alert_pct_move": 1.8569662489580796,
+      "alert_relative_volume": 4.820311257197718
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1523.0,
+      "alert_pct_move": 1.8048128342245988,
+      "alert_relative_volume": 4.162453268042136
+    }
+  ]
+}
