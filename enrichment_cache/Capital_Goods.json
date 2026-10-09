@@ -1,26 +1,29 @@
 {
-  "PTCIL.NS": {
-    "date": "2026-10-08"
-  },
-  "BHEL.NS": {
-    "date": "2026-10-08"
-  },
-  "FINCABLES.NS": {
-    "date": "2026-10-08"
+  "COCHINSHIP.NS": {
+    "date": "2026-10-09"
   },
   "INOXWIND.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   },
-  "SUZLON.NS": {
-    "date": "2026-10-08"
+  "SIEMENS.NS": {
+    "date": "2026-10-09"
   },
-  "HBLENGINE.NS": {
-    "date": "2026-10-08"
+  "DATAPATTNS.NS": {
+    "date": "2026-10-09"
   },
-  "INOXINDIA.NS": {
-    "date": "2026-10-08"
+  "ENRIN.NS": {
+    "date": "2026-10-09"
   },
-  "KAYNES.NS": {
-    "date": "2026-10-08"
+  "POWERINDIA.NS": {
+    "date": "2026-10-09"
+  },
+  "BHEL.NS": {
+    "date": "2026-10-09"
+  },
+  "THERMAX.NS": {
+    "date": "2026-10-09"
+  },
+  "CGPOWER.NS": {
+    "date": "2026-10-09"
   }
 }
