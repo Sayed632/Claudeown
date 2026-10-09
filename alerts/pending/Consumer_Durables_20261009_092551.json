@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-09T09:25:51.934038+05:30",
+  "stocks": [
+    {
+      "ticker": "CROMPTON.NS",
+      "alert_price": 208.3000030517578,
+      "alert_pct_move": 1.9379498800220378,
+      "alert_relative_volume": 5.901759874672702
+    },
+    {
+      "ticker": "AMBER.NS",
+      "alert_price": 6410.0,
+      "alert_pct_move": -2.212051868802441,
+      "alert_relative_volume": 5.692924600648815
+    }
+  ]
+}
