@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-09T09:20:59.928955+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 456.3500061035156,
+      "alert_pct_move": 1.44492606686867,
+      "alert_relative_volume": 3.1432956067071873
+    }
+  ]
+}
