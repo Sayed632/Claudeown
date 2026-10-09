@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-09T09:25:52.627331+05:30",
+  "stocks": [
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 1818.0999755859375,
+      "alert_pct_move": 4.7473657159712035,
+      "alert_relative_volume": 17.49483853743699
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1803.800048828125,
+      "alert_pct_move": 1.8520637395892152,
+      "alert_relative_volume": 3.3540085897164778
+    }
+  ]
+}
