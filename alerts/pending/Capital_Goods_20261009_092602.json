@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-09T09:26:02.763836+05:30",
+  "stocks": [
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 3200.89990234375,
+      "alert_pct_move": 2.0012046376214463,
+      "alert_relative_volume": 5.798389349725201
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3518.89990234375,
+      "alert_pct_move": -7.226472387457158,
+      "alert_relative_volume": 4.774558534031208
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3079.5,
+      "alert_pct_move": -3.160377358490566,
+      "alert_relative_volume": 4.360916825935608
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4054.89990234375,
+      "alert_pct_move": -4.216469129249436,
+      "alert_relative_volume": 4.214750644179084
+    },
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1217.5,
+      "alert_pct_move": 1.4583333333333333,
+      "alert_relative_volume": 4.076208742570101
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 30025.0,
+      "alert_pct_move": -2.9416518506545986,
+      "alert_relative_volume": 3.674924666122741
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6595.0,
+      "alert_pct_move": -2.58493353028065,
+      "alert_relative_volume": 3.5394961211322746
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2285.199951171875,
+      "alert_pct_move": -1.3724665009980577,
+      "alert_relative_volume": 3.52321978368875
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 421.3999938964844,
+      "alert_pct_move": -1.9087551421159408,
+      "alert_relative_volume": 3.438038966743027
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 843.0,
+      "alert_pct_move": -2.209847231915259,
+      "alert_relative_volume": 3.2705400220384933
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1877.5999755859375,
+      "alert_pct_move": -1.7580565322500807,
+      "alert_relative_volume": 3.2681316604252206
+    }
+  ]
+}
