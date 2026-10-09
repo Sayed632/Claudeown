@@ -1,0 +1,18 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-10-09T09:25:52.182514+05:30",
+  "stocks": [
+    {
+      "ticker": "ALOKINDS.NS",
+      "alert_price": 8.5,
+      "alert_pct_move": -5.555555555555555,
+      "alert_relative_volume": 10.939548804344609
+    },
+    {
+      "ticker": "TRIDENT.NS",
+      "alert_price": 21.670000076293945,
+      "alert_pct_move": -2.8686660912988224,
+      "alert_relative_volume": 3.7493786970845346
+    }
+  ]
+}
