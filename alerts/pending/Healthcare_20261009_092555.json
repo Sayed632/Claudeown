@@ -1,0 +1,30 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-09T09:25:55.377581+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 7791.5,
+      "alert_pct_move": 1.6370988781633184,
+      "alert_relative_volume": 12.216840378224544
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 887.4000244140625,
+      "alert_pct_move": 1.6029310291572494,
+      "alert_relative_volume": 10.435823394952738
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 781.7000122070312,
+      "alert_pct_move": 2.4508535002662186,
+      "alert_relative_volume": 8.684039566719155
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1555.9000244140625,
+      "alert_pct_move": -3.6594412127515477,
+      "alert_relative_volume": 3.3092002656394675
+    }
+  ]
+}
