@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-09T09:21:03.537843+05:30",
+  "stocks": [
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 3760.300048828125,
+      "alert_pct_move": -2.06021397946431,
+      "alert_relative_volume": 4.1545659054020705
+    },
+    {
+      "ticker": "SCHAEFFLER.NS",
+      "alert_price": 3660.199951171875,
+      "alert_pct_move": -3.60284563676916,
+      "alert_relative_volume": 3.112845459438166
+    }
+  ]
+}
