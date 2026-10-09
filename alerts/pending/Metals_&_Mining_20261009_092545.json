@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-09T09:25:45.999591+05:30",
+  "stocks": [
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 169.10000610351562,
+      "alert_pct_move": 1.7142893855733083,
+      "alert_relative_volume": 5.783057591869393
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 257.1499938964844,
+      "alert_pct_move": 1.6001531787053145,
+      "alert_relative_volume": 4.585083719273989
+    }
+  ]
+}
