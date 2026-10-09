@@ -1,23 +1,29 @@
 {
-  "AKUMS.NS": {
-    "date": "2026-10-08"
+  "LAURUSLABS.NS": {
+    "date": "2026-10-09"
   },
   "DIVISLAB.NS": {
-    "date": "2026-10-08"
-  },
-  "LAURUSLABS.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   },
   "GLAND.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
+  },
+  "COFORGE.NS": {
+    "date": "2026-10-09"
+  },
+  "LALPATHLAB.NS": {
+    "date": "2026-10-09"
   },
   "IPCALAB.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   },
   "RBLBANK.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
+  },
+  "AUROPHARMA.NS": {
+    "date": "2026-10-09"
   },
   "INDGN.NS": {
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   }
 }
