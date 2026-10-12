@@ -1,0 +1,48 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-12T09:26:04.868142+05:30",
+  "stocks": [
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2103.39990234375,
+      "alert_pct_move": 2.8054693227639294,
+      "alert_relative_volume": 12.713199346860362
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 38.279998779296875,
+      "alert_pct_move": 1.8085115233283964,
+      "alert_relative_volume": 6.266983858052239
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1572.199951171875,
+      "alert_pct_move": 2.8388213603876737,
+      "alert_relative_volume": 4.241954847439693
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 522.5499877929688,
+      "alert_pct_move": 2.2402624834119265,
+      "alert_relative_volume": 3.9376156726443825
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3654.10009765625,
+      "alert_pct_move": 1.6439526469054242,
+      "alert_relative_volume": 3.6705931703360606
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 4654.0,
+      "alert_pct_move": 1.504907306434024,
+      "alert_relative_volume": 3.5878862518666947
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 8355.5,
+      "alert_pct_move": 1.2174439733494853,
+      "alert_relative_volume": 3.3369766853054044
+    }
+  ]
+}

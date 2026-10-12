@@ -1,38 +1,23 @@
 {
-  "COCHINSHIP.NS": {
-    "date": "2026-10-09"
+  "GRSE.NS": {
+    "date": "2026-10-12"
   },
-  "INOXWIND.NS": {
-    "date": "2026-10-09"
+  "SUZLON.NS": {
+    "date": "2026-10-12"
+  },
+  "ZENTEC.NS": {
+    "date": "2026-10-12"
+  },
+  "TRITURBINE.NS": {
+    "date": "2026-10-12"
   },
   "SIEMENS.NS": {
-    "date": "2026-10-09"
+    "date": "2026-10-12"
   },
-  "DATAPATTNS.NS": {
-    "date": "2026-10-09"
+  "KEI.NS": {
+    "date": "2026-10-12"
   },
-  "ENRIN.NS": {
-    "date": "2026-10-09"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-10-09"
-  },
-  "BHEL.NS": {
-    "date": "2026-10-09"
-  },
-  "THERMAX.NS": {
-    "date": "2026-10-09"
-  },
-  "CGPOWER.NS": {
-    "date": "2026-10-09"
-  },
-  "ABB.NS": {
-    "date": "2026-10-09"
-  },
-  "WAAREEENER.NS": {
-    "date": "2026-10-09"
-  },
-  "BEML.NS": {
-    "date": "2026-10-09"
+  "POLYCAB.NS": {
+    "date": "2026-10-12"
   }
 }
