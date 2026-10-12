@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-12T09:20:59.994447+05:30",
+  "stocks": [
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1520.199951171875,
+      "alert_pct_move": 3.668843825838698,
+      "alert_relative_volume": 10.523234183215974
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 474.6499938964844,
+      "alert_pct_move": 2.704749575913624,
+      "alert_relative_volume": 7.340006086663615
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 488.54998779296875,
+      "alert_pct_move": 1.5379806693038065,
+      "alert_relative_volume": 4.928718470337931
+    }
+  ]
+}
