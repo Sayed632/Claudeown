@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-12T09:25:54.467719+05:30",
+  "stocks": [
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10055.0,
+      "alert_pct_move": 2.832890161587237,
+      "alert_relative_volume": 5.339451565460518
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1148.5,
+      "alert_pct_move": 1.8354274051844488,
+      "alert_relative_volume": 4.6074141163608315
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 536.7999877929688,
+      "alert_pct_move": 1.551269880014992,
+      "alert_relative_volume": 3.9503814481032515
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2265.699951171875,
+      "alert_pct_move": 2.3813805319419337,
+      "alert_relative_volume": 3.099563545056198
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 652.0,
+      "alert_pct_move": 2.467391561877496,
+      "alert_relative_volume": 3.062791057823853
+    }
+  ]
+}
