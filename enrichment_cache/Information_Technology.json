@@ -1,38 +1,17 @@
 {
-  "HEXT.NS": {
-    "date": "2026-10-09"
-  },
-  "TCS.NS": {
-    "date": "2026-10-09"
-  },
-  "CYIENT.NS": {
-    "date": "2026-10-09"
-  },
-  "SONATSOFTW.NS": {
-    "date": "2026-10-09"
-  },
-  "TATATECH.NS": {
-    "date": "2026-10-09"
-  },
-  "ZENSARTECH.NS": {
-    "date": "2026-10-09"
-  },
-  "PERSISTENT.NS": {
-    "date": "2026-10-09"
-  },
-  "COFORGE.NS": {
-    "date": "2026-10-09"
-  },
-  "INFY.NS": {
-    "date": "2026-10-09"
-  },
-  "BSOFT.NS": {
-    "date": "2026-10-09"
-  },
-  "LATENTVIEW.NS": {
-    "date": "2026-10-09"
+  "TECHM.NS": {
+    "date": "2026-10-12"
   },
   "TATAELXSI.NS": {
-    "date": "2026-10-09"
+    "date": "2026-10-12"
+  },
+  "NETWEB.NS": {
+    "date": "2026-10-12"
+  },
+  "HEXT.NS": {
+    "date": "2026-10-12"
+  },
+  "LATENTVIEW.NS": {
+    "date": "2026-10-12"
   }
 }
