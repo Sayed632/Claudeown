@@ -1,0 +1,30 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-12T09:20:59.632519+05:30",
+  "stocks": [
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 465.5,
+      "alert_pct_move": 4.092125960071927,
+      "alert_relative_volume": 9.925978051961351
+    },
+    {
+      "ticker": "IDEA.NS",
+      "alert_price": 12.779999732971191,
+      "alert_pct_move": -1.6923097463754508,
+      "alert_relative_volume": 4.653792890371687
+    },
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 252.6999969482422,
+      "alert_pct_move": 1.8335696811082107,
+      "alert_relative_volume": 3.4116241924394073
+    },
+    {
+      "ticker": "ITI.NS",
+      "alert_price": 243.4600067138672,
+      "alert_pct_move": 1.3867495787041626,
+      "alert_relative_volume": 3.0651382330337293
+    }
+  ]
+}
