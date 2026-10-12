@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-12T09:21:05.951584+05:30",
+  "stocks": [
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1152.800048828125,
+      "alert_pct_move": 2.2167049935825958,
+      "alert_relative_volume": 5.859721020873932
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 538.8499755859375,
+      "alert_pct_move": 1.9390844633767106,
+      "alert_relative_volume": 4.73387715819904
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10047.0,
+      "alert_pct_move": 2.7510738392309264,
+      "alert_relative_volume": 4.281179555646311
+    }
+  ]
+}
