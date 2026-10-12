@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-12T09:26:11.947576+05:30",
+  "stocks": [
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 472.1499938964844,
+      "alert_pct_move": 5.555557071693318,
+      "alert_relative_volume": 165.24926652689706
+    },
+    {
+      "ticker": "IFCI.NS",
+      "alert_price": 72.1500015258789,
+      "alert_pct_move": 7.126953467715652,
+      "alert_relative_volume": 11.807913814665875
+    },
+    {
+      "ticker": "CANFINHOME.NS",
+      "alert_price": 736.0,
+      "alert_pct_move": 2.4855496733431526,
+      "alert_relative_volume": 6.101516004578354
+    },
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 167.63999938964844,
+      "alert_pct_move": 3.33477396571922,
+      "alert_relative_volume": 6.079597616659184
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 3407.0,
+      "alert_pct_move": 2.6761512306322546,
+      "alert_relative_volume": 3.7500590034245604
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 320.3500061035156,
+      "alert_pct_move": 1.763030027242853,
+      "alert_relative_volume": 3.3243786648905065
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 298.8999938964844,
+      "alert_pct_move": 2.36301160838506,
+      "alert_relative_volume": 3.222794907909665
+    },
+    {
+      "ticker": "AIIL.NS",
+      "alert_price": 555.75,
+      "alert_pct_move": 1.1005980823391663,
+      "alert_relative_volume": 3.0219396762735165
+    }
+  ]
+}

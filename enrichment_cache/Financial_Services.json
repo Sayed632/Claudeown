@@ -1,38 +1,26 @@
 {
-  "BANKINDIA.NS": {
-    "date": "2026-10-05"
+  "POONAWALLA.NS": {
+    "date": "2026-10-12"
   },
-  "SAMMAANCAP.NS": {
-    "date": "2026-10-05"
+  "IFCI.NS": {
+    "date": "2026-10-12"
   },
-  "UCOBANK.NS": {
-    "date": "2026-10-05"
+  "CANFINHOME.NS": {
+    "date": "2026-10-12"
   },
-  "BAJFINANCE.NS": {
-    "date": "2026-10-05"
+  "NIACL.NS": {
+    "date": "2026-10-12"
   },
-  "AUBANK.NS": {
-    "date": "2026-10-05"
+  "MCX.NS": {
+    "date": "2026-10-12"
   },
-  "CANBK.NS": {
-    "date": "2026-10-05"
+  "MANAPPURAM.NS": {
+    "date": "2026-10-12"
   },
-  "IIFL.NS": {
-    "date": "2026-10-05"
+  "ANGELONE.NS": {
+    "date": "2026-10-12"
   },
-  "PNB.NS": {
-    "date": "2026-10-05"
-  },
-  "SHRIRAMFIN.NS": {
-    "date": "2026-10-05"
-  },
-  "BANKBARODA.NS": {
-    "date": "2026-10-05"
-  },
-  "MAHABANK.NS": {
-    "date": "2026-10-05"
-  },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-10-05"
+  "AIIL.NS": {
+    "date": "2026-10-12"
   }
 }
