@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-10-12T09:20:54.552478+05:30",
+  "stocks": [
+    {
+      "ticker": "BRIGADE.NS",
+      "alert_price": 564.8499755859375,
+      "alert_pct_move": 2.924560522953857,
+      "alert_relative_volume": 3.242767795023272
+    }
+  ]
+}
