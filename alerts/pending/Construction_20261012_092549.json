@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-10-12T09:25:49.572023+05:30",
+  "stocks": [
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 75.56999969482422,
+      "alert_pct_move": 1.4907341176465767,
+      "alert_relative_volume": 3.0077001554804927
+    }
+  ]
+}
