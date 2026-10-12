@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-12T09:25:53.105925+05:30",
+  "stocks": [
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 432.6499938964844,
+      "alert_pct_move": 3.678410388818675,
+      "alert_relative_volume": 9.829617072256045
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 469.45001220703125,
+      "alert_pct_move": 2.021084088645889,
+      "alert_relative_volume": 4.320160182313981
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 317.1499938964844,
+      "alert_pct_move": 1.520486585404333,
+      "alert_relative_volume": 3.5856429623611787
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 105.69999694824219,
+      "alert_pct_move": 1.2064290285159938,
+      "alert_relative_volume": 3.3888168287898233
+    }
+  ]
+}
