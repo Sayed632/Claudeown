@@ -1,14 +1,11 @@
 {
-  "FORTIS.NS": {
-    "date": "2026-10-09"
+  "SYNGENE.NS": {
+    "date": "2026-10-12"
   },
-  "APOLLOHOSP.NS": {
-    "date": "2026-10-09"
+  "CAPLIPOINT.NS": {
+    "date": "2026-10-12"
   },
-  "MAXHEALTH.NS": {
-    "date": "2026-10-09"
-  },
-  "POLYMED.NS": {
-    "date": "2026-10-09"
+  "EMCURE.NS": {
+    "date": "2026-10-12"
   }
 }
