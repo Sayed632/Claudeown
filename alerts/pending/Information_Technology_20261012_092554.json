@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-12T09:25:54.766432+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1446.0999755859375,
+      "alert_pct_move": -4.491116907500435,
+      "alert_relative_volume": 10.198481927320804
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4846.89990234375,
+      "alert_pct_move": 2.6537572453392957,
+      "alert_relative_volume": 6.927681053626511
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3202.0,
+      "alert_pct_move": 2.3003194888178915,
+      "alert_relative_volume": 5.8173429054511425
+    }
+  ]
+}
