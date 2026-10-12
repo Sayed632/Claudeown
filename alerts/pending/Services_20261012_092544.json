@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-12T09:25:44.652427+05:30",
+  "stocks": [
+    {
+      "ticker": "DELHIVERY.NS",
+      "alert_price": 415.1000061035156,
+      "alert_pct_move": 3.6454447199789324,
+      "alert_relative_volume": 4.3546257621603255
+    }
+  ]
+}
