@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-13T09:25:49.312012+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 628.4000244140625,
+      "alert_pct_move": 6.55362855685672,
+      "alert_relative_volume": 8.44386425124622
+    }
+  ]
+}
