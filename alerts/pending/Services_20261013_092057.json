@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-13T09:20:57.877609+05:30",
+  "stocks": [
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1503.800048828125,
+      "alert_pct_move": -1.9495275018365863,
+      "alert_relative_volume": 6.2718333443815
+    },
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 54.25,
+      "alert_pct_move": -1.1299415781918056,
+      "alert_relative_volume": 3.6685097010869767
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 280.29998779296875,
+      "alert_pct_move": 4.5505339096272195,
+      "alert_relative_volume": 3.1521473171111856
+    }
+  ]
+}
