@@ -1,17 +1,32 @@
 {
-  "TECHM.NS": {
-    "date": "2026-10-12"
-  },
-  "TATAELXSI.NS": {
-    "date": "2026-10-12"
+  "HCLTECH.NS": {
+    "date": "2026-10-13"
   },
   "NETWEB.NS": {
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
-  "HEXT.NS": {
-    "date": "2026-10-12"
+  "TATAELXSI.NS": {
+    "date": "2026-10-13"
   },
-  "LATENTVIEW.NS": {
-    "date": "2026-10-12"
+  "SONATSOFTW.NS": {
+    "date": "2026-10-13"
+  },
+  "TCS.NS": {
+    "date": "2026-10-13"
+  },
+  "PERSISTENT.NS": {
+    "date": "2026-10-13"
+  },
+  "KPITTECH.NS": {
+    "date": "2026-10-13"
+  },
+  "MPHASIS.NS": {
+    "date": "2026-10-13"
+  },
+  "LTTS.NS": {
+    "date": "2026-10-13"
+  },
+  "ZENSARTECH.NS": {
+    "date": "2026-10-13"
   }
 }

@@ -1,0 +1,66 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-13T09:20:57.419922+05:30",
+  "stocks": [
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1254.5,
+      "alert_pct_move": 3.106768336081345,
+      "alert_relative_volume": 21.477678992042073
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4800.89990234375,
+      "alert_pct_move": 1.6795112471906195,
+      "alert_relative_volume": 10.679327051863288
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3257.0,
+      "alert_pct_move": 4.057507987220448,
+      "alert_relative_volume": 6.090964322004391
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 245.0500030517578,
+      "alert_pct_move": 2.467074767238859,
+      "alert_relative_volume": 6.0115860116561874
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2183.199951171875,
+      "alert_pct_move": 1.261593282554499,
+      "alert_relative_volume": 5.833105174719468
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5838.0,
+      "alert_pct_move": 1.1785095320623917,
+      "alert_relative_volume": 5.529476936656229
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 490.0,
+      "alert_pct_move": 2.2964509394572024,
+      "alert_relative_volume": 5.306410545483761
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2419.199951171875,
+      "alert_pct_move": 2.508472507282839,
+      "alert_relative_volume": 4.257826363906034
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 3333.5,
+      "alert_pct_move": 1.9387755863861798,
+      "alert_relative_volume": 3.5329256880616335
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 458.6000061035156,
+      "alert_pct_move": 2.2405570357936404,
+      "alert_relative_volume": 3.3632511282509507
+    }
+  ]
+}
