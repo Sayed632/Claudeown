@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-13T09:25:58.393668+05:30",
+  "stocks": [
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1431.699951171875,
+      "alert_pct_move": -3.7771404207294896,
+      "alert_relative_volume": 4.794676826505927
+    },
+    {
+      "ticker": "FORTIS.NS",
+      "alert_price": 753.3499755859375,
+      "alert_pct_move": -4.184422818958664,
+      "alert_relative_volume": 4.421232938218111
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 369.75,
+      "alert_pct_move": 6.433507914849105,
+      "alert_relative_volume": 4.242038225423673
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 20100.0,
+      "alert_pct_move": -3.7817137386309243,
+      "alert_relative_volume": 3.969164854354449
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 737.8499755859375,
+      "alert_pct_move": -1.8620736123705282,
+      "alert_relative_volume": 3.7759692706554815
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "alert_price": 787.2999877929688,
+      "alert_pct_move": -3.4283976948213737,
+      "alert_relative_volume": 3.0591962382988522
+    }
+  ]
+}
