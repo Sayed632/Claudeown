@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-13T09:21:10.842687+05:30",
+  "stocks": [
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1431.4000244140625,
+      "alert_pct_move": -3.7972981432169672,
+      "alert_relative_volume": 5.963289685416215
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 737.0,
+      "alert_pct_move": -1.975124834494342,
+      "alert_relative_volume": 5.357992337504454
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 20155.0,
+      "alert_pct_move": -3.5184298707515556,
+      "alert_relative_volume": 4.664219409670591
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "alert_price": 787.6500244140625,
+      "alert_pct_move": -3.3854615867448636,
+      "alert_relative_volume": 4.358357642905467
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 367.25,
+      "alert_pct_move": 5.71387635355871,
+      "alert_relative_volume": 3.5826272771878567
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 191.8000030517578,
+      "alert_pct_move": -2.5802527961528754,
+      "alert_relative_volume": 3.081275612343686
+    }
+  ]
+}

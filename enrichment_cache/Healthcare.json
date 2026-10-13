@@ -1,11 +1,20 @@
 {
+  "SAILIFE.NS": {
+    "date": "2026-10-13"
+  },
+  "AKUMS.NS": {
+    "date": "2026-10-13"
+  },
+  "NEULANDLAB.NS": {
+    "date": "2026-10-13"
+  },
+  "GRANULES.NS": {
+    "date": "2026-10-13"
+  },
   "SYNGENE.NS": {
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
-  "CAPLIPOINT.NS": {
-    "date": "2026-10-12"
-  },
-  "EMCURE.NS": {
-    "date": "2026-10-12"
+  "PPLPHARMA.NS": {
+    "date": "2026-10-13"
   }
 }
