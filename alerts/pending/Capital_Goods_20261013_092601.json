@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-13T09:26:01.464735+05:30",
+  "stocks": [
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 8116.5,
+      "alert_pct_move": -1.677771047849788,
+      "alert_relative_volume": 12.512669224601128
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 25720.0,
+      "alert_pct_move": 4.829834929692276,
+      "alert_relative_volume": 7.644003969919665
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 39.79999923706055,
+      "alert_pct_move": 5.851066096328821,
+      "alert_relative_volume": 5.432312073380558
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2626.300048828125,
+      "alert_pct_move": -2.930959711925623,
+      "alert_relative_volume": 5.341077051111629
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 30055.0,
+      "alert_pct_move": -1.7970919784348962,
+      "alert_relative_volume": 4.96544521783063
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 4535.0,
+      "alert_pct_move": -1.0905125408942202,
+      "alert_relative_volume": 4.913664497498473
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 838.1500244140625,
+      "alert_pct_move": -2.033775188728867,
+      "alert_relative_volume": 4.475558920550658
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2099.0,
+      "alert_pct_move": 2.590420332355816,
+      "alert_relative_volume": 4.441361580834309
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4090.0,
+      "alert_pct_move": -2.48903072607391,
+      "alert_relative_volume": 4.044020059479483
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2383.5,
+      "alert_pct_move": 2.6043908738699955,
+      "alert_relative_volume": 3.9374717125578056
+    }
+  ]
+}

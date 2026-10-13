@@ -1,23 +1,32 @@
 {
-  "GRSE.NS": {
-    "date": "2026-10-12"
+  "POLYCAB.NS": {
+    "date": "2026-10-13"
+  },
+  "PTCIL.NS": {
+    "date": "2026-10-13"
   },
   "SUZLON.NS": {
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
-  "ZENTEC.NS": {
-    "date": "2026-10-12"
+  "RRKABEL.NS": {
+    "date": "2026-10-13"
   },
-  "TRITURBINE.NS": {
-    "date": "2026-10-12"
-  },
-  "SIEMENS.NS": {
-    "date": "2026-10-12"
+  "POWERINDIA.NS": {
+    "date": "2026-10-13"
   },
   "KEI.NS": {
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
-  "POLYCAB.NS": {
-    "date": "2026-10-12"
+  "CGPOWER.NS": {
+    "date": "2026-10-13"
+  },
+  "GRSE.NS": {
+    "date": "2026-10-13"
+  },
+  "GVT&D.NS": {
+    "date": "2026-10-13"
+  },
+  "WAAREEENER.NS": {
+    "date": "2026-10-13"
   }
 }
