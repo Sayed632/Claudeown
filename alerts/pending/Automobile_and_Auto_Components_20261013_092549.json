@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-13T09:25:49.532730+05:30",
+  "stocks": [
+    {
+      "ticker": "SCHAEFFLER.NS",
+      "alert_price": 3599.699951171875,
+      "alert_pct_move": -1.8513508745887,
+      "alert_relative_volume": 6.696286510405228
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 11259.0,
+      "alert_pct_move": -1.4098073555166375,
+      "alert_relative_volume": 3.705377121121291
+    }
+  ]
+}
