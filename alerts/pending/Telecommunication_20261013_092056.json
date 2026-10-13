@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-13T09:20:56.232338+05:30",
+  "stocks": [
+    {
+      "ticker": "TEJASNET.NS",
+      "alert_price": 455.1000061035156,
+      "alert_pct_move": 1.7665459930325478,
+      "alert_relative_volume": 4.57803758858184
+    }
+  ]
+}
