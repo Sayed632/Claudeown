@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-13T09:25:57.492967+05:30",
+  "stocks": [
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 250.1999969482422,
+      "alert_pct_move": 6.165400302197448,
+      "alert_relative_volume": 5.910387978634736
+    }
+  ]
+}
