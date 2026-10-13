@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-13T09:25:46.836852+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 289.6499938964844,
+      "alert_pct_move": 8.038040769252397,
+      "alert_relative_volume": 7.026457924607974
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1489.0999755859375,
+      "alert_pct_move": -2.9079987615478102,
+      "alert_relative_volume": 5.237134585496676
+    }
+  ]
+}
