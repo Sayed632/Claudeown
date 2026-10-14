@@ -1,0 +1,78 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-14T09:21:09.435213+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3644.39990234375,
+      "alert_pct_move": 6.353049705954709,
+      "alert_relative_volume": 70.66294708800305
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2322.39990234375,
+      "alert_pct_move": 2.8839698802745133,
+      "alert_relative_volume": 20.4311330067644
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 523.7000122070312,
+      "alert_pct_move": 1.9367420354318734,
+      "alert_relative_volume": 12.074834250561501
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1347.4000244140625,
+      "alert_pct_move": 1.6138781609398567,
+      "alert_relative_volume": 10.383069505034864
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 752.3499755859375,
+      "alert_pct_move": 1.1630984586427937,
+      "alert_relative_volume": 8.215438794089165
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 488.79998779296875,
+      "alert_pct_move": 2.0672361709455958,
+      "alert_relative_volume": 7.999617519318893
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 252.39999389648438,
+      "alert_pct_move": 1.8768895646758326,
+      "alert_relative_volume": 7.750692897214043
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1954.800048828125,
+      "alert_pct_move": 1.3374830911417832,
+      "alert_relative_volume": 4.527412246167619
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1079.1500244140625,
+      "alert_pct_move": 1.6053148686609147,
+      "alert_relative_volume": 4.039963289145091
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1559.4000244140625,
+      "alert_pct_move": 1.0301279179826692,
+      "alert_relative_volume": 3.7180090901124037
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10521.0,
+      "alert_pct_move": 1.5540540540540542,
+      "alert_relative_volume": 3.2086915441041257
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 613.0,
+      "alert_pct_move": 4.759459014604837,
+      "alert_relative_volume": 3.1608636133798393
+    }
+  ]
+}
