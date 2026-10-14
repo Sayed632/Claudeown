@@ -1,0 +1,54 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-14T09:25:57.416534+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3661.10009765625,
+      "alert_pct_move": 6.8404047574756,
+      "alert_relative_volume": 62.5913204370924
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2321.0,
+      "alert_pct_move": 2.8219532093194597,
+      "alert_relative_volume": 16.313692645400973
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 525.0,
+      "alert_pct_move": 2.18978102189781,
+      "alert_relative_volume": 10.796117649100614
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 255.0,
+      "alert_pct_move": 2.9263370332996974,
+      "alert_relative_volume": 9.718711004124955
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1343.0,
+      "alert_pct_move": 1.282051282051282,
+      "alert_relative_volume": 9.050527326021461
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 486.8500061035156,
+      "alert_pct_move": 1.6600568612138402,
+      "alert_relative_volume": 6.782155981672472
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 44.959999084472656,
+      "alert_pct_move": 1.3525664244041555,
+      "alert_relative_volume": 4.085493115040677
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1080.6500244140625,
+      "alert_pct_move": 1.7465445113009574,
+      "alert_relative_volume": 4.045044138290342
+    }
+  ]
+}
