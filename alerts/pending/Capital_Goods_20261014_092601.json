@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-14T09:26:01.065748+05:30",
+  "stocks": [
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 341.0,
+      "alert_pct_move": 12.171052631578947,
+      "alert_relative_volume": 49.553136198126
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 7930.0,
+      "alert_pct_move": -4.342581423401689,
+      "alert_relative_volume": 6.943873826920647
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4186.89990234375,
+      "alert_pct_move": 1.0669298995196983,
+      "alert_relative_volume": 4.624431306066447
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1673.800048828125,
+      "alert_pct_move": 1.2767046820137324,
+      "alert_relative_volume": 3.4369137928312026
+    },
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 1137.300048828125,
+      "alert_pct_move": 1.0125254611301093,
+      "alert_relative_volume": 3.1421739862729487
+    }
+  ]
+}
