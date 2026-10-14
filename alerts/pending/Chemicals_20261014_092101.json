@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-14T09:21:01.810979+05:30",
+  "stocks": [
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 381.0,
+      "alert_pct_move": 1.6542188924659196,
+      "alert_relative_volume": 3.089344621308138
+    }
+  ]
+}
