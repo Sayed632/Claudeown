@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-14T09:21:06.986414+05:30",
+  "stocks": [
+    {
+      "ticker": "JSL.NS",
+      "alert_price": 708.9000244140625,
+      "alert_pct_move": -1.6168154293624888,
+      "alert_relative_volume": 4.257707938709992
+    }
+  ]
+}
