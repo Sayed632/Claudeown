@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-14T09:26:03.965061+05:30",
+  "stocks": [
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1385.800048828125,
+      "alert_pct_move": 2.318371518609999,
+      "alert_relative_volume": 4.419499462053263
+    },
+    {
+      "ticker": "PFIZER.NS",
+      "alert_price": 3963.0,
+      "alert_pct_move": -2.232638460589614,
+      "alert_relative_volume": 3.3260727794443716
+    }
+  ]
+}
