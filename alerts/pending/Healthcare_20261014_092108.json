@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-14T09:21:08.219578+05:30",
+  "stocks": [
+    {
+      "ticker": "PFIZER.NS",
+      "alert_price": 3960.800048828125,
+      "alert_pct_move": -2.2869113401227334,
+      "alert_relative_volume": 4.362027737924438
+    }
+  ]
+}
