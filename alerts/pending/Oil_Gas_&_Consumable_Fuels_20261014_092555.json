@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-14T09:25:55.324475+05:30",
+  "stocks": [
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1425.699951171875,
+      "alert_pct_move": 2.4209735037266524,
+      "alert_relative_volume": 6.507782719686739
+    },
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 179.75999450683594,
+      "alert_pct_move": 2.2002360171793023,
+      "alert_relative_volume": 3.1337879424413146
+    }
+  ]
+}
