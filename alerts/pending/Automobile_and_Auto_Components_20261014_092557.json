@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-14T09:25:57.738278+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 2001.4000244140625,
+      "alert_pct_move": 3.10648856764438,
+      "alert_relative_volume": 7.105981257826964
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3350.0,
+      "alert_pct_move": 1.8670528650628286,
+      "alert_relative_volume": 4.449686139669248
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 542.6500244140625,
+      "alert_pct_move": 1.052146073382216,
+      "alert_relative_volume": 3.069216560280903
+    }
+  ]
+}
