@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-14T09:21:14.903941+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 1988.0,
+      "alert_pct_move": 2.416157076088022,
+      "alert_relative_volume": 5.809005233612727
+    }
+  ]
+}
