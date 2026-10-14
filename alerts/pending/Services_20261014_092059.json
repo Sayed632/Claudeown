@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-14T09:20:59.523720+05:30",
+  "stocks": [
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 59.34000015258789,
+      "alert_pct_move": 4.453439039144863,
+      "alert_relative_volume": 38.76001508568722
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 297.45001220703125,
+      "alert_pct_move": 7.247162668535756,
+      "alert_relative_volume": 7.722495659019172
+    }
+  ]
+}
