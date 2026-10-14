@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-14T09:21:07.798024+05:30",
+  "stocks": [
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 341.70001220703125,
+      "alert_pct_move": 12.40131980494449,
+      "alert_relative_volume": 46.8688910742782
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 7988.5,
+      "alert_pct_move": -3.6369119420989144,
+      "alert_relative_volume": 6.7749993912553945
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4184.5,
+      "alert_pct_move": 1.0089990276099832,
+      "alert_relative_volume": 6.197832373694225
+    },
+    {
+      "ticker": "HAL.NS",
+      "alert_price": 4920.60009765625,
+      "alert_pct_move": 1.0597678713544876,
+      "alert_relative_volume": 4.765742398156296
+    },
+    {
+      "ticker": "JINDALSAW.NS",
+      "alert_price": 285.54998779296875,
+      "alert_pct_move": 1.583059976104878,
+      "alert_relative_volume": 3.713879004750283
+    }
+  ]
+}

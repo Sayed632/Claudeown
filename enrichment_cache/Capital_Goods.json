@@ -1,32 +1,17 @@
 {
+  "TARIL.NS": {
+    "date": "2026-10-14"
+  },
   "POLYCAB.NS": {
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
-  "PTCIL.NS": {
-    "date": "2026-10-13"
+  "DATAPATTNS.NS": {
+    "date": "2026-10-14"
   },
-  "SUZLON.NS": {
-    "date": "2026-10-13"
+  "HAL.NS": {
+    "date": "2026-10-14"
   },
-  "RRKABEL.NS": {
-    "date": "2026-10-13"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-10-13"
-  },
-  "KEI.NS": {
-    "date": "2026-10-13"
-  },
-  "CGPOWER.NS": {
-    "date": "2026-10-13"
-  },
-  "GRSE.NS": {
-    "date": "2026-10-13"
-  },
-  "GVT&D.NS": {
-    "date": "2026-10-13"
-  },
-  "WAAREEENER.NS": {
-    "date": "2026-10-13"
+  "JINDALSAW.NS": {
+    "date": "2026-10-14"
   }
 }
