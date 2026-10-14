@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-14T09:25:52.107894+05:30",
+  "stocks": [
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 325.45001220703125,
+      "alert_pct_move": 1.3862966377044392,
+      "alert_relative_volume": 5.710273605268529
+    },
+    {
+      "ticker": "JSL.NS",
+      "alert_price": 713.0499877929688,
+      "alert_pct_move": -1.0408715740836192,
+      "alert_relative_volume": 3.056072288124152
+    }
+  ]
+}
