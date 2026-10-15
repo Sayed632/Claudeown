@@ -1,0 +1,78 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-15T09:25:51.755631+05:30",
+  "stocks": [
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 307.1499938964844,
+      "alert_pct_move": 3.5046314731202615,
+      "alert_relative_volume": 12.06054082939101
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3698.39990234375,
+      "alert_pct_move": 2.078325264494093,
+      "alert_relative_volume": 11.276056847780056
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4809.7001953125,
+      "alert_pct_move": -5.091066757237213,
+      "alert_relative_volume": 9.578132777445797
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1449.4000244140625,
+      "alert_pct_move": 1.0668746313780377,
+      "alert_relative_volume": 9.33966305357086
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 537.0,
+      "alert_pct_move": 2.520048208219611,
+      "alert_relative_volume": 8.721530429593766
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 485.0,
+      "alert_pct_move": 1.805207013790243,
+      "alert_relative_volume": 7.857422907589664
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 255.25,
+      "alert_pct_move": 2.2841101496841025,
+      "alert_relative_volume": 6.965856347582482
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 329.95001220703125,
+      "alert_pct_move": 2.9967241831153726,
+      "alert_relative_volume": 6.813479981928869
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1605.5,
+      "alert_pct_move": 1.9235684209857413,
+      "alert_relative_volume": 5.89167330243496
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 3618.800048828125,
+      "alert_pct_move": 5.528989279014109,
+      "alert_relative_volume": 5.809555822313058
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2352.199951171875,
+      "alert_pct_move": 2.052151973282123,
+      "alert_relative_volume": 5.165977183444042
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5970.5,
+      "alert_pct_move": 1.2292302475415395,
+      "alert_relative_volume": 4.452310634448076
+    }
+  ]
+}

@@ -1,41 +1,38 @@
 {
-  "TATAELXSI.NS": {
-    "date": "2026-10-14"
+  "BSOFT.NS": {
+    "date": "2026-10-15"
   },
-  "TCS.NS": {
-    "date": "2026-10-14"
+  "TATAELXSI.NS": {
+    "date": "2026-10-15"
+  },
+  "NETWEB.NS": {
+    "date": "2026-10-15"
+  },
+  "AFFLE.NS": {
+    "date": "2026-10-15"
   },
   "KPITTECH.NS": {
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   },
-  "HCLTECH.NS": {
-    "date": "2026-10-14"
-  },
-  "TATATECH.NS": {
-    "date": "2026-10-14"
-  },
-  "ZENSARTECH.NS": {
-    "date": "2026-10-14"
+  "NEWGEN.NS": {
+    "date": "2026-10-15"
   },
   "SONATSOFTW.NS": {
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   },
-  "COFORGE.NS": {
-    "date": "2026-10-14"
-  },
-  "INFY.NS": {
-    "date": "2026-10-14"
+  "HAPPSTMNDS.NS": {
+    "date": "2026-10-15"
   },
   "TECHM.NS": {
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   },
-  "OFSS.NS": {
-    "date": "2026-10-14"
+  "LTTS.NS": {
+    "date": "2026-10-15"
   },
-  "INTELLECT.NS": {
-    "date": "2026-10-14"
+  "TCS.NS": {
+    "date": "2026-10-15"
   },
-  "SAGILITY.NS": {
-    "date": "2026-10-14"
+  "PERSISTENT.NS": {
+    "date": "2026-10-15"
   }
 }
