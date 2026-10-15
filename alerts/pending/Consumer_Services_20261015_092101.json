@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-15T09:21:01.131999+05:30",
+  "stocks": [
+    {
+      "ticker": "THELEELA.NS",
+      "alert_price": 634.0,
+      "alert_pct_move": 7.221378841289908,
+      "alert_relative_volume": 38.847038600571295
+    },
+    {
+      "ticker": "BLS.NS",
+      "alert_price": 236.86000061035156,
+      "alert_pct_move": 8.234328538663432,
+      "alert_relative_volume": 36.757300703985564
+    },
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 115.91000366210938,
+      "alert_pct_move": 3.992467803865829,
+      "alert_relative_volume": 18.36296141748751
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 300.25,
+      "alert_pct_move": 2.8253424657534243,
+      "alert_relative_volume": 4.7486179400883515
+    }
+  ]
+}

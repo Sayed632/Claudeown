@@ -1,8 +1,14 @@
 {
-  "DMART.NS": {
-    "date": "2026-10-12"
+  "THELEELA.NS": {
+    "date": "2026-10-15"
   },
-  "IRCTC.NS": {
-    "date": "2026-10-12"
+  "BLS.NS": {
+    "date": "2026-10-15"
+  },
+  "LEMONTREE.NS": {
+    "date": "2026-10-15"
+  },
+  "EIHOTEL.NS": {
+    "date": "2026-10-15"
   }
 }
