@@ -1,8 +1,17 @@
 {
-  "JSL.NS": {
-    "date": "2026-10-14"
+  "NSLNISP.NS": {
+    "date": "2026-10-15"
+  },
+  "SARDAEN.NS": {
+    "date": "2026-10-15"
+  },
+  "HINDALCO.NS": {
+    "date": "2026-10-15"
+  },
+  "VEDL.NS": {
+    "date": "2026-10-15"
   },
   "NATIONALUM.NS": {
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   }
 }
