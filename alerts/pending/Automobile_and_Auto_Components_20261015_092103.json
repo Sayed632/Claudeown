@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-15T09:21:03.963665+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 418.79998779296875,
+      "alert_pct_move": 4.713082888013501,
+      "alert_relative_volume": 44.606204385304245
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3215.0,
+      "alert_pct_move": -4.255633178463974,
+      "alert_relative_volume": 40.773422203463355
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 34.90999984741211,
+      "alert_pct_move": 2.8882980649040437,
+      "alert_relative_volume": 3.344571542838409
+    }
+  ]
+}
