@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-15T09:25:53.485718+05:30",
+  "stocks": [
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 19.479999542236328,
+      "alert_pct_move": -1.7650044519229353,
+      "alert_relative_volume": 4.914888586605931
+    }
+  ]
+}
