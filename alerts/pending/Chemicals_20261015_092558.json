@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-15T09:25:58.960679+05:30",
+  "stocks": [
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 416.20001220703125,
+      "alert_pct_move": 3.378044187117777,
+      "alert_relative_volume": 7.240939647775498
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 395.5,
+      "alert_pct_move": 2.169980305874267,
+      "alert_relative_volume": 4.814550641940086
+    },
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1657.800048828125,
+      "alert_pct_move": 2.200855297423444,
+      "alert_relative_volume": 3.3204376850825335
+    }
+  ]
+}
