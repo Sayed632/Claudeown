@@ -1,0 +1,24 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-15T09:25:56.176798+05:30",
+  "stocks": [
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 178.30999755859375,
+      "alert_pct_move": -3.7514828642541813,
+      "alert_relative_volume": 19.41829737183098
+    },
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1439.800048828125,
+      "alert_pct_move": -3.310719734476777,
+      "alert_relative_volume": 5.183834844149055
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1465.699951171875,
+      "alert_pct_move": -5.200182762023049,
+      "alert_relative_volume": 3.7376035406816426
+    }
+  ]
+}
