@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-15T09:26:00.770201+05:30",
+  "stocks": [
+    {
+      "ticker": "ELECON.NS",
+      "alert_price": 471.79998779296875,
+      "alert_pct_move": 7.227269952947443,
+      "alert_relative_volume": 14.988623500628025
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 449.5,
+      "alert_pct_move": -3.125,
+      "alert_relative_volume": 11.316122811288269
+    },
+    {
+      "ticker": "FINPIPE.NS",
+      "alert_price": 156.3300018310547,
+      "alert_pct_move": 3.2972152860523933,
+      "alert_relative_volume": 8.696568556257327
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 29180.0,
+      "alert_pct_move": -3.5371900826446283,
+      "alert_relative_volume": 5.782684388164107
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 340.95001220703125,
+      "alert_pct_move": -2.446348438617668,
+      "alert_relative_volume": 5.765475749196731
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 832.6500244140625,
+      "alert_pct_move": -2.4999971412104802,
+      "alert_relative_volume": 5.369885051090597
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3029.199951171875,
+      "alert_pct_move": -4.22410824565882,
+      "alert_relative_volume": 5.275480781443353
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4049.800048828125,
+      "alert_pct_move": -3.3737387835236077,
+      "alert_relative_volume": 4.740643640346221
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6841.5,
+      "alert_pct_move": -1.9491221784306698,
+      "alert_relative_volume": 4.630613782057516
+    },
+    {
+      "ticker": "SUPREMEIND.NS",
+      "alert_price": 3626.60009765625,
+      "alert_pct_move": 3.4132766444945104,
+      "alert_relative_volume": 3.852037489878151
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4074.0,
+      "alert_pct_move": -1.5418775121798907,
+      "alert_relative_volume": 3.2205262944727835
+    }
+  ]
+}
