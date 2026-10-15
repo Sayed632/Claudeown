@@ -1,0 +1,36 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-15T09:21:04.063029+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACONSUM.NS",
+      "alert_price": 1002.7999877929688,
+      "alert_pct_move": 4.458332061767578,
+      "alert_relative_volume": 6.183851709505214
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 497.5,
+      "alert_pct_move": 5.213068325748956,
+      "alert_relative_volume": 5.853469641819203
+    },
+    {
+      "ticker": "AWL.NS",
+      "alert_price": 192.0,
+      "alert_pct_move": 2.013704452970283,
+      "alert_relative_volume": 5.560017518916896
+    },
+    {
+      "ticker": "JYOTHYLAB.NS",
+      "alert_price": 195.44000244140625,
+      "alert_pct_move": 4.6140642218409935,
+      "alert_relative_volume": 4.240483810667313
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 2118.199951171875,
+      "alert_pct_move": 1.4269321117416869,
+      "alert_relative_volume": 3.015527950310559
+    }
+  ]
+}
