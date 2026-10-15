@@ -1,0 +1,42 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-15T09:25:47.166248+05:30",
+  "stocks": [
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 40.93000030517578,
+      "alert_pct_move": 3.2803411607941544,
+      "alert_relative_volume": 47.759476219343455
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 483.79998779296875,
+      "alert_pct_move": 2.5217194427628558,
+      "alert_relative_volume": 10.436351595225696
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 872.2000122070312,
+      "alert_pct_move": -1.1671374269652974,
+      "alert_relative_volume": 4.073034268240631
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 526.4500122070312,
+      "alert_pct_move": -4.212147817915329,
+      "alert_relative_volume": 3.918586269883947
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 313.1499938964844,
+      "alert_pct_move": -3.0945381986308593,
+      "alert_relative_volume": 3.446465487278557
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 245.5500030517578,
+      "alert_pct_move": -1.779998779296875,
+      "alert_relative_volume": 3.2841525418912774
+    }
+  ]
+}
