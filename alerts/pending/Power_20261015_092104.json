@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-15T09:21:04.854828+05:30",
+  "stocks": [
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 15.1899995803833,
+      "alert_pct_move": -1.5554162024998506,
+      "alert_relative_volume": 5.057845414098255
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 19.489999771118164,
+      "alert_pct_move": -1.714574654039371,
+      "alert_relative_volume": 4.9876417231627
+    }
+  ]
+}
