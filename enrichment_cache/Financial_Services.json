@@ -1,26 +1,38 @@
 {
-  "POONAWALLA.NS": {
-    "date": "2026-10-12"
-  },
-  "IFCI.NS": {
-    "date": "2026-10-12"
-  },
-  "CANFINHOME.NS": {
-    "date": "2026-10-12"
-  },
-  "NIACL.NS": {
-    "date": "2026-10-12"
-  },
-  "MCX.NS": {
-    "date": "2026-10-12"
-  },
-  "MANAPPURAM.NS": {
-    "date": "2026-10-12"
+  "KARURVYSYA.NS": {
+    "date": "2026-10-16"
   },
   "ANGELONE.NS": {
-    "date": "2026-10-12"
+    "date": "2026-10-16"
   },
-  "AIIL.NS": {
-    "date": "2026-10-12"
+  "YESBANK.NS": {
+    "date": "2026-10-16"
+  },
+  "LTF.NS": {
+    "date": "2026-10-16"
+  },
+  "360ONE.NS": {
+    "date": "2026-10-16"
+  },
+  "SAMMAANCAP.NS": {
+    "date": "2026-10-16"
+  },
+  "CANBK.NS": {
+    "date": "2026-10-16"
+  },
+  "JIOFIN.NS": {
+    "date": "2026-10-16"
+  },
+  "IDBI.NS": {
+    "date": "2026-10-16"
+  },
+  "INDIANB.NS": {
+    "date": "2026-10-16"
+  },
+  "IRFC.NS": {
+    "date": "2026-10-16"
+  },
+  "ICICIPRULI.NS": {
+    "date": "2026-10-16"
   }
 }

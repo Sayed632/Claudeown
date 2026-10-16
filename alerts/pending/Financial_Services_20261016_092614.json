@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-16T09:26:14.755032+05:30",
+  "stocks": [
+    {
+      "ticker": "KARURVYSYA.NS",
+      "alert_price": 350.79998779296875,
+      "alert_pct_move": 1.4899447381522883,
+      "alert_relative_volume": 40.90925340277973
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 309.45001220703125,
+      "alert_pct_move": -1.134181403504393,
+      "alert_relative_volume": 19.538522145580295
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 17.780000686645508,
+      "alert_pct_move": -1.8763804461406137,
+      "alert_relative_volume": 16.0747144185736
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 248.0,
+      "alert_pct_move": -5.343511450381679,
+      "alert_relative_volume": 15.716276244799872
+    },
+    {
+      "ticker": "360ONE.NS",
+      "alert_price": 1087.0,
+      "alert_pct_move": 1.30475302889096,
+      "alert_relative_volume": 13.385720177996305
+    },
+    {
+      "ticker": "SAMMAANCAP.NS",
+      "alert_price": 134.27000427246094,
+      "alert_pct_move": -1.9783848296129682,
+      "alert_relative_volume": 9.674839504723739
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 119.05000305175781,
+      "alert_pct_move": 1.6478827355834442,
+      "alert_relative_volume": 8.34170844782556
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 214.9600067138672,
+      "alert_pct_move": -1.8492251013879362,
+      "alert_relative_volume": 5.7489835633471325
+    },
+    {
+      "ticker": "IDBI.NS",
+      "alert_price": 82.19000244140625,
+      "alert_pct_move": -1.509879632011752,
+      "alert_relative_volume": 4.87525170154417
+    },
+    {
+      "ticker": "INDIANB.NS",
+      "alert_price": 851.7000122070312,
+      "alert_pct_move": 2.00000146191991,
+      "alert_relative_volume": 4.392344237115277
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 77.69999694824219,
+      "alert_pct_move": -1.520918319935801,
+      "alert_relative_volume": 3.455462157851679
+    },
+    {
+      "ticker": "ICICIPRULI.NS",
+      "alert_price": 440.29998779296875,
+      "alert_pct_move": -1.937641916933463,
+      "alert_relative_volume": 3.052083842327487
+    }
+  ]
+}
