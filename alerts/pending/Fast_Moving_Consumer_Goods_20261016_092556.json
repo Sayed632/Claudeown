@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-16T09:25:56.700491+05:30",
+  "stocks": [
+    {
+      "ticker": "CCL.NS",
+      "alert_price": 1007.9000244140625,
+      "alert_pct_move": -7.140224641310216,
+      "alert_relative_volume": 21.887122320871228
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "alert_price": 1257.4000244140625,
+      "alert_pct_move": -1.4422341832455392,
+      "alert_relative_volume": 4.409405107198427
+    },
+    {
+      "ticker": "GODREJCP.NS",
+      "alert_price": 845.0499877929688,
+      "alert_pct_move": -3.0127396267377557,
+      "alert_relative_volume": 3.3020851581912822
+    }
+  ]
+}
