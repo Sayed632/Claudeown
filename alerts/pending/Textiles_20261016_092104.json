@@ -1,0 +1,12 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-10-16T09:21:04.333538+05:30",
+  "stocks": [
+    {
+      "ticker": "WELSPUNLIV.NS",
+      "alert_price": 226.3000030517578,
+      "alert_pct_move": 4.381918757506666,
+      "alert_relative_volume": 6.709037036393196
+    }
+  ]
+}
