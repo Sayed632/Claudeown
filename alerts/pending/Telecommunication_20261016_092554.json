@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-16T09:25:54.049720+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACOMM.NS",
+      "alert_price": 1723.199951171875,
+      "alert_pct_move": -2.2963089596441915,
+      "alert_relative_volume": 9.098240356995705
+    },
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 248.5,
+      "alert_pct_move": 1.9194457120813908,
+      "alert_relative_volume": 4.407067483423675
+    }
+  ]
+}
