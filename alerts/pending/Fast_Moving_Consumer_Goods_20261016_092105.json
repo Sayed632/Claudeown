@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-16T09:21:05.284182+05:30",
+  "stocks": [
+    {
+      "ticker": "CCL.NS",
+      "alert_price": 1027.0999755859375,
+      "alert_pct_move": -5.371296067511832,
+      "alert_relative_volume": 18.683224282551013
+    },
+    {
+      "ticker": "BRITANNIA.NS",
+      "alert_price": 4795.0,
+      "alert_pct_move": -1.134020618556701,
+      "alert_relative_volume": 3.841680924901568
+    }
+  ]
+}
