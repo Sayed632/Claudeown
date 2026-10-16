@@ -1,35 +1,11 @@
 {
-  "ELECON.NS": {
-    "date": "2026-10-15"
-  },
-  "BHEL.NS": {
-    "date": "2026-10-15"
-  },
-  "FINPIPE.NS": {
-    "date": "2026-10-15"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-10-15"
-  },
-  "TARIL.NS": {
-    "date": "2026-10-15"
-  },
-  "CGPOWER.NS": {
-    "date": "2026-10-15"
-  },
   "ENRIN.NS": {
-    "date": "2026-10-15"
+    "date": "2026-10-16"
   },
-  "GVT&D.NS": {
-    "date": "2026-10-15"
+  "WELCORP.NS": {
+    "date": "2026-10-16"
   },
-  "ABB.NS": {
-    "date": "2026-10-15"
-  },
-  "SUPREMEIND.NS": {
-    "date": "2026-10-15"
-  },
-  "DATAPATTNS.NS": {
-    "date": "2026-10-15"
+  "AIAENG.NS": {
+    "date": "2026-10-16"
   }
 }
