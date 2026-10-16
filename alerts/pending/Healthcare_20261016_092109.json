@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-16T09:21:09.932686+05:30",
+  "stocks": [
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1362.5,
+      "alert_pct_move": -2.8312617710973496,
+      "alert_relative_volume": 10.3790811627601
+    }
+  ]
+}
