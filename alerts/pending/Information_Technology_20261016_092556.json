@@ -1,0 +1,42 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-16T09:25:56.948210+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1710.0,
+      "alert_pct_move": 3.6363636363636362,
+      "alert_relative_volume": 31.32627825815203
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5553.0,
+      "alert_pct_move": -4.914383561643835,
+      "alert_relative_volume": 16.79755401668158
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 179.3699951171875,
+      "alert_pct_move": 3.0565883206837197,
+      "alert_relative_volume": 9.232589933925489
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2420.5,
+      "alert_pct_move": 3.0,
+      "alert_relative_volume": 8.61145437472897
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1143.550048828125,
+      "alert_pct_move": 3.0225269214527026,
+      "alert_relative_volume": 5.28406353950229
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 499.45001220703125,
+      "alert_pct_move": 2.0118476267814933,
+      "alert_relative_volume": 4.926874029961957
+    }
+  ]
+}
