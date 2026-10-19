@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-10-19T09:20:58.360820+05:30",
+  "stocks": [
+    {
+      "ticker": "ACC.NS",
+      "alert_price": 1201.5999755859375,
+      "alert_pct_move": 1.2129401117181953,
+      "alert_relative_volume": 3.4916724990857095
+    }
+  ]
+}
