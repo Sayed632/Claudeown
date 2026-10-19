@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-10-19T09:25:50.444247+05:30",
+  "stocks": [
+    {
+      "ticker": "OBEROIRLTY.NS",
+      "alert_price": 1669.0999755859375,
+      "alert_pct_move": -1.9906062486237521,
+      "alert_relative_volume": 4.270146756734315
+    }
+  ]
+}
