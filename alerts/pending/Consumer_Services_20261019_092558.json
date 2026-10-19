@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-19T09:25:58.436001+05:30",
+  "stocks": [
+    {
+      "ticker": "ITCHOTELS.NS",
+      "alert_price": 160.44000244140625,
+      "alert_pct_move": -1.2555350441747026,
+      "alert_relative_volume": 3.6509348980343193
+    }
+  ]
+}
