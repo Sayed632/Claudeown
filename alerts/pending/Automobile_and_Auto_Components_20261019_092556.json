@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-19T09:25:56.816341+05:30",
+  "stocks": [
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 17904.0,
+      "alert_pct_move": 1.152542372881356,
+      "alert_relative_volume": 3.8131828755171253
+    }
+  ]
+}
