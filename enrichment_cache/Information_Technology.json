@@ -1,23 +1,17 @@
 {
-  "TECHM.NS": {
-    "date": "2026-10-16"
-  },
   "PERSISTENT.NS": {
-    "date": "2026-10-16"
-  },
-  "WIPRO.NS": {
-    "date": "2026-10-16"
-  },
-  "TCS.NS": {
-    "date": "2026-10-16"
-  },
-  "NEWGEN.NS": {
-    "date": "2026-10-16"
-  },
-  "INFY.NS": {
-    "date": "2026-10-16"
+    "date": "2026-10-19"
   },
   "SONATSOFTW.NS": {
-    "date": "2026-10-16"
+    "date": "2026-10-19"
+  },
+  "KPITTECH.NS": {
+    "date": "2026-10-19"
+  },
+  "NETWEB.NS": {
+    "date": "2026-10-19"
+  },
+  "NEWGEN.NS": {
+    "date": "2026-10-19"
   }
 }

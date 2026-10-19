@@ -1,0 +1,36 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-19T09:21:06.980287+05:30",
+  "stocks": [
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5892.0,
+      "alert_pct_move": 2.6302037972478662,
+      "alert_relative_volume": 8.449774587085017
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 243.0,
+      "alert_pct_move": -2.0161290322580645,
+      "alert_relative_volume": 5.731551709370175
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 544.0499877929688,
+      "alert_pct_move": -1.9729751724380633,
+      "alert_relative_volume": 3.485480116070805
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4641.2998046875,
+      "alert_pct_move": -1.9105265949553596,
+      "alert_relative_volume": 3.467035494841486
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 484.20001220703125,
+      "alert_pct_move": -1.9639566327846782,
+      "alert_relative_volume": 3.027316019348953
+    }
+  ]
+}
