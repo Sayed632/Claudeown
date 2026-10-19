@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-19T09:26:00.221677+05:30",
+  "stocks": [
+    {
+      "ticker": "CCL.NS",
+      "alert_price": 983.0,
+      "alert_pct_move": -2.5091726767097335,
+      "alert_relative_volume": 4.835260972322976
+    },
+    {
+      "ticker": "BALRAMCHIN.NS",
+      "alert_price": 703.0,
+      "alert_pct_move": -2.516816723234458,
+      "alert_relative_volume": 3.937294913274283
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 244.25999450683594,
+      "alert_pct_move": -2.432598940765181,
+      "alert_relative_volume": 3.4718756916669395
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 406.5,
+      "alert_pct_move": -2.6696980867783586,
+      "alert_relative_volume": 3.0537520887899645
+    }
+  ]
+}
