@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-19T09:25:57.654535+05:30",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 636.6500244140625,
+      "alert_pct_move": -3.6400767895600787,
+      "alert_relative_volume": 17.385352867046763
+    },
+    {
+      "ticker": "SRF.NS",
+      "alert_price": 2435.199951171875,
+      "alert_pct_move": -1.4926639305325586,
+      "alert_relative_volume": 3.409631408111438
+    }
+  ]
+}
