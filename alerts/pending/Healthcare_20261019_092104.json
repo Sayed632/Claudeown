@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-19T09:21:04.906440+05:30",
+  "stocks": [
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2081.800048828125,
+      "alert_pct_move": 1.0533445047919157,
+      "alert_relative_volume": 3.4785303013745716
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 201.16000366210938,
+      "alert_pct_move": 1.7346927672504848,
+      "alert_relative_volume": 3.102974113331655
+    }
+  ]
+}
