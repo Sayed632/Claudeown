@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-19T09:25:58.974711+05:30",
+  "stocks": [
+    {
+      "ticker": "KIMS.NS",
+      "alert_price": 675.5499877929688,
+      "alert_pct_move": -1.4658675832623365,
+      "alert_relative_volume": 4.585334036348651
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 199.77999877929688,
+      "alert_pct_move": 1.0367688747551498,
+      "alert_relative_volume": 3.118993993661758
+    }
+  ]
+}
