@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-19T09:26:00.982874+05:30",
+  "stocks": [
+    {
+      "ticker": "JINDALSAW.NS",
+      "alert_price": 290.25,
+      "alert_pct_move": -3.7473016913954695,
+      "alert_relative_volume": 16.379064905866358
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 808.6500244140625,
+      "alert_pct_move": -2.940646856156591,
+      "alert_relative_volume": 6.380232637894786
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2347.89990234375,
+      "alert_pct_move": -1.6792335701947234,
+      "alert_relative_volume": 4.321863307057692
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1310.0,
+      "alert_pct_move": -4.218758004812124,
+      "alert_relative_volume": 3.7794391004331054
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 2021.5,
+      "alert_pct_move": 1.7004603138515817,
+      "alert_relative_volume": 3.4529437468489896
+    }
+  ]
+}

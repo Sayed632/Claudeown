@@ -1,11 +1,17 @@
 {
-  "ENRIN.NS": {
-    "date": "2026-10-16"
+  "JINDALSAW.NS": {
+    "date": "2026-10-19"
   },
-  "WELCORP.NS": {
-    "date": "2026-10-16"
+  "HBLENGINE.NS": {
+    "date": "2026-10-19"
   },
-  "AIAENG.NS": {
-    "date": "2026-10-16"
+  "RRKABEL.NS": {
+    "date": "2026-10-19"
+  },
+  "FINCABLES.NS": {
+    "date": "2026-10-19"
+  },
+  "INOXINDIA.NS": {
+    "date": "2026-10-19"
   }
 }
