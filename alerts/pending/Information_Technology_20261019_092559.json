@@ -1,0 +1,30 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-19T09:25:59.781310+05:30",
+  "stocks": [
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5834.5,
+      "alert_pct_move": 1.6286361261104338,
+      "alert_relative_volume": 9.124203511299726
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 3620.60009765625,
+      "alert_pct_move": -2.5305550403476778,
+      "alert_relative_volume": 5.873164151365547
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 240.85000610351562,
+      "alert_pct_move": -2.8830620550340225,
+      "alert_relative_volume": 4.644096904363644
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 332.1499938964844,
+      "alert_pct_move": -1.1164037118606356,
+      "alert_relative_volume": 3.1949197489520054
+    }
+  ]
+}
