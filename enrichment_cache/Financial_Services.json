@@ -1,38 +1,17 @@
 {
+  "CGCL.NS": {
+    "date": "2026-10-20"
+  },
+  "PNB.NS": {
+    "date": "2026-10-20"
+  },
+  "FEDERALBNK.NS": {
+    "date": "2026-10-20"
+  },
+  "UNIONBANK.NS": {
+    "date": "2026-10-20"
+  },
   "KARURVYSYA.NS": {
-    "date": "2026-10-16"
-  },
-  "ANGELONE.NS": {
-    "date": "2026-10-16"
-  },
-  "YESBANK.NS": {
-    "date": "2026-10-16"
-  },
-  "LTF.NS": {
-    "date": "2026-10-16"
-  },
-  "360ONE.NS": {
-    "date": "2026-10-16"
-  },
-  "SAMMAANCAP.NS": {
-    "date": "2026-10-16"
-  },
-  "CANBK.NS": {
-    "date": "2026-10-16"
-  },
-  "JIOFIN.NS": {
-    "date": "2026-10-16"
-  },
-  "IDBI.NS": {
-    "date": "2026-10-16"
-  },
-  "INDIANB.NS": {
-    "date": "2026-10-16"
-  },
-  "IRFC.NS": {
-    "date": "2026-10-16"
-  },
-  "ICICIPRULI.NS": {
-    "date": "2026-10-16"
+    "date": "2026-10-20"
   }
 }
