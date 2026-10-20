@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-20T09:21:27.603514+05:30",
+  "stocks": [
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 243.0,
+      "alert_pct_move": -1.8419767343528375,
+      "alert_relative_volume": 11.154403948629373
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 121.9000015258789,
+      "alert_pct_move": 4.815131837639666,
+      "alert_relative_volume": 4.940029000315467
+    },
+    {
+      "ticker": "FEDERALBNK.NS",
+      "alert_price": 348.8500061035156,
+      "alert_pct_move": 3.2100609773714863,
+      "alert_relative_volume": 3.8036980846534947
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 180.6999969482422,
+      "alert_pct_move": 5.253963570172834,
+      "alert_relative_volume": 3.7838245914449606
+    },
+    {
+      "ticker": "KARURVYSYA.NS",
+      "alert_price": 371.0,
+      "alert_pct_move": 4.316042841823696,
+      "alert_relative_volume": 3.5007240321234683
+    }
+  ]
+}
