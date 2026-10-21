@@ -1,0 +1,18 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-10-21T09:25:52.466985+05:30",
+  "stocks": [
+    {
+      "ticker": "SOBHA.NS",
+      "alert_price": 1129.300048828125,
+      "alert_pct_move": -3.971084283322704,
+      "alert_relative_volume": 12.31000822247756
+    },
+    {
+      "ticker": "ANANTRAJ.NS",
+      "alert_price": 509.95001220703125,
+      "alert_pct_move": 2.4922168060070713,
+      "alert_relative_volume": 4.3461670676219715
+    }
+  ]
+}
