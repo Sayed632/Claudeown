@@ -1,0 +1,36 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-21T09:25:46.392604+05:30",
+  "stocks": [
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 72.23999786376953,
+      "alert_pct_move": 2.1782192107515117,
+      "alert_relative_volume": 8.269803728081794
+    },
+    {
+      "ticker": "NTPCGREEN.NS",
+      "alert_price": 85.88999938964844,
+      "alert_pct_move": -2.0415156356034814,
+      "alert_relative_volume": 7.951292824635667
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 14.350000381469727,
+      "alert_pct_move": -3.7558650011628303,
+      "alert_relative_volume": 6.948022214941677
+    },
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 50.43000030517578,
+      "alert_pct_move": -1.330464286940465,
+      "alert_relative_volume": 6.453831127287265
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "alert_price": 253.0500030517578,
+      "alert_pct_move": 1.0784888685506095,
+      "alert_relative_volume": 3.9735950087287724
+    }
+  ]
+}
