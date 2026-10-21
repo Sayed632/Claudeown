@@ -1,0 +1,18 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-10-21T09:25:45.375605+05:30",
+  "stocks": [
+    {
+      "ticker": "INDIACEM.NS",
+      "alert_price": 302.3500061035156,
+      "alert_pct_move": 2.7178528398557593,
+      "alert_relative_volume": 17.015293904546446
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "alert_price": 10908.0,
+      "alert_pct_move": 2.422535211267606,
+      "alert_relative_volume": 3.7599560960843847
+    }
+  ]
+}
