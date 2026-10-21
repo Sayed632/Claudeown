@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-21T09:21:03.910314+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 551.4500122070312,
+      "alert_pct_move": 2.4238460626317715,
+      "alert_relative_volume": 31.656150384693508
+    }
+  ]
+}
