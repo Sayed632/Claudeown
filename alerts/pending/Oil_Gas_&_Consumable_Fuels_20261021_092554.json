@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-21T09:25:54.529023+05:30",
+  "stocks": [
+    {
+      "ticker": "RELIANCE.NS",
+      "alert_price": 1224.199951171875,
+      "alert_pct_move": 1.846917734764975,
+      "alert_relative_volume": 4.544784547341615
+    }
+  ]
+}
