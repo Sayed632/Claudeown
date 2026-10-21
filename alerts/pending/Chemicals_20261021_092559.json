@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-21T09:25:59.461849+05:30",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 586.5,
+      "alert_pct_move": -3.193855965286373,
+      "alert_relative_volume": 10.321589250312782
+    },
+    {
+      "ticker": "PIIND.NS",
+      "alert_price": 2114.800048828125,
+      "alert_pct_move": -2.2509799478564827,
+      "alert_relative_volume": 7.390057526794081
+    }
+  ]
+}
