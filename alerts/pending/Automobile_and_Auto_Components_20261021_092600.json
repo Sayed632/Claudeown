@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-21T09:26:00.112784+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 674.2999877929688,
+      "alert_pct_move": -1.5620455776687956,
+      "alert_relative_volume": 3.435049062990081
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5284.0,
+      "alert_pct_move": 1.0325047801147227,
+      "alert_relative_volume": 3.136220622215159
+    }
+  ]
+}
