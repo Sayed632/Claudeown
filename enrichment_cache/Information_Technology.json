@@ -1,23 +1,26 @@
 {
-  "PERSISTENT.NS": {
-    "date": "2026-10-19"
+  "LTTS.NS": {
+    "date": "2026-10-21"
+  },
+  "MPHASIS.NS": {
+    "date": "2026-10-21"
+  },
+  "BSOFT.NS": {
+    "date": "2026-10-21"
   },
   "SONATSOFTW.NS": {
-    "date": "2026-10-19"
+    "date": "2026-10-21"
+  },
+  "WIPRO.NS": {
+    "date": "2026-10-21"
   },
   "KPITTECH.NS": {
-    "date": "2026-10-19"
-  },
-  "NETWEB.NS": {
-    "date": "2026-10-19"
+    "date": "2026-10-21"
   },
   "NEWGEN.NS": {
-    "date": "2026-10-19"
+    "date": "2026-10-21"
   },
-  "LTTS.NS": {
-    "date": "2026-10-19"
-  },
-  "HAPPSTMNDS.NS": {
-    "date": "2026-10-19"
+  "IKS.NS": {
+    "date": "2026-10-21"
   }
 }

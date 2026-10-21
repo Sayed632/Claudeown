@@ -1,0 +1,54 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-21T09:21:05.322725+05:30",
+  "stocks": [
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 3972.300048828125,
+      "alert_pct_move": 9.996400053137243,
+      "alert_relative_volume": 199.97920438609646
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2525.300048828125,
+      "alert_pct_move": 1.012001953125,
+      "alert_relative_volume": 6.417610611734213
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 322.8500061035156,
+      "alert_pct_move": 3.278950671743037,
+      "alert_relative_volume": 5.099082293022198
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 246.0,
+      "alert_pct_move": 2.6282866633152926,
+      "alert_relative_volume": 4.650649126082824
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 189.0,
+      "alert_pct_move": 3.7663339372677282,
+      "alert_relative_volume": 4.447228797076344
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 546.3499755859375,
+      "alert_pct_move": 1.7506216901401088,
+      "alert_relative_volume": 4.426021910250137
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 489.3500061035156,
+      "alert_pct_move": 2.139428067088222,
+      "alert_relative_volume": 3.3894790085297952
+    },
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1659.699951171875,
+      "alert_pct_move": -1.5482321094007172,
+      "alert_relative_volume": 3.388224967929242
+    }
+  ]
+}
