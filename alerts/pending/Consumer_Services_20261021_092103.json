@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-21T09:21:03.839447+05:30",
+  "stocks": [
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 43.75,
+      "alert_pct_move": 1.3904946764862778,
+      "alert_relative_volume": 4.207609686282467
+    }
+  ]
+}
