@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-21T09:25:52.261926+05:30",
+  "stocks": [
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 278.0,
+      "alert_pct_move": 3.418772562357195,
+      "alert_relative_volume": 7.811274661966623
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "alert_price": 1903.300048828125,
+      "alert_pct_move": 1.4985120727359933,
+      "alert_relative_volume": 6.219857650166209
+    }
+  ]
+}
