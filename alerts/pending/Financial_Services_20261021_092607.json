@@ -1,0 +1,72 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-21T09:26:07.032073+05:30",
+  "stocks": [
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 935.8499755859375,
+      "alert_pct_move": -2.245782686403801,
+      "alert_relative_volume": 9.552222905846937
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 184.6699981689453,
+      "alert_pct_move": 2.197012334117665,
+      "alert_relative_volume": 6.9813322443705985
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 16.549999237060547,
+      "alert_pct_move": -1.9549759485359346,
+      "alert_relative_volume": 6.3171021184668295
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 618.9000244140625,
+      "alert_pct_move": 1.0449019451530612,
+      "alert_relative_volume": 4.632535272946981
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 123.12999725341797,
+      "alert_pct_move": 1.0090202724713986,
+      "alert_relative_volume": 4.570212100299167
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2505.199951171875,
+      "alert_pct_move": -2.3694485123977005,
+      "alert_relative_volume": 4.305467035090585
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "alert_price": 1402.300048828125,
+      "alert_pct_move": 1.542364143962708,
+      "alert_relative_volume": 4.278775255941
+    },
+    {
+      "ticker": "KARURVYSYA.NS",
+      "alert_price": 374.95001220703125,
+      "alert_pct_move": 1.3241520269428866,
+      "alert_relative_volume": 3.9700721149305096
+    },
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1341.0999755859375,
+      "alert_pct_move": -1.5923152674412835,
+      "alert_relative_volume": 3.5916020250880334
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 138.7899932861328,
+      "alert_pct_move": 1.4695090837653757,
+      "alert_relative_volume": 3.4229258404050094
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 310.1499938964844,
+      "alert_pct_move": -2.941634878914306,
+      "alert_relative_volume": 3.246389768025408
+    }
+  ]
+}
