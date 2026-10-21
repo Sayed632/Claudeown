@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-10-21T09:20:55.578274+05:30",
+  "stocks": [
+    {
+      "ticker": "KPIL.NS",
+      "alert_price": 1372.5999755859375,
+      "alert_pct_move": 1.9232216048960828,
+      "alert_relative_volume": 3.5482163086139504
+    }
+  ]
+}
