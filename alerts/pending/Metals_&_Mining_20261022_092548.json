@@ -1,0 +1,30 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-22T09:25:48.345984+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 409.79998779296875,
+      "alert_pct_move": -2.6256429013402283,
+      "alert_relative_volume": 5.443237094026128
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 510.6000061035156,
+      "alert_pct_move": -2.742855980282738,
+      "alert_relative_volume": 5.019658353565527
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 437.04998779296875,
+      "alert_pct_move": -1.343117879691027,
+      "alert_relative_volume": 3.581945564023338
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 229.9499969482422,
+      "alert_pct_move": -2.9132400158173435,
+      "alert_relative_volume": 3.317744999159534
+    }
+  ]
+}
