@@ -1,17 +1,35 @@
 {
+  "KEI.NS": {
+    "date": "2026-10-22"
+  },
+  "MAZDOCK.NS": {
+    "date": "2026-10-22"
+  },
+  "GRSE.NS": {
+    "date": "2026-10-22"
+  },
+  "POWERINDIA.NS": {
+    "date": "2026-10-22"
+  },
+  "WAAREEENER.NS": {
+    "date": "2026-10-22"
+  },
   "JINDALSAW.NS": {
-    "date": "2026-10-19"
-  },
-  "HBLENGINE.NS": {
-    "date": "2026-10-19"
-  },
-  "RRKABEL.NS": {
-    "date": "2026-10-19"
+    "date": "2026-10-22"
   },
   "FINCABLES.NS": {
-    "date": "2026-10-19"
+    "date": "2026-10-22"
   },
-  "INOXINDIA.NS": {
-    "date": "2026-10-19"
+  "DATAPATTNS.NS": {
+    "date": "2026-10-22"
+  },
+  "COCHINSHIP.NS": {
+    "date": "2026-10-22"
+  },
+  "TITAGARH.NS": {
+    "date": "2026-10-22"
+  },
+  "WELCORP.NS": {
+    "date": "2026-10-22"
   }
 }
