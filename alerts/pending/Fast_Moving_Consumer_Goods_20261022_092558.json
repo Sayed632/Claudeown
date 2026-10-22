@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-22T09:25:58.362016+05:30",
+  "stocks": [
+    {
+      "ticker": "BBTC.NS",
+      "alert_price": 1161.699951171875,
+      "alert_pct_move": -5.744425868407708,
+      "alert_relative_volume": 4.182690638238767
+    }
+  ]
+}
