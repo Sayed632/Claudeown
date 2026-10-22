@@ -1,0 +1,36 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-22T09:25:56.852702+05:30",
+  "stocks": [
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 523.7000122070312,
+      "alert_pct_move": -2.8836324140878533,
+      "alert_relative_volume": 9.08168320062877
+    },
+    {
+      "ticker": "SRF.NS",
+      "alert_price": 2231.60009765625,
+      "alert_pct_move": -3.1843775420281997,
+      "alert_relative_volume": 7.900498584972145
+    },
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 3189.89990234375,
+      "alert_pct_move": -3.689507916713412,
+      "alert_relative_volume": 5.567012386812478
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 97.08999633789062,
+      "alert_pct_move": -1.929296628393308,
+      "alert_relative_volume": 3.8525131713046705
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3428.39990234375,
+      "alert_pct_move": -3.3763612670294485,
+      "alert_relative_volume": 3.7927809216795887
+    }
+  ]
+}
