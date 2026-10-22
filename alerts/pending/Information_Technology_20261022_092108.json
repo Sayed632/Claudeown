@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-22T09:21:08.860291+05:30",
+  "stocks": [
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1615.800048828125,
+      "alert_pct_move": -4.152331117125079,
+      "alert_relative_volume": 8.313674091501746
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 191.1999969482422,
+      "alert_pct_move": 1.0731082089898363,
+      "alert_relative_volume": 6.5162424034414235
+    }
+  ]
+}
