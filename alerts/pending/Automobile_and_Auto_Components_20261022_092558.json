@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-22T09:25:58.733927+05:30",
+  "stocks": [
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 16631.0,
+      "alert_pct_move": -1.504293751850755,
+      "alert_relative_volume": 3.8423789533340966
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 320.6000061035156,
+      "alert_pct_move": -2.1218079525150007,
+      "alert_relative_volume": 3.079992551380814
+    }
+  ]
+}
