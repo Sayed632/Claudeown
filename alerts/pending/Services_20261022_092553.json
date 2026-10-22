@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-22T09:25:53.123180+05:30",
+  "stocks": [
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 353.20001220703125,
+      "alert_pct_move": 9.996887416180018,
+      "alert_relative_volume": 254.7983909410635
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 369.0,
+      "alert_pct_move": 2.0605759807955755,
+      "alert_relative_volume": 5.0633200533180425
+    }
+  ]
+}
