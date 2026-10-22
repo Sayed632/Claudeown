@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-10-22T09:25:56.387726+05:30",
+  "stocks": [
+    {
+      "ticker": "IDEA.NS",
+      "alert_price": 11.270000457763672,
+      "alert_pct_move": -3.1786930811503904,
+      "alert_relative_volume": 5.414085978406003
+    }
+  ]
+}
