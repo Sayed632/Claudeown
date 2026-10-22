@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-22T09:21:10.256405+05:30",
+  "stocks": [
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 4726.0,
+      "alert_pct_move": -1.1193639502039963,
+      "alert_relative_volume": 5.220458553791887
+    },
+    {
+      "ticker": "VOLTAS.NS",
+      "alert_price": 977.5999755859375,
+      "alert_pct_move": -2.0833381730265943,
+      "alert_relative_volume": 4.614426032711324
+    },
+    {
+      "ticker": "DIXON.NS",
+      "alert_price": 11502.0,
+      "alert_pct_move": -1.5997946787578063,
+      "alert_relative_volume": 3.2508579038731567
+    }
+  ]
+}
