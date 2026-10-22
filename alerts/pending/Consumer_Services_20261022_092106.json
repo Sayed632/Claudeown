@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-22T09:21:06.381907+05:30",
+  "stocks": [
+    {
+      "ticker": "INDHOTEL.NS",
+      "alert_price": 771.5999755859375,
+      "alert_pct_move": 2.4701162796729745,
+      "alert_relative_volume": 19.647176330355524
+    },
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 214.39999389648438,
+      "alert_pct_move": -4.135926784009362,
+      "alert_relative_volume": 6.355241871078861
+    },
+    {
+      "ticker": "VENTIVE.NS",
+      "alert_price": 545.7999877929688,
+      "alert_pct_move": -2.2652026390094915,
+      "alert_relative_volume": 5.723054026788656
+    }
+  ]
+}
