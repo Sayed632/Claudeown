@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-22T09:25:53.295786+05:30",
+  "stocks": [
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1620.0999755859375,
+      "alert_pct_move": -3.89726369315617,
+      "alert_relative_volume": 5.420049041258625
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 5786.0,
+      "alert_pct_move": -1.237518136041649,
+      "alert_relative_volume": 3.6380929724789075
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 500.45001220703125,
+      "alert_pct_move": -1.7473238028538716,
+      "alert_relative_volume": 3.007303006755782
+    }
+  ]
+}
