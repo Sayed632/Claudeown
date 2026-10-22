@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-22T09:25:56.285296+05:30",
+  "stocks": [
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 13.680000305175781,
+      "alert_pct_move": -1.8651311551931227,
+      "alert_relative_volume": 3.8711677817458074
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 17.079999923706055,
+      "alert_pct_move": -1.1001767748778666,
+      "alert_relative_volume": 3.5943761312718476
+    },
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 48.5,
+      "alert_pct_move": -1.181747777946698,
+      "alert_relative_volume": 3.0165283341723423
+    }
+  ]
+}
