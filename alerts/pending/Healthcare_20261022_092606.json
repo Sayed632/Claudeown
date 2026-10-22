@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-22T09:26:06.960500+05:30",
+  "stocks": [
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 512.4000244140625,
+      "alert_pct_move": -1.2906860888044516,
+      "alert_relative_volume": 4.7398139886327995
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "alert_price": 1218.699951171875,
+      "alert_pct_move": -1.9154968875754526,
+      "alert_relative_volume": 4.006363887886803
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 684.6500244140625,
+      "alert_pct_move": -1.3543640291382306,
+      "alert_relative_volume": 3.699601069615948
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 1963.5999755859375,
+      "alert_pct_move": -2.4298148777173916,
+      "alert_relative_volume": 3.626180745656855
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 18655.0,
+      "alert_pct_move": -2.9396462018730487,
+      "alert_relative_volume": 3.1982004388624117
+    }
+  ]
+}
