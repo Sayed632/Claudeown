@@ -1,17 +1,11 @@
 {
   "SJVN.NS": {
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
-  "NHPC.NS": {
-    "date": "2026-10-21"
+  "RPOWER.NS": {
+    "date": "2026-10-22"
   },
   "JPPOWER.NS": {
-    "date": "2026-10-21"
-  },
-  "NTPCGREEN.NS": {
-    "date": "2026-10-21"
-  },
-  "POWERGRID.NS": {
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   }
 }
