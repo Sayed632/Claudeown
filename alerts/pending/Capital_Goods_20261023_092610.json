@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-23T09:26:10.541570+05:30",
+  "stocks": [
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 25965.0,
+      "alert_pct_move": -3.957832439430368,
+      "alert_relative_volume": 7.780412277633096
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1095.5999755859375,
+      "alert_pct_move": -3.886310016608373,
+      "alert_relative_volume": 5.825547349460631
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3835.10009765625,
+      "alert_pct_move": -1.7044289095632215,
+      "alert_relative_volume": 4.122963470439778
+    },
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 1041.5999755859375,
+      "alert_pct_move": -1.035631773307601,
+      "alert_relative_volume": 4.063726845643647
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 3809.89990234375,
+      "alert_pct_move": -1.629230510101988,
+      "alert_relative_volume": 4.003822595535125
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 1922.0,
+      "alert_pct_move": -1.7281955202106316,
+      "alert_relative_volume": 3.894068591882412
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 3578.39990234375,
+      "alert_pct_move": -4.320858226102941,
+      "alert_relative_volume": 3.6836033702426993
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3296.300048828125,
+      "alert_pct_move": -2.5109400085707714,
+      "alert_relative_volume": 3.531596531539405
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 179.64999389648438,
+      "alert_pct_move": -1.5832143617526828,
+      "alert_relative_volume": 3.5281096476072857
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6283.0,
+      "alert_pct_move": -2.807641735633073,
+      "alert_relative_volume": 3.4861926356984783
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1019.2000122070312,
+      "alert_pct_move": -3.2466310437057833,
+      "alert_relative_volume": 3.324481182326902
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 443.6499938964844,
+      "alert_pct_move": -3.5333768679409023,
+      "alert_relative_volume": 3.0924882482335816
+    }
+  ]
+}
