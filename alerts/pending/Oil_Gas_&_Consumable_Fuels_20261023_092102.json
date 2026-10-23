@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-23T09:21:02.800238+05:30",
+  "stocks": [
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 540.2999877929688,
+      "alert_pct_move": -2.270053060899145,
+      "alert_relative_volume": 8.68765177682942
+    },
+    {
+      "ticker": "HINDPETRO.NS",
+      "alert_price": 336.6000061035156,
+      "alert_pct_move": -1.232389037526772,
+      "alert_relative_volume": 3.4927924330145843
+    }
+  ]
+}
