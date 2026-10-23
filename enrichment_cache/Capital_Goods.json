@@ -1,35 +1,38 @@
 {
-  "KEI.NS": {
-    "date": "2026-10-22"
-  },
-  "MAZDOCK.NS": {
-    "date": "2026-10-22"
-  },
-  "GRSE.NS": {
-    "date": "2026-10-22"
-  },
   "POWERINDIA.NS": {
-    "date": "2026-10-22"
-  },
-  "WAAREEENER.NS": {
-    "date": "2026-10-22"
-  },
-  "JINDALSAW.NS": {
-    "date": "2026-10-22"
-  },
-  "FINCABLES.NS": {
-    "date": "2026-10-22"
-  },
-  "DATAPATTNS.NS": {
-    "date": "2026-10-22"
-  },
-  "COCHINSHIP.NS": {
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "TITAGARH.NS": {
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "WELCORP.NS": {
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "FINCABLES.NS": {
+    "date": "2026-10-23"
+  },
+  "KEI.NS": {
+    "date": "2026-10-23"
+  },
+  "TRITURBINE.NS": {
+    "date": "2026-10-23"
+  },
+  "GRSE.NS": {
+    "date": "2026-10-23"
+  },
+  "JWL.NS": {
+    "date": "2026-10-23"
+  },
+  "SYRMA.NS": {
+    "date": "2026-10-23"
+  },
+  "SIEMENS.NS": {
+    "date": "2026-10-23"
+  },
+  "GVT&D.NS": {
+    "date": "2026-10-23"
+  },
+  "ABB.NS": {
+    "date": "2026-10-23"
   }
 }

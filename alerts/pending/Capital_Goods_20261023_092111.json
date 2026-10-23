@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-23T09:21:11.946515+05:30",
+  "stocks": [
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 25925.0,
+      "alert_pct_move": -4.10578879230627,
+      "alert_relative_volume": 8.10895353593686
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 686.5999755859375,
+      "alert_pct_move": -1.1090324560580713,
+      "alert_relative_volume": 6.598541679856566
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2384.0,
+      "alert_pct_move": -2.4629716215734336,
+      "alert_relative_volume": 6.243874331847315
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1095.800048828125,
+      "alert_pct_move": -3.8687581929481936,
+      "alert_relative_volume": 5.817638627573128
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 3810.10009765625,
+      "alert_pct_move": -1.6240615115866255,
+      "alert_relative_volume": 4.2552095854421355
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 440.6499938964844,
+      "alert_pct_move": -4.185692597406915,
+      "alert_relative_volume": 3.8814742191903795
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 1908.800048828125,
+      "alert_pct_move": -2.403108642325755,
+      "alert_relative_volume": 3.8140882876276656
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 178.47000122070312,
+      "alert_pct_move": -2.229644031513655,
+      "alert_relative_volume": 3.7115821861715173
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1439.5,
+      "alert_pct_move": -3.7574348469987284,
+      "alert_relative_volume": 3.706061735855557
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3280.0,
+      "alert_pct_move": -2.9930188286203117,
+      "alert_relative_volume": 3.598711777877382
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 3565.300048828125,
+      "alert_pct_move": -4.671121689087567,
+      "alert_relative_volume": 3.539393714765165
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6269.0,
+      "alert_pct_move": -3.024209142238379,
+      "alert_relative_volume": 3.4960651009327193
+    }
+  ]
+}
