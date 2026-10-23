@@ -1,0 +1,48 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-23T09:25:52.233959+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 401.04998779296875,
+      "alert_pct_move": -2.787540986613986,
+      "alert_relative_volume": 6.165090314453035
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 501.45001220703125,
+      "alert_pct_move": -3.194978338410956,
+      "alert_relative_volume": 5.536625897590364
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 67.80999755859375,
+      "alert_pct_move": -1.5534258674366064,
+      "alert_relative_volume": 4.415319279111623
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 430.6000061035156,
+      "alert_pct_move": -1.011492849766523,
+      "alert_relative_volume": 3.9275439816774167
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 227.75,
+      "alert_pct_move": -3.023208822224229,
+      "alert_relative_volume": 3.4519147194008033
+    },
+    {
+      "ticker": "JSL.NS",
+      "alert_price": 699.7999877929688,
+      "alert_pct_move": -4.626918188351789,
+      "alert_relative_volume": 3.2585915802414607
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 871.0,
+      "alert_pct_move": -2.4472169102763695,
+      "alert_relative_volume": 3.190747209032175
+    }
+  ]
+}
