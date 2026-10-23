@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-23T09:25:55.323278+05:30",
+  "stocks": [
+    {
+      "ticker": "HAVELLS.NS",
+      "alert_price": 1056.0,
+      "alert_pct_move": -1.455764832152747,
+      "alert_relative_volume": 7.223232196562241
+    }
+  ]
+}
