@@ -1,14 +1,32 @@
 {
-  "IKS.NS": {
-    "date": "2026-10-22"
+  "CYIENT.NS": {
+    "date": "2026-10-23"
+  },
+  "SAGILITY.NS": {
+    "date": "2026-10-23"
+  },
+  "TCS.NS": {
+    "date": "2026-10-23"
+  },
+  "INFY.NS": {
+    "date": "2026-10-23"
   },
   "WIPRO.NS": {
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
-  "PERSISTENT.NS": {
-    "date": "2026-10-22"
+  "COFORGE.NS": {
+    "date": "2026-10-23"
   },
-  "ZENSARTECH.NS": {
-    "date": "2026-10-22"
+  "OFSS.NS": {
+    "date": "2026-10-23"
+  },
+  "HCLTECH.NS": {
+    "date": "2026-10-23"
+  },
+  "NETWEB.NS": {
+    "date": "2026-10-23"
+  },
+  "AFFLE.NS": {
+    "date": "2026-10-23"
   }
 }

@@ -1,0 +1,66 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-23T09:21:01.821128+05:30",
+  "stocks": [
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 1220.4000244140625,
+      "alert_pct_move": 4.334451171977323,
+      "alert_relative_volume": 49.732460337963474
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 46.36000061035156,
+      "alert_pct_move": 4.390904682817928,
+      "alert_relative_volume": 40.830422871065345
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2608.89990234375,
+      "alert_pct_move": 3.159347660883748,
+      "alert_relative_volume": 7.030936475760045
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1186.699951171875,
+      "alert_pct_move": 2.8915746557322883,
+      "alert_relative_volume": 5.832306413134589
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 195.88999938964844,
+      "alert_pct_move": 2.877997805862946,
+      "alert_relative_volume": 5.590560677096907
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1976.5,
+      "alert_pct_move": 3.5467282816467978,
+      "alert_relative_volume": 5.437566186770426
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10007.0,
+      "alert_pct_move": 1.666158691455857,
+      "alert_relative_volume": 5.40279790684034
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1452.5,
+      "alert_pct_move": 2.166423991415152,
+      "alert_relative_volume": 4.59067502887769
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4411.0,
+      "alert_pct_move": -3.9604586690628016,
+      "alert_relative_volume": 4.002023799589829
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1341.0999755859375,
+      "alert_pct_move": -1.5923152674412835,
+      "alert_relative_volume": 3.3548587685052595
+    }
+  ]
+}
