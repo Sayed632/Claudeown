@@ -1,0 +1,54 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-23T09:21:00.362034+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 498.3999938964844,
+      "alert_pct_move": -3.783784962068654,
+      "alert_relative_volume": 6.537205910100181
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 398.54998779296875,
+      "alert_pct_move": -3.393528157617026,
+      "alert_relative_volume": 6.163942529023188
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 428.3999938964844,
+      "alert_pct_move": -1.517242782417385,
+      "alert_relative_volume": 4.5447457069919
+    },
+    {
+      "ticker": "JSL.NS",
+      "alert_price": 698.3499755859375,
+      "alert_pct_move": -4.824534843483816,
+      "alert_relative_volume": 4.497795006516081
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 455.70001220703125,
+      "alert_pct_move": -1.8205282345296459,
+      "alert_relative_volume": 4.4642026572049245
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 226.8000030517578,
+      "alert_pct_move": -3.427721031529199,
+      "alert_relative_volume": 3.829394355830039
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 68.05999755859375,
+      "alert_pct_move": -1.190475794892005,
+      "alert_relative_volume": 3.186127158137627
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "alert_price": 2509.10009765625,
+      "alert_pct_move": -1.6039177389705883,
+      "alert_relative_volume": 3.077177389028764
+    }
+  ]
+}

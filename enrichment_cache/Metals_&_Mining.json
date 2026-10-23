@@ -1,14 +1,26 @@
 {
-  "HINDCOPPER.NS": {
-    "date": "2026-10-22"
-  },
   "HINDZINC.NS": {
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
-  "VEDL.NS": {
-    "date": "2026-10-22"
+  "HINDCOPPER.NS": {
+    "date": "2026-10-23"
   },
   "GMDCLTD.NS": {
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "JSL.NS": {
+    "date": "2026-10-23"
+  },
+  "SARDAEN.NS": {
+    "date": "2026-10-23"
+  },
+  "VEDL.NS": {
+    "date": "2026-10-23"
+  },
+  "NMDC.NS": {
+    "date": "2026-10-23"
+  },
+  "ADANIENT.NS": {
+    "date": "2026-10-23"
   }
 }
