@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-23T09:20:58.845601+05:30",
+  "stocks": [
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 360.3999938964844,
+      "alert_pct_move": 12.239173791949195,
+      "alert_relative_volume": 92.6298312217458
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 292.8999938964844,
+      "alert_pct_move": 1.209398781553505,
+      "alert_relative_volume": 3.6124571762815507
+    },
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 245.3000030517578,
+      "alert_pct_move": -2.600755566019571,
+      "alert_relative_volume": 3.604666359447421
+    }
+  ]
+}
