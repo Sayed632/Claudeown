@@ -1,0 +1,72 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-23T09:25:52.055985+05:30",
+  "stocks": [
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 1247.9000244140625,
+      "alert_pct_move": 6.685481448797362,
+      "alert_relative_volume": 58.890772819292074
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 45.93000030517578,
+      "alert_pct_move": 3.42265359825766,
+      "alert_relative_volume": 38.22736403985882
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1973.0,
+      "alert_pct_move": 3.363367012238367,
+      "alert_relative_volume": 6.7756081420345105
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2603.300048828125,
+      "alert_pct_move": 2.937922057260775,
+      "alert_relative_volume": 5.17073997589372
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1185.5,
+      "alert_pct_move": 2.787534147883368,
+      "alert_relative_volume": 5.150534919208548
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 9958.0,
+      "alert_pct_move": 1.1683429848623388,
+      "alert_relative_volume": 4.758272140737163
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 194.83999633789062,
+      "alert_pct_move": 2.3265545877738965,
+      "alert_relative_volume": 4.69570251824339
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 516.0499877929688,
+      "alert_pct_move": 1.315398372272029,
+      "alert_relative_volume": 3.933631334902573
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4414.2998046875,
+      "alert_pct_move": -3.8886128906295268,
+      "alert_relative_volume": 3.7430744657451434
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1452.5,
+      "alert_pct_move": 2.166423991415152,
+      "alert_relative_volume": 3.3690859444626287
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 318.8500061035156,
+      "alert_pct_move": 1.5607560777074032,
+      "alert_relative_volume": 3.2054801133876234
+    }
+  ]
+}
