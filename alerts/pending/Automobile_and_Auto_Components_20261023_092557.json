@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-23T09:25:57.939534+05:30",
+  "stocks": [
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 968.4000244140625,
+      "alert_pct_move": -2.260795685797566,
+      "alert_relative_volume": 5.488070534352096
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 499.3500061035156,
+      "alert_pct_move": -2.3276271680165035,
+      "alert_relative_volume": 5.345645882122456
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3104.89990234375,
+      "alert_pct_move": -3.15950503308752,
+      "alert_relative_volume": 4.3160773989696875
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 30.65999984741211,
+      "alert_pct_move": -4.00751617170652,
+      "alert_relative_volume": 3.4287020016437175
+    },
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 598.4500122070312,
+      "alert_pct_move": -5.867084198658081,
+      "alert_relative_volume": 3.097816038148126
+    }
+  ]
+}

@@ -1,8 +1,17 @@
 {
-  "FORCEMOT.NS": {
-    "date": "2026-10-22"
+  "OLECTRA.NS": {
+    "date": "2026-10-23"
   },
-  "JKTYRE.NS": {
-    "date": "2026-10-22"
+  "JBMA.NS": {
+    "date": "2026-10-23"
+  },
+  "CEATLTD.NS": {
+    "date": "2026-10-23"
+  },
+  "OLAELEC.NS": {
+    "date": "2026-10-23"
+  },
+  "RKFORGE.NS": {
+    "date": "2026-10-23"
   }
 }
