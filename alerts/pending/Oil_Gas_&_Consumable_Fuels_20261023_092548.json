@@ -1,0 +1,24 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-23T09:25:48.247586+05:30",
+  "stocks": [
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 542.0,
+      "alert_pct_move": -1.9625533264134025,
+      "alert_relative_volume": 8.509266499007266
+    },
+    {
+      "ticker": "OIL.NS",
+      "alert_price": 451.6000061035156,
+      "alert_pct_move": -1.159988589137412,
+      "alert_relative_volume": 3.1582969580641276
+    },
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1019.2999877929688,
+      "alert_pct_move": -1.4502620445731882,
+      "alert_relative_volume": 3.1446427276670605
+    }
+  ]
+}
