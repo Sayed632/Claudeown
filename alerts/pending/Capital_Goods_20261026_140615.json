@@ -1,0 +1,12 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-26T14:06:15.370308+05:30",
+  "stocks": [
+    {
+      "ticker": "SUPREMEIND.NS",
+      "alert_price": 3280.39990234375,
+      "alert_pct_move": -3.2330412287979353,
+      "alert_relative_volume": 3.203031570862865
+    }
+  ]
+}
