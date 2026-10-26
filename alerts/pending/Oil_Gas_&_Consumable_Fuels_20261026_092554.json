@@ -1,0 +1,24 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-26T09:25:54.450780+05:30",
+  "stocks": [
+    {
+      "ticker": "CASTROLIND.NS",
+      "alert_price": 184.32000732421875,
+      "alert_pct_move": -5.302092117648526,
+      "alert_relative_volume": 25.170415673796445
+    },
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 522.6500244140625,
+      "alert_pct_move": -1.2936686658994334,
+      "alert_relative_volume": 6.268154178186774
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 285.6000061035156,
+      "alert_pct_move": 1.2945535515012656,
+      "alert_relative_volume": 4.700533104474608
+    }
+  ]
+}
