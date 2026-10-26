@@ -1,0 +1,24 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-26T09:20:56.566065+05:30",
+  "stocks": [
+    {
+      "ticker": "CASTROLIND.NS",
+      "alert_price": 187.8000030517578,
+      "alert_pct_move": -3.514178154202356,
+      "alert_relative_volume": 26.68372724889612
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 288.3999938964844,
+      "alert_pct_move": 2.287633059124328,
+      "alert_relative_volume": 5.2793550450445945
+    },
+    {
+      "ticker": "AEGISVOPAK.NS",
+      "alert_price": 239.35000610351562,
+      "alert_pct_move": -1.380301148269473,
+      "alert_relative_volume": 3.6938425674056115
+    }
+  ]
+}

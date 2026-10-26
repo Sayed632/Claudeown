@@ -1,14 +1,11 @@
 {
-  "ATGL.NS": {
-    "date": "2026-10-23"
+  "CASTROLIND.NS": {
+    "date": "2026-10-26"
   },
-  "HINDPETRO.NS": {
-    "date": "2026-10-23"
+  "BPCL.NS": {
+    "date": "2026-10-26"
   },
-  "OIL.NS": {
-    "date": "2026-10-23"
-  },
-  "MGL.NS": {
-    "date": "2026-10-23"
+  "AEGISVOPAK.NS": {
+    "date": "2026-10-26"
   }
 }
