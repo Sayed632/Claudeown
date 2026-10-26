@@ -1,0 +1,24 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-10-26T09:20:58.187152+05:30",
+  "stocks": [
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 343.1000061035156,
+      "alert_pct_move": 4.683449612056636,
+      "alert_relative_volume": 17.69261320086262
+    },
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 16.450000762939453,
+      "alert_pct_move": 1.2931095737745197,
+      "alert_relative_volume": 5.847265166652309
+    },
+    {
+      "ticker": "AFCONS.NS",
+      "alert_price": 213.60000610351562,
+      "alert_pct_move": -1.9463782159628622,
+      "alert_relative_volume": 4.51716141027389
+    }
+  ]
+}
