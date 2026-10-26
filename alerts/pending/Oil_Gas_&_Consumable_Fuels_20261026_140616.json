@@ -1,0 +1,18 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-26T14:06:16.739203+05:30",
+  "stocks": [
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 181.2100067138672,
+      "alert_pct_move": 11.685674399918144,
+      "alert_relative_volume": 8.103863928714743
+    },
+    {
+      "ticker": "CASTROLIND.NS",
+      "alert_price": 190.6999969482422,
+      "alert_pct_move": -2.02425115791271,
+      "alert_relative_volume": 3.53101213861126
+    }
+  ]
+}
