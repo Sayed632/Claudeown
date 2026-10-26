@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-26T14:06:21.116739+05:30",
+  "stocks": [
+    {
+      "ticker": "DRREDDY.NS",
+      "alert_price": 1311.0999755859375,
+      "alert_pct_move": 6.636842259937984,
+      "alert_relative_volume": 5.596019044663328
+    },
+    {
+      "ticker": "ERIS.NS",
+      "alert_price": 1108.4000244140625,
+      "alert_pct_move": 1.17754672880534,
+      "alert_relative_volume": 3.9040136226982223
+    }
+  ]
+}
