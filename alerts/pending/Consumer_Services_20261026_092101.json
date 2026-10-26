@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-26T09:21:01.176314+05:30",
+  "stocks": [
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 179.10000610351562,
+      "alert_pct_move": 1.7613671042702415,
+      "alert_relative_volume": 8.715339588533231
+    },
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 769.0,
+      "alert_pct_move": -2.5842442086576516,
+      "alert_relative_volume": 3.712806193875736
+    }
+  ]
+}
