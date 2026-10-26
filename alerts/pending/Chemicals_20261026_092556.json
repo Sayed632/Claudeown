@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-26T09:25:56.671666+05:30",
+  "stocks": [
+    {
+      "ticker": "ATUL.NS",
+      "alert_price": 5169.5,
+      "alert_pct_move": -7.290172166427547,
+      "alert_relative_volume": 10.903510307699042
+    },
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 599.5499877929688,
+      "alert_pct_move": 3.944174840753581,
+      "alert_relative_volume": 7.040022049431745
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 359.6000061035156,
+      "alert_pct_move": -1.1952207604381517,
+      "alert_relative_volume": 3.989616594604034
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 7528.5,
+      "alert_pct_move": -1.8256503879507076,
+      "alert_relative_volume": 3.3362070284801897
+    }
+  ]
+}
