@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-26T14:06:14.641941+05:30",
+  "stocks": [
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 49.029998779296875,
+      "alert_pct_move": 3.4388126602233156,
+      "alert_relative_volume": 4.809318325403375
+    }
+  ]
+}
