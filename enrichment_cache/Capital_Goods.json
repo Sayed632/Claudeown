@@ -1,47 +1,32 @@
 {
-  "POWERINDIA.NS": {
-    "date": "2026-10-23"
+  "CGPOWER.NS": {
+    "date": "2026-10-26"
+  },
+  "APARINDS.NS": {
+    "date": "2026-10-26"
   },
   "TITAGARH.NS": {
-    "date": "2026-10-23"
+    "date": "2026-10-26"
   },
-  "WELCORP.NS": {
-    "date": "2026-10-23"
-  },
-  "FINCABLES.NS": {
-    "date": "2026-10-23"
-  },
-  "KEI.NS": {
-    "date": "2026-10-23"
-  },
-  "TRITURBINE.NS": {
-    "date": "2026-10-23"
-  },
-  "GRSE.NS": {
-    "date": "2026-10-23"
-  },
-  "JWL.NS": {
-    "date": "2026-10-23"
-  },
-  "SYRMA.NS": {
-    "date": "2026-10-23"
-  },
-  "SIEMENS.NS": {
-    "date": "2026-10-23"
-  },
-  "GVT&D.NS": {
-    "date": "2026-10-23"
-  },
-  "ABB.NS": {
-    "date": "2026-10-23"
-  },
-  "DATAPATTNS.NS": {
-    "date": "2026-10-23"
-  },
-  "BDL.NS": {
-    "date": "2026-10-23"
+  "SCHNEIDER.NS": {
+    "date": "2026-10-26"
   },
   "ACE.NS": {
-    "date": "2026-10-23"
+    "date": "2026-10-26"
+  },
+  "WELCORP.NS": {
+    "date": "2026-10-26"
+  },
+  "SIEMENS.NS": {
+    "date": "2026-10-26"
+  },
+  "DATAPATTNS.NS": {
+    "date": "2026-10-26"
+  },
+  "FINCABLES.NS": {
+    "date": "2026-10-26"
+  },
+  "ABB.NS": {
+    "date": "2026-10-26"
   }
 }

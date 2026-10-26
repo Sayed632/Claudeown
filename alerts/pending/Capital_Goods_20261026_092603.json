@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-26T09:26:03.993542+05:30",
+  "stocks": [
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 795.5999755859375,
+      "alert_pct_move": -2.18233239476191,
+      "alert_relative_volume": 6.4119422525975915
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 14213.0,
+      "alert_pct_move": -1.1544613672717157,
+      "alert_relative_volume": 5.723969382029784
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 652.2999877929688,
+      "alert_pct_move": -1.6657855128747519,
+      "alert_relative_volume": 4.5228414483624695
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1081.699951171875,
+      "alert_pct_move": -2.9081792589594473,
+      "alert_relative_volume": 3.8778607828020033
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 986.7000122070312,
+      "alert_pct_move": -1.3398623843636726,
+      "alert_relative_volume": 3.80166843670508
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2330.0,
+      "alert_pct_move": -2.4574016147602515,
+      "alert_relative_volume": 3.4067453128261205
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3197.39990234375,
+      "alert_pct_move": -1.472946183512172,
+      "alert_relative_volume": 3.317527176038873
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3733.5,
+      "alert_pct_move": -1.547912871886816,
+      "alert_relative_volume": 3.24277028737384
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1069.0,
+      "alert_pct_move": -1.9535951457599854,
+      "alert_relative_volume": 3.193675453744658
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6071.0,
+      "alert_pct_move": -1.1237785016286646,
+      "alert_relative_volume": 3.041788982164921
+    }
+  ]
+}
