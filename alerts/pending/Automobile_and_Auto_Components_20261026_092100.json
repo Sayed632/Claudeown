@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-26T09:21:00.245541+05:30",
+  "stocks": [
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 300.20001220703125,
+      "alert_pct_move": -2.895028907052132,
+      "alert_relative_volume": 7.0594106122919875
+    }
+  ]
+}
