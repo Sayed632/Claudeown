@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-26T09:25:56.759574+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACONSUM.NS",
+      "alert_price": 919.7999877929688,
+      "alert_pct_move": -4.575167082073825,
+      "alert_relative_volume": 4.153660981528363
+    }
+  ]
+}
