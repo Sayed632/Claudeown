@@ -1,38 +1,17 @@
 {
-  "CYIENT.NS": {
-    "date": "2026-10-23"
-  },
-  "SAGILITY.NS": {
-    "date": "2026-10-23"
-  },
-  "TCS.NS": {
-    "date": "2026-10-23"
+  "NETWEB.NS": {
+    "date": "2026-10-26"
   },
   "INFY.NS": {
-    "date": "2026-10-23"
-  },
-  "WIPRO.NS": {
-    "date": "2026-10-23"
-  },
-  "COFORGE.NS": {
-    "date": "2026-10-23"
+    "date": "2026-10-26"
   },
   "OFSS.NS": {
-    "date": "2026-10-23"
+    "date": "2026-10-26"
   },
-  "HCLTECH.NS": {
-    "date": "2026-10-23"
+  "SAGILITY.NS": {
+    "date": "2026-10-26"
   },
-  "NETWEB.NS": {
-    "date": "2026-10-23"
-  },
-  "AFFLE.NS": {
-    "date": "2026-10-23"
-  },
-  "ZENSARTECH.NS": {
-    "date": "2026-10-23"
-  },
-  "BSOFT.NS": {
-    "date": "2026-10-23"
+  "COFORGE.NS": {
+    "date": "2026-10-26"
   }
 }
