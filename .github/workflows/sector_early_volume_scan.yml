@@ -73,6 +73,7 @@ jobs:
       # by multiple jobs), conflicts only happen at the "update branch
       # ref" step, not on file content. Retry with re-pull handles that.
       - name: Commit pending alerts + enrichment cache, with retry
+        if: always()   # still save state even if the scan step failed part-way
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -89,6 +90,7 @@ jobs:
             fi
             echo "Push failed (attempt $attempt) - pulling latest and retrying..."
             sleep $((RANDOM % 5 + 1))
-            git pull --rebase
+            # guarded: under bash -e an unguarded failing pull would kill the step
+            git pull --rebase || { git rebase --abort 2>/dev/null; true; }
           done
           echo "WARNING: could not push after 8 attempts"

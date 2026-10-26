@@ -35,6 +35,7 @@ IST = timezone(timedelta(hours=5, minutes=30))
 import requests
 import yfinance as yf
 
+from telegram_utils import send_with_retry
 from stock_enrichment import load_cache, save_cache, already_enriched_today, enrich_stock
 
 # ============================================================
@@ -55,23 +56,11 @@ CHAT_ID = os.environ.get("MY_CHAT_ID")
 
 
 def send_telegram(message: str) -> bool:
-    if not TELEGRAM_TOKEN or not CHAT_ID:
-        print("ERROR: TELEGRAM_TOKEN or MY_CHAT_ID not set.")
-        return False
-    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    try:
-        resp = requests.post(
-            url,
-            data={"chat_id": CHAT_ID, "text": message, "parse_mode": "Markdown"},
-            timeout=20,
-        )
-        if resp.status_code != 200:
-            print(f"Telegram send failed: {resp.status_code} {resp.text}")
-            return False
-        return True
-    except Exception as e:
-        print(f"Telegram send exception: {e}")
-        return False
+    # Resilient sender: retries on Telegram flood control (429), falls back to
+    # plain text if Markdown is rejected, backs off on server errors. See
+    # telegram_utils.py - added after parallel sector jobs were found losing
+    # alerts when ~15 of them fired messages in the same second.
+    return send_with_retry(TELEGRAM_TOKEN, CHAT_ID, message)
 
 
 SECTOR_FILE = "sector_stock_lists.json"
