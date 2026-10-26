@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-26T09:21:04.239805+05:30",
+  "stocks": [
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 1851.199951171875,
+      "alert_pct_move": -1.227190299819337,
+      "alert_relative_volume": 3.7248526573062164
+    }
+  ]
+}
