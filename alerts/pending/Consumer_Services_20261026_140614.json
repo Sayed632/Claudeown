@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-26T14:06:14.073111+05:30",
+  "stocks": [
+    {
+      "ticker": "ITCHOTELS.NS",
+      "alert_price": 167.6999969482422,
+      "alert_pct_move": 7.327998046875001,
+      "alert_relative_volume": 7.197309270375941
+    },
+    {
+      "ticker": "VENTIVE.NS",
+      "alert_price": 541.2999877929688,
+      "alert_pct_move": -2.7575740497364407,
+      "alert_relative_volume": 3.372018482579844
+    },
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 188.0,
+      "alert_pct_move": 6.8181818181818175,
+      "alert_relative_volume": 3.080861311425968
+    }
+  ]
+}
