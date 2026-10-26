@@ -1,35 +1,17 @@
 {
-  "BAJFINANCE.NS": {
-    "date": "2026-10-21"
+  "IOB.NS": {
+    "date": "2026-10-26"
   },
-  "UNIONBANK.NS": {
-    "date": "2026-10-21"
+  "AUBANK.NS": {
+    "date": "2026-10-26"
   },
-  "YESBANK.NS": {
-    "date": "2026-10-21"
+  "FIVESTAR.NS": {
+    "date": "2026-10-26"
   },
-  "IIFL.NS": {
-    "date": "2026-10-21"
+  "CRISIL.NS": {
+    "date": "2026-10-26"
   },
-  "PNB.NS": {
-    "date": "2026-10-21"
-  },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-10-21"
-  },
-  "ICICIBANK.NS": {
-    "date": "2026-10-21"
-  },
-  "KARURVYSYA.NS": {
-    "date": "2026-10-21"
-  },
-  "CHOLAHLDNG.NS": {
-    "date": "2026-10-21"
-  },
-  "BANKINDIA.NS": {
-    "date": "2026-10-21"
-  },
-  "MANAPPURAM.NS": {
-    "date": "2026-10-21"
+  "UTIAMC.NS": {
+    "date": "2026-10-26"
   }
 }

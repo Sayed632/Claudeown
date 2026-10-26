@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-26T14:06:49.473152+05:30",
+  "stocks": [
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 30.059999465942383,
+      "alert_pct_move": 4.811712503774129,
+      "alert_relative_volume": 5.968841334140131
+    },
+    {
+      "ticker": "AUBANK.NS",
+      "alert_price": 864.2999877929688,
+      "alert_pct_move": -7.353417818182627,
+      "alert_relative_volume": 5.644989622074701
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "alert_price": 415.0,
+      "alert_pct_move": -7.448705252256303,
+      "alert_relative_volume": 4.3839837717992385
+    },
+    {
+      "ticker": "CRISIL.NS",
+      "alert_price": 4606.2998046875,
+      "alert_pct_move": -3.0477213696293406,
+      "alert_relative_volume": 4.270479159393226
+    },
+    {
+      "ticker": "UTIAMC.NS",
+      "alert_price": 797.4000244140625,
+      "alert_pct_move": -2.4049891282643685,
+      "alert_relative_volume": 3.0771627346824584
+    }
+  ]
+}
