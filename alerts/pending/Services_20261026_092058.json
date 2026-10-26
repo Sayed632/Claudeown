@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-26T09:20:58.930285+05:30",
+  "stocks": [
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 372.1499938964844,
+      "alert_pct_move": -2.3612751263599097,
+      "alert_relative_volume": 4.085925114148214
+    }
+  ]
+}
