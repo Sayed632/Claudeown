@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-26T09:25:57.541362+05:30",
+  "stocks": [
+    {
+      "ticker": "DRREDDY.NS",
+      "alert_price": 1271.9000244140625,
+      "alert_pct_move": 3.448558309399146,
+      "alert_relative_volume": 23.316145074906917
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1806.0,
+      "alert_pct_move": -1.751711023131468,
+      "alert_relative_volume": 9.829504412677478
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "alert_price": 1974.5,
+      "alert_pct_move": 1.0853402263822105,
+      "alert_relative_volume": 3.42036570389181
+    }
+  ]
+}
