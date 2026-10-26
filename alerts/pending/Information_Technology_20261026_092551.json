@@ -1,0 +1,42 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-26T09:25:51.616619+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4272.89990234375,
+      "alert_pct_move": -1.4507104842743879,
+      "alert_relative_volume": 9.311891898871979
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1134.8499755859375,
+      "alert_pct_move": -1.6424053076990626,
+      "alert_relative_volume": 7.918488059908785
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 9781.0,
+      "alert_pct_move": 1.0747132375736281,
+      "alert_relative_volume": 6.338072918700699
+    },
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 42.900001525878906,
+      "alert_pct_move": -2.8972357864536282,
+      "alert_relative_volume": 4.052298911453617
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1847.4000244140625,
+      "alert_pct_move": -2.7940002939193636,
+      "alert_relative_volume": 3.987414327457652
+    },
+    {
+      "ticker": "CYIENT.NS",
+      "alert_price": 1211.300048828125,
+      "alert_pct_move": -1.7599311574918897,
+      "alert_relative_volume": 3.115331124164339
+    }
+  ]
+}
