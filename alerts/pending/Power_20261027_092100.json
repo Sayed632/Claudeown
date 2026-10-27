@@ -1,0 +1,30 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-27T09:21:00.792767+05:30",
+  "stocks": [
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 72.12999725341797,
+      "alert_pct_move": 3.278924735975306,
+      "alert_relative_volume": 13.454824890404474
+    },
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 50.150001525878906,
+      "alert_pct_move": 2.3469418895487886,
+      "alert_relative_volume": 5.552375408210274
+    },
+    {
+      "ticker": "JSWENERGY.NS",
+      "alert_price": 455.5,
+      "alert_pct_move": 1.3010132731954127,
+      "alert_relative_volume": 4.5647770157694385
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 16.84000015258789,
+      "alert_pct_move": 1.813780051117863,
+      "alert_relative_volume": 3.645405349939119
+    }
+  ]
+}
