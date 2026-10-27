@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-27T09:25:52.693080+05:30",
+  "stocks": [
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1203.0999755859375,
+      "alert_pct_move": -6.815893553097088,
+      "alert_relative_volume": 11.366973308427719
+    },
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 184.8300018310547,
+      "alert_pct_move": 1.2157062665150007,
+      "alert_relative_volume": 6.823739855560059
+    },
+    {
+      "ticker": "AEGISVOPAK.NS",
+      "alert_price": 236.9499969482422,
+      "alert_pct_move": -2.369180087474923,
+      "alert_relative_volume": 3.718572898114663
+    },
+    {
+      "ticker": "CASTROLIND.NS",
+      "alert_price": 189.9600067138672,
+      "alert_pct_move": -2.4044352088248857,
+      "alert_relative_volume": 3.112685888711498
+    }
+  ]
+}
