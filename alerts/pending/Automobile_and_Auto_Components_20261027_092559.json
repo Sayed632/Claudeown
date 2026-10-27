@@ -1,0 +1,54 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-27T09:25:59.464260+05:30",
+  "stocks": [
+    {
+      "ticker": "SONACOMS.NS",
+      "alert_price": 827.4500122070312,
+      "alert_pct_move": 5.825551396689473,
+      "alert_relative_volume": 30.581054423767217
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1644.0,
+      "alert_pct_move": 4.380952380952381,
+      "alert_relative_volume": 18.703621608988534
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 31.15999984741211,
+      "alert_pct_move": 4.074813933175143,
+      "alert_relative_volume": 6.1914997992128304
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 974.9000244140625,
+      "alert_pct_move": 2.0089998913667477,
+      "alert_relative_volume": 4.865341535050512
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 703.7999877929688,
+      "alert_pct_move": 1.4486468890765765,
+      "alert_relative_volume": 3.78144380631842
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 344.29998779296875,
+      "alert_pct_move": 2.196495705119571,
+      "alert_relative_volume": 3.539825507619559
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 16758.0,
+      "alert_pct_move": 1.0248372317337835,
+      "alert_relative_volume": 3.2557028031317814
+    },
+    {
+      "ticker": "BHARATFORG.NS",
+      "alert_price": 1748.199951171875,
+      "alert_pct_move": 1.0286596455544896,
+      "alert_relative_volume": 3.1837072397139434
+    }
+  ]
+}
