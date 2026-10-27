@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-27T09:21:16.894251+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2128.10009765625,
+      "alert_pct_move": 2.415910182000447,
+      "alert_relative_volume": 15.414452328829169
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 1937.5999755859375,
+      "alert_pct_move": 3.664865491131697,
+      "alert_relative_volume": 8.106333849750667
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1073.0999755859375,
+      "alert_pct_move": -4.968117075077569,
+      "alert_relative_volume": 6.195576762198236
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3903.699951171875,
+      "alert_pct_move": 3.4421511649534193,
+      "alert_relative_volume": 5.459013986790461
+    },
+    {
+      "ticker": "MAZDOCK.NS",
+      "alert_price": 1907.0999755859375,
+      "alert_pct_move": 1.7119986979166668,
+      "alert_relative_volume": 4.8507206387658925
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 27495.0,
+      "alert_pct_move": 4.543726235741445,
+      "alert_relative_volume": 4.793992858409834
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1885.199951171875,
+      "alert_pct_move": 1.8311403581071948,
+      "alert_relative_volume": 4.358385024149623
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2238.89990234375,
+      "alert_pct_move": 4.621490763726635,
+      "alert_relative_volume": 3.770142253455721
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 15294.0,
+      "alert_pct_move": 6.363446693094095,
+      "alert_relative_volume": 3.6235070678371875
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 59.040000915527344,
+      "alert_pct_move": 1.0958893372028993,
+      "alert_relative_volume": 3.5676514820084892
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6443.5,
+      "alert_pct_move": 1.3527329925285096,
+      "alert_relative_volume": 3.411747298889192
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2428.0,
+      "alert_pct_move": 3.645517748812178,
+      "alert_relative_volume": 3.317686770008118
+    }
+  ]
+}

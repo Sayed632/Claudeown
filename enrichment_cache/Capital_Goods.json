@@ -1,35 +1,38 @@
 {
-  "CGPOWER.NS": {
-    "date": "2026-10-26"
+  "APLAPOLLO.NS": {
+    "date": "2026-10-27"
   },
-  "APARINDS.NS": {
-    "date": "2026-10-26"
+  "GRSE.NS": {
+    "date": "2026-10-27"
   },
-  "TITAGARH.NS": {
-    "date": "2026-10-26"
-  },
-  "SCHNEIDER.NS": {
-    "date": "2026-10-26"
-  },
-  "ACE.NS": {
-    "date": "2026-10-26"
-  },
-  "WELCORP.NS": {
-    "date": "2026-10-26"
-  },
-  "SIEMENS.NS": {
-    "date": "2026-10-26"
+  "CARBORUNIV.NS": {
+    "date": "2026-10-27"
   },
   "DATAPATTNS.NS": {
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
-  "FINCABLES.NS": {
-    "date": "2026-10-26"
+  "MAZDOCK.NS": {
+    "date": "2026-10-27"
+  },
+  "POWERINDIA.NS": {
+    "date": "2026-10-27"
+  },
+  "BEML.NS": {
+    "date": "2026-10-27"
+  },
+  "RRKABEL.NS": {
+    "date": "2026-10-27"
+  },
+  "APARINDS.NS": {
+    "date": "2026-10-27"
+  },
+  "INOXWIND.NS": {
+    "date": "2026-10-27"
   },
   "ABB.NS": {
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
-  "SUPREMEIND.NS": {
-    "date": "2026-10-26"
+  "WELCORP.NS": {
+    "date": "2026-10-27"
   }
 }
