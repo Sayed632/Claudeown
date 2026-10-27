@@ -1,0 +1,66 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-27T09:21:20.399486+05:30",
+  "stocks": [
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 78.70999908447266,
+      "alert_pct_move": 3.4025173994189353,
+      "alert_relative_volume": 27.78591098390431
+    },
+    {
+      "ticker": "AAVAS.NS",
+      "alert_price": 1137.9000244140625,
+      "alert_pct_move": 2.136257907698801,
+      "alert_relative_volume": 19.033446284667516
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 842.5,
+      "alert_pct_move": 1.6284680337756332,
+      "alert_relative_volume": 14.720925923622852
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "alert_price": 422.0,
+      "alert_pct_move": 1.723513026705915,
+      "alert_relative_volume": 11.27292903930214
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 290.54998779296875,
+      "alert_pct_move": -2.565400436251934,
+      "alert_relative_volume": 7.883821777677535
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 129.22000122070312,
+      "alert_pct_move": 2.295758021599908,
+      "alert_relative_volume": 7.343426544560071
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 708.2000122070312,
+      "alert_pct_move": 3.1384238005901115,
+      "alert_relative_volume": 4.804470039468521
+    },
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 29.959999084472656,
+      "alert_pct_move": -1.3824887685854272,
+      "alert_relative_volume": 4.79454610518971
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 22.079999923706055,
+      "alert_pct_move": 2.080447435965154,
+      "alert_relative_volume": 3.9179219809980625
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 119.86000061035156,
+      "alert_pct_move": 2.4269390264535016,
+      "alert_relative_volume": 3.5857909759515945
+    }
+  ]
+}

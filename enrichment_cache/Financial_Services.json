@@ -1,17 +1,32 @@
 {
-  "IOB.NS": {
-    "date": "2026-10-26"
+  "MAHABANK.NS": {
+    "date": "2026-10-27"
   },
-  "AUBANK.NS": {
-    "date": "2026-10-26"
+  "AAVAS.NS": {
+    "date": "2026-10-27"
+  },
+  "KFINTECH.NS": {
+    "date": "2026-10-27"
   },
   "FIVESTAR.NS": {
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
-  "CRISIL.NS": {
-    "date": "2026-10-26"
+  "RECLTD.NS": {
+    "date": "2026-10-27"
   },
-  "UTIAMC.NS": {
-    "date": "2026-10-26"
+  "BANKINDIA.NS": {
+    "date": "2026-10-27"
+  },
+  "CHOICEIN.NS": {
+    "date": "2026-10-27"
+  },
+  "IOB.NS": {
+    "date": "2026-10-27"
+  },
+  "UCOBANK.NS": {
+    "date": "2026-10-27"
+  },
+  "J&KBANK.NS": {
+    "date": "2026-10-27"
   }
 }
