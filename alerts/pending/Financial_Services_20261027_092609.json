@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-27T09:26:09.695016+05:30",
+  "stocks": [
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 78.23999786376953,
+      "alert_pct_move": 2.7850696803642627,
+      "alert_relative_volume": 26.38269169923913
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 867.0,
+      "alert_pct_move": 4.583835946924005,
+      "alert_relative_volume": 19.49095973411207
+    },
+    {
+      "ticker": "AAVAS.NS",
+      "alert_price": 1134.5,
+      "alert_pct_move": 1.8310766413340542,
+      "alert_relative_volume": 15.879905056459677
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "alert_price": 423.6499938964844,
+      "alert_pct_move": 2.1212456703623452,
+      "alert_relative_volume": 8.711076998797266
+    },
+    {
+      "ticker": "RECLTD.NS",
+      "alert_price": 287.0,
+      "alert_pct_move": -3.755872484423448,
+      "alert_relative_volume": 7.192987049709825
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 714.2999877929688,
+      "alert_pct_move": 4.026791290439512,
+      "alert_relative_volume": 6.407901454870042
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 129.63999938964844,
+      "alert_pct_move": 2.628245489902618,
+      "alert_relative_volume": 5.831564519420853
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 837.25,
+      "alert_pct_move": 1.4848484848484849,
+      "alert_relative_volume": 5.536657012046688
+    },
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 30.040000915527344,
+      "alert_pct_move": -1.119151595232231,
+      "alert_relative_volume": 3.7413654243098113
+    },
+    {
+      "ticker": "CRISIL.NS",
+      "alert_price": 4693.10009765625,
+      "alert_pct_move": -1.2207699018720275,
+      "alert_relative_volume": 3.1197479674973057
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 119.69999694824219,
+      "alert_pct_move": 2.2902071287442434,
+      "alert_relative_volume": 3.1192466190940413
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 118.19999694824219,
+      "alert_pct_move": 1.2766668455640178,
+      "alert_relative_volume": 3.0951842865215484
+    }
+  ]
+}
