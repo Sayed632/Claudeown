@@ -1,14 +1,5 @@
 {
-  "JSL.NS": {
-    "date": "2026-10-26"
-  },
-  "HINDALCO.NS": {
-    "date": "2026-10-26"
-  },
-  "GMDCLTD.NS": {
-    "date": "2026-10-26"
-  },
-  "HINDCOPPER.NS": {
-    "date": "2026-10-26"
+  "NMDC.NS": {
+    "date": "2026-10-27"
   }
 }
