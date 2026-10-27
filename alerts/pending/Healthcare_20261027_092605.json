@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-27T09:26:05.028848+05:30",
+  "stocks": [
+    {
+      "ticker": "MANKIND.NS",
+      "alert_price": 2437.0,
+      "alert_pct_move": 5.406574394463668,
+      "alert_relative_volume": 26.536531076676848
+    },
+    {
+      "ticker": "ERIS.NS",
+      "alert_price": 1159.300048828125,
+      "alert_pct_move": 5.823829194717025,
+      "alert_relative_volume": 19.46399456447724
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 9173.5,
+      "alert_pct_move": 2.4972067039106145,
+      "alert_relative_volume": 5.1498900244994275
+    }
+  ]
+}
