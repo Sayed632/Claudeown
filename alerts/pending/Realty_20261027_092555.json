@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-10-27T09:25:55.431018+05:30",
+  "stocks": [
+    {
+      "ticker": "GODREJPROP.NS",
+      "alert_price": 1547.699951171875,
+      "alert_pct_move": 1.4752164122948146,
+      "alert_relative_volume": 3.9767249408973986
+    }
+  ]
+}
