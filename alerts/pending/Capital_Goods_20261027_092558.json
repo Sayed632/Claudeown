@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-27T09:25:58.701909+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2143.199951171875,
+      "alert_pct_move": 3.1425983876543016,
+      "alert_relative_volume": 14.46878195406164
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 1932.800048828125,
+      "alert_pct_move": 3.408061316902986,
+      "alert_relative_volume": 7.797481562353887
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3908.60009765625,
+      "alert_pct_move": 3.5719976438599166,
+      "alert_relative_volume": 6.839594664290675
+    },
+    {
+      "ticker": "MAZDOCK.NS",
+      "alert_price": 1903.800048828125,
+      "alert_pct_move": 1.5360026041666668,
+      "alert_relative_volume": 5.300871425153342
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1078.4000244140625,
+      "alert_pct_move": -4.498753892531853,
+      "alert_relative_volume": 5.123779668956026
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 15158.0,
+      "alert_pct_move": 5.4176229223172685,
+      "alert_relative_volume": 4.592628115097783
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1884.800048828125,
+      "alert_pct_move": 1.8095391949676414,
+      "alert_relative_volume": 4.189412351397516
+    },
+    {
+      "ticker": "BEL.NS",
+      "alert_price": 368.5,
+      "alert_pct_move": 1.5151515151515151,
+      "alert_relative_volume": 3.830727804858956
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 27500.0,
+      "alert_pct_move": 4.562737642585551,
+      "alert_relative_volume": 3.705448961284783
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 660.4000244140625,
+      "alert_pct_move": 1.6703928604417102,
+      "alert_relative_volume": 3.7043330221368476
+    },
+    {
+      "ticker": "HAL.NS",
+      "alert_price": 4864.0,
+      "alert_pct_move": 1.8638743455497382,
+      "alert_relative_volume": 3.3684823964604957
+    },
+    {
+      "ticker": "SUPREMEIND.NS",
+      "alert_price": 3208.699951171875,
+      "alert_pct_move": -1.270770733173077,
+      "alert_relative_volume": 3.2879827049081336
+    }
+  ]
+}
