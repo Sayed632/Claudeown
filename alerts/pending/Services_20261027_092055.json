@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-27T09:20:55.993614+05:30",
+  "stocks": [
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 253.14999389648438,
+      "alert_pct_move": 2.5313892889849092,
+      "alert_relative_volume": 9.21309997308012
+    },
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 396.5,
+      "alert_pct_move": 2.906829110269605,
+      "alert_relative_volume": 5.756133699435628
+    }
+  ]
+}
