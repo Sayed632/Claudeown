@@ -1,0 +1,48 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-27T09:21:04.380425+05:30",
+  "stocks": [
+    {
+      "ticker": "SONACOMS.NS",
+      "alert_price": 827.0499877929688,
+      "alert_pct_move": 5.774390838872344,
+      "alert_relative_volume": 29.520085584962814
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1618.9000244140625,
+      "alert_pct_move": 2.7873031374007935,
+      "alert_relative_volume": 20.972373414165528
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 971.9000244140625,
+      "alert_pct_move": 1.6950938579167745,
+      "alert_relative_volume": 4.898053418966776
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 16845.0,
+      "alert_pct_move": 1.5493127562093079,
+      "alert_relative_volume": 4.025488252768723
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 302.79998779296875,
+      "alert_pct_move": -2.0540210994284727,
+      "alert_relative_volume": 3.5442952723191863
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 30.489999771118164,
+      "alert_pct_move": 1.8370047670336773,
+      "alert_relative_volume": 3.526730603627156
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 701.6500244140625,
+      "alert_pct_move": 1.1387422578828827,
+      "alert_relative_volume": 3.1932885049918647
+    }
+  ]
+}
