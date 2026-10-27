@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-27T09:26:01.591659+05:30",
+  "stocks": [
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 342.29998779296875,
+      "alert_pct_move": -3.386960319911743,
+      "alert_relative_volume": 14.510650020100773
+    },
+    {
+      "ticker": "HSCL.NS",
+      "alert_price": 530.5,
+      "alert_pct_move": 7.825203252032519,
+      "alert_relative_volume": 4.4120761349418425
+    },
+    {
+      "ticker": "ATUL.NS",
+      "alert_price": 5265.0,
+      "alert_pct_move": -1.6623085543518865,
+      "alert_relative_volume": 4.143890451796071
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 7791.5,
+      "alert_pct_move": 1.690159227355782,
+      "alert_relative_volume": 3.1782392319404185
+    }
+  ]
+}
