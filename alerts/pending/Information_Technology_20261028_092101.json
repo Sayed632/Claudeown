@@ -1,0 +1,36 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-28T09:21:01.324360+05:30",
+  "stocks": [
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 183.22999572753906,
+      "alert_pct_move": -2.0160450654871322,
+      "alert_relative_volume": 5.154508432280351
+    },
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2485.5,
+      "alert_pct_move": -5.075615158127308,
+      "alert_relative_volume": 3.616205415631391
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 226.6999969482422,
+      "alert_pct_move": -2.052279137019049,
+      "alert_relative_volume": 3.474437899378198
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 9801.0,
+      "alert_pct_move": -1.2792103142626914,
+      "alert_relative_volume": 3.196746408805443
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 1913.5,
+      "alert_pct_move": -4.181271907861793,
+      "alert_relative_volume": 3.1468037534874638
+    }
+  ]
+}
