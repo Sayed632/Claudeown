@@ -1,11 +1,17 @@
 {
-  "MANKIND.NS": {
-    "date": "2026-10-27"
+  "PPLPHARMA.NS": {
+    "date": "2026-10-28"
   },
-  "ERIS.NS": {
-    "date": "2026-10-27"
+  "ONESOURCE.NS": {
+    "date": "2026-10-28"
   },
-  "DIVISLAB.NS": {
-    "date": "2026-10-27"
+  "SYNGENE.NS": {
+    "date": "2026-10-28"
+  },
+  "EMCURE.NS": {
+    "date": "2026-10-28"
+  },
+  "METROPOLIS.NS": {
+    "date": "2026-10-28"
   }
 }

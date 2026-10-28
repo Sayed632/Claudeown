@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-28T09:25:53.673874+05:30",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 222.0,
+      "alert_pct_move": 11.714975159164556,
+      "alert_relative_volume": 154.78468135132863
+    },
+    {
+      "ticker": "ONESOURCE.NS",
+      "alert_price": 1635.0,
+      "alert_pct_move": 17.011374999322946,
+      "alert_relative_volume": 101.36755563564287
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 385.3500061035156,
+      "alert_pct_move": 7.08628583228774,
+      "alert_relative_volume": 24.341069342487863
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 1850.0999755859375,
+      "alert_pct_move": 3.9265265886592413,
+      "alert_relative_volume": 7.660513645878699
+    },
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 556.9000244140625,
+      "alert_pct_move": 5.075476304540095,
+      "alert_relative_volume": 3.347473569387708
+    }
+  ]
+}
