@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-10-28T09:21:01.329003+05:30",
+  "stocks": [
+    {
+      "ticker": "LT.NS",
+      "alert_price": 3869.5,
+      "alert_pct_move": 5.57692551083282,
+      "alert_relative_volume": 14.95936265219551
+    }
+  ]
+}
