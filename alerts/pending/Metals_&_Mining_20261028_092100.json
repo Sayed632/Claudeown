@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-28T09:21:00.432653+05:30",
+  "stocks": [
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 228.0,
+      "alert_pct_move": 1.0638270529935836,
+      "alert_relative_volume": 3.7272736475063666
+    },
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 165.72999572753906,
+      "alert_pct_move": -3.1950942279262047,
+      "alert_relative_volume": 3.6114144960366024
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 313.6499938964844,
+      "alert_pct_move": 1.768326240620697,
+      "alert_relative_volume": 3.581708804398261
+    }
+  ]
+}
