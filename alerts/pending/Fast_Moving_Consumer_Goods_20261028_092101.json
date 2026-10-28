@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-28T09:21:01.131990+05:30",
+  "stocks": [
+    {
+      "ticker": "UBL.NS",
+      "alert_price": 1308.9000244140625,
+      "alert_pct_move": 15.199795869033869,
+      "alert_relative_volume": 111.01588593347842
+    },
+    {
+      "ticker": "AWL.NS",
+      "alert_price": 164.75999450683594,
+      "alert_pct_move": -4.636227103978705,
+      "alert_relative_volume": 22.812465474592997
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 372.54998779296875,
+      "alert_pct_move": -4.8525094093595555,
+      "alert_relative_volume": 7.23975530916548
+    },
+    {
+      "ticker": "RADICO.NS",
+      "alert_price": 4166.10009765625,
+      "alert_pct_move": -2.8881096117424243,
+      "alert_relative_volume": 6.378067409496868
+    }
+  ]
+}

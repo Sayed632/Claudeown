@@ -1,5 +1,14 @@
 {
-  "TATACONSUM.NS": {
-    "date": "2026-10-27"
+  "UBL.NS": {
+    "date": "2026-10-28"
+  },
+  "AWL.NS": {
+    "date": "2026-10-28"
+  },
+  "LTFOODS.NS": {
+    "date": "2026-10-28"
+  },
+  "RADICO.NS": {
+    "date": "2026-10-28"
   }
 }
