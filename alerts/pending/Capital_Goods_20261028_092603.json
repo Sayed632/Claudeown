@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-28T09:26:03.130148+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2166.800048828125,
+      "alert_pct_move": -2.127460842550408,
+      "alert_relative_volume": 23.47393291115355
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "alert_price": 1524.4000244140625,
+      "alert_pct_move": -1.7403635152189356,
+      "alert_relative_volume": 18.60780033760704
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 30315.0,
+      "alert_pct_move": -2.992,
+      "alert_relative_volume": 17.489055089383438
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2220.5,
+      "alert_pct_move": -2.3956043956043955,
+      "alert_relative_volume": 10.424291469375019
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1573.0999755859375,
+      "alert_pct_move": 3.520663389019279,
+      "alert_relative_volume": 9.623511869280563
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3251.699951171875,
+      "alert_pct_move": -2.9459155339286545,
+      "alert_relative_volume": 5.434601715446857
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4056.300048828125,
+      "alert_pct_move": -1.5317729526507993,
+      "alert_relative_volume": 4.193083779021175
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4062.0,
+      "alert_pct_move": 2.0603015075376883,
+      "alert_relative_volume": 3.9343872904825057
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2559.800048828125,
+      "alert_pct_move": 9.27174686747352,
+      "alert_relative_volume": 3.9067020241169357
+    },
+    {
+      "ticker": "PREMIERENE.NS",
+      "alert_price": 829.7999877929688,
+      "alert_pct_move": -3.7355002560361084,
+      "alert_relative_volume": 3.7606354563553643
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 743.5,
+      "alert_pct_move": 1.0121611752715278,
+      "alert_relative_volume": 3.4878572710547804
+    }
+  ]
+}
