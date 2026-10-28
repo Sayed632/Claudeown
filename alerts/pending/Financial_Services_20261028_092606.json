@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-28T09:26:06.240688+05:30",
+  "stocks": [
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 531.0499877929688,
+      "alert_pct_move": -2.871515721450617,
+      "alert_relative_volume": 20.43566298625515
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 239.16000366210938,
+      "alert_pct_move": 3.5100629747816234,
+      "alert_relative_volume": 8.779983142985406
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 848.6500244140625,
+      "alert_pct_move": 2.370328638608263,
+      "alert_relative_volume": 5.787960060385504
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 724.9500122070312,
+      "alert_pct_move": 3.853595714414746,
+      "alert_relative_volume": 4.825099657219946
+    },
+    {
+      "ticker": "MFSL.NS",
+      "alert_price": 1207.199951171875,
+      "alert_pct_move": -1.9572887761343774,
+      "alert_relative_volume": 3.182805531012347
+    }
+  ]
+}
