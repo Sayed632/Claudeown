@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-28T09:25:58.075782+05:30",
+  "stocks": [
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 618.5499877929688,
+      "alert_pct_move": 2.0709550813479787,
+      "alert_relative_volume": 30.542002790716985
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 8453.0,
+      "alert_pct_move": 10.323675280605586,
+      "alert_relative_volume": 16.97758197222081
+    },
+    {
+      "ticker": "UPL.NS",
+      "alert_price": 514.5999755859375,
+      "alert_pct_move": 3.3956124099664016,
+      "alert_relative_volume": 4.1693271834040955
+    },
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 3088.5,
+      "alert_pct_move": 1.4918964505543646,
+      "alert_relative_volume": 3.9112176660666673
+    }
+  ]
+}
