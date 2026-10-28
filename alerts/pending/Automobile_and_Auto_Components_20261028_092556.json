@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-28T09:25:56.248116+05:30",
+  "stocks": [
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10695.0,
+      "alert_pct_move": 2.935514918190568,
+      "alert_relative_volume": 18.976034429081817
+    },
+    {
+      "ticker": "SCHAEFFLER.NS",
+      "alert_price": 3623.60009765625,
+      "alert_pct_move": 3.051504346561233,
+      "alert_relative_volume": 8.327379091226945
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 345.70001220703125,
+      "alert_pct_move": 2.612056536056442,
+      "alert_relative_volume": 3.03471396648711
+    }
+  ]
+}
