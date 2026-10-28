@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-28T09:21:06.939047+05:30",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 220.17999267578125,
+      "alert_pct_move": 10.799109965405119,
+      "alert_relative_volume": 154.9820164847639
+    },
+    {
+      "ticker": "ONESOURCE.NS",
+      "alert_price": 1627.4000244140625,
+      "alert_pct_move": 16.46747066093039,
+      "alert_relative_volume": 90.7435461796215
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 385.20001220703125,
+      "alert_pct_move": 7.044603494107865,
+      "alert_relative_volume": 19.963229613050288
+    },
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 554.6500244140625,
+      "alert_pct_move": 4.650948002653302,
+      "alert_relative_volume": 4.999946414957396
+    },
+    {
+      "ticker": "BLUEJET.NS",
+      "alert_price": 497.1000061035156,
+      "alert_pct_move": 2.3682042535947865,
+      "alert_relative_volume": 3.3100040136463975
+    },
+    {
+      "ticker": "PFIZER.NS",
+      "alert_price": 3732.10009765625,
+      "alert_pct_move": 1.2177301768000057,
+      "alert_relative_volume": 3.195055246740887
+    }
+  ]
+}
