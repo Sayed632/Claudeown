@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-28T09:21:13.898882+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2182.800048828125,
+      "alert_pct_move": -1.4047542746942203,
+      "alert_relative_volume": 33.57042304127706
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 30625.0,
+      "alert_pct_move": -2.0,
+      "alert_relative_volume": 18.798264015566094
+    },
+    {
+      "ticker": "MAZDOCK.NS",
+      "alert_price": 1729.199951171875,
+      "alert_pct_move": -1.4139138442488597,
+      "alert_relative_volume": 16.236027163727982
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2213.0,
+      "alert_pct_move": -2.7252747252747254,
+      "alert_relative_volume": 10.616696148327451
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1561.300048828125,
+      "alert_pct_move": 2.7441480594989156,
+      "alert_relative_volume": 9.538563772842696
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4074.300048828125,
+      "alert_pct_move": 2.369347960505653,
+      "alert_relative_volume": 5.219040225529554
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3268.0,
+      "alert_pct_move": -2.459404988822609,
+      "alert_relative_volume": 4.934118088116955
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2562.60009765625,
+      "alert_pct_move": 9.391274260600774,
+      "alert_relative_volume": 4.528167071680275
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 28770.0,
+      "alert_pct_move": 1.3206550449022716,
+      "alert_relative_volume": 4.141005138884295
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 746.4000244140625,
+      "alert_pct_move": 1.4061594718761057,
+      "alert_relative_volume": 3.7507865299626344
+    },
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 991.7000122070312,
+      "alert_pct_move": -1.4214699595396372,
+      "alert_relative_volume": 3.0178018890819653
+    }
+  ]
+}
