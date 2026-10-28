@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-28T09:21:05.031509+05:30",
+  "stocks": [
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 518.7000122070312,
+      "alert_pct_move": 9.200002569901315,
+      "alert_relative_volume": 41.576669537486836
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "alert_price": 2242.89990234375,
+      "alert_pct_move": -1.4975888298748354,
+      "alert_relative_volume": 3.0118505821695782
+    }
+  ]
+}
