@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-28T09:25:55.078704+05:30",
+  "stocks": [
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2493.300048828125,
+      "alert_pct_move": -4.77772143986284,
+      "alert_relative_volume": 4.574896856545612
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4436.89990234375,
+      "alert_pct_move": 1.9648849087381743,
+      "alert_relative_volume": 3.75934604764858
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 184.07000732421875,
+      "alert_pct_move": -1.5668410030915774,
+      "alert_relative_volume": 3.6477364481313095
+    }
+  ]
+}
