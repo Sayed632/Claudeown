@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-28T09:21:09.377419+05:30",
+  "stocks": [
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 312.29998779296875,
+      "alert_pct_move": -1.5602875357072499,
+      "alert_relative_volume": 5.404093245666188
+    }
+  ]
+}
