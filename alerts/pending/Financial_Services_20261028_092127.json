@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-28T09:21:27.371604+05:30",
+  "stocks": [
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 540.9000244140625,
+      "alert_pct_move": -1.0699543824302697,
+      "alert_relative_volume": 23.455947566612064
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "alert_price": 1038.300048828125,
+      "alert_pct_move": 2.5988190541625498,
+      "alert_relative_volume": 9.27017212934027
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 237.22000122070312,
+      "alert_pct_move": 2.6704168307512046,
+      "alert_relative_volume": 7.768931880315811
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 725.1500244140625,
+      "alert_pct_move": 3.882248706396542,
+      "alert_relative_volume": 6.048136569681326
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 847.0499877929688,
+      "alert_pct_move": 2.1773206022881486,
+      "alert_relative_volume": 4.674626403282587
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 78.75,
+      "alert_pct_move": -1.5625,
+      "alert_relative_volume": 3.158089456029293
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "alert_price": 1655.800048828125,
+      "alert_pct_move": 1.3962062968845683,
+      "alert_relative_volume": 3.0891682101483804
+    }
+  ]
+}
