@@ -1,17 +1,14 @@
 {
-  "UBL.NS": {
-    "date": "2026-10-28"
+  "UNITDSPR.NS": {
+    "date": "2026-10-29"
   },
-  "AWL.NS": {
-    "date": "2026-10-28"
-  },
-  "LTFOODS.NS": {
-    "date": "2026-10-28"
+  "DOMS.NS": {
+    "date": "2026-10-29"
   },
   "RADICO.NS": {
-    "date": "2026-10-28"
+    "date": "2026-10-29"
   },
-  "PATANJALI.NS": {
-    "date": "2026-10-28"
+  "LTFOODS.NS": {
+    "date": "2026-10-29"
   }
 }
