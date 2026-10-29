@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-29T09:21:00.043554+05:30",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 235.6999969482422,
+      "alert_pct_move": 1.2457018292390774,
+      "alert_relative_volume": 14.97853076002845
+    },
+    {
+      "ticker": "ABBOTINDIA.NS",
+      "alert_price": 26370.0,
+      "alert_pct_move": 3.3509700176366843,
+      "alert_relative_volume": 3.609648869092381
+    },
+    {
+      "ticker": "ASTRAZEN.NS",
+      "alert_price": 6352.5,
+      "alert_pct_move": 4.602338218343487,
+      "alert_relative_volume": 3.4924076232261605
+    }
+  ]
+}
