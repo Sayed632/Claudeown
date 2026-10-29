@@ -1,0 +1,48 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-29T09:26:00.152462+05:30",
+  "stocks": [
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1022.9000244140625,
+      "alert_pct_move": -3.4908952870771435,
+      "alert_relative_volume": 17.73860025914553
+    },
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 1951.5,
+      "alert_pct_move": 4.531575043097966,
+      "alert_relative_volume": 15.360632860014327
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5266.5,
+      "alert_pct_move": -1.0521371535932362,
+      "alert_relative_volume": 6.750450268765297
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 35.84000015258789,
+      "alert_pct_move": -2.2367694987377473,
+      "alert_relative_volume": 4.490829317343935
+    },
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 10695.0,
+      "alert_pct_move": -2.869857415311961,
+      "alert_relative_volume": 4.172714533133707
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 698.0999755859375,
+      "alert_pct_move": -1.5234939280826971,
+      "alert_relative_volume": 3.4864393589149336
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 489.1000061035156,
+      "alert_pct_move": 1.0850470050168413,
+      "alert_relative_volume": 3.278829720750679
+    }
+  ]
+}
