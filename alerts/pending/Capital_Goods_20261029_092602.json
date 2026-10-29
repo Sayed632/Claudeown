@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-29T09:26:02.743781+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 196.25999450683594,
+      "alert_pct_move": 8.400989339243456,
+      "alert_relative_volume": 87.38623198048907
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 681.5,
+      "alert_pct_move": -1.5884476534296028,
+      "alert_relative_volume": 16.74821547668378
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1621.300048828125,
+      "alert_pct_move": 3.7300095219529754,
+      "alert_relative_volume": 8.429577240669602
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2200.89990234375,
+      "alert_pct_move": 1.6441071774275295,
+      "alert_relative_volume": 4.311508542851422
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 30315.0,
+      "alert_pct_move": -3.822969543147208,
+      "alert_relative_volume": 4.301387357055784
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1602.4000244140625,
+      "alert_pct_move": 2.141762783028741,
+      "alert_relative_volume": 3.8967056818402335
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2272.39990234375,
+      "alert_pct_move": 1.537082320989723,
+      "alert_relative_volume": 3.3674500543056416
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1010.4000244140625,
+      "alert_pct_move": -2.518087369603232,
+      "alert_relative_volume": 3.1473472445555255
+    }
+  ]
+}
