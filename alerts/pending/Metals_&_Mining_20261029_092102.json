@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-10-29T09:21:02.867206+05:30",
+  "stocks": [
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 432.6499938964844,
+      "alert_pct_move": -1.592175616326325,
+      "alert_relative_volume": 3.990875797404889
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1358.699951171875,
+      "alert_pct_move": 1.3728196428730812,
+      "alert_relative_volume": 3.950396910953148
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "alert_price": 2504.89990234375,
+      "alert_pct_move": 1.0121724744495588,
+      "alert_relative_volume": 3.0072982162062325
+    }
+  ]
+}
