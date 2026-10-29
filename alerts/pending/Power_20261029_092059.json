@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-29T09:20:59.229216+05:30",
+  "stocks": [
+    {
+      "ticker": "JSWENERGY.NS",
+      "alert_price": 498.70001220703125,
+      "alert_pct_move": 3.250520125679348,
+      "alert_relative_volume": 15.341138308458238
+    },
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 45.650001525878906,
+      "alert_pct_move": -3.9553909145835244,
+      "alert_relative_volume": 4.440174197476794
+    },
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 126.4000015258789,
+      "alert_pct_move": 2.389635196891533,
+      "alert_relative_volume": 3.8104061813422656
+    }
+  ]
+}

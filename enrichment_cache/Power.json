@@ -1,5 +1,11 @@
 {
-  "ACMESOLAR.NS": {
-    "date": "2026-10-28"
+  "JSWENERGY.NS": {
+    "date": "2026-10-29"
+  },
+  "RELINFRA.NS": {
+    "date": "2026-10-29"
+  },
+  "CESC.NS": {
+    "date": "2026-10-29"
   }
 }
