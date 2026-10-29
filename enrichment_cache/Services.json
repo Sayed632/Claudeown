@@ -1,5 +1,14 @@
 {
+  "ECLERX.NS": {
+    "date": "2026-10-29"
+  },
+  "ADANIPORTS.NS": {
+    "date": "2026-10-29"
+  },
   "JSWINFRA.NS": {
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "GESHIP.NS": {
+    "date": "2026-10-29"
   }
 }

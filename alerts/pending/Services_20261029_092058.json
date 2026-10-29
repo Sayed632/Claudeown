@@ -1,0 +1,30 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-29T09:20:58.294303+05:30",
+  "stocks": [
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1696.5,
+      "alert_pct_move": -10.55517247460156,
+      "alert_relative_volume": 10.34470334238059
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "alert_price": 1801.0,
+      "alert_pct_move": 2.25401408455585,
+      "alert_relative_volume": 5.658575551218391
+    },
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 319.3500061035156,
+      "alert_pct_move": 1.4453680073009527,
+      "alert_relative_volume": 3.5007354602887575
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1585.0999755859375,
+      "alert_pct_move": 2.2051680078344127,
+      "alert_relative_volume": 3.4595092926228466
+    }
+  ]
+}
