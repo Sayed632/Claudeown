@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-29T09:21:12.568280+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 193.22999572753906,
+      "alert_pct_move": 6.727419204902904,
+      "alert_relative_volume": 87.27250187726936
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 683.7000122070312,
+      "alert_pct_move": -1.2707563599954874,
+      "alert_relative_volume": 19.261222324777425
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2220.10009765625,
+      "alert_pct_move": 1.1711719128792641,
+      "alert_relative_volume": 12.935901692536959
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1599.9000244140625,
+      "alert_pct_move": 2.36084609175064,
+      "alert_relative_volume": 7.149222083053033
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 30280.0,
+      "alert_pct_move": -3.934010152284264,
+      "alert_relative_volume": 5.565391536541476
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2200.89990234375,
+      "alert_pct_move": 1.6441071774275295,
+      "alert_relative_volume": 4.520458785656569
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1009.7999877929688,
+      "alert_pct_move": -2.5759780228684273,
+      "alert_relative_volume": 4.379383492964989
+    },
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1599.0,
+      "alert_pct_move": 1.925035073426598,
+      "alert_relative_volume": 3.48731002804376
+    }
+  ]
+}
