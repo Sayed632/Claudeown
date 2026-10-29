@@ -1,0 +1,30 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-29T09:26:02.169085+05:30",
+  "stocks": [
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 405.79998779296875,
+      "alert_pct_move": -1.2291634989715683,
+      "alert_relative_volume": 6.233903605306432
+    },
+    {
+      "ticker": "ASTRAZEN.NS",
+      "alert_price": 6293.5,
+      "alert_pct_move": 3.6308249629507654,
+      "alert_relative_volume": 4.4813407953532725
+    },
+    {
+      "ticker": "ABBOTINDIA.NS",
+      "alert_price": 26245.0,
+      "alert_pct_move": 2.8610621203213795,
+      "alert_relative_volume": 4.33345866836351
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1252.4000244140625,
+      "alert_pct_move": -1.2692136843466695,
+      "alert_relative_volume": 3.730207973793751
+    }
+  ]
+}
