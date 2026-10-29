@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-29T09:26:18.584603+05:30",
+  "stocks": [
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 226.2899932861328,
+      "alert_pct_move": 5.25115966796875,
+      "alert_relative_volume": 26.44198748028558
+    },
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 528.5999755859375,
+      "alert_pct_move": -3.3196203775148607,
+      "alert_relative_volume": 5.211653599195579
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 361.79998779296875,
+      "alert_pct_move": 1.629210054204705,
+      "alert_relative_volume": 4.915146139139857
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1255.699951171875,
+      "alert_pct_move": 1.9236973353794644,
+      "alert_relative_volume": 4.093204081856969
+    },
+    {
+      "ticker": "POONAWALLA.NS",
+      "alert_price": 408.29998779296875,
+      "alert_pct_move": 1.3654419480337452,
+      "alert_relative_volume": 3.868128700392097
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 235.30999755859375,
+      "alert_pct_move": 1.5054741282507038,
+      "alert_relative_volume": 3.5517726349726724
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "alert_price": 1569.0999755859375,
+      "alert_pct_move": 1.5467269718677374,
+      "alert_relative_volume": 3.3837124807843617
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1724.300048828125,
+      "alert_pct_move": -1.1692498948055712,
+      "alert_relative_volume": 3.0192325181477027
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 252.0,
+      "alert_pct_move": 2.231237322515213,
+      "alert_relative_volume": 3.005273301877809
+    }
+  ]
+}
