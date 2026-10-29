@@ -1,14 +1,20 @@
 {
-  "BAJAJ-AUTO.NS": {
-    "date": "2026-10-28"
+  "HYUNDAI.NS": {
+    "date": "2026-10-29"
   },
-  "SCHAEFFLER.NS": {
-    "date": "2026-10-28"
+  "SUNDRMFAST.NS": {
+    "date": "2026-10-29"
   },
-  "EXIDEIND.NS": {
-    "date": "2026-10-28"
+  "OLAELEC.NS": {
+    "date": "2026-10-29"
   },
-  "ATHERENERG.NS": {
-    "date": "2026-10-28"
+  "CRAFTSMAN.NS": {
+    "date": "2026-10-29"
+  },
+  "BOSCHLTD.NS": {
+    "date": "2026-10-29"
+  },
+  "ARE&M.NS": {
+    "date": "2026-10-29"
   }
 }

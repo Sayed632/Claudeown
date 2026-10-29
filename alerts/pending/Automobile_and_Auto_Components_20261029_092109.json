@@ -1,0 +1,42 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-29T09:21:09.795944+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 1953.9000244140625,
+      "alert_pct_move": 4.660131708301062,
+      "alert_relative_volume": 21.534222511140328
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1001.9000244140625,
+      "alert_pct_move": -5.4722142337966035,
+      "alert_relative_volume": 10.78207867751016
+    },
+    {
+      "ticker": "OLAELEC.NS",
+      "alert_price": 35.63999938964844,
+      "alert_pct_move": -2.782325319173932,
+      "alert_relative_volume": 4.830230210526483
+    },
+    {
+      "ticker": "CRAFTSMAN.NS",
+      "alert_price": 10594.0,
+      "alert_pct_move": -3.7871219689401507,
+      "alert_relative_volume": 3.2326257894788064
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 47000.0,
+      "alert_pct_move": -1.3123359580052494,
+      "alert_relative_volume": 3.1258864024899764
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 701.0,
+      "alert_pct_move": -1.1144060011272001,
+      "alert_relative_volume": 3.0249829641688812
+    }
+  ]
+}
