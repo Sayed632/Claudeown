@@ -1,0 +1,30 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-10-29T09:25:56.200802+05:30",
+  "stocks": [
+    {
+      "ticker": "JSWENERGY.NS",
+      "alert_price": 501.75,
+      "alert_pct_move": 3.881987577639751,
+      "alert_relative_volume": 19.135108859822264
+    },
+    {
+      "ticker": "ACMESOLAR.NS",
+      "alert_price": 421.29998779296875,
+      "alert_pct_move": 2.468683946773899,
+      "alert_relative_volume": 13.31803932501803
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 18.049999237060547,
+      "alert_pct_move": 3.7952839021085913,
+      "alert_relative_volume": 4.80763896172892
+    },
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 127.58000183105469,
+      "alert_pct_move": 3.34548803961822,
+      "alert_relative_volume": 3.7609642435565873
+    }
+  ]
+}
