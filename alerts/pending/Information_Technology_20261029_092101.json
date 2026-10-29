@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-29T09:21:01.113769+05:30",
+  "stocks": [
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 333.6499938964844,
+      "alert_pct_move": 9.000322523238372,
+      "alert_relative_volume": 22.655563029179415
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10185.0,
+      "alert_pct_move": 2.588638195004029,
+      "alert_relative_volume": 4.274612098176755
+    }
+  ]
+}
