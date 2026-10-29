@@ -1,0 +1,72 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-29T09:21:18.045461+05:30",
+  "stocks": [
+    {
+      "ticker": "PNBHOUSING.NS",
+      "alert_price": 1135.0,
+      "alert_pct_move": 1.1586452762923352,
+      "alert_relative_volume": 30.673102656440452
+    },
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 229.1699981689453,
+      "alert_pct_move": 6.590696822765262,
+      "alert_relative_volume": 30.25091090219758
+    },
+    {
+      "ticker": "STARHEALTH.NS",
+      "alert_price": 527.2999877929688,
+      "alert_pct_move": -3.557386777692044,
+      "alert_relative_volume": 6.119857034619129
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 363.6499938964844,
+      "alert_pct_move": 2.148874690023701,
+      "alert_relative_volume": 4.607532479660207
+    },
+    {
+      "ticker": "BAJAJHLDNG.NS",
+      "alert_price": 10329.0,
+      "alert_pct_move": -1.2618296529968454,
+      "alert_relative_volume": 3.7041997856925812
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "alert_price": 1582.800048828125,
+      "alert_pct_move": 2.4333483590738014,
+      "alert_relative_volume": 3.511539695334411
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1247.0,
+      "alert_pct_move": 1.2175324675324677,
+      "alert_relative_volume": 3.4780839091480997
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 252.8000030517578,
+      "alert_pct_move": 2.555782171098504,
+      "alert_relative_volume": 3.402553510610464
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3527.800048828125,
+      "alert_pct_move": 1.2281219175932567,
+      "alert_relative_volume": 3.346428590370754
+    },
+    {
+      "ticker": "SBFC.NS",
+      "alert_price": 89.2300033569336,
+      "alert_pct_move": -1.39241301423482,
+      "alert_relative_volume": 3.325164688750687
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 235.0,
+      "alert_pct_move": 1.3717507442460637,
+      "alert_relative_volume": 3.164828321170371
+    }
+  ]
+}
