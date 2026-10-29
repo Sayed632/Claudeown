@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-29T09:25:56.103571+05:30",
+  "stocks": [
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1362.5,
+      "alert_pct_move": -1.9501997741839732,
+      "alert_relative_volume": 9.482101588507879
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 586.0999755859375,
+      "alert_pct_move": -7.313987789300475,
+      "alert_relative_volume": 7.965276709789413
+    },
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 330.8500061035156,
+      "alert_pct_move": -1.3712940635329647,
+      "alert_relative_volume": 4.798805343060917
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 8382.5,
+      "alert_pct_move": -1.3939536525114693,
+      "alert_relative_volume": 3.559382581318845
+    }
+  ]
+}
