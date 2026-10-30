@@ -1,0 +1,36 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-30T09:21:09.328014+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1548.800048828125,
+      "alert_pct_move": 4.903821675483637,
+      "alert_relative_volume": 159.03874064627612
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 95.4800033569336,
+      "alert_pct_move": -1.4247338888313887,
+      "alert_relative_volume": 4.532272938306526
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 448.79998779296875,
+      "alert_pct_move": 1.5269766285258488,
+      "alert_relative_volume": 3.8829798496856736
+    },
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 3127.699951171875,
+      "alert_pct_move": -1.15353013599795,
+      "alert_relative_volume": 3.691604415207938
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 282.45001220703125,
+      "alert_pct_move": -1.5167279536558422,
+      "alert_relative_volume": 3.239266827118464
+    }
+  ]
+}
