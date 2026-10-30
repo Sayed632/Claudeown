@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-30T09:20:57.788846+05:30",
+  "stocks": [
+    {
+      "ticker": "TRENT.NS",
+      "alert_price": 3019.89990234375,
+      "alert_pct_move": 5.528180936897022,
+      "alert_relative_volume": 23.86601445560171
+    },
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 180.4499969482422,
+      "alert_pct_move": -2.591094764781545,
+      "alert_relative_volume": 5.386834546175781
+    }
+  ]
+}
