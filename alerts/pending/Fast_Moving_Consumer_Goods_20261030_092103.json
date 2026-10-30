@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-30T09:21:03.614188+05:30",
+  "stocks": [
+    {
+      "ticker": "GODREJCP.NS",
+      "alert_price": 795.3499755859375,
+      "alert_pct_move": -4.976108054248805,
+      "alert_relative_volume": 40.8883980682975
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 1815.0999755859375,
+      "alert_pct_move": -2.3352178861481034,
+      "alert_relative_volume": 6.185226087814226
+    },
+    {
+      "ticker": "UNITDSPR.NS",
+      "alert_price": 1311.0999755859375,
+      "alert_pct_move": 6.819288700261496,
+      "alert_relative_volume": 6.132928188794543
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 374.6499938964844,
+      "alert_pct_move": -1.6924723441959948,
+      "alert_relative_volume": 3.020870024656569
+    }
+  ]
+}
