@@ -1,29 +1,38 @@
 {
-  "JWL.NS": {
-    "date": "2026-10-29"
+  "GRSE.NS": {
+    "date": "2026-10-30"
+  },
+  "INOXINDIA.NS": {
+    "date": "2026-10-30"
+  },
+  "SUZLON.NS": {
+    "date": "2026-10-30"
   },
   "TITAGARH.NS": {
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "APARINDS.NS": {
+    "date": "2026-10-30"
   },
   "RRKABEL.NS": {
-    "date": "2026-10-29"
-  },
-  "SYRMA.NS": {
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "HONAUT.NS": {
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
-  "APLAPOLLO.NS": {
-    "date": "2026-10-29"
-  },
-  "ACE.NS": {
-    "date": "2026-10-29"
-  },
-  "ZENTEC.NS": {
-    "date": "2026-10-29"
+  "TRITURBINE.NS": {
+    "date": "2026-10-30"
   },
   "WAAREEENER.NS": {
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "ASTRAL.NS": {
+    "date": "2026-10-30"
+  },
+  "SYRMA.NS": {
+    "date": "2026-10-30"
+  },
+  "JWL.NS": {
+    "date": "2026-10-30"
   }
 }
