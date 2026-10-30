@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-10-30T09:25:58.901615+05:30",
+  "stocks": [
+    {
+      "ticker": "TRENT.NS",
+      "alert_price": 3020.5,
+      "alert_pct_move": 5.549150908120046,
+      "alert_relative_volume": 21.639517782593877
+    },
+    {
+      "ticker": "INDIAMART.NS",
+      "alert_price": 1509.9000244140625,
+      "alert_pct_move": -3.99312829577047,
+      "alert_relative_volume": 7.33930010932341
+    },
+    {
+      "ticker": "SWIGGY.NS",
+      "alert_price": 180.25,
+      "alert_pct_move": -2.699055330634278,
+      "alert_relative_volume": 3.8238310597683247
+    }
+  ]
+}
