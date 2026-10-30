@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-10-30T09:21:02.069810+05:30",
+  "stocks": [
+    {
+      "ticker": "DALBHARAT.NS",
+      "alert_price": 1381.199951171875,
+      "alert_pct_move": -1.6169294712892177,
+      "alert_relative_volume": 3.0054904254003736
+    }
+  ]
+}
