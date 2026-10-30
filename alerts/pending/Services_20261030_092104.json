@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-10-30T09:21:04.053630+05:30",
+  "stocks": [
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1556.199951171875,
+      "alert_pct_move": -6.2868858213264325,
+      "alert_relative_volume": 14.69486810364952
+    },
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 312.04998779296875,
+      "alert_pct_move": 1.8273699993049022,
+      "alert_relative_volume": 11.757319370254514
+    },
+    {
+      "ticker": "DELHIVERY.NS",
+      "alert_price": 390.70001220703125,
+      "alert_pct_move": 1.480522651176948,
+      "alert_relative_volume": 3.117157331571978
+    }
+  ]
+}
