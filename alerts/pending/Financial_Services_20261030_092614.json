@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-10-30T09:26:14.868616+05:30",
+  "stocks": [
+    {
+      "ticker": "CAMS.NS",
+      "alert_price": 673.0,
+      "alert_pct_move": -3.4364031548243696,
+      "alert_relative_volume": 12.635673469661343
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 968.3499755859375,
+      "alert_pct_move": -1.8000203264839354,
+      "alert_relative_volume": 8.744687437887473
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "alert_price": 1086.0999755859375,
+      "alert_pct_move": 7.068212682002873,
+      "alert_relative_volume": 7.470516170074519
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 104.0,
+      "alert_pct_move": -1.2814413798522426,
+      "alert_relative_volume": 3.6766432028922864
+    },
+    {
+      "ticker": "INDIANB.NS",
+      "alert_price": 865.6500244140625,
+      "alert_pct_move": 3.0781182420624678,
+      "alert_relative_volume": 3.1688931561654257
+    }
+  ]
+}
