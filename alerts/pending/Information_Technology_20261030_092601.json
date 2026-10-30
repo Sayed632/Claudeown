@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-10-30T09:26:01.058440+05:30",
+  "stocks": [
+    {
+      "ticker": "SAGILITY.NS",
+      "alert_price": 43.06999969482422,
+      "alert_pct_move": -3.235225075289066,
+      "alert_relative_volume": 106.79684848578776
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2030.300048828125,
+      "alert_pct_move": 3.4811441808422527,
+      "alert_relative_volume": 7.58810140537428
+    }
+  ]
+}
