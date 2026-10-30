@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-10-30T09:21:08.296270+05:30",
+  "stocks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "alert_price": 386.3999938964844,
+      "alert_pct_move": -1.704403994658531,
+      "alert_relative_volume": 24.211619337563725
+    }
+  ]
+}
