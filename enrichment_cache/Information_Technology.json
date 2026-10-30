@@ -1,8 +1,11 @@
 {
-  "BSOFT.NS": {
-    "date": "2026-10-29"
+  "SAGILITY.NS": {
+    "date": "2026-10-30"
   },
-  "OFSS.NS": {
-    "date": "2026-10-29"
+  "COFORGE.NS": {
+    "date": "2026-10-30"
+  },
+  "BSOFT.NS": {
+    "date": "2026-10-30"
   }
 }
