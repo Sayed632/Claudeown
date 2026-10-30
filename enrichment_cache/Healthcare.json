@@ -1,17 +1,20 @@
 {
+  "LAURUSLABS.NS": {
+    "date": "2026-10-30"
+  },
+  "INDGN.NS": {
+    "date": "2026-10-30"
+  },
+  "DIVISLAB.NS": {
+    "date": "2026-10-30"
+  },
   "PPLPHARMA.NS": {
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
-  "ABBOTINDIA.NS": {
-    "date": "2026-10-29"
+  "AKUMS.NS": {
+    "date": "2026-10-30"
   },
-  "ASTRAZEN.NS": {
-    "date": "2026-10-29"
-  },
-  "SYNGENE.NS": {
-    "date": "2026-10-29"
-  },
-  "CONCORDBIO.NS": {
-    "date": "2026-10-29"
+  "SUNPHARMA.NS": {
+    "date": "2026-10-30"
   }
 }

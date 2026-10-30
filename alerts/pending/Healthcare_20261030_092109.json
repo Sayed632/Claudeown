@@ -1,0 +1,42 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-10-30T09:21:09.869020+05:30",
+  "stocks": [
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2318.0,
+      "alert_pct_move": 3.297682709447415,
+      "alert_relative_volume": 22.24705658685891
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 584.75,
+      "alert_pct_move": -2.3708175837089582,
+      "alert_relative_volume": 5.214742079128404
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 9802.0,
+      "alert_pct_move": 2.547470837474499,
+      "alert_relative_volume": 4.705976315447544
+    },
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 233.75,
+      "alert_pct_move": 1.286940478556568,
+      "alert_relative_volume": 4.664625243198516
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 748.9500122070312,
+      "alert_pct_move": 3.6322124749708995,
+      "alert_relative_volume": 3.2860758318364818
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "alert_price": 1796.4000244140625,
+      "alert_pct_move": 2.2133726551386914,
+      "alert_relative_volume": 3.153845014342759
+    }
+  ]
+}
