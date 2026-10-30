@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-10-30T09:25:59.706891+05:30",
+  "stocks": [
+    {
+      "ticker": "VGUARD.NS",
+      "alert_price": 273.54998779296875,
+      "alert_pct_move": -3.9670065186659684,
+      "alert_relative_volume": 20.419552762213037
+    },
+    {
+      "ticker": "VOLTAS.NS",
+      "alert_price": 1017.0,
+      "alert_pct_move": -2.3054755043227666,
+      "alert_relative_volume": 6.17672290534744
+    },
+    {
+      "ticker": "DIXON.NS",
+      "alert_price": 11100.0,
+      "alert_pct_move": -3.377437325905292,
+      "alert_relative_volume": 5.024155338967755
+    },
+    {
+      "ticker": "CENTURYPLY.NS",
+      "alert_price": 632.5,
+      "alert_pct_move": -1.5334281871735995,
+      "alert_relative_volume": 3.7694851717300377
+    }
+  ]
+}
