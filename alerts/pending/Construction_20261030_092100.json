@@ -1,0 +1,24 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-10-30T09:21:00.054788+05:30",
+  "stocks": [
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 70.87999725341797,
+      "alert_pct_move": -1.487143488823122,
+      "alert_relative_volume": 9.38110670835218
+    },
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 16.020000457763672,
+      "alert_pct_move": -1.2938945803797632,
+      "alert_relative_volume": 3.4892551536179095
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 183.1999969482422,
+      "alert_pct_move": -1.5053779848160282,
+      "alert_relative_volume": 3.3237022236164173
+    }
+  ]
+}
