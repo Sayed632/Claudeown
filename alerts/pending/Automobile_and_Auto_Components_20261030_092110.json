@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-30T09:21:10.545931+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 681.8499755859375,
+      "alert_pct_move": 1.4355791734103915,
+      "alert_relative_volume": 12.611528629826214
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 34.91999816894531,
+      "alert_pct_move": -2.348993825545224,
+      "alert_relative_volume": 6.482928576191696
+    }
+  ]
+}
