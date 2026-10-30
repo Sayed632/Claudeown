@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-10-30T09:25:58.531537+05:30",
+  "stocks": [
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 34.93000030517578,
+      "alert_pct_move": -2.3210236446169827,
+      "alert_relative_volume": 6.148194715113537
+    }
+  ]
+}
