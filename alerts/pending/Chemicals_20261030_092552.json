@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-10-30T09:25:52.283373+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1551.300048828125,
+      "alert_pct_move": 5.07315247734353,
+      "alert_relative_volume": 146.22061763098486
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 95.38999938964844,
+      "alert_pct_move": -1.5176555971919163,
+      "alert_relative_volume": 3.782603578254931
+    },
+    {
+      "ticker": "SUMICHEM.NS",
+      "alert_price": 322.25,
+      "alert_pct_move": -2.9075004742223927,
+      "alert_relative_volume": 3.7810257177033493
+    }
+  ]
+}
