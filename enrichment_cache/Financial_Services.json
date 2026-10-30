@@ -1,41 +1,17 @@
 {
-  "PNBHOUSING.NS": {
-    "date": "2026-10-29"
+  "CAMS.NS": {
+    "date": "2026-10-30"
   },
-  "CUB.NS": {
-    "date": "2026-10-29"
+  "HOMEFIRST.NS": {
+    "date": "2026-10-30"
   },
-  "STARHEALTH.NS": {
-    "date": "2026-10-29"
+  "IEX.NS": {
+    "date": "2026-10-30"
   },
-  "ABCAPITAL.NS": {
-    "date": "2026-10-29"
+  "INDIANB.NS": {
+    "date": "2026-10-30"
   },
-  "BAJAJHLDNG.NS": {
-    "date": "2026-10-29"
-  },
-  "CHOLAFIN.NS": {
-    "date": "2026-10-29"
-  },
-  "CDSL.NS": {
-    "date": "2026-10-29"
-  },
-  "LTF.NS": {
-    "date": "2026-10-29"
-  },
-  "BSE.NS": {
-    "date": "2026-10-29"
-  },
-  "SBFC.NS": {
-    "date": "2026-10-29"
-  },
-  "BANKBARODA.NS": {
-    "date": "2026-10-29"
-  },
-  "POONAWALLA.NS": {
-    "date": "2026-10-29"
-  },
-  "NUVAMA.NS": {
-    "date": "2026-10-29"
+  "HUDCO.NS": {
+    "date": "2026-10-30"
   }
 }
