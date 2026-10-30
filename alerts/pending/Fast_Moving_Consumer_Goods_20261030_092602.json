@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-10-30T09:26:02.070806+05:30",
+  "stocks": [
+    {
+      "ticker": "GODREJCP.NS",
+      "alert_price": 803.7999877929688,
+      "alert_pct_move": -3.9665486507803167,
+      "alert_relative_volume": 66.0604571799915
+    },
+    {
+      "ticker": "UNITDSPR.NS",
+      "alert_price": 1305.4000244140625,
+      "alert_pct_move": 6.354896402844355,
+      "alert_relative_volume": 5.894186273640149
+    },
+    {
+      "ticker": "PGHH.NS",
+      "alert_price": 6969.0,
+      "alert_pct_move": 1.3083296990841693,
+      "alert_relative_volume": 5.4470385152175504
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 1813.4000244140625,
+      "alert_pct_move": -2.4266868757566584,
+      "alert_relative_volume": 4.243349755587666
+    }
+  ]
+}
