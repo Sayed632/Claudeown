@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-10-30T09:26:02.641050+05:30",
+  "stocks": [
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 1952.199951171875,
+      "alert_pct_move": 1.5079035324605357,
+      "alert_relative_volume": 17.910115524176742
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 35.150001525878906,
+      "alert_pct_move": -4.457731309694723,
+      "alert_relative_volume": 11.847405668499146
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1948.300048828125,
+      "alert_pct_move": 2.005238158540576,
+      "alert_relative_volume": 10.895087398587096
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 639.9500122070312,
+      "alert_pct_move": -3.737962701900086,
+      "alert_relative_volume": 6.027385948941205
+    },
+    {
+      "ticker": "TIMKEN.NS",
+      "alert_price": 2849.39990234375,
+      "alert_pct_move": 1.6408647214955754,
+      "alert_relative_volume": 5.908428376309027
+    },
+    {
+      "ticker": "CUMMINSIND.NS",
+      "alert_price": 4417.0,
+      "alert_pct_move": -4.393939393939394,
+      "alert_relative_volume": 4.14762190723365
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2374.300048828125,
+      "alert_pct_move": -4.9937995258840235,
+      "alert_relative_volume": 4.094353810199452
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 468.54998779296875,
+      "alert_pct_move": 2.842401561889092,
+      "alert_relative_volume": 4.072226943128101
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2287.89990234375,
+      "alert_pct_move": -1.2985374312446074,
+      "alert_relative_volume": 3.9257523337878544
+    },
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1138.0999755859375,
+      "alert_pct_move": -1.5314130900179272,
+      "alert_relative_volume": 3.7371094680296064
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2051.10009765625,
+      "alert_pct_move": -3.3821568604450305,
+      "alert_relative_volume": 3.6517342414831755
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 185.9199981689453,
+      "alert_pct_move": -3.723267784517232,
+      "alert_relative_volume": 3.087060921428344
+    }
+  ]
+}
