@@ -1,11 +1,20 @@
 {
   "RELINFRA.NS": {
-    "date": "2026-10-30"
-  },
-  "RPOWER.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
   "JPPOWER.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
+  },
+  "NTPC.NS": {
+    "date": "2026-11-02"
+  },
+  "SJVN.NS": {
+    "date": "2026-11-02"
+  },
+  "NTPCGREEN.NS": {
+    "date": "2026-11-02"
+  },
+  "RPOWER.NS": {
+    "date": "2026-11-02"
   }
 }

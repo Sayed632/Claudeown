@@ -1,0 +1,42 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-02T09:25:53.391490+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 47.5,
+      "alert_pct_move": 1.996994441207053,
+      "alert_relative_volume": 17.22983607048819
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 13.449999809265137,
+      "alert_pct_move": 5.738989991443173,
+      "alert_relative_volume": 10.307881220137585
+    },
+    {
+      "ticker": "NTPC.NS",
+      "alert_price": 326.3500061035156,
+      "alert_pct_move": 3.1936778192934785,
+      "alert_relative_volume": 10.286930626969967
+    },
+    {
+      "ticker": "SJVN.NS",
+      "alert_price": 54.380001068115234,
+      "alert_pct_move": 1.8542829926661213,
+      "alert_relative_volume": 8.134398042445572
+    },
+    {
+      "ticker": "NTPCGREEN.NS",
+      "alert_price": 83.80999755859375,
+      "alert_pct_move": 1.6618086809995134,
+      "alert_relative_volume": 7.477363661323294
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 18.600000381469727,
+      "alert_pct_move": 3.8525993296271204,
+      "alert_relative_volume": 6.248863282288337
+    }
+  ]
+}
