@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-02T09:21:17.008038+05:30",
+  "stocks": [
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1717.5,
+      "alert_pct_move": 8.12767398650479,
+      "alert_relative_volume": 64.08421007511123
+    },
+    {
+      "ticker": "SHYAMMETL.NS",
+      "alert_price": 1191.5,
+      "alert_pct_move": 2.459366668286713,
+      "alert_relative_volume": 23.473128738695465
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 195.10000610351562,
+      "alert_pct_move": 1.1772049219030607,
+      "alert_relative_volume": 14.412978473695581
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 257.6400146484375,
+      "alert_pct_move": 6.5949598268338905,
+      "alert_relative_volume": 13.182742831544507
+    },
+    {
+      "ticker": "FINPIPE.NS",
+      "alert_price": 140.6300048828125,
+      "alert_pct_move": 2.5298929192590256,
+      "alert_relative_volume": 11.840494543273042
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4151.60009765625,
+      "alert_pct_move": 3.2736342700559704,
+      "alert_relative_volume": 11.00367607411348
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1580.0,
+      "alert_pct_move": -2.7871806723187684,
+      "alert_relative_volume": 9.125960925348002
+    },
+    {
+      "ticker": "SUZLON.NS",
+      "alert_price": 34.33000183105469,
+      "alert_pct_move": 1.2684374213007734,
+      "alert_relative_volume": 6.735783485460787
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 57.29999923706055,
+      "alert_pct_move": 3.8043450092323274,
+      "alert_relative_volume": 6.209254312659234
+    },
+    {
+      "ticker": "BEL.NS",
+      "alert_price": 373.79998779296875,
+      "alert_pct_move": 1.0543373778956533,
+      "alert_relative_volume": 5.277010669743003
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "alert_price": 1648.300048828125,
+      "alert_pct_move": 2.9029840543468173,
+      "alert_relative_volume": 4.602414183327046
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2281.0,
+      "alert_pct_move": -2.5879780974089357,
+      "alert_relative_volume": 3.6704665233514358
+    }
+  ]
+}

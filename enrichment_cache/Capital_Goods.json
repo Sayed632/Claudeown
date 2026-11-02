@@ -1,50 +1,38 @@
 {
-  "GRSE.NS": {
-    "date": "2026-10-30"
+  "ZENTEC.NS": {
+    "date": "2026-11-02"
   },
-  "INOXINDIA.NS": {
-    "date": "2026-10-30"
+  "SHYAMMETL.NS": {
+    "date": "2026-11-02"
   },
-  "SUZLON.NS": {
-    "date": "2026-10-30"
+  "GPIL.NS": {
+    "date": "2026-11-02"
   },
-  "TITAGARH.NS": {
-    "date": "2026-10-30"
+  "PRAJIND.NS": {
+    "date": "2026-11-02"
   },
-  "APARINDS.NS": {
-    "date": "2026-10-30"
+  "FINPIPE.NS": {
+    "date": "2026-11-02"
   },
-  "RRKABEL.NS": {
-    "date": "2026-10-30"
-  },
-  "HONAUT.NS": {
-    "date": "2026-10-30"
-  },
-  "TRITURBINE.NS": {
-    "date": "2026-10-30"
-  },
-  "WAAREEENER.NS": {
-    "date": "2026-10-30"
-  },
-  "ASTRAL.NS": {
-    "date": "2026-10-30"
+  "GVT&D.NS": {
+    "date": "2026-11-02"
   },
   "SYRMA.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "JWL.NS": {
-    "date": "2026-10-30"
+  "SUZLON.NS": {
+    "date": "2026-11-02"
   },
-  "TIMKEN.NS": {
-    "date": "2026-10-30"
+  "INOXWIND.NS": {
+    "date": "2026-11-02"
   },
-  "CUMMINSIND.NS": {
-    "date": "2026-10-30"
+  "BEL.NS": {
+    "date": "2026-11-02"
+  },
+  "KIRLOSBROS.NS": {
+    "date": "2026-11-02"
   },
   "WELCORP.NS": {
-    "date": "2026-10-30"
-  },
-  "COCHINSHIP.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   }
 }
