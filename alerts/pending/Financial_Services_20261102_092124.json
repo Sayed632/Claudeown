@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-02T09:21:24.844798+05:30",
+  "stocks": [
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2485.699951171875,
+      "alert_pct_move": 3.201023432268768,
+      "alert_relative_volume": 21.682961944900416
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1285.5999755859375,
+      "alert_pct_move": 1.7893884074376483,
+      "alert_relative_volume": 15.206078268109906
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 248.33999633789062,
+      "alert_pct_move": 4.082141653487362,
+      "alert_relative_volume": 10.74177621957619
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 294.20001220703125,
+      "alert_pct_move": 1.7993121823637543,
+      "alert_relative_volume": 6.614000627200355
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 737.0,
+      "alert_pct_move": 2.169546675502458,
+      "alert_relative_volume": 6.0327228717870005
+    },
+    {
+      "ticker": "IEX.NS",
+      "alert_price": 104.41000366210938,
+      "alert_pct_move": 3.478693838602392,
+      "alert_relative_volume": 4.797406283600373
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 209.16000366210938,
+      "alert_pct_move": 2.2787303971194985,
+      "alert_relative_volume": 4.335387995621584
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 74.3499984741211,
+      "alert_pct_move": 1.3356899152967743,
+      "alert_relative_volume": 4.2052923131611575
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 540.0499877929688,
+      "alert_pct_move": 2.3500355927541157,
+      "alert_relative_volume": 4.148020532751372
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 571.1500244140625,
+      "alert_pct_move": 1.483659701884249,
+      "alert_relative_volume": 3.9681237240627802
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 110.58999633789062,
+      "alert_pct_move": 2.6071605032653924,
+      "alert_relative_volume": 3.948240313461916
+    },
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 151.10000610351562,
+      "alert_pct_move": -4.932676618512614,
+      "alert_relative_volume": 3.4176160405442837
+    }
+  ]
+}

@@ -1,20 +1,38 @@
 {
-  "CAMS.NS": {
-    "date": "2026-10-30"
+  "MUTHOOTFIN.NS": {
+    "date": "2026-11-02"
   },
-  "HOMEFIRST.NS": {
-    "date": "2026-10-30"
+  "CDSL.NS": {
+    "date": "2026-11-02"
+  },
+  "BANKBARODA.NS": {
+    "date": "2026-11-02"
+  },
+  "MANAPPURAM.NS": {
+    "date": "2026-11-02"
+  },
+  "CHOICEIN.NS": {
+    "date": "2026-11-02"
   },
   "IEX.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "INDIANB.NS": {
-    "date": "2026-10-30"
+  "JIOFIN.NS": {
+    "date": "2026-11-02"
   },
-  "HUDCO.NS": {
-    "date": "2026-10-30"
+  "IRFC.NS": {
+    "date": "2026-11-02"
   },
-  "MOTILALOFS.NS": {
-    "date": "2026-10-30"
+  "IIFL.NS": {
+    "date": "2026-11-02"
+  },
+  "TATAINVEST.NS": {
+    "date": "2026-11-02"
+  },
+  "JMFINANCIL.NS": {
+    "date": "2026-11-02"
+  },
+  "NIACL.NS": {
+    "date": "2026-11-02"
   }
 }
