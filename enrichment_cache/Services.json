@@ -1,11 +1,11 @@
 {
-  "ECLERX.NS": {
-    "date": "2026-10-30"
-  },
-  "FSL.NS": {
-    "date": "2026-10-30"
-  },
   "DELHIVERY.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
+  },
+  "REDINGTON.NS": {
+    "date": "2026-11-02"
+  },
+  "ECLERX.NS": {
+    "date": "2026-11-02"
   }
 }

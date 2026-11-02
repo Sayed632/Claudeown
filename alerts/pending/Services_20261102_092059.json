@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-02T09:20:59.767174+05:30",
+  "stocks": [
+    {
+      "ticker": "DELHIVERY.NS",
+      "alert_price": 398.8500061035156,
+      "alert_pct_move": 3.3290171252631153,
+      "alert_relative_volume": 20.25094058437551
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 321.3999938964844,
+      "alert_pct_move": -1.6975128011411398,
+      "alert_relative_volume": 5.5626837700181015
+    },
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1530.0999755859375,
+      "alert_pct_move": -1.7087413387475978,
+      "alert_relative_volume": 3.2241727120662937
+    }
+  ]
+}
