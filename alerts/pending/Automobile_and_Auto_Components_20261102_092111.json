@@ -1,0 +1,66 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-02T09:21:11.318819+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 703.9500122070312,
+      "alert_pct_move": 8.818980621409384,
+      "alert_relative_volume": 114.27501067379029
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 39.13999938964844,
+      "alert_pct_move": 11.383039469199087,
+      "alert_relative_volume": 83.78643548269811
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 706.0499877929688,
+      "alert_pct_move": 2.7953720447688912,
+      "alert_relative_volume": 7.994626442302049
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1429.199951171875,
+      "alert_pct_move": 2.480996428484836,
+      "alert_relative_volume": 7.11552490674595
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 975.4500122070312,
+      "alert_pct_move": 2.5601973763160486,
+      "alert_relative_volume": 5.785518166454405
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 310.8999938964844,
+      "alert_pct_move": 3.01524402637091,
+      "alert_relative_volume": 5.533161843881265
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 476.1499938964844,
+      "alert_pct_move": 1.8175986551774654,
+      "alert_relative_volume": 4.874279185131505
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 11650.0,
+      "alert_pct_move": 2.219882425199614,
+      "alert_relative_volume": 3.787343043465241
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 17685.0,
+      "alert_pct_move": 1.9014693171996542,
+      "alert_relative_volume": 3.6883614664752815
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 386.6000061035156,
+      "alert_pct_move": 1.8843045635700957,
+      "alert_relative_volume": 3.0005152057473357
+    }
+  ]
+}
