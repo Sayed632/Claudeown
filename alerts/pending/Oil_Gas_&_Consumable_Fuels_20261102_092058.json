@@ -1,0 +1,60 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-02T09:20:58.322696+05:30",
+  "stocks": [
+    {
+      "ticker": "IGL.NS",
+      "alert_price": 127.70999908447266,
+      "alert_pct_move": -8.247721212424178,
+      "alert_relative_volume": 48.18740724677276
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "alert_price": 1217.0,
+      "alert_pct_move": 4.472484719205278,
+      "alert_relative_volume": 36.06370379643931
+    },
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 134.3300018310547,
+      "alert_pct_move": 3.211685079213226,
+      "alert_relative_volume": 16.3928524432644
+    },
+    {
+      "ticker": "GAIL.NS",
+      "alert_price": 172.2899932861328,
+      "alert_pct_move": 2.608534053061799,
+      "alert_relative_volume": 7.3925496127043075
+    },
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1020.5,
+      "alert_pct_move": -2.670481640438722,
+      "alert_relative_volume": 5.4139722998451125
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "alert_price": 396.0,
+      "alert_pct_move": 1.7994858611825193,
+      "alert_relative_volume": 4.74763436178085
+    },
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 293.95001220703125,
+      "alert_pct_move": 1.5371372045012952,
+      "alert_relative_volume": 3.4371148925060204
+    },
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1131.9000244140625,
+      "alert_pct_move": 3.209635707977791,
+      "alert_relative_volume": 3.279358865412064
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 290.95001220703125,
+      "alert_pct_move": 2.123558596054267,
+      "alert_relative_volume": 3.017905781823789
+    }
+  ]
+}
