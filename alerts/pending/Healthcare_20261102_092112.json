@@ -1,0 +1,60 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-02T09:21:12.364032+05:30",
+  "stocks": [
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 620.0999755859375,
+      "alert_pct_move": 5.674844663547854,
+      "alert_relative_volume": 36.69472447880983
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1178.699951171875,
+      "alert_pct_move": -5.370907652963973,
+      "alert_relative_volume": 15.33859164141897
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1749.800048828125,
+      "alert_pct_move": 1.720735873529419,
+      "alert_relative_volume": 12.187666659235772
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 885.4500122070312,
+      "alert_pct_move": 2.9593037450036337,
+      "alert_relative_volume": 6.998381318138794
+    },
+    {
+      "ticker": "AJANTPHARM.NS",
+      "alert_price": 3371.300048828125,
+      "alert_pct_move": -3.9187185957182855,
+      "alert_relative_volume": 6.983818411655982
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "alert_price": 1747.0999755859375,
+      "alert_pct_move": -1.7213239819107682,
+      "alert_relative_volume": 6.391332283902126
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 9919.0,
+      "alert_pct_move": 1.4212678936605316,
+      "alert_relative_volume": 5.339987747527739
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1301.5,
+      "alert_pct_move": 2.4561087910417325,
+      "alert_relative_volume": 3.645115003752805
+    },
+    {
+      "ticker": "RAINBOW.NS",
+      "alert_price": 1199.9000244140625,
+      "alert_pct_move": -1.5426214417859707,
+      "alert_relative_volume": 3.1413225159948466
+    }
+  ]
+}

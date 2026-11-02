@@ -1,23 +1,29 @@
 {
-  "LAURUSLABS.NS": {
-    "date": "2026-10-30"
-  },
   "INDGN.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "DIVISLAB.NS": {
-    "date": "2026-10-30"
+  "CONCORDBIO.NS": {
+    "date": "2026-11-02"
   },
-  "PPLPHARMA.NS": {
-    "date": "2026-10-30"
+  "NH.NS": {
+    "date": "2026-11-02"
   },
-  "AKUMS.NS": {
-    "date": "2026-10-30"
+  "MAXHEALTH.NS": {
+    "date": "2026-11-02"
+  },
+  "AJANTPHARM.NS": {
+    "date": "2026-11-02"
   },
   "SUNPHARMA.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "NEULANDLAB.NS": {
-    "date": "2026-10-30"
+  "DIVISLAB.NS": {
+    "date": "2026-11-02"
+  },
+  "MEDANTA.NS": {
+    "date": "2026-11-02"
+  },
+  "RAINBOW.NS": {
+    "date": "2026-11-02"
   }
 }
