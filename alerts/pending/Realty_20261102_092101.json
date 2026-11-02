@@ -1,0 +1,12 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-11-02T09:21:01.377367+05:30",
+  "stocks": [
+    {
+      "ticker": "PHOENIXLTD.NS",
+      "alert_price": 2016.5,
+      "alert_pct_move": 3.0298411152431846,
+      "alert_relative_volume": 4.860854060214268
+    }
+  ]
+}
