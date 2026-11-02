@@ -1,11 +1,14 @@
 {
-  "SAGILITY.NS": {
-    "date": "2026-10-30"
+  "LATENTVIEW.NS": {
+    "date": "2026-11-02"
+  },
+  "INTELLECT.NS": {
+    "date": "2026-11-02"
   },
   "COFORGE.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "BSOFT.NS": {
-    "date": "2026-10-30"
+  "ZENSARTECH.NS": {
+    "date": "2026-11-02"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-02T09:21:09.099528+05:30",
+  "stocks": [
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 198.82000732421875,
+      "alert_pct_move": -5.499307048336325,
+      "alert_relative_volume": 68.37205356931962
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 494.0,
+      "alert_pct_move": -2.0909697846029305,
+      "alert_relative_volume": 21.11629700906583
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2078.60009765625,
+      "alert_pct_move": 1.643036560207824,
+      "alert_relative_volume": 3.3744515555686427
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 548.2999877929688,
+      "alert_pct_move": 2.390287169555322,
+      "alert_relative_volume": 3.024584011840115
+    }
+  ]
+}
