@@ -1,0 +1,30 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-02T09:21:02.828806+05:30",
+  "stocks": [
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 403.79998779296875,
+      "alert_pct_move": -1.9069613069129858,
+      "alert_relative_volume": 11.022058745846158
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 434.8500061035156,
+      "alert_pct_move": -1.3610071264445316,
+      "alert_relative_volume": 10.981745118511661
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 173.86000061035156,
+      "alert_pct_move": 3.735080118654379,
+      "alert_relative_volume": 7.871967194429962
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 240.92999267578125,
+      "alert_pct_move": 1.2736439079587767,
+      "alert_relative_volume": 3.516134817817588
+    }
+  ]
+}
