@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-02T09:21:06.992664+05:30",
+  "stocks": [
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 73.3499984741211,
+      "alert_pct_move": 4.027792159761312,
+      "alert_relative_volume": 8.978145419347824
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 122.41000366210938,
+      "alert_pct_move": 1.6694369690671778,
+      "alert_relative_volume": 4.681752804146482
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 39.83000183105469,
+      "alert_pct_move": 2.7075891820769424,
+      "alert_relative_volume": 3.931301407595919
+    },
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 819.0999755859375,
+      "alert_pct_move": 1.6694533313838043,
+      "alert_relative_volume": 3.7838863316787297
+    }
+  ]
+}
