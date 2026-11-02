@@ -1,20 +1,17 @@
 {
-  "DEEPAKNTR.NS": {
-    "date": "2026-10-30"
-  },
-  "RCF.NS": {
-    "date": "2026-10-30"
+  "CLEAN.NS": {
+    "date": "2026-11-02"
   },
   "AARTIIND.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "BASF.NS": {
-    "date": "2026-10-30"
+  "RCF.NS": {
+    "date": "2026-11-02"
   },
-  "PCBL.NS": {
-    "date": "2026-10-30"
+  "SWANCORP.NS": {
+    "date": "2026-11-02"
   },
-  "SUMICHEM.NS": {
-    "date": "2026-10-30"
+  "NAVINFLUOR.NS": {
+    "date": "2026-11-02"
   }
 }
