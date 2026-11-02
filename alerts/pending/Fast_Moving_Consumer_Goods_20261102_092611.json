@@ -1,0 +1,36 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-02T09:26:11.952024+05:30",
+  "stocks": [
+    {
+      "ticker": "JYOTHYLAB.NS",
+      "alert_price": 183.3699951171875,
+      "alert_pct_move": 6.666273754262049,
+      "alert_relative_volume": 14.456600114208033
+    },
+    {
+      "ticker": "VBL.NS",
+      "alert_price": 400.0,
+      "alert_pct_move": 2.0408163265306123,
+      "alert_relative_volume": 5.849464863075763
+    },
+    {
+      "ticker": "BBTC.NS",
+      "alert_price": 1209.199951171875,
+      "alert_pct_move": 5.404463270475774,
+      "alert_relative_volume": 3.9250860818863393
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 1860.5999755859375,
+      "alert_pct_move": 2.034547605480532,
+      "alert_relative_volume": 3.685984052599526
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1712.5999755859375,
+      "alert_pct_move": 1.3252884310244937,
+      "alert_relative_volume": 3.322116682880154
+    }
+  ]
+}
