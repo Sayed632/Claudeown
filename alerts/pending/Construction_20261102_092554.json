@@ -1,0 +1,42 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-02T09:25:54.151924+05:30",
+  "stocks": [
+    {
+      "ticker": "ENGINERSIN.NS",
+      "alert_price": 278.70001220703125,
+      "alert_pct_move": 10.661109967366732,
+      "alert_relative_volume": 37.12575642641326
+    },
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 117.73999786376953,
+      "alert_pct_move": 2.820710564389297,
+      "alert_relative_volume": 8.418082879367098
+    },
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 16.229999542236328,
+      "alert_pct_move": 3.178639634778497,
+      "alert_relative_volume": 5.422924136117839
+    },
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 71.94000244140625,
+      "alert_pct_move": 3.273038557902129,
+      "alert_relative_volume": 4.983583774811878
+    },
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 100.88999938964844,
+      "alert_pct_move": 4.408571103503561,
+      "alert_relative_volume": 4.257121674552157
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 184.41000366210938,
+      "alert_pct_move": 2.6381730625426916,
+      "alert_relative_volume": 4.156449403630828
+    }
+  ]
+}
