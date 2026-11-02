@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-02T09:21:00.716369+05:30",
+  "stocks": [
+    {
+      "ticker": "DIXON.NS",
+      "alert_price": 11473.0,
+      "alert_pct_move": 4.3,
+      "alert_relative_volume": 10.920707245802587
+    }
+  ]
+}
