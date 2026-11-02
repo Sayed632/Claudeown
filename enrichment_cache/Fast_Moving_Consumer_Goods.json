@@ -1,17 +1,14 @@
 {
-  "GODREJCP.NS": {
-    "date": "2026-10-30"
+  "JYOTHYLAB.NS": {
+    "date": "2026-11-02"
+  },
+  "VBL.NS": {
+    "date": "2026-11-02"
   },
   "DOMS.NS": {
-    "date": "2026-10-30"
+    "date": "2026-11-02"
   },
-  "UNITDSPR.NS": {
-    "date": "2026-10-30"
-  },
-  "LTFOODS.NS": {
-    "date": "2026-10-30"
-  },
-  "PGHH.NS": {
-    "date": "2026-10-30"
+  "BBTC.NS": {
+    "date": "2026-11-02"
   }
 }
