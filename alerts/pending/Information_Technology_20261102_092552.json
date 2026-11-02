@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-02T09:25:52.850451+05:30",
+  "stocks": [
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 213.50999450683594,
+      "alert_pct_move": 1.4829579002037914,
+      "alert_relative_volume": 80.33572351225065
+    },
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1385.199951171875,
+      "alert_pct_move": 3.234453775855334,
+      "alert_relative_volume": 6.767956397600721
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2088.89990234375,
+      "alert_pct_move": 2.1466944911369192,
+      "alert_relative_volume": 3.683903907239977
+    }
+  ]
+}
