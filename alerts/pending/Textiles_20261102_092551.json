@@ -1,0 +1,24 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-11-02T09:25:51.587833+05:30",
+  "stocks": [
+    {
+      "ticker": "WELSPUNLIV.NS",
+      "alert_price": 239.0,
+      "alert_pct_move": 9.092568012806016,
+      "alert_relative_volume": 37.61410354924805
+    },
+    {
+      "ticker": "TRIDENT.NS",
+      "alert_price": 21.940000534057617,
+      "alert_pct_move": 3.6372246338624925,
+      "alert_relative_volume": 6.675155177525466
+    },
+    {
+      "ticker": "VTL.NS",
+      "alert_price": 505.8500061035156,
+      "alert_pct_move": 4.052249810626545,
+      "alert_relative_volume": 4.798483825852795
+    }
+  ]
+}
