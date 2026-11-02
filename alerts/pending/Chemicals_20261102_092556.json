@@ -1,0 +1,42 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-02T09:25:56.164268+05:30",
+  "stocks": [
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 660.0499877929688,
+      "alert_pct_move": -7.76271516044758,
+      "alert_relative_volume": 29.534155566744744
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 455.54998779296875,
+      "alert_pct_move": 4.543887043710557,
+      "alert_relative_volume": 16.641176258633454
+    },
+    {
+      "ticker": "SWANCORP.NS",
+      "alert_price": 239.5,
+      "alert_pct_move": 5.34418014968177,
+      "alert_relative_volume": 8.636656554435325
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 8432.5,
+      "alert_pct_move": -2.851382488479263,
+      "alert_relative_volume": 7.278850393510549
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 94.88999938964844,
+      "alert_pct_move": 1.3457248458740847,
+      "alert_relative_volume": 5.810667366826599
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 684.2000122070312,
+      "alert_pct_move": 2.104169099359336,
+      "alert_relative_volume": 3.488337791063562
+    }
+  ]
+}
