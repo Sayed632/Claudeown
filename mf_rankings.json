@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:03:58.806484+05:30",
+  "generated_at": "2026-11-02T09:04:01.423811+05:30",
   "methodology": "Blend Score = 0.20x(1Y CAGR) + 0.40x(3Y CAGR) + 0.40x(5Y CAGR). Direct-Growth plans only. Own calculation, not a Value Research/Morningstar/CRISIL rating.",
   "categories": {
     "Large Cap": [
@@ -38,10 +38,26 @@
       {
         "code": 118870,
         "name": "Taurus Large Cap Fund - Direct Plan - Growth",
-        "cagr_1y": 0.55,
-        "cagr_3y": 12.98,
-        "cagr_5y": 9.13,
-        "blend_score": 8.96
+        "cagr_1y": 2.96,
+        "cagr_3y": 14.28,
+        "cagr_5y": 10.15,
+        "blend_score": 10.36
+      },
+      {
+        "code": 120392,
+        "name": "Invesco India Large Cap Fund - Direct Plan - Growth",
+        "cagr_1y": -2.38,
+        "cagr_3y": 14.15,
+        "cagr_5y": 10.24,
+        "blend_score": 9.28
+      },
+      {
+        "code": 118479,
+        "name": "BANDHAN LARGE CAP FUND - Direct Plan - Growth",
+        "cagr_1y": -4.6,
+        "cagr_3y": 13.33,
+        "cagr_5y": 9.52,
+        "blend_score": 8.22
       },
       {
         "code": 119148,
@@ -52,36 +68,20 @@
         "blend_score": 8.16
       },
       {
-        "code": 120392,
-        "name": "Invesco India Large Cap Fund - Direct Plan - Growth",
-        "cagr_1y": -5.67,
-        "cagr_3y": 12.71,
-        "cagr_5y": 9.2,
-        "blend_score": 7.63
-      },
-      {
-        "code": 118479,
-        "name": "BANDHAN LARGE CAP FUND - Direct Plan - Growth",
-        "cagr_1y": -7.2,
-        "cagr_3y": 12.07,
-        "cagr_5y": 8.68,
-        "blend_score": 6.86
-      },
-      {
         "code": 148980,
         "name": "BANK OF INDIA LARGE CAP FUND - Direct Plan - Growth",
-        "cagr_1y": -4.1,
-        "cagr_3y": 11.05,
-        "cagr_5y": 7.67,
-        "blend_score": 6.67
+        "cagr_1y": -2.8,
+        "cagr_3y": 11.84,
+        "cagr_5y": 8.56,
+        "blend_score": 7.6
       },
       {
         "code": 118632,
         "name": "Nippon India Large Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": -10.45,
-        "cagr_3y": 10.08,
-        "cagr_5y": 10.96,
-        "blend_score": 6.32
+        "cagr_1y": -8.74,
+        "cagr_3y": 11.06,
+        "cagr_5y": 11.98,
+        "blend_score": 7.47
       }
     ],
     "Mid Cap": [
@@ -104,66 +104,66 @@
       {
         "code": 120403,
         "name": "Invesco India Mid Cap Fund - Direct Plan - Growth",
-        "cagr_1y": -4.01,
-        "cagr_3y": 20.36,
-        "cagr_5y": 16.44,
-        "blend_score": 13.92
+        "cagr_1y": -0.48,
+        "cagr_3y": 21.88,
+        "cagr_5y": 17.38,
+        "blend_score": 15.61
       },
       {
         "code": 147704,
         "name": "Motilal Oswal Large and Midcap Fund - Direct Plan - Growth",
-        "cagr_1y": -2.72,
-        "cagr_3y": 19.33,
-        "cagr_5y": 16.72,
-        "blend_score": 13.87
-      },
-      {
-        "code": 140228,
-        "name": "Edelweiss Mid Cap Fund - Direct Plan - Growth",
-        "cagr_1y": -3.68,
-        "cagr_3y": 18.18,
-        "cagr_5y": 15.44,
-        "blend_score": 12.71
+        "cagr_1y": 0.26,
+        "cagr_3y": 20.66,
+        "cagr_5y": 17.43,
+        "blend_score": 15.29
       },
       {
         "code": 120381,
         "name": "ICICI Prudential Mid Cap Fund - Direct Plan - Growth",
-        "cagr_1y": -1.23,
-        "cagr_3y": 17.9,
-        "cagr_5y": 13.71,
-        "blend_score": 12.4
+        "cagr_1y": 0.9,
+        "cagr_3y": 19.5,
+        "cagr_5y": 14.82,
+        "blend_score": 13.91
       },
       {
-        "code": 118989,
-        "name": "HDFC Mid Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": -3.17,
-        "cagr_3y": 15.27,
-        "cagr_5y": 16.51,
-        "blend_score": 12.08
+        "code": 140228,
+        "name": "Edelweiss Mid Cap Fund - Direct Plan - Growth",
+        "cagr_1y": -1.99,
+        "cagr_3y": 18.9,
+        "cagr_5y": 16.32,
+        "blend_score": 13.69
       },
       {
         "code": 118668,
         "name": "Nippon India Growth Mid Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": -3.33,
-        "cagr_3y": 15.65,
-        "cagr_5y": 15.35,
-        "blend_score": 11.74
+        "cagr_1y": -1.75,
+        "cagr_3y": 16.4,
+        "cagr_5y": 16.05,
+        "blend_score": 12.63
+      },
+      {
+        "code": 118989,
+        "name": "HDFC Mid Cap Fund - Direct Plan - Growth Option",
+        "cagr_1y": -2.96,
+        "cagr_3y": 15.54,
+        "cagr_5y": 17.09,
+        "blend_score": 12.46
       },
       {
         "code": 148733,
         "name": "ITI Mid Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": -3.51,
-        "cagr_3y": 16.75,
-        "cagr_5y": 13.11,
-        "blend_score": 11.24
+        "cagr_1y": -1.25,
+        "cagr_3y": 17.65,
+        "cagr_5y": 14.03,
+        "blend_score": 12.42
       },
       {
-        "code": 119807,
-        "name": "L&T Mid Cap Fund-Direct Plan-Growth",
-        "cagr_1y": 1.48,
-        "cagr_3y": 18.1,
-        "cagr_5y": 8.68,
-        "blend_score": 11.01
+        "code": 148073,
+        "name": "Union Midcap Fund - Direct Plan - Growth Option",
+        "cagr_1y": 0.66,
+        "cagr_3y": 15.64,
+        "cagr_5y": 13.79,
+        "blend_score": 11.91
       }
     ],
     "Small Cap": [
@@ -178,74 +178,74 @@
       {
         "code": 145678,
         "name": "BANK OF INDIA SMALL CAP FUND - Direct Plan - Growth",
-        "cagr_1y": 16.71,
-        "cagr_3y": 18.79,
-        "cagr_5y": 17.87,
-        "blend_score": 18.01
-      },
-      {
-        "code": 147946,
-        "name": "BANDHAN Small Cap Fund - Direct Plan - Growth",
-        "cagr_1y": 2.32,
-        "cagr_3y": 22.1,
-        "cagr_5y": 18.02,
-        "blend_score": 16.51
+        "cagr_1y": 16.64,
+        "cagr_3y": 18.62,
+        "cagr_5y": 18.46,
+        "blend_score": 18.16
       },
       {
         "code": 147919,
         "name": "ITI Small Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": 7.49,
-        "cagr_3y": 20.58,
-        "cagr_5y": 15.92,
-        "blend_score": 16.1
+        "cagr_1y": 11.05,
+        "cagr_3y": 21.97,
+        "cagr_5y": 17.21,
+        "blend_score": 17.88
       },
       {
         "code": 145137,
         "name": "Invesco India Small Cap Fund - Direct Plan - Growth",
-        "cagr_1y": 2.88,
-        "cagr_3y": 19.46,
-        "cagr_5y": 17.44,
-        "blend_score": 15.33
+        "cagr_1y": 6.15,
+        "cagr_3y": 20.26,
+        "cagr_5y": 18.16,
+        "blend_score": 16.6
       },
       {
-        "code": 119212,
-        "name": "DSP Small Cap Fund - Direct Plan - Growth",
-        "cagr_1y": 9.85,
-        "cagr_3y": 15.43,
-        "cagr_5y": 15.6,
-        "blend_score": 14.38
-      },
-      {
-        "code": 120828,
-        "name": "Quant Small Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": 3.83,
-        "cagr_3y": 16.43,
-        "cagr_5y": 16.51,
-        "blend_score": 13.94
+        "code": 147946,
+        "name": "BANDHAN Small Cap Fund - Direct Plan - Growth",
+        "cagr_1y": 1.22,
+        "cagr_3y": 21.72,
+        "cagr_5y": 18.08,
+        "blend_score": 16.16
       },
       {
         "code": 129649,
         "name": "Union Small Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": 9.09,
-        "cagr_3y": 14.0,
-        "cagr_5y": 14.77,
-        "blend_score": 13.33
+        "cagr_1y": 11.79,
+        "cagr_3y": 14.61,
+        "cagr_5y": 16.16,
+        "blend_score": 14.67
       },
       {
-        "code": 120069,
-        "name": "HSBC Small Cap Equity Fund - Growth Direct",
-        "cagr_1y": -8.76,
-        "cagr_3y": 25.68,
-        "cagr_5y": 7.63,
-        "blend_score": 11.57
+        "code": 119212,
+        "name": "DSP Small Cap Fund - Direct Plan - Growth",
+        "cagr_1y": 9.47,
+        "cagr_3y": 15.83,
+        "cagr_5y": 16.05,
+        "blend_score": 14.64
       },
       {
-        "code": 118778,
-        "name": "Nippon India Small Cap Fund - Direct Plan - Growth Option",
-        "cagr_1y": -1.4,
-        "cagr_3y": 12.63,
-        "cagr_5y": 16.48,
-        "blend_score": 11.36
+        "code": 120828,
+        "name": "Quant Small Cap Fund - Direct Plan - Growth Option",
+        "cagr_1y": 4.26,
+        "cagr_3y": 16.09,
+        "cagr_5y": 17.15,
+        "blend_score": 14.15
+      },
+      {
+        "code": 148815,
+        "name": "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund - Direct Plan - GROWTH",
+        "cagr_1y": 5.0,
+        "cagr_3y": 16.98,
+        "cagr_5y": 12.16,
+        "blend_score": 12.66
+      },
+      {
+        "code": 119556,
+        "name": "Aditya Birla Sun Life Small Cap Fund - Direct Plan - GROWTH",
+        "cagr_1y": 8.06,
+        "cagr_3y": 14.13,
+        "cagr_5y": 12.3,
+        "blend_score": 12.18
       }
     ]
   }
