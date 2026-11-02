@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-11-02T09:25:46.882848+05:30",
+  "stocks": [
+    {
+      "ticker": "ITI.NS",
+      "alert_price": 230.9600067138672,
+      "alert_pct_move": 6.950687648873885,
+      "alert_relative_volume": 13.507408808745728
+    },
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 228.25,
+      "alert_pct_move": 2.6303985000280616,
+      "alert_relative_volume": 5.2091086709247145
+    }
+  ]
+}
