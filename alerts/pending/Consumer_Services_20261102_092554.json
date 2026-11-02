@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-02T09:25:54.822253+05:30",
+  "stocks": [
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 73.19999694824219,
+      "alert_pct_move": 3.815054219987758,
+      "alert_relative_volume": 8.654881434523464
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 40.119998931884766,
+      "alert_pct_move": 3.4553898782051133,
+      "alert_relative_volume": 3.9168277903501516
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 122.45999908447266,
+      "alert_pct_move": 1.7109614057197267,
+      "alert_relative_volume": 3.334663775069113
+    }
+  ]
+}
