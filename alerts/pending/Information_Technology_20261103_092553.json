@@ -1,0 +1,30 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-03T09:25:53.678161+05:30",
+  "stocks": [
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1522.199951171875,
+      "alert_pct_move": 1.0421474392217058,
+      "alert_relative_volume": 11.702331940275746
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 9926.0,
+      "alert_pct_move": 1.8678160919540232,
+      "alert_relative_volume": 3.9559912598904634
+    },
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 205.85000610351562,
+      "alert_pct_move": 1.639266945257163,
+      "alert_relative_volume": 3.521704782514556
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 545.9500122070312,
+      "alert_pct_move": 2.8057668311012773,
+      "alert_relative_volume": 3.5184742753009184
+    }
+  ]
+}
