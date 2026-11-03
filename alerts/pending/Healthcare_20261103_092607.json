@@ -1,0 +1,66 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-03T09:26:07.559877+05:30",
+  "stocks": [
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 776.7999877929688,
+      "alert_pct_move": 6.163724864497701,
+      "alert_relative_volume": 73.87378354549088
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "alert_price": 806.3499755859375,
+      "alert_pct_move": -3.9773771258186956,
+      "alert_relative_volume": 25.983695681427935
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 1867.0,
+      "alert_pct_move": -1.55549696809913,
+      "alert_relative_volume": 9.12750437194786
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1313.699951171875,
+      "alert_pct_move": 3.4165079646959944,
+      "alert_relative_volume": 7.824088180846048
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1876.0,
+      "alert_pct_move": 2.278925413852445,
+      "alert_relative_volume": 5.799923421594875
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 1922.4000244140625,
+      "alert_pct_move": 2.0653052516093706,
+      "alert_relative_volume": 5.425867416781706
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2317.5,
+      "alert_pct_move": -1.298977853492334,
+      "alert_relative_volume": 4.948378062996552
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 1184.0999755859375,
+      "alert_pct_move": 1.7705178844810914,
+      "alert_relative_volume": 4.539586789447755
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 19287.0,
+      "alert_pct_move": -1.471264367816092,
+      "alert_relative_volume": 3.8196622264367996
+    },
+    {
+      "ticker": "INDGN.NS",
+      "alert_price": 623.4000244140625,
+      "alert_pct_move": 6.23722518447065,
+      "alert_relative_volume": 3.535288010597605
+    }
+  ]
+}
