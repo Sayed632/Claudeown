@@ -1,0 +1,66 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-03T09:21:11.624764+05:30",
+  "stocks": [
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 49255.0,
+      "alert_pct_move": 2.401247401247401,
+      "alert_relative_volume": 12.476297110645456
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 692.0,
+      "alert_pct_move": -2.3150795947003844,
+      "alert_relative_volume": 11.131948504469813
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5250.5,
+      "alert_pct_move": 1.6160247725953165,
+      "alert_relative_volume": 8.81449141821543
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 39.90999984741211,
+      "alert_pct_move": 2.913875976495641,
+      "alert_relative_volume": 6.863071205742242
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 649.5,
+      "alert_pct_move": 2.695863303642007,
+      "alert_relative_volume": 6.705482573563149
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 118510.0,
+      "alert_pct_move": 1.4857632198672661,
+      "alert_relative_volume": 6.630119193154034
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1015.5499877929688,
+      "alert_pct_move": 6.776365667271307,
+      "alert_relative_volume": 6.507585308593239
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3301.10009765625,
+      "alert_pct_move": 6.9286133022637655,
+      "alert_relative_volume": 5.781995203376694
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 328.3999938964844,
+      "alert_pct_move": 1.5303699188871205,
+      "alert_relative_volume": 5.734173423671926
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 492.95001220703125,
+      "alert_pct_move": 1.8912824813832045,
+      "alert_relative_volume": 3.853344952530295
+    }
+  ]
+}
