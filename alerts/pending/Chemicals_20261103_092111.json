@@ -1,0 +1,42 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-03T09:21:11.284831+05:30",
+  "stocks": [
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "alert_price": 1650.199951171875,
+      "alert_pct_move": 3.792686699280684,
+      "alert_relative_volume": 24.684385194376198
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1518.5,
+      "alert_pct_move": 2.049731182795699,
+      "alert_relative_volume": 5.486618392229741
+    },
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1561.699951171875,
+      "alert_pct_move": 1.9919018399038873,
+      "alert_relative_volume": 5.3862240965306105
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 716.7000122070312,
+      "alert_pct_move": 6.954191660781145,
+      "alert_relative_volume": 4.8939006882373794
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 5830.5,
+      "alert_pct_move": 3.167300716623905,
+      "alert_relative_volume": 3.108226654668614
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 440.0,
+      "alert_pct_move": 2.6119432196529795,
+      "alert_relative_volume": 3.036828936452734
+    }
+  ]
+}
