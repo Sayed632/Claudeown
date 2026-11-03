@@ -1,29 +1,20 @@
 {
-  "IGL.NS": {
-    "date": "2026-11-02"
-  },
-  "RELIANCE.NS": {
-    "date": "2026-11-02"
-  },
   "IOC.NS": {
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
-  "GAIL.NS": {
-    "date": "2026-11-02"
-  },
-  "MGL.NS": {
-    "date": "2026-11-02"
-  },
-  "COALINDIA.NS": {
-    "date": "2026-11-02"
-  },
-  "PETRONET.NS": {
-    "date": "2026-11-02"
-  },
-  "AEGISLOG.NS": {
-    "date": "2026-11-02"
+  "AEGISVOPAK.NS": {
+    "date": "2026-11-03"
   },
   "BPCL.NS": {
-    "date": "2026-11-02"
+    "date": "2026-11-03"
+  },
+  "HINDPETRO.NS": {
+    "date": "2026-11-03"
+  },
+  "ONGC.NS": {
+    "date": "2026-11-03"
+  },
+  "ATGL.NS": {
+    "date": "2026-11-03"
   }
 }
