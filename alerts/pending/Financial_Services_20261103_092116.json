@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-03T09:21:16.091054+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 560.4500122070312,
+      "alert_pct_move": -1.907755989265247,
+      "alert_relative_volume": 6.564472269942032
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1267.4000244140625,
+      "alert_pct_move": 1.2300338988867812,
+      "alert_relative_volume": 5.8984738985993905
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 990.5499877929688,
+      "alert_pct_move": 5.159506869378935,
+      "alert_relative_volume": 5.655487469278696
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2545.0,
+      "alert_pct_move": 1.2049170643203329,
+      "alert_relative_volume": 4.441943307431704
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 80.79000091552734,
+      "alert_pct_move": 2.278773389590662,
+      "alert_relative_volume": 4.2418321976900835
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 880.7000122070312,
+      "alert_pct_move": 2.009618012593172,
+      "alert_relative_volume": 4.028500013956302
+    },
+    {
+      "ticker": "ABCAPITAL.NS",
+      "alert_price": 382.75,
+      "alert_pct_move": 1.1763183586108379,
+      "alert_relative_volume": 3.9226916946195547
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 712.9500122070312,
+      "alert_pct_move": 1.8500017438616072,
+      "alert_relative_volume": 3.860088364906105
+    },
+    {
+      "ticker": "HUDCO.NS",
+      "alert_price": 148.9199981689453,
+      "alert_pct_move": 4.088900919302799,
+      "alert_relative_volume": 3.8567579403730865
+    },
+    {
+      "ticker": "AAVAS.NS",
+      "alert_price": 1123.699951171875,
+      "alert_pct_move": 2.6585032189828373,
+      "alert_relative_volume": 3.837564539712553
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "alert_price": 1403.199951171875,
+      "alert_pct_move": 1.1388155167782448,
+      "alert_relative_volume": 3.6657028455643372
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 215.5800018310547,
+      "alert_pct_move": 1.092615161104191,
+      "alert_relative_volume": 3.5800025768944232
+    }
+  ]
+}
