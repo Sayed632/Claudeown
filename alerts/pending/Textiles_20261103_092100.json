@@ -1,0 +1,12 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-11-03T09:21:00.509659+05:30",
+  "stocks": [
+    {
+      "ticker": "TRIDENT.NS",
+      "alert_price": 24.100000381469727,
+      "alert_pct_move": 13.84034149559017,
+      "alert_relative_volume": 139.5110000335338
+    }
+  ]
+}
