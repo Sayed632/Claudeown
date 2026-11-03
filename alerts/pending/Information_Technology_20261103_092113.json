@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-03T09:21:13.797883+05:30",
+  "stocks": [
+    {
+      "ticker": "AFFLE.NS",
+      "alert_price": 1537.800048828125,
+      "alert_pct_move": 2.0776666995104547,
+      "alert_relative_volume": 7.142363806027624
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 9873.0,
+      "alert_pct_move": 1.3238916256157636,
+      "alert_relative_volume": 3.0367819122951962
+    }
+  ]
+}
