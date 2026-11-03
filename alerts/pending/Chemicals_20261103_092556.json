@@ -1,0 +1,54 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-03T09:25:56.472987+05:30",
+  "stocks": [
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "alert_price": 1657.300048828125,
+      "alert_pct_move": 4.239261801313697,
+      "alert_relative_volume": 22.30348361467042
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 722.5999755859375,
+      "alert_pct_move": 7.834651829989076,
+      "alert_relative_volume": 8.094958506165643
+    },
+    {
+      "ticker": "AARTIIND.NS",
+      "alert_price": 448.8500061035156,
+      "alert_pct_move": 4.675843955533724,
+      "alert_relative_volume": 5.919751040695045
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1521.4000244140625,
+      "alert_pct_move": 2.244625296643985,
+      "alert_relative_volume": 5.84080270807328
+    },
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1567.800048828125,
+      "alert_pct_move": 2.3902885856441416,
+      "alert_relative_volume": 4.383022194571956
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 99.5,
+      "alert_pct_move": 1.5409757823750003,
+      "alert_relative_volume": 3.701970935295481
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3298.0,
+      "alert_pct_move": 1.2681563990340528,
+      "alert_relative_volume": 3.3377553592011187
+    },
+    {
+      "ticker": "SOLARINDS.NS",
+      "alert_price": 19652.0,
+      "alert_pct_move": 1.1009363103199918,
+      "alert_relative_volume": 3.2902586188140615
+    }
+  ]
+}

@@ -1,20 +1,26 @@
 {
-  "CLEAN.NS": {
-    "date": "2026-11-02"
-  },
-  "AARTIIND.NS": {
-    "date": "2026-11-02"
-  },
-  "RCF.NS": {
-    "date": "2026-11-02"
-  },
-  "SWANCORP.NS": {
-    "date": "2026-11-02"
-  },
-  "NAVINFLUOR.NS": {
-    "date": "2026-11-02"
+  "ALKYLAMINE.NS": {
+    "date": "2026-11-03"
   },
   "FACT.NS": {
-    "date": "2026-11-02"
+    "date": "2026-11-03"
+  },
+  "AARTIIND.NS": {
+    "date": "2026-11-03"
+  },
+  "PIDILITIND.NS": {
+    "date": "2026-11-03"
+  },
+  "DEEPAKNTR.NS": {
+    "date": "2026-11-03"
+  },
+  "RCF.NS": {
+    "date": "2026-11-03"
+  },
+  "BAYERCROP.NS": {
+    "date": "2026-11-03"
+  },
+  "SOLARINDS.NS": {
+    "date": "2026-11-03"
   }
 }
