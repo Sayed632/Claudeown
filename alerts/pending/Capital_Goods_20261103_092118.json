@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-03T09:21:18.553623+05:30",
+  "stocks": [
+    {
+      "ticker": "ZENTEC.NS",
+      "alert_price": 1661.0,
+      "alert_pct_move": 4.570635511839567,
+      "alert_relative_volume": 34.031744127422115
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 1124.300048828125,
+      "alert_pct_move": 9.123555813368801,
+      "alert_relative_volume": 9.419912878692768
+    },
+    {
+      "ticker": "ESCORTS.NS",
+      "alert_price": 2388.0,
+      "alert_pct_move": -1.4526226428344091,
+      "alert_relative_volume": 9.19112826564395
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1488.300048828125,
+      "alert_pct_move": -1.567457088086971,
+      "alert_relative_volume": 8.09600127275735
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 261.3500061035156,
+      "alert_pct_move": -3.6071252178540605,
+      "alert_relative_volume": 7.99309628447095
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2070.39990234375,
+      "alert_pct_move": 1.1530121630169425,
+      "alert_relative_volume": 7.702540884122781
+    },
+    {
+      "ticker": "KIRLOSBROS.NS",
+      "alert_price": 1753.0,
+      "alert_pct_move": 9.439377360644526,
+      "alert_relative_volume": 6.963474478279114
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 153.7100067138672,
+      "alert_pct_move": 3.022794810907089,
+      "alert_relative_volume": 5.673382688975131
+    },
+    {
+      "ticker": "SHYAMMETL.NS",
+      "alert_price": 1218.0999755859375,
+      "alert_pct_move": 4.746749506664425,
+      "alert_relative_volume": 5.575984496249554
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 1948.300048828125,
+      "alert_pct_move": -5.224493111581069,
+      "alert_relative_volume": 4.721195682539205
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2372.800048828125,
+      "alert_pct_move": 1.3324201345525906,
+      "alert_relative_volume": 4.454462940241874
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 29170.0,
+      "alert_pct_move": -1.0851135978297728,
+      "alert_relative_volume": 3.8126285286969526
+    }
+  ]
+}
