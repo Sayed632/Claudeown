@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-03T09:20:58.955505+05:30",
+  "stocks": [
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 130.25,
+      "alert_pct_move": 4.5093499722659285,
+      "alert_relative_volume": 6.688446350121075
+    },
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 47.470001220703125,
+      "alert_pct_move": 1.932577908045235,
+      "alert_relative_volume": 5.278467770531306
+    }
+  ]
+}

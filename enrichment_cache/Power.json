@@ -1,20 +1,8 @@
 {
+  "CESC.NS": {
+    "date": "2026-11-03"
+  },
   "RELINFRA.NS": {
-    "date": "2026-11-02"
-  },
-  "JPPOWER.NS": {
-    "date": "2026-11-02"
-  },
-  "NTPC.NS": {
-    "date": "2026-11-02"
-  },
-  "SJVN.NS": {
-    "date": "2026-11-02"
-  },
-  "NTPCGREEN.NS": {
-    "date": "2026-11-02"
-  },
-  "RPOWER.NS": {
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   }
 }
