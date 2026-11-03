@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-03T09:21:05.637526+05:30",
+  "stocks": [
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 331.3999938964844,
+      "alert_pct_move": -5.042981691551756,
+      "alert_relative_volume": 26.351537432570662
+    },
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 120.11000061035156,
+      "alert_pct_move": 4.89040116116571,
+      "alert_relative_volume": 4.113393115978538
+    }
+  ]
+}
