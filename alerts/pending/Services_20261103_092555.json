@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-03T09:25:55.790799+05:30",
+  "stocks": [
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5093.39990234375,
+      "alert_pct_move": 3.526494510942139,
+      "alert_relative_volume": 8.219801529380609
+    },
+    {
+      "ticker": "CONCOR.NS",
+      "alert_price": 428.1000061035156,
+      "alert_pct_move": 3.4432764986925406,
+      "alert_relative_volume": 5.288722286897272
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1552.0,
+      "alert_pct_move": -3.0242454183779888,
+      "alert_relative_volume": 4.22033881083386
+    }
+  ]
+}
