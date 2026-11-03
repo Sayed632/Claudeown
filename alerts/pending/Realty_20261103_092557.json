@@ -1,0 +1,18 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-11-03T09:25:57.803723+05:30",
+  "stocks": [
+    {
+      "ticker": "LODHA.NS",
+      "alert_price": 1024.5999755859375,
+      "alert_pct_move": 2.1739118526464747,
+      "alert_relative_volume": 6.162110599312705
+    },
+    {
+      "ticker": "BRIGADE.NS",
+      "alert_price": 536.0,
+      "alert_pct_move": 1.6884888685811474,
+      "alert_relative_volume": 3.9805078843719564
+    }
+  ]
+}
