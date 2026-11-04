@@ -1,0 +1,66 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-04T09:26:24.852247+05:30",
+  "stocks": [
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 3266.39990234375,
+      "alert_pct_move": -6.409563882214271,
+      "alert_relative_volume": 17.73600834353431
+    },
+    {
+      "ticker": "SBIN.NS",
+      "alert_price": 983.0499877929688,
+      "alert_pct_move": 1.3192463584610925,
+      "alert_relative_volume": 6.431124224869417
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 893.5499877929688,
+      "alert_pct_move": 3.708218792056419,
+      "alert_relative_volume": 5.826361884956439
+    },
+    {
+      "ticker": "HDFCAMC.NS",
+      "alert_price": 2491.5,
+      "alert_pct_move": 2.110655737704918,
+      "alert_relative_volume": 5.610611757983326
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 736.5,
+      "alert_pct_move": 1.5161957270847692,
+      "alert_relative_volume": 4.318141028691438
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3590.89990234375,
+      "alert_pct_move": -2.0405393192154864,
+      "alert_relative_volume": 4.290399681634585
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1886.0999755859375,
+      "alert_pct_move": 4.487286083625773,
+      "alert_relative_volume": 3.972671987515538
+    },
+    {
+      "ticker": "NIVABUPA.NS",
+      "alert_price": 75.29000091552734,
+      "alert_pct_move": 1.6059412495424679,
+      "alert_relative_volume": 3.5850392483950175
+    },
+    {
+      "ticker": "SBICARD.NS",
+      "alert_price": 543.75,
+      "alert_pct_move": 1.2475583948088806,
+      "alert_relative_volume": 3.486237339672252
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2563.800048828125,
+      "alert_pct_move": 1.9525231085071946,
+      "alert_relative_volume": 3.0007360197416784
+    }
+  ]
+}
