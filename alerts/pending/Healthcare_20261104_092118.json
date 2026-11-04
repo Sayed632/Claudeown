@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-04T09:21:18.096979+05:30",
+  "stocks": [
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1385.0999755859375,
+      "alert_pct_move": 4.472765467932191,
+      "alert_relative_volume": 68.4314851732438
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2174.199951171875,
+      "alert_pct_move": 15.434029794100079,
+      "alert_relative_volume": 34.62878319487248
+    },
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 551.8499755859375,
+      "alert_pct_move": -2.962904213014086,
+      "alert_relative_volume": 17.452220687411344
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1422.0,
+      "alert_pct_move": -2.428984755115181,
+      "alert_relative_volume": 16.311802508727347
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2595.0,
+      "alert_pct_move": 2.5124476617607714,
+      "alert_relative_volume": 11.283686084990343
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1915.199951171875,
+      "alert_pct_move": 4.416094327570388,
+      "alert_relative_volume": 9.042155711025675
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "alert_price": 784.0,
+      "alert_pct_move": -1.7051123372899564,
+      "alert_relative_volume": 8.070214240665043
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2037.5999755859375,
+      "alert_pct_move": 2.058601331627223,
+      "alert_relative_volume": 6.583015591058813
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 742.5499877929688,
+      "alert_pct_move": -2.4436754942512366,
+      "alert_relative_volume": 4.605492682120871
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8530.5,
+      "alert_pct_move": 1.0722748815165877,
+      "alert_relative_volume": 4.594868871117758
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 1908.0,
+      "alert_pct_move": 2.141327623126338,
+      "alert_relative_volume": 3.6753889920997382
+    },
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 817.5,
+      "alert_pct_move": 1.805728518057285,
+      "alert_relative_volume": 3.259244355548191
+    }
+  ]
+}
