@@ -1,38 +1,29 @@
 {
-  "TATAINVEST.NS": {
-    "date": "2026-11-03"
+  "MCX.NS": {
+    "date": "2026-11-04"
   },
-  "CDSL.NS": {
-    "date": "2026-11-03"
+  "AIIL.NS": {
+    "date": "2026-11-04"
   },
-  "MOTILALOFS.NS": {
-    "date": "2026-11-03"
+  "SBIN.NS": {
+    "date": "2026-11-04"
   },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-11-03"
+  "KFINTECH.NS": {
+    "date": "2026-11-04"
   },
-  "MAHABANK.NS": {
-    "date": "2026-11-03"
+  "NUVAMA.NS": {
+    "date": "2026-11-04"
   },
-  "SHRIRAMFIN.NS": {
-    "date": "2026-11-03"
-  },
-  "ABCAPITAL.NS": {
-    "date": "2026-11-03"
+  "BSE.NS": {
+    "date": "2026-11-04"
   },
   "HDFCBANK.NS": {
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
-  "HUDCO.NS": {
-    "date": "2026-11-03"
+  "NIVABUPA.NS": {
+    "date": "2026-11-04"
   },
-  "AAVAS.NS": {
-    "date": "2026-11-03"
-  },
-  "ICICIBANK.NS": {
-    "date": "2026-11-03"
-  },
-  "JIOFIN.NS": {
-    "date": "2026-11-03"
+  "HDFCAMC.NS": {
+    "date": "2026-11-04"
   }
 }
