@@ -1,0 +1,54 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-04T09:21:11.387231+05:30",
+  "stocks": [
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 718.25,
+      "alert_pct_move": 1.3904538744312849,
+      "alert_relative_volume": 18.675777601738183
+    },
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 991.5,
+      "alert_pct_move": 5.39463194259899,
+      "alert_relative_volume": 17.035653713697474
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 652.2000122070312,
+      "alert_pct_move": -4.732685441768482,
+      "alert_relative_volume": 13.465264119536005
+    },
+    {
+      "ticker": "UNOMINDA.NS",
+      "alert_price": 1154.5999755859375,
+      "alert_pct_move": 2.6767430489939974,
+      "alert_relative_volume": 7.215602795208963
+    },
+    {
+      "ticker": "SKFINDIA.NS",
+      "alert_price": 1430.0,
+      "alert_pct_move": -1.6776694172493976,
+      "alert_relative_volume": 6.422626731022423
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1011.4500122070312,
+      "alert_pct_move": 2.0018189905021266,
+      "alert_relative_volume": 4.650702792280895
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 330.79998779296875,
+      "alert_pct_move": 2.272368313046465,
+      "alert_relative_volume": 4.345976316393114
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 50010.0,
+      "alert_pct_move": 3.9708939708939712,
+      "alert_relative_volume": 3.8682560042809024
+    }
+  ]
+}
