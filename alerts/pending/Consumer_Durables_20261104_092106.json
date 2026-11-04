@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-04T09:21:06.686934+05:30",
+  "stocks": [
+    {
+      "ticker": "BATAINDIA.NS",
+      "alert_price": 629.9000244140625,
+      "alert_pct_move": -3.0624751850944216,
+      "alert_relative_volume": 7.923582077969948
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 480.8500061035156,
+      "alert_pct_move": 2.614169833641429,
+      "alert_relative_volume": 4.664170040843438
+    }
+  ]
+}
