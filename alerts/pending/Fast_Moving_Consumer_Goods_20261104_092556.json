@@ -1,0 +1,66 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-04T09:25:56.993242+05:30",
+  "stocks": [
+    {
+      "ticker": "ITC.NS",
+      "alert_price": 281.6000061035156,
+      "alert_pct_move": 2.811249499312268,
+      "alert_relative_volume": 13.435956067474876
+    },
+    {
+      "ticker": "MARICO.NS",
+      "alert_price": 891.8499755859375,
+      "alert_pct_move": 1.5311874770093274,
+      "alert_relative_volume": 10.200537993351192
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 391.5,
+      "alert_pct_move": 2.5809003697212844,
+      "alert_relative_volume": 9.443544411617355
+    },
+    {
+      "ticker": "BBTC.NS",
+      "alert_price": 1262.0999755859375,
+      "alert_pct_move": 2.3020203889191775,
+      "alert_relative_volume": 9.401547563586108
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "alert_price": 1265.5,
+      "alert_pct_move": 1.369751301788334,
+      "alert_relative_volume": 6.666500328791971
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1769.5999755859375,
+      "alert_pct_move": 4.087994882539006,
+      "alert_relative_volume": 6.649042817383957
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 472.8500061035156,
+      "alert_pct_move": 1.896351372057985,
+      "alert_relative_volume": 5.743605560350493
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 1648.0999755859375,
+      "alert_pct_move": 4.641268291170634,
+      "alert_relative_volume": 4.775168303495292
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 245.19000244140625,
+      "alert_pct_move": 4.318417905550664,
+      "alert_relative_volume": 4.518734189514548
+    },
+    {
+      "ticker": "DOMS.NS",
+      "alert_price": 1921.5,
+      "alert_pct_move": 4.146341463414634,
+      "alert_relative_volume": 3.100012543345993
+    }
+  ]
+}
