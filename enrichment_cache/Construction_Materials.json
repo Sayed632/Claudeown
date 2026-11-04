@@ -1,17 +1,8 @@
 {
   "RAMCOCEM.NS": {
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
-  "JKCEMENT.NS": {
-    "date": "2026-11-03"
-  },
-  "SHREECEM.NS": {
-    "date": "2026-11-03"
-  },
-  "AMBUJACEM.NS": {
-    "date": "2026-11-03"
-  },
-  "ULTRACEMCO.NS": {
-    "date": "2026-11-03"
+  "ACC.NS": {
+    "date": "2026-11-04"
   }
 }
