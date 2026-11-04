@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-04T09:21:14.425664+05:30",
+  "stocks": [
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 1003.7999877929688,
+      "alert_pct_move": 6.622760080460472,
+      "alert_relative_volume": 27.908694280363704
+    },
+    {
+      "ticker": "AIAENG.NS",
+      "alert_price": 3245.0,
+      "alert_pct_move": -4.268812970358921,
+      "alert_relative_volume": 15.145963425825224
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 716.4500122070312,
+      "alert_pct_move": -5.1750349040640105,
+      "alert_relative_volume": 10.412366244352791
+    },
+    {
+      "ticker": "FINPIPE.NS",
+      "alert_price": 138.2899932861328,
+      "alert_pct_move": -1.8105673942507603,
+      "alert_relative_volume": 6.670822154263783
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1820.699951171875,
+      "alert_pct_move": -1.2582066779656236,
+      "alert_relative_volume": 6.0486490185752695
+    },
+    {
+      "ticker": "BEL.NS",
+      "alert_price": 384.0,
+      "alert_pct_move": 1.026044155185375,
+      "alert_relative_volume": 5.609431842338877
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2097.0,
+      "alert_pct_move": -1.5954950727358048,
+      "alert_relative_volume": 5.3144772791452315
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 412.1499938964844,
+      "alert_pct_move": 3.0374984741210938,
+      "alert_relative_volume": 5.206603230982455
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 1978.0999755859375,
+      "alert_pct_move": -1.11972129038053,
+      "alert_relative_volume": 5.135164539308462
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 795.0499877929688,
+      "alert_pct_move": -1.845680519386574,
+      "alert_relative_volume": 4.1676942794241585
+    },
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 481.45001220703125,
+      "alert_pct_move": -2.322982720883899,
+      "alert_relative_volume": 3.595640401318475
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 3922.5,
+      "alert_pct_move": -3.148148148148148,
+      "alert_relative_volume": 3.480107378118172
+    }
+  ]
+}
