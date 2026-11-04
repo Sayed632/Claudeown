@@ -1,0 +1,48 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-04T09:21:03.576916+05:30",
+  "stocks": [
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 756.0,
+      "alert_pct_move": 7.424511545293074,
+      "alert_relative_volume": 255.5469896497999
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 5991.0,
+      "alert_pct_move": 4.0465439388676625,
+      "alert_relative_volume": 25.783677363558574
+    },
+    {
+      "ticker": "ALKYLAMINE.NS",
+      "alert_price": 1607.300048828125,
+      "alert_pct_move": -2.6409821879681665,
+      "alert_relative_volume": 11.370875727451313
+    },
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3246.0,
+      "alert_pct_move": -1.0335651499463694,
+      "alert_relative_volume": 10.888720723593691
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 386.70001220703125,
+      "alert_pct_move": 5.0101866142651055,
+      "alert_relative_volume": 7.29590704609012
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 99.6500015258789,
+      "alert_pct_move": 1.6940541874663504,
+      "alert_relative_volume": 6.6854145441682125
+    },
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 650.5999755859375,
+      "alert_pct_move": -1.244689186243298,
+      "alert_relative_volume": 3.9066205794558253
+    }
+  ]
+}

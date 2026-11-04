@@ -1,26 +1,23 @@
 {
-  "ALKYLAMINE.NS": {
-    "date": "2026-11-03"
-  },
   "FACT.NS": {
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
-  "AARTIIND.NS": {
-    "date": "2026-11-03"
+  "LINDEINDIA.NS": {
+    "date": "2026-11-04"
   },
-  "PIDILITIND.NS": {
-    "date": "2026-11-03"
-  },
-  "DEEPAKNTR.NS": {
-    "date": "2026-11-03"
-  },
-  "RCF.NS": {
-    "date": "2026-11-03"
+  "ALKYLAMINE.NS": {
+    "date": "2026-11-04"
   },
   "BAYERCROP.NS": {
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
-  "SOLARINDS.NS": {
-    "date": "2026-11-03"
+  "CHAMBLFERT.NS": {
+    "date": "2026-11-04"
+  },
+  "RCF.NS": {
+    "date": "2026-11-04"
+  },
+  "CLEAN.NS": {
+    "date": "2026-11-04"
   }
 }
