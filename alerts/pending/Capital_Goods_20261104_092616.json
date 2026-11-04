@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-04T09:26:16.009172+05:30",
+  "stocks": [
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 999.5,
+      "alert_pct_move": 6.166019123722011,
+      "alert_relative_volume": 31.486359152924223
+    },
+    {
+      "ticker": "AIAENG.NS",
+      "alert_price": 3233.39990234375,
+      "alert_pct_move": -4.61102903146603,
+      "alert_relative_volume": 17.625166095609796
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 710.0999755859375,
+      "alert_pct_move": -6.015487120818429,
+      "alert_relative_volume": 10.52317280808706
+    },
+    {
+      "ticker": "FINPIPE.NS",
+      "alert_price": 138.2899932861328,
+      "alert_pct_move": -1.8105673942507603,
+      "alert_relative_volume": 5.632612872118598
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 411.6499938964844,
+      "alert_pct_move": 2.9124984741210938,
+      "alert_relative_volume": 4.630652519276066
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 1971.5,
+      "alert_pct_move": -1.4496375906023495,
+      "alert_relative_volume": 4.399481355838223
+    },
+    {
+      "ticker": "GRSE.NS",
+      "alert_price": 2093.699951171875,
+      "alert_pct_move": -1.7503542387670108,
+      "alert_relative_volume": 4.2381691526101966
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 3975.60009765625,
+      "alert_pct_move": -1.8370346257716048,
+      "alert_relative_volume": 3.9435768509913642
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 249.00999450683594,
+      "alert_pct_move": -2.207128094963923,
+      "alert_relative_volume": 3.2969729554444194
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1473.699951171875,
+      "alert_pct_move": -1.160298378814554,
+      "alert_relative_volume": 3.1469047935050773
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 798.0,
+      "alert_pct_move": -1.4814814814814816,
+      "alert_relative_volume": 3.112257056319063
+    }
+  ]
+}
