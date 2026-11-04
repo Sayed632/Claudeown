@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-11-04T09:25:55.517885+05:30",
+  "stocks": [
+    {
+      "ticker": "RAMCOCEM.NS",
+      "alert_price": 763.5,
+      "alert_pct_move": 3.483330527547099,
+      "alert_relative_volume": 3.724910060978304
+    }
+  ]
+}
