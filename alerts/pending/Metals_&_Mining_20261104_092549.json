@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-04T09:25:49.740147+05:30",
+  "stocks": [
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 430.79998779296875,
+      "alert_pct_move": 1.22180019146625,
+      "alert_relative_volume": 3.4761456478505233
+    }
+  ]
+}
