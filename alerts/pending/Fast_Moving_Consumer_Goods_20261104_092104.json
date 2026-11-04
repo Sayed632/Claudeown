@@ -1,0 +1,66 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-04T09:21:04.954027+05:30",
+  "stocks": [
+    {
+      "ticker": "JYOTHYLAB.NS",
+      "alert_price": 189.0,
+      "alert_pct_move": 2.256126239049076,
+      "alert_relative_volume": 23.569121349668062
+    },
+    {
+      "ticker": "ITC.NS",
+      "alert_price": 282.1000061035156,
+      "alert_pct_move": 2.993797878699588,
+      "alert_relative_volume": 17.530012487001695
+    },
+    {
+      "ticker": "BBTC.NS",
+      "alert_price": 1277.9000244140625,
+      "alert_pct_move": 3.5827247298018006,
+      "alert_relative_volume": 13.674962832823017
+    },
+    {
+      "ticker": "MARICO.NS",
+      "alert_price": 890.0,
+      "alert_pct_move": 1.3205800618773063,
+      "alert_relative_volume": 10.961427375472491
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 475.04998779296875,
+      "alert_pct_move": 2.3704342828056575,
+      "alert_relative_volume": 9.333168496637745
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 389.1499938964844,
+      "alert_pct_move": 1.9651513480789518,
+      "alert_relative_volume": 8.34194183048921
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 244.35000610351562,
+      "alert_pct_move": 3.9610334765662607,
+      "alert_relative_volume": 6.635813976610367
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "alert_price": 1269.300048828125,
+      "alert_pct_move": 1.6741448258038878,
+      "alert_relative_volume": 5.482091880881524
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1769.9000244140625,
+      "alert_pct_move": 4.105643775688455,
+      "alert_relative_volume": 4.835951323530153
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 1636.9000244140625,
+      "alert_pct_move": 3.9301602802579363,
+      "alert_relative_volume": 4.18813120353164
+    }
+  ]
+}
