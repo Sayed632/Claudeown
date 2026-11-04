@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-04T09:21:00.021804+05:30",
+  "stocks": [
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 308.04998779296875,
+      "alert_pct_move": 1.6666626379434817,
+      "alert_relative_volume": 5.858924687880211
+    },
+    {
+      "ticker": "AEGISLOG.NS",
+      "alert_price": 1139.0,
+      "alert_pct_move": -3.236766321991645,
+      "alert_relative_volume": 5.4303325439378085
+    },
+    {
+      "ticker": "IGL.NS",
+      "alert_price": 131.74000549316406,
+      "alert_pct_move": -1.155457158041352,
+      "alert_relative_volume": 3.592628300723397
+    },
+    {
+      "ticker": "GAIL.NS",
+      "alert_price": 183.60000610351562,
+      "alert_pct_move": 1.017885063832531,
+      "alert_relative_volume": 3.1577460661775882
+    }
+  ]
+}
