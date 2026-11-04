@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-04T09:25:54.118309+05:30",
+  "stocks": [
+    {
+      "ticker": "BATAINDIA.NS",
+      "alert_price": 625.9000244140625,
+      "alert_pct_move": -3.6780492194347287,
+      "alert_relative_volume": 7.818908448934349
+    },
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 4640.0,
+      "alert_pct_move": 3.1798977095841674,
+      "alert_relative_volume": 5.0354636929771734
+    },
+    {
+      "ticker": "AMBER.NS",
+      "alert_price": 6317.0,
+      "alert_pct_move": 1.510525470030532,
+      "alert_relative_volume": 3.705153109386138
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 481.6000061035156,
+      "alert_pct_move": 2.774221047946006,
+      "alert_relative_volume": 3.703007441818336
+    }
+  ]
+}
