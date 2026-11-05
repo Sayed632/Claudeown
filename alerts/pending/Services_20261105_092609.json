@@ -1,0 +1,48 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-05T09:26:09.863793+05:30",
+  "stocks": [
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 275.1499938964844,
+      "alert_pct_move": 2.6410961237087207,
+      "alert_relative_volume": 23.882732154223028
+    },
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5397.2998046875,
+      "alert_pct_move": 4.98949598788339,
+      "alert_relative_volume": 11.806962064046933
+    },
+    {
+      "ticker": "BLUEDART.NS",
+      "alert_price": 4547.5,
+      "alert_pct_move": 2.471950068514297,
+      "alert_relative_volume": 8.530877939291079
+    },
+    {
+      "ticker": "GMRAIRPORT.NS",
+      "alert_price": 99.38999938964844,
+      "alert_pct_move": 4.621051989103618,
+      "alert_relative_volume": 7.409252494915484
+    },
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 373.8999938964844,
+      "alert_pct_move": 1.9495552546651327,
+      "alert_relative_volume": 6.923154520005443
+    },
+    {
+      "ticker": "MMTC.NS",
+      "alert_price": 54.349998474121094,
+      "alert_pct_move": 1.588782194618867,
+      "alert_relative_volume": 4.679643257544126
+    },
+    {
+      "ticker": "DELHIVERY.NS",
+      "alert_price": 429.29998779296875,
+      "alert_pct_move": 2.7033463619542464,
+      "alert_relative_volume": 4.441500172277964
+    }
+  ]
+}
