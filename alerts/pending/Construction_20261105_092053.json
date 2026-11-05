@@ -1,0 +1,60 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-05T09:20:53.378385+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 107.3499984741211,
+      "alert_pct_move": 3.9407433606980984,
+      "alert_relative_volume": 14.757591062243938
+    },
+    {
+      "ticker": "TECHNOE.NS",
+      "alert_price": 935.4000244140625,
+      "alert_pct_move": 10.034119665670067,
+      "alert_relative_volume": 13.184181199103998
+    },
+    {
+      "ticker": "KEC.NS",
+      "alert_price": 327.04998779296875,
+      "alert_pct_move": 1.710465000403358,
+      "alert_relative_volume": 6.407645622364298
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 194.60000610351562,
+      "alert_pct_move": 1.7622812588345662,
+      "alert_relative_volume": 5.257601062907099
+    },
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 17.149999618530273,
+      "alert_pct_move": 5.214726510766457,
+      "alert_relative_volume": 4.997775891824026
+    },
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 123.5,
+      "alert_pct_move": 1.738199704226618,
+      "alert_relative_volume": 4.970773680829829
+    },
+    {
+      "ticker": "LT.NS",
+      "alert_price": 4053.0,
+      "alert_pct_move": 2.753273003371696,
+      "alert_relative_volume": 4.932377780682821
+    },
+    {
+      "ticker": "AFCONS.NS",
+      "alert_price": 214.72000122070312,
+      "alert_pct_move": 1.57048600760341,
+      "alert_relative_volume": 4.475580046217286
+    },
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 79.19999694824219,
+      "alert_pct_move": 1.8780539292413385,
+      "alert_relative_volume": 3.850471096761157
+    }
+  ]
+}
