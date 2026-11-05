@@ -1,0 +1,42 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-05T09:21:04.708437+05:30",
+  "stocks": [
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 496.5,
+      "alert_pct_move": 2.3500296336940734,
+      "alert_relative_volume": 13.49034100126294
+    },
+    {
+      "ticker": "CENTURYPLY.NS",
+      "alert_price": 660.9500122070312,
+      "alert_pct_move": 1.9512609366425318,
+      "alert_relative_volume": 12.843747979505423
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "alert_price": 2530.60009765625,
+      "alert_pct_move": 4.643759937173391,
+      "alert_relative_volume": 8.864300923755648
+    },
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 4882.10009765625,
+      "alert_pct_move": 4.698693923573879,
+      "alert_relative_volume": 6.219883808792379
+    },
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 547.75,
+      "alert_pct_move": 2.039868192257563,
+      "alert_relative_volume": 3.263027270569961
+    },
+    {
+      "ticker": "AMBER.NS",
+      "alert_price": 6552.0,
+      "alert_pct_move": 4.6561776215957185,
+      "alert_relative_volume": 3.1348094742368104
+    }
+  ]
+}
