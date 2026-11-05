@@ -1,0 +1,54 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-05T09:21:00.164411+05:30",
+  "stocks": [
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 81.27999877929688,
+      "alert_pct_move": 3.5545942049454307,
+      "alert_relative_volume": 23.779608234905787
+    },
+    {
+      "ticker": "NLCINDIA.NS",
+      "alert_price": 250.8300018310547,
+      "alert_pct_move": 1.2718060596024288,
+      "alert_relative_volume": 7.197664130308653
+    },
+    {
+      "ticker": "TORNTPOWER.NS",
+      "alert_price": 1251.0,
+      "alert_pct_move": 3.964094509788247,
+      "alert_relative_volume": 7.182989723021668
+    },
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 133.6199951171875,
+      "alert_pct_move": 3.9682467127176873,
+      "alert_relative_volume": 5.6249417367096335
+    },
+    {
+      "ticker": "ADANIPOWER.NS",
+      "alert_price": 205.60000610351562,
+      "alert_pct_move": 1.9285108622134648,
+      "alert_relative_volume": 5.175258708263514
+    },
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 531.9500122070312,
+      "alert_pct_move": 3.241147444353469,
+      "alert_relative_volume": 4.549378761681046
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 14.050000190734863,
+      "alert_pct_move": 1.9593647532346898,
+      "alert_relative_volume": 4.024313845361843
+    },
+    {
+      "ticker": "ADANIENSOL.NS",
+      "alert_price": 1422.199951171875,
+      "alert_pct_move": 3.840535669068946,
+      "alert_relative_volume": 3.0645549731867705
+    }
+  ]
+}
