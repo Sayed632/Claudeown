@@ -1,0 +1,36 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-05T09:21:03.608093+05:30",
+  "stocks": [
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 200.14999389648438,
+      "alert_pct_move": 2.904881180711761,
+      "alert_relative_volume": 6.276822473834686
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 318.6499938964844,
+      "alert_pct_move": 2.098682366188832,
+      "alert_relative_volume": 4.323459131394215
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 233.25,
+      "alert_pct_move": 2.7352038836791506,
+      "alert_relative_volume": 3.515047953144692
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4130.7998046875,
+      "alert_pct_move": 1.6862308307121605,
+      "alert_relative_volume": 3.2669941556757127
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 551.0499877929688,
+      "alert_pct_move": 3.357397085103484,
+      "alert_relative_volume": 3.101565048286335
+    }
+  ]
+}
