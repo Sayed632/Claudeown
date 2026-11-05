@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-05T09:21:19.380786+05:30",
+  "stocks": [
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 109.66000366210938,
+      "alert_pct_move": -2.0543010371301973,
+      "alert_relative_volume": 32.250738934183076
+    },
+    {
+      "ticker": "LICHSGFIN.NS",
+      "alert_price": 527.5499877929688,
+      "alert_pct_move": 1.4519207294170673,
+      "alert_relative_volume": 18.51084075714822
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 194.39999389648438,
+      "alert_pct_move": -3.6240209082697246,
+      "alert_relative_volume": 17.57130499510368
+    },
+    {
+      "ticker": "FIVESTAR.NS",
+      "alert_price": 425.54998779296875,
+      "alert_pct_move": 7.164437484807495,
+      "alert_relative_volume": 16.176848746958225
+    },
+    {
+      "ticker": "SAMMAANCAP.NS",
+      "alert_price": 134.27999877929688,
+      "alert_pct_move": 6.58834354754482,
+      "alert_relative_volume": 15.162601207848915
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 1051.0,
+      "alert_pct_move": 4.0594059405940595,
+      "alert_relative_volume": 14.37047272468271
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 1033.0,
+      "alert_pct_move": 3.9235412474849096,
+      "alert_relative_volume": 10.952642839589782
+    },
+    {
+      "ticker": "HDFCAMC.NS",
+      "alert_price": 2630.0,
+      "alert_pct_move": 7.786885245901639,
+      "alert_relative_volume": 10.848618489459385
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 963.4500122070312,
+      "alert_pct_move": 6.019258564735213,
+      "alert_relative_volume": 10.51569478442586
+    },
+    {
+      "ticker": "NIVABUPA.NS",
+      "alert_price": 78.83000183105469,
+      "alert_pct_move": 7.471034043534459,
+      "alert_relative_volume": 9.767721614531485
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 757.1500244140625,
+      "alert_pct_move": 2.775894104544182,
+      "alert_relative_volume": 9.465736043065863
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3696.0,
+      "alert_pct_move": 2.623906705539359,
+      "alert_relative_volume": 9.29688511363198
+    }
+  ]
+}

@@ -1,35 +1,38 @@
 {
-  "MCX.NS": {
-    "date": "2026-11-04"
+  "JMFINANCIL.NS": {
+    "date": "2026-11-05"
   },
-  "AIIL.NS": {
-    "date": "2026-11-04"
+  "LICHSGFIN.NS": {
+    "date": "2026-11-05"
   },
-  "SBIN.NS": {
-    "date": "2026-11-04"
+  "APTUS.NS": {
+    "date": "2026-11-05"
   },
-  "KFINTECH.NS": {
-    "date": "2026-11-04"
+  "FIVESTAR.NS": {
+    "date": "2026-11-05"
   },
-  "NUVAMA.NS": {
-    "date": "2026-11-04"
+  "SAMMAANCAP.NS": {
+    "date": "2026-11-05"
   },
-  "BSE.NS": {
-    "date": "2026-11-04"
+  "MOTILALOFS.NS": {
+    "date": "2026-11-05"
   },
-  "HDFCBANK.NS": {
-    "date": "2026-11-04"
-  },
-  "NIVABUPA.NS": {
-    "date": "2026-11-04"
+  "BAJFINANCE.NS": {
+    "date": "2026-11-05"
   },
   "HDFCAMC.NS": {
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
-  "SBICARD.NS": {
-    "date": "2026-11-04"
+  "SHRIRAMFIN.NS": {
+    "date": "2026-11-05"
   },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-11-04"
+  "NIVABUPA.NS": {
+    "date": "2026-11-05"
+  },
+  "HDFCBANK.NS": {
+    "date": "2026-11-05"
+  },
+  "BSE.NS": {
+    "date": "2026-11-05"
   }
 }
