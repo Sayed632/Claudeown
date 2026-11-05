@@ -1,11 +1,23 @@
 {
+  "SCI.NS": {
+    "date": "2026-11-05"
+  },
+  "INDIGO.NS": {
+    "date": "2026-11-05"
+  },
+  "BLUEDART.NS": {
+    "date": "2026-11-05"
+  },
   "GMRAIRPORT.NS": {
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
-  "ADANIPORTS.NS": {
-    "date": "2026-11-04"
+  "REDINGTON.NS": {
+    "date": "2026-11-05"
   },
-  "GESHIP.NS": {
-    "date": "2026-11-04"
+  "MMTC.NS": {
+    "date": "2026-11-05"
+  },
+  "DELHIVERY.NS": {
+    "date": "2026-11-05"
   }
 }
