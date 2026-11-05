@@ -1,0 +1,36 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-11-05T09:26:51.860886+05:30",
+  "stocks": [
+    {
+      "ticker": "ANANTRAJ.NS",
+      "alert_price": 470.3999938964844,
+      "alert_pct_move": 2.172024355466952,
+      "alert_relative_volume": 5.244002450030265
+    },
+    {
+      "ticker": "GODREJPROP.NS",
+      "alert_price": 1795.5,
+      "alert_pct_move": 7.547169811320755,
+      "alert_relative_volume": 5.212359892921601
+    },
+    {
+      "ticker": "LODHA.NS",
+      "alert_price": 1159.0999755859375,
+      "alert_pct_move": 3.3065931894774954,
+      "alert_relative_volume": 3.4616919540479065
+    },
+    {
+      "ticker": "PRESTIGE.NS",
+      "alert_price": 1613.0999755859375,
+      "alert_pct_move": 2.0949351636669302,
+      "alert_relative_volume": 3.2095911674745663
+    },
+    {
+      "ticker": "DLF.NS",
+      "alert_price": 728.7000122070312,
+      "alert_pct_move": 1.2083350287543402,
+      "alert_relative_volume": 3.1800350902805894
+    }
+  ]
+}
