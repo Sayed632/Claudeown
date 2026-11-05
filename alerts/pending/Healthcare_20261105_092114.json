@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-05T09:21:14.224990+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8383.5,
+      "alert_pct_move": -2.511773940345369,
+      "alert_relative_volume": 9.5759558240423
+    },
+    {
+      "ticker": "MEDANTA.NS",
+      "alert_price": 1438.0999755859375,
+      "alert_pct_move": 8.470351683655046,
+      "alert_relative_volume": 7.900039536350231
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 1957.199951171875,
+      "alert_pct_move": -2.5589975624224715,
+      "alert_relative_volume": 7.64675703333047
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 1982.9000244140625,
+      "alert_pct_move": -2.291317603261865,
+      "alert_relative_volume": 7.012557574622961
+    },
+    {
+      "ticker": "METROPOLIS.NS",
+      "alert_price": 579.0,
+      "alert_pct_move": 1.8111460474558794,
+      "alert_relative_volume": 5.500556214666397
+    },
+    {
+      "ticker": "BIOCON.NS",
+      "alert_price": 349.75,
+      "alert_pct_move": 1.538681261472332,
+      "alert_relative_volume": 4.77362066304827
+    },
+    {
+      "ticker": "TORNTPHARM.NS",
+      "alert_price": 4699.2001953125,
+      "alert_pct_move": 1.0580687163978495,
+      "alert_relative_volume": 4.113788901101641
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2159.39990234375,
+      "alert_pct_move": 9.248200395409993,
+      "alert_relative_volume": 3.8833039829231684
+    },
+    {
+      "ticker": "VIJAYA.NS",
+      "alert_price": 1462.5999755859375,
+      "alert_pct_move": 2.667415460566087,
+      "alert_relative_volume": 3.76636431839941
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 19169.0,
+      "alert_pct_move": -1.312808896210873,
+      "alert_relative_volume": 3.698155503656603
+    },
+    {
+      "ticker": "IPCALAB.NS",
+      "alert_price": 1998.0999755859375,
+      "alert_pct_move": 1.3235281737290823,
+      "alert_relative_volume": 3.6565290215025383
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 746.1500244140625,
+      "alert_pct_move": -1.970702163682788,
+      "alert_relative_volume": 3.347041309618018
+    }
+  ]
+}
