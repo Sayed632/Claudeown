@@ -1,0 +1,78 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-05T09:21:00.599128+05:30",
+  "stocks": [
+    {
+      "ticker": "JYOTHYLAB.NS",
+      "alert_price": 194.08999633789062,
+      "alert_pct_move": 3.1077298523235566,
+      "alert_relative_volume": 15.857785573360177
+    },
+    {
+      "ticker": "VBL.NS",
+      "alert_price": 434.20001220703125,
+      "alert_pct_move": 3.393261003877502,
+      "alert_relative_volume": 14.31707696579083
+    },
+    {
+      "ticker": "BBTC.NS",
+      "alert_price": 1300.5999755859375,
+      "alert_pct_move": 4.348519745685548,
+      "alert_relative_volume": 6.36017372357491
+    },
+    {
+      "ticker": "GILLETTE.NS",
+      "alert_price": 7561.0,
+      "alert_pct_move": 4.4914317302377,
+      "alert_relative_volume": 6.02130794005117
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 491.95001220703125,
+      "alert_pct_move": 5.579997707661323,
+      "alert_relative_volume": 5.18639241319838
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1810.0,
+      "alert_pct_move": 4.322766570605188,
+      "alert_relative_volume": 4.455019678193058
+    },
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 1691.5999755859375,
+      "alert_pct_move": 3.671019562821139,
+      "alert_relative_volume": 3.9376987016403007
+    },
+    {
+      "ticker": "GODREJCP.NS",
+      "alert_price": 877.0,
+      "alert_pct_move": 3.297997644287397,
+      "alert_relative_volume": 3.5336995721253484
+    },
+    {
+      "ticker": "GODREJAGRO.NS",
+      "alert_price": 604.7999877929688,
+      "alert_pct_move": 3.6770400453837495,
+      "alert_relative_volume": 3.177262817802243
+    },
+    {
+      "ticker": "EMAMILTD.NS",
+      "alert_price": 389.79998779296875,
+      "alert_pct_move": 2.0418816211960076,
+      "alert_relative_volume": 3.168575648702012
+    },
+    {
+      "ticker": "CCL.NS",
+      "alert_price": 977.0999755859375,
+      "alert_pct_move": 1.3168758658618938,
+      "alert_relative_volume": 3.0964485217884676
+    },
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 470.8999938964844,
+      "alert_pct_move": 2.9964963525087223,
+      "alert_relative_volume": 3.0896383753500682
+    }
+  ]
+}
