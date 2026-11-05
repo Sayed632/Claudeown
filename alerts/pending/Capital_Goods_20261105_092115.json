@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-05T09:21:15.588867+05:30",
+  "stocks": [
+    {
+      "ticker": "CUMMINSIND.NS",
+      "alert_price": 4255.2998046875,
+      "alert_pct_move": -9.95408873147725,
+      "alert_relative_volume": 63.43647791660055
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 164.50999450683594,
+      "alert_pct_move": 6.8038666562319525,
+      "alert_relative_volume": 20.02805407401842
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 1683.300048828125,
+      "alert_pct_move": -2.0140855168646254,
+      "alert_relative_volume": 14.658428190815066
+    },
+    {
+      "ticker": "JYOTICNC.NS",
+      "alert_price": 1049.1500244140625,
+      "alert_pct_move": 1.3720541004044438,
+      "alert_relative_volume": 7.505139300399583
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 208.44000244140625,
+      "alert_pct_move": 8.173750480276892,
+      "alert_relative_volume": 6.397381097048352
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4128.10009765625,
+      "alert_pct_move": -3.2098453070046893,
+      "alert_relative_volume": 6.081790724113005
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 752.9500122070312,
+      "alert_pct_move": 1.5510148776946697,
+      "alert_relative_volume": 6.017060637937608
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 28070.0,
+      "alert_pct_move": 2.8958944281524923,
+      "alert_relative_volume": 5.976122226371616
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 30020.0,
+      "alert_pct_move": 3.2679738562091507,
+      "alert_relative_volume": 5.948916290112583
+    },
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 3318.89990234375,
+      "alert_pct_move": 1.1150672690235068,
+      "alert_relative_volume": 5.728066302598946
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1970.5999755859375,
+      "alert_pct_move": 5.498150320121695,
+      "alert_relative_volume": 5.480480784535125
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 65.33000183105469,
+      "alert_pct_move": 2.8818926473302167,
+      "alert_relative_volume": 4.504797852410151
+    }
+  ]
+}
