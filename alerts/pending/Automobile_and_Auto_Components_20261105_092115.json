@@ -1,0 +1,78 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-05T09:21:15.113288+05:30",
+  "stocks": [
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 419.54998779296875,
+      "alert_pct_move": 4.261926977289203,
+      "alert_relative_volume": 18.76430137576543
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 350.54998779296875,
+      "alert_pct_move": 7.828354725207097,
+      "alert_relative_volume": 17.123347143921823
+    },
+    {
+      "ticker": "TMPV.NS",
+      "alert_price": 289.5,
+      "alert_pct_move": 3.949730700179533,
+      "alert_relative_volume": 11.160629416627623
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 162.8000030517578,
+      "alert_pct_move": 2.0753636244219833,
+      "alert_relative_volume": 10.713885352463375
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 120700.0,
+      "alert_pct_move": 2.5575664882317954,
+      "alert_relative_volume": 10.059827077351292
+    },
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 3061.5,
+      "alert_pct_move": 3.3627097788631035,
+      "alert_relative_volume": 9.443369988664356
+    },
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 1011.5,
+      "alert_pct_move": 2.0222893283682746,
+      "alert_relative_volume": 8.461187825156804
+    },
+    {
+      "ticker": "BALKRISIND.NS",
+      "alert_price": 2283.699951171875,
+      "alert_pct_move": 4.254734132475462,
+      "alert_relative_volume": 7.554177244048363
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 12496.0,
+      "alert_pct_move": 4.176740308461859,
+      "alert_relative_volume": 7.537065493245684
+    },
+    {
+      "ticker": "ENDURANCE.NS",
+      "alert_price": 2561.5,
+      "alert_pct_move": 6.2907217643691835,
+      "alert_relative_volume": 6.832020065376501
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1769.5999755859375,
+      "alert_pct_move": -3.8260882833729615,
+      "alert_relative_volume": 6.420231302597349
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1086.5,
+      "alert_pct_move": 2.6258666393016385,
+      "alert_relative_volume": 6.034300232902815
+    }
+  ]
+}
