@@ -1,0 +1,36 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-11-05T09:25:44.936760+05:30",
+  "stocks": [
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "alert_price": 12170.0,
+      "alert_pct_move": 2.9959377115775223,
+      "alert_relative_volume": 4.965075732012017
+    },
+    {
+      "ticker": "RAMCOCEM.NS",
+      "alert_price": 796.1500244140625,
+      "alert_pct_move": 6.865775089135906,
+      "alert_relative_volume": 4.885180045635293
+    },
+    {
+      "ticker": "ACC.NS",
+      "alert_price": 1218.5,
+      "alert_pct_move": 4.136400771209808,
+      "alert_relative_volume": 4.535694551836127
+    },
+    {
+      "ticker": "AMBUJACEM.NS",
+      "alert_price": 385.25,
+      "alert_pct_move": 2.4737298818991276,
+      "alert_relative_volume": 4.18398398429869
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "alert_price": 3191.199951171875,
+      "alert_pct_move": 1.6953457989762586,
+      "alert_relative_volume": 3.810167147540733
+    }
+  ]
+}
