@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-05T09:26:05.543954+05:30",
+  "stocks": [
+    {
+      "ticker": "LATENTVIEW.NS",
+      "alert_price": 201.0,
+      "alert_pct_move": 3.3419023136246784,
+      "alert_relative_volume": 4.641501119944888
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 319.8500061035156,
+      "alert_pct_move": 2.483178419877865,
+      "alert_relative_volume": 3.3224029851852435
+    }
+  ]
+}
