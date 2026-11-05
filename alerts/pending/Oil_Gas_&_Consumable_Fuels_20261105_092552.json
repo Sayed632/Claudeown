@@ -1,0 +1,54 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-05T09:25:52.774312+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDPETRO.NS",
+      "alert_price": 387.95001220703125,
+      "alert_pct_move": 5.896002659656662,
+      "alert_relative_volume": 19.288133443388276
+    },
+    {
+      "ticker": "BPCL.NS",
+      "alert_price": 317.0,
+      "alert_pct_move": 4.036753298392194,
+      "alert_relative_volume": 9.699291881904008
+    },
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 146.57000732421875,
+      "alert_pct_move": 3.1965138237990702,
+      "alert_relative_volume": 9.543355344068665
+    },
+    {
+      "ticker": "OIL.NS",
+      "alert_price": 439.70001220703125,
+      "alert_pct_move": -3.468713017117179,
+      "alert_relative_volume": 8.247164688773095
+    },
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1100.300048828125,
+      "alert_pct_move": 3.8802964077535855,
+      "alert_relative_volume": 7.248282938086947
+    },
+    {
+      "ticker": "ONGC.NS",
+      "alert_price": 231.00999450683594,
+      "alert_pct_move": -1.6978746779421545,
+      "alert_relative_volume": 5.912039714466833
+    },
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 579.0499877929688,
+      "alert_pct_move": 1.4808995037818053,
+      "alert_relative_volume": 4.988683012206407
+    },
+    {
+      "ticker": "CHENNPETRO.NS",
+      "alert_price": 1548.5999755859375,
+      "alert_pct_move": -1.1679142601946315,
+      "alert_relative_volume": 3.063086240229513
+    }
+  ]
+}
