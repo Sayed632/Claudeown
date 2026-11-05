@@ -1,14 +1,23 @@
 {
-  "PETRONET.NS": {
-    "date": "2026-11-04"
+  "HINDPETRO.NS": {
+    "date": "2026-11-05"
   },
-  "AEGISLOG.NS": {
-    "date": "2026-11-04"
+  "BPCL.NS": {
+    "date": "2026-11-05"
   },
-  "IGL.NS": {
-    "date": "2026-11-04"
+  "IOC.NS": {
+    "date": "2026-11-05"
   },
-  "GAIL.NS": {
-    "date": "2026-11-04"
+  "MGL.NS": {
+    "date": "2026-11-05"
+  },
+  "OIL.NS": {
+    "date": "2026-11-05"
+  },
+  "ONGC.NS": {
+    "date": "2026-11-05"
+  },
+  "ATGL.NS": {
+    "date": "2026-11-05"
   }
 }
