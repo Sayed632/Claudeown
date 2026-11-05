@@ -1,0 +1,78 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-05T09:21:03.437295+05:30",
+  "stocks": [
+    {
+      "ticker": "PIIND.NS",
+      "alert_price": 1968.300048828125,
+      "alert_pct_move": -9.999997767346821,
+      "alert_relative_volume": 61.4517440101868
+    },
+    {
+      "ticker": "BASF.NS",
+      "alert_price": 3015.0,
+      "alert_pct_move": -3.9196940726577436,
+      "alert_relative_volume": 11.250245662932592
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 764.0,
+      "alert_pct_move": 6.845676951637672,
+      "alert_relative_volume": 8.04511249219607
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6393.0,
+      "alert_pct_move": 9.310079507566043,
+      "alert_relative_volume": 7.599707155270369
+    },
+    {
+      "ticker": "SWANCORP.NS",
+      "alert_price": 255.64999389648438,
+      "alert_pct_move": 4.521851966224668,
+      "alert_relative_volume": 7.349228383439342
+    },
+    {
+      "ticker": "SOLARINDS.NS",
+      "alert_price": 19149.0,
+      "alert_pct_move": -2.56945151114277,
+      "alert_relative_volume": 6.044777986544247
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 286.8999938964844,
+      "alert_pct_move": 3.9304497675445957,
+      "alert_relative_volume": 5.730408216284148
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1553.5999755859375,
+      "alert_pct_move": 2.826126843729077,
+      "alert_relative_volume": 4.274190830914662
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4613.0,
+      "alert_pct_move": 3.3401308478706184,
+      "alert_relative_volume": 3.912573079684193
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 102.55999755859375,
+      "alert_pct_move": 1.9381740745577098,
+      "alert_relative_volume": 3.6281673658717466
+    },
+    {
+      "ticker": "CLEAN.NS",
+      "alert_price": 667.5499877929688,
+      "alert_pct_move": 1.3281724593397735,
+      "alert_relative_volume": 3.450385990701342
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 397.70001220703125,
+      "alert_pct_move": 4.191773510167382,
+      "alert_relative_volume": 3.130583629697965
+    }
+  ]
+}
