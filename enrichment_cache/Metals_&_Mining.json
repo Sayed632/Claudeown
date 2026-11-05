@@ -1,5 +1,29 @@
 {
-  "GMDCLTD.NS": {
-    "date": "2026-11-04"
+  "HINDCOPPER.NS": {
+    "date": "2026-11-05"
+  },
+  "SARDAEN.NS": {
+    "date": "2026-11-05"
+  },
+  "TATASTEEL.NS": {
+    "date": "2026-11-05"
+  },
+  "NMDC.NS": {
+    "date": "2026-11-05"
+  },
+  "VEDL.NS": {
+    "date": "2026-11-05"
+  },
+  "NSLNISP.NS": {
+    "date": "2026-11-05"
+  },
+  "HINDZINC.NS": {
+    "date": "2026-11-05"
+  },
+  "GRAVITA.NS": {
+    "date": "2026-11-05"
+  },
+  "ADANIENT.NS": {
+    "date": "2026-11-05"
   }
 }

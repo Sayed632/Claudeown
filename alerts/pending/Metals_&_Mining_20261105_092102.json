@@ -1,0 +1,60 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-05T09:21:02.574745+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 428.0,
+      "alert_pct_move": 1.1222681630242175,
+      "alert_relative_volume": 5.736779295790985
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 449.6499938964844,
+      "alert_pct_move": 4.728074415835563,
+      "alert_relative_volume": 5.381245896056215
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 181.7899932861328,
+      "alert_pct_move": 1.033735722817,
+      "alert_relative_volume": 5.242750057382008
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 70.69999694824219,
+      "alert_pct_move": 1.1444855577965918,
+      "alert_relative_volume": 4.809491143272891
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 261.1199951171875,
+      "alert_pct_move": 1.4649267240178137,
+      "alert_relative_volume": 4.534506604700472
+    },
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 40.290000915527344,
+      "alert_pct_move": 2.025827305793133,
+      "alert_relative_volume": 4.216250751120709
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 559.7999877929688,
+      "alert_pct_move": 1.7540603382111903,
+      "alert_relative_volume": 4.127173730396131
+    },
+    {
+      "ticker": "GRAVITA.NS",
+      "alert_price": 1505.300048828125,
+      "alert_pct_move": 7.498392939989667,
+      "alert_relative_volume": 3.6436202464469543
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "alert_price": 2744.0,
+      "alert_pct_move": 1.284513858531265,
+      "alert_relative_volume": 3.473340359108899
+    }
+  ]
+}
