@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-05T09:26:03.275074+05:30",
+  "stocks": [
+    {
+      "ticker": "CUMMINSIND.NS",
+      "alert_price": 4253.2001953125,
+      "alert_pct_move": -9.998518324727424,
+      "alert_relative_volume": 38.947667934017126
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 165.89999389648438,
+      "alert_pct_move": 7.706287873309353,
+      "alert_relative_volume": 25.411600468626958
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 1691.9000244140625,
+      "alert_pct_move": -1.5134757337737403,
+      "alert_relative_volume": 18.213957399036477
+    },
+    {
+      "ticker": "GRAPHITE.NS",
+      "alert_price": 755.5999755859375,
+      "alert_pct_move": 1.9084177147407246,
+      "alert_relative_volume": 5.843174770267863
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 208.6699981689453,
+      "alert_pct_move": 8.293110968431435,
+      "alert_relative_volume": 5.540946671008132
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 1960.5999755859375,
+      "alert_pct_move": 4.962789761778275,
+      "alert_relative_volume": 5.059363726826085
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 65.48999786376953,
+      "alert_pct_move": 3.133854903574065,
+      "alert_relative_volume": 4.770304648890481
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4113.60009765625,
+      "alert_pct_move": -3.5498218603458387,
+      "alert_relative_volume": 4.465432250419143
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 28100.0,
+      "alert_pct_move": 3.005865102639296,
+      "alert_relative_volume": 4.431331997362783
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 29865.0,
+      "alert_pct_move": 2.7347781217750256,
+      "alert_relative_volume": 3.9237051529308555
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 258.989990234375,
+      "alert_pct_move": 1.7122826328221141,
+      "alert_relative_volume": 3.838118409296581
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 824.8499755859375,
+      "alert_pct_move": -1.9727893969070927,
+      "alert_relative_volume": 3.763943299516389
+    }
+  ]
+}
