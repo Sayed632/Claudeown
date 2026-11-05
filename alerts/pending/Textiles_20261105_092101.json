@@ -1,0 +1,18 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-11-05T09:21:01.375392+05:30",
+  "stocks": [
+    {
+      "ticker": "ALOKINDS.NS",
+      "alert_price": 8.579999923706055,
+      "alert_pct_move": 3.1250028656080273,
+      "alert_relative_volume": 4.9783733334728115
+    },
+    {
+      "ticker": "WELSPUNLIV.NS",
+      "alert_price": 260.5199890136719,
+      "alert_pct_move": -1.5307926818718187,
+      "alert_relative_volume": 3.7842596616110935
+    }
+  ]
+}
