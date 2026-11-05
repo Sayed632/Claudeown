@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-05T09:25:51.055055+05:30",
+  "stocks": [
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 504.1499938964844,
+      "alert_pct_move": 3.92702278979227,
+      "alert_relative_volume": 15.997011531576783
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "alert_price": 2520.0,
+      "alert_pct_move": 4.205431465014335,
+      "alert_relative_volume": 8.178781302039608
+    },
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 4948.2001953125,
+      "alert_pct_move": 6.116238372560583,
+      "alert_relative_volume": 7.787206692649594
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 541.0,
+      "alert_pct_move": 2.258768071592434,
+      "alert_relative_volume": 3.8849289596910377
+    }
+  ]
+}
