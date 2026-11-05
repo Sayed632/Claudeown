@@ -1,14 +1,38 @@
 {
-  "TBOTEK.NS": {
-    "date": "2026-11-03"
+  "NYKAA.NS": {
+    "date": "2026-11-05"
+  },
+  "CHALET.NS": {
+    "date": "2026-11-05"
+  },
+  "IRCTC.NS": {
+    "date": "2026-11-05"
+  },
+  "ABFRL.NS": {
+    "date": "2026-11-05"
   },
   "ABLBL.NS": {
-    "date": "2026-11-03"
+    "date": "2026-11-05"
+  },
+  "DBREALTY.NS": {
+    "date": "2026-11-05"
+  },
+  "TBOTEK.NS": {
+    "date": "2026-11-05"
+  },
+  "LEMONTREE.NS": {
+    "date": "2026-11-05"
   },
   "DEVYANI.NS": {
-    "date": "2026-11-03"
+    "date": "2026-11-05"
   },
-  "INDIAMART.NS": {
-    "date": "2026-11-03"
+  "ITCHOTELS.NS": {
+    "date": "2026-11-05"
+  },
+  "FIRSTCRY.NS": {
+    "date": "2026-11-05"
+  },
+  "SAPPHIRE.NS": {
+    "date": "2026-11-05"
   }
 }

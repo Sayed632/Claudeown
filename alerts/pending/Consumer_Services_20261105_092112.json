@@ -1,0 +1,78 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-05T09:21:12.828569+05:30",
+  "stocks": [
+    {
+      "ticker": "NYKAA.NS",
+      "alert_price": 347.1000061035156,
+      "alert_pct_move": -2.3628674814302038,
+      "alert_relative_volume": 24.09954004183045
+    },
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 828.7000122070312,
+      "alert_pct_move": 2.239223328283905,
+      "alert_relative_volume": 11.394501213459716
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 462.25,
+      "alert_pct_move": 2.722222222222222,
+      "alert_relative_volume": 6.919739753796973
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 41.5099983215332,
+      "alert_pct_move": 2.0905028955015936,
+      "alert_relative_volume": 5.734565888983698
+    },
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 75.16000366210938,
+      "alert_pct_move": 2.7337341441876237,
+      "alert_relative_volume": 5.24524054684402
+    },
+    {
+      "ticker": "DBREALTY.NS",
+      "alert_price": 88.44999694824219,
+      "alert_pct_move": 5.49856967046183,
+      "alert_relative_volume": 4.939684373477908
+    },
+    {
+      "ticker": "TBOTEK.NS",
+      "alert_price": 1560.699951171875,
+      "alert_pct_move": -2.1136523285348154,
+      "alert_relative_volume": 4.671921484824993
+    },
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 117.37999725341797,
+      "alert_pct_move": 1.566148276692269,
+      "alert_relative_volume": 4.518253698116075
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 123.2699966430664,
+      "alert_pct_move": 3.86753987705412,
+      "alert_relative_volume": 4.230982505852468
+    },
+    {
+      "ticker": "ITCHOTELS.NS",
+      "alert_price": 177.1300048828125,
+      "alert_pct_move": 2.215945377953325,
+      "alert_relative_volume": 4.013956595023896
+    },
+    {
+      "ticker": "FIRSTCRY.NS",
+      "alert_price": 171.0,
+      "alert_pct_move": 4.914408391238371,
+      "alert_relative_volume": 3.424945153044296
+    },
+    {
+      "ticker": "SAPPHIRE.NS",
+      "alert_price": 203.3699951171875,
+      "alert_pct_move": 5.149677507104753,
+      "alert_relative_volume": 3.2183566373603756
+    }
+  ]
+}
