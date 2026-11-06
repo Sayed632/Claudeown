@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-06T09:26:01.304251+05:30",
+  "stocks": [
+    {
+      "ticker": "ONGC.NS",
+      "alert_price": 227.32000732421875,
+      "alert_pct_move": -1.165214206861413,
+      "alert_relative_volume": 10.306619053612113
+    },
+    {
+      "ticker": "AEGISVOPAK.NS",
+      "alert_price": 228.00999450683594,
+      "alert_pct_move": -4.833257651844346,
+      "alert_relative_volume": 3.881709743925299
+    },
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 142.52999877929688,
+      "alert_pct_move": -1.3633226440852075,
+      "alert_relative_volume": 3.7077888010561804
+    },
+    {
+      "ticker": "ATGL.NS",
+      "alert_price": 572.2000122070312,
+      "alert_pct_move": -1.6162248578907148,
+      "alert_relative_volume": 3.1475398905593206
+    }
+  ]
+}
