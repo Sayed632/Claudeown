@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-11-06T09:25:53.878816+05:30",
+  "stocks": [
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "alert_price": 12198.0,
+      "alert_pct_move": 3.232904536222072,
+      "alert_relative_volume": 7.202921246856123
+    }
+  ]
+}
