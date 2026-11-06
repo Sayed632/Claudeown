@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-06T09:26:04.023890+05:30",
+  "stocks": [
+    {
+      "ticker": "PIIND.NS",
+      "alert_price": 1741.699951171875,
+      "alert_pct_move": -1.5988728151483051,
+      "alert_relative_volume": 6.76126256773681
+    }
+  ]
+}
