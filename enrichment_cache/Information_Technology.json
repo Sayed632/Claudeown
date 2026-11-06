@@ -1,17 +1,38 @@
 {
-  "LATENTVIEW.NS": {
-    "date": "2026-11-05"
-  },
-  "HAPPSTMNDS.NS": {
-    "date": "2026-11-05"
+  "MPHASIS.NS": {
+    "date": "2026-11-06"
   },
   "SONATSOFTW.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
   },
   "NETWEB.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
+  },
+  "MAPMYINDIA.NS": {
+    "date": "2026-11-06"
   },
   "ZENSARTECH.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
+  },
+  "TCS.NS": {
+    "date": "2026-11-06"
+  },
+  "HCLTECH.NS": {
+    "date": "2026-11-06"
+  },
+  "COFORGE.NS": {
+    "date": "2026-11-06"
+  },
+  "NEWGEN.NS": {
+    "date": "2026-11-06"
+  },
+  "BSOFT.NS": {
+    "date": "2026-11-06"
+  },
+  "WIPRO.NS": {
+    "date": "2026-11-06"
+  },
+  "INFY.NS": {
+    "date": "2026-11-06"
   }
 }

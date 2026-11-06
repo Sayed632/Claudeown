@@ -1,0 +1,78 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-06T09:21:11.617704+05:30",
+  "stocks": [
+    {
+      "ticker": "MPHASIS.NS",
+      "alert_price": 2633.699951171875,
+      "alert_pct_move": 4.928284907246016,
+      "alert_relative_volume": 38.22582527344492
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 242.55999755859375,
+      "alert_pct_move": 2.0360071988208905,
+      "alert_relative_volume": 8.559538629084471
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 3758.0,
+      "alert_pct_move": -6.598732446874611,
+      "alert_relative_volume": 8.191028246965194
+    },
+    {
+      "ticker": "MAPMYINDIA.NS",
+      "alert_price": 857.0999755859375,
+      "alert_pct_move": -2.257959662089784,
+      "alert_relative_volume": 6.647050140866764
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 577.6500244140625,
+      "alert_pct_move": 2.1034068783141846,
+      "alert_relative_volume": 6.537723515896307
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2554.39990234375,
+      "alert_pct_move": 2.3520436078188,
+      "alert_relative_volume": 5.589247175896263
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "alert_price": 1461.5999755859375,
+      "alert_pct_move": 2.1740633055531284,
+      "alert_relative_volume": 5.03141161298557
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2126.39990234375,
+      "alert_pct_move": 2.2799375826719577,
+      "alert_relative_volume": 4.860910262304974
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 456.20001220703125,
+      "alert_pct_move": 3.2944681335050947,
+      "alert_relative_volume": 4.798625900285386
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 338.29998779296875,
+      "alert_pct_move": 2.422040658691874,
+      "alert_relative_volume": 4.607433222807972
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 201.13999938964844,
+      "alert_pct_move": 1.3810511983148883,
+      "alert_relative_volume": 4.606972881836638
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1196.5,
+      "alert_pct_move": 2.492716718979277,
+      "alert_relative_volume": 4.10346988490201
+    }
+  ]
+}
