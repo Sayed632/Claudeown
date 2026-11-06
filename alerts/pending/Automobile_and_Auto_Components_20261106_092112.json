@@ -1,0 +1,66 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-06T09:21:12.357265+05:30",
+  "stocks": [
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 3194.699951171875,
+      "alert_pct_move": 2.148679493904876,
+      "alert_relative_volume": 11.494933329956067
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 354.45001220703125,
+      "alert_pct_move": 6.489411358700131,
+      "alert_relative_volume": 8.921835872782136
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 124600.0,
+      "alert_pct_move": -1.048284625158831,
+      "alert_relative_volume": 6.934029185245237
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 162.64999389648438,
+      "alert_pct_move": -3.1845274425688244,
+      "alert_relative_volume": 6.0655329131215145
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 51755.0,
+      "alert_pct_move": -1.3720819437827536,
+      "alert_relative_volume": 5.6551872714279705
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2188.39990234375,
+      "alert_pct_move": -2.7593911422461677,
+      "alert_relative_volume": 5.330962446437385
+    },
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 710.0,
+      "alert_pct_move": 1.8505271648043837,
+      "alert_relative_volume": 4.256640772321008
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 414.79998779296875,
+      "alert_pct_move": 3.081509464355066,
+      "alert_relative_volume": 3.6904395133745758
+    },
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 1025.6500244140625,
+      "alert_pct_move": 4.291017508081286,
+      "alert_relative_volume": 3.3455783031307003
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "alert_price": 10717.0,
+      "alert_pct_move": 1.027526395173454,
+      "alert_relative_volume": 3.3338558439610466
+    }
+  ]
+}
