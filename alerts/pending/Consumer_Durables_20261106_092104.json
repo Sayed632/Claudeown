@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-06T09:21:04.384482+05:30",
+  "stocks": [
+    {
+      "ticker": "TITAN.NS",
+      "alert_price": 4902.5,
+      "alert_pct_move": 1.4044574726390913,
+      "alert_relative_volume": 29.566883944666316
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 573.0,
+      "alert_pct_move": 2.3214285714285716,
+      "alert_relative_volume": 22.141019400932585
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 475.45001220703125,
+      "alert_pct_move": -1.989279277482664,
+      "alert_relative_volume": 11.597794643370781
+    }
+  ]
+}

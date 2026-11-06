@@ -1,23 +1,11 @@
 {
-  "BERGEPAINT.NS": {
-    "date": "2026-11-05"
-  },
-  "CENTURYPLY.NS": {
-    "date": "2026-11-05"
-  },
-  "ASIANPAINT.NS": {
-    "date": "2026-11-05"
-  },
-  "CERA.NS": {
-    "date": "2026-11-05"
-  },
-  "PGEL.NS": {
-    "date": "2026-11-05"
-  },
-  "AMBER.NS": {
-    "date": "2026-11-05"
+  "TITAN.NS": {
+    "date": "2026-11-06"
   },
   "KALYANKJIL.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
+  },
+  "BERGEPAINT.NS": {
+    "date": "2026-11-06"
   }
 }
