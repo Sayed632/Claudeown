@@ -1,0 +1,24 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-11-06T09:21:05.766787+05:30",
+  "stocks": [
+    {
+      "ticker": "ANANTRAJ.NS",
+      "alert_price": 447.20001220703125,
+      "alert_pct_move": -4.034332144413895,
+      "alert_relative_volume": 5.436139600351802
+    },
+    {
+      "ticker": "PRESTIGE.NS",
+      "alert_price": 1610.9000244140625,
+      "alert_pct_move": 1.9556977477254747,
+      "alert_relative_volume": 3.8151675504966263
+    },
+    {
+      "ticker": "SIGNATURE.NS",
+      "alert_price": 729.7999877929688,
+      "alert_pct_move": 3.210297410662603,
+      "alert_relative_volume": 3.3914473736516015
+    }
+  ]
+}
