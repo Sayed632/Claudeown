@@ -1,0 +1,30 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-06T09:25:52.939506+05:30",
+  "stocks": [
+    {
+      "ticker": "REDINGTON.NS",
+      "alert_price": 329.8999938964844,
+      "alert_pct_move": -7.435465896134912,
+      "alert_relative_volume": 6.600399319749433
+    },
+    {
+      "ticker": "GESHIP.NS",
+      "alert_price": 1417.0,
+      "alert_pct_move": -2.945205479452055,
+      "alert_relative_volume": 5.431297909533726
+    },
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 258.79998779296875,
+      "alert_pct_move": -1.7650499899799947,
+      "alert_relative_volume": 4.0344220861901094
+    },
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5350.89990234375,
+      "alert_pct_move": 4.0869145976989,
+      "alert_relative_volume": 3.7653557113164307
+    }
+  ]
+}
