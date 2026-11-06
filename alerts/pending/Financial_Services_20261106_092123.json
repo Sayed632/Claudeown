@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-06T09:21:23.031884+05:30",
+  "stocks": [
+    {
+      "ticker": "CHOLAHLDNG.NS",
+      "alert_price": 1474.9000244140625,
+      "alert_pct_move": 7.281057028712095,
+      "alert_relative_volume": 14.161814528406849
+    },
+    {
+      "ticker": "JMFINANCIL.NS",
+      "alert_price": 106.5,
+      "alert_pct_move": -2.1049737073772716,
+      "alert_relative_volume": 13.215240701830213
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 175.0,
+      "alert_pct_move": -2.7399504676603215,
+      "alert_relative_volume": 5.645739828612714
+    },
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 397.29998779296875,
+      "alert_pct_move": -2.6225520115272674,
+      "alert_relative_volume": 4.934205581878518
+    },
+    {
+      "ticker": "IFCI.NS",
+      "alert_price": 59.90999984741211,
+      "alert_pct_move": -2.347186083984029,
+      "alert_relative_volume": 4.445972852532558
+    },
+    {
+      "ticker": "CAMS.NS",
+      "alert_price": 704.7999877929688,
+      "alert_pct_move": 1.3736048605492628,
+      "alert_relative_volume": 4.197633391897189
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 121.12999725341797,
+      "alert_pct_move": -1.4401987392068745,
+      "alert_relative_volume": 4.160303880425847
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3750.60009765625,
+      "alert_pct_move": -1.0395752597295516,
+      "alert_relative_volume": 3.843757603388658
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 108.79000091552734,
+      "alert_pct_move": -1.2346805188486907,
+      "alert_relative_volume": 3.618329996931544
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "alert_price": 896.5499877929688,
+      "alert_pct_move": -1.6347604602015227,
+      "alert_relative_volume": 3.460916707894798
+    },
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 76.19999694824219,
+      "alert_pct_move": -2.056563034388563,
+      "alert_relative_volume": 3.4166953843217653
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "alert_price": 227.07000732421875,
+      "alert_pct_move": -1.1105251490260477,
+      "alert_relative_volume": 3.3890853887587395
+    }
+  ]
+}
