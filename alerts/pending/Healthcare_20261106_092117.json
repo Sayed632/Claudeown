@@ -1,0 +1,66 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-06T09:21:17.679562+05:30",
+  "stocks": [
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1688.0,
+      "alert_pct_move": 5.863907180934462,
+      "alert_relative_volume": 44.199704034299465
+    },
+    {
+      "ticker": "ASTRAZEN.NS",
+      "alert_price": 6580.5,
+      "alert_pct_move": 4.551954242135367,
+      "alert_relative_volume": 18.521391819656046
+    },
+    {
+      "ticker": "GLENMARK.NS",
+      "alert_price": 2429.199951171875,
+      "alert_pct_move": -3.0143331126219644,
+      "alert_relative_volume": 15.412896516131179
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 429.8999938964844,
+      "alert_pct_move": -4.253898909468959,
+      "alert_relative_volume": 7.677290395581062
+    },
+    {
+      "ticker": "BLUEJET.NS",
+      "alert_price": 552.4500122070312,
+      "alert_pct_move": -4.146779628924025,
+      "alert_relative_volume": 6.4381932350317825
+    },
+    {
+      "ticker": "APLLTD.NS",
+      "alert_price": 909.9000244140625,
+      "alert_pct_move": 1.8354811879196977,
+      "alert_relative_volume": 3.709050163207658
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 505.0,
+      "alert_pct_move": -3.5339063992359123,
+      "alert_relative_volume": 3.587308699677434
+    },
+    {
+      "ticker": "POLYMED.NS",
+      "alert_price": 1560.800048828125,
+      "alert_pct_move": -1.6385177211962767,
+      "alert_relative_volume": 3.366646860633567
+    },
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 801.4000244140625,
+      "alert_pct_move": 1.6038065818145801,
+      "alert_relative_volume": 3.272090431568258
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 1953.0,
+      "alert_pct_move": -1.844496761949449,
+      "alert_relative_volume": 3.1514321213115304
+    }
+  ]
+}
