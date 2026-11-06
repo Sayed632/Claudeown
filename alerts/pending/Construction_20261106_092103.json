@@ -1,0 +1,24 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-06T09:21:03.054197+05:30",
+  "stocks": [
+    {
+      "ticker": "NCC.NS",
+      "alert_price": 123.6500015258789,
+      "alert_pct_move": 1.861769624840439,
+      "alert_relative_volume": 11.165629225812546
+    },
+    {
+      "ticker": "NBCC.NS",
+      "alert_price": 78.7699966430664,
+      "alert_pct_move": -1.9419957082401067,
+      "alert_relative_volume": 8.236026314201634
+    },
+    {
+      "ticker": "AFCONS.NS",
+      "alert_price": 213.89999389648438,
+      "alert_pct_move": -2.5246119592079115,
+      "alert_relative_volume": 3.578413822133492
+    }
+  ]
+}
