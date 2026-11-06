@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-06T09:26:03.738565+05:30",
+  "stocks": [
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 569.5,
+      "alert_pct_move": 1.6964285714285714,
+      "alert_relative_volume": 20.52902197922931
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 474.5,
+      "alert_pct_move": -2.18511770153507,
+      "alert_relative_volume": 12.187764056687719
+    },
+    {
+      "ticker": "CENTURYPLY.NS",
+      "alert_price": 644.7999877929688,
+      "alert_pct_move": -1.9613842442809355,
+      "alert_relative_volume": 3.270892688401185
+    }
+  ]
+}
