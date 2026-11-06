@@ -1,0 +1,42 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-06T09:26:08.184905+05:30",
+  "stocks": [
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 3198.699951171875,
+      "alert_pct_move": 2.2765771757593924,
+      "alert_relative_volume": 9.500713070438392
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 352.25,
+      "alert_pct_move": 5.828449313728124,
+      "alert_relative_volume": 6.224029932773521
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2128.10009765625,
+      "alert_pct_move": -5.438787040379916,
+      "alert_relative_volume": 5.409366535659557
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 161.0,
+      "alert_pct_move": -4.166666666666666,
+      "alert_relative_volume": 5.246876113366848
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 124500.0,
+      "alert_pct_move": -1.127700127064803,
+      "alert_relative_volume": 5.020359656557468
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 51695.0,
+      "alert_pct_move": -1.4864221057646498,
+      "alert_relative_volume": 4.353616453746766
+    }
+  ]
+}
