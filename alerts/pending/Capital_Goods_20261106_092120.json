@@ -1,0 +1,78 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-06T09:21:20.274343+05:30",
+  "stocks": [
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 2874.89990234375,
+      "alert_pct_move": -12.412032429205505,
+      "alert_relative_volume": 43.460937641347115
+    },
+    {
+      "ticker": "ASTRAL.NS",
+      "alert_price": 1266.800048828125,
+      "alert_pct_move": -8.731984954746038,
+      "alert_relative_volume": 40.21681397915697
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1063.5,
+      "alert_pct_move": -6.365561341780309,
+      "alert_relative_volume": 27.947088093485018
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 3718.5,
+      "alert_pct_move": -6.096111222429446,
+      "alert_relative_volume": 11.955731651427842
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 769.0999755859375,
+      "alert_pct_move": -4.908508012637779,
+      "alert_relative_volume": 10.035082049821439
+    },
+    {
+      "ticker": "CUMMINSIND.NS",
+      "alert_price": 3959.699951171875,
+      "alert_pct_move": -2.444010780226275,
+      "alert_relative_volume": 9.286800286626981
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 1945.9000244140625,
+      "alert_pct_move": -2.260284265818112,
+      "alert_relative_volume": 8.855672529553729
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 1910.199951171875,
+      "alert_pct_move": -5.3231574996858395,
+      "alert_relative_volume": 7.709397606006968
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 1537.0,
+      "alert_pct_move": -3.4790268503322475,
+      "alert_relative_volume": 6.237978376376846
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3368.39990234375,
+      "alert_pct_move": -1.8531496986086828,
+      "alert_relative_volume": 5.5427426162892415
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 167.5800018310547,
+      "alert_pct_move": -1.545152916440271,
+      "alert_relative_volume": 4.91804916878139
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 2754.699951171875,
+      "alert_pct_move": -3.648130424208639,
+      "alert_relative_volume": 4.734323619674333
+    }
+  ]
+}

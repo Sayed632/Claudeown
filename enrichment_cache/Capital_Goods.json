@@ -1,38 +1,38 @@
 {
-  "CUMMINSIND.NS": {
-    "date": "2026-11-05"
+  "THERMAX.NS": {
+    "date": "2026-11-06"
   },
-  "ASHOKLEY.NS": {
-    "date": "2026-11-05"
+  "ASTRAL.NS": {
+    "date": "2026-11-06"
   },
-  "KIRLOSENG.NS": {
-    "date": "2026-11-05"
+  "SCHNEIDER.NS": {
+    "date": "2026-11-06"
   },
-  "GRAPHITE.NS": {
-    "date": "2026-11-05"
-  },
-  "GPIL.NS": {
-    "date": "2026-11-05"
-  },
-  "INOXINDIA.NS": {
-    "date": "2026-11-05"
-  },
-  "INOXWIND.NS": {
-    "date": "2026-11-05"
-  },
-  "GVT&D.NS": {
-    "date": "2026-11-05"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-11-05"
-  },
-  "HONAUT.NS": {
-    "date": "2026-11-05"
-  },
-  "PRAJIND.NS": {
-    "date": "2026-11-05"
+  "DATAPATTNS.NS": {
+    "date": "2026-11-06"
   },
   "CGPOWER.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
+  },
+  "CUMMINSIND.NS": {
+    "date": "2026-11-06"
+  },
+  "BEML.NS": {
+    "date": "2026-11-06"
+  },
+  "RRKABEL.NS": {
+    "date": "2026-11-06"
+  },
+  "KIRLOSENG.NS": {
+    "date": "2026-11-06"
+  },
+  "SIEMENS.NS": {
+    "date": "2026-11-06"
+  },
+  "ASHOKLEY.NS": {
+    "date": "2026-11-06"
+  },
+  "ENRIN.NS": {
+    "date": "2026-11-06"
   }
 }
