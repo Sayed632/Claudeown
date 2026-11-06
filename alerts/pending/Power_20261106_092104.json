@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-06T09:21:04.918864+05:30",
+  "stocks": [
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 82.6500015258789,
+      "alert_pct_move": 2.543428152068792,
+      "alert_relative_volume": 6.171782732712454
+    }
+  ]
+}
