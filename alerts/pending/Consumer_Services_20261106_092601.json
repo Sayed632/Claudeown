@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-06T09:26:01.784810+05:30",
+  "stocks": [
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 38.86000061035156,
+      "alert_pct_move": -6.988985768932696,
+      "alert_relative_volume": 10.584094250799264
+    },
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 118.76000213623047,
+      "alert_pct_move": 1.0465441757073013,
+      "alert_relative_volume": 4.967960089846836
+    },
+    {
+      "ticker": "FIRSTCRY.NS",
+      "alert_price": 159.91000366210938,
+      "alert_pct_move": -2.2136581325809908,
+      "alert_relative_volume": 4.460542257847568
+    },
+    {
+      "ticker": "MANYAVAR.NS",
+      "alert_price": 480.1499938964844,
+      "alert_pct_move": -3.351448129145872,
+      "alert_relative_volume": 3.766000351345235
+    }
+  ]
+}
