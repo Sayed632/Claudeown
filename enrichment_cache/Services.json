@@ -1,23 +1,17 @@
 {
+  "REDINGTON.NS": {
+    "date": "2026-11-06"
+  },
+  "GESHIP.NS": {
+    "date": "2026-11-06"
+  },
+  "FSL.NS": {
+    "date": "2026-11-06"
+  },
   "SCI.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
   },
   "INDIGO.NS": {
-    "date": "2026-11-05"
-  },
-  "BLUEDART.NS": {
-    "date": "2026-11-05"
-  },
-  "GMRAIRPORT.NS": {
-    "date": "2026-11-05"
-  },
-  "REDINGTON.NS": {
-    "date": "2026-11-05"
-  },
-  "MMTC.NS": {
-    "date": "2026-11-05"
-  },
-  "DELHIVERY.NS": {
-    "date": "2026-11-05"
+    "date": "2026-11-06"
   }
 }
