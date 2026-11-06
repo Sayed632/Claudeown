@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-06T09:25:57.519509+05:30",
+  "stocks": [
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 484.6499938964844,
+      "alert_pct_move": 2.4846690952954464,
+      "alert_relative_volume": 8.269149308679232
+    },
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1753.9000244140625,
+      "alert_pct_move": -1.1720249805651841,
+      "alert_relative_volume": 5.908465231725679
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 376.45001220703125,
+      "alert_pct_move": -2.2207760501217533,
+      "alert_relative_volume": 5.266841371851667
+    }
+  ]
+}
