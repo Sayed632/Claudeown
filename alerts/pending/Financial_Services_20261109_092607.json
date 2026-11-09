@@ -1,0 +1,42 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-09T09:26:07.918283+05:30",
+  "stocks": [
+    {
+      "ticker": "HUDCO.NS",
+      "alert_price": 162.47999572753906,
+      "alert_pct_move": 1.575386914167598,
+      "alert_relative_volume": 10.515661799165688
+    },
+    {
+      "ticker": "SBIN.NS",
+      "alert_price": 1031.5999755859375,
+      "alert_pct_move": 1.2862028066703486,
+      "alert_relative_volume": 7.674946790313694
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1925.5,
+      "alert_pct_move": 4.188086436694148,
+      "alert_relative_volume": 6.5648732804342185
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2907.39990234375,
+      "alert_pct_move": 1.338442047533984,
+      "alert_relative_volume": 5.040335070925894
+    },
+    {
+      "ticker": "LICHSGFIN.NS",
+      "alert_price": 546.0,
+      "alert_pct_move": 1.8656716417910446,
+      "alert_relative_volume": 4.006575274127312
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 1140.3499755859375,
+      "alert_pct_move": 3.4800340822084843,
+      "alert_relative_volume": 3.3055665429686516
+    }
+  ]
+}
