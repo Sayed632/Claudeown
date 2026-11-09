@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-09T09:21:04.432350+05:30",
+  "stocks": [
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 481.0,
+      "alert_pct_move": 3.1303615554411945,
+      "alert_relative_volume": 61.851798088943944
+    }
+  ]
+}
