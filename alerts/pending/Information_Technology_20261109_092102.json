@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-09T09:21:02.016519+05:30",
+  "stocks": [
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1702.0,
+      "alert_pct_move": 2.7095543464833014,
+      "alert_relative_volume": 4.876007603498107
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 3894.0,
+      "alert_pct_move": 3.2507848764608527,
+      "alert_relative_volume": 3.26432744972785
+    }
+  ]
+}
