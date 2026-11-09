@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-09T09:21:07.260161+05:30",
+  "stocks": [
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1060.4000244140625,
+      "alert_pct_move": 3.3175865580048383,
+      "alert_relative_volume": 11.658159310368882
+    }
+  ]
+}
