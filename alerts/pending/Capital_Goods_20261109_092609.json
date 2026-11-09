@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-09T09:26:09.712970+05:30",
+  "stocks": [
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1252.699951171875,
+      "alert_pct_move": 14.821260419053619,
+      "alert_relative_volume": 48.61300958923185
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 826.5,
+      "alert_pct_move": -1.519213583556747,
+      "alert_relative_volume": 9.808506444722244
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2034.699951171875,
+      "alert_pct_move": 5.9243024265422255,
+      "alert_relative_volume": 8.502998661837283
+    },
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 2820.0,
+      "alert_pct_move": 2.6836088505086524,
+      "alert_relative_volume": 6.916594001684228
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3631.5,
+      "alert_pct_move": 2.008426966292135,
+      "alert_relative_volume": 5.804617169875238
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 28395.0,
+      "alert_pct_move": 2.1402877697841727,
+      "alert_relative_volume": 5.178310886147068
+    },
+    {
+      "ticker": "ASTRAL.NS",
+      "alert_price": 1277.4000244140625,
+      "alert_pct_move": 1.8985361591923104,
+      "alert_relative_volume": 4.384340389039529
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 798.25,
+      "alert_pct_move": 3.2664941785252264,
+      "alert_relative_volume": 3.35090004788962
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6897.0,
+      "alert_pct_move": 1.815766164747564,
+      "alert_relative_volume": 3.315459821862331
+    },
+    {
+      "ticker": "SHYAMMETL.NS",
+      "alert_price": 1319.0,
+      "alert_pct_move": 1.414733566004647,
+      "alert_relative_volume": 3.0509243842951146
+    }
+  ]
+}
