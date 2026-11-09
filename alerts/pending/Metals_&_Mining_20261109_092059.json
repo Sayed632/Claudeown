@@ -1,0 +1,36 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-09T09:20:59.353465+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 937.9500122070312,
+      "alert_pct_move": -2.1337658270129722,
+      "alert_relative_volume": 9.305813570517339
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 189.5399932861328,
+      "alert_pct_move": 1.7391251644128352,
+      "alert_relative_volume": 6.352678624481826
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 431.04998779296875,
+      "alert_pct_move": 2.3507049839629635,
+      "alert_relative_volume": 4.477485577768753
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 574.75,
+      "alert_pct_move": 1.1705729096720474,
+      "alert_relative_volume": 3.504399987351509
+    },
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 40.29999923706055,
+      "alert_pct_move": 1.767678762404269,
+      "alert_relative_volume": 3.4753529731211414
+    }
+  ]
+}
