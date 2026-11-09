@@ -1,38 +1,23 @@
 {
-  "CHOLAHLDNG.NS": {
-    "date": "2026-11-06"
+  "HUDCO.NS": {
+    "date": "2026-11-09"
   },
-  "JMFINANCIL.NS": {
-    "date": "2026-11-06"
+  "SBIN.NS": {
+    "date": "2026-11-09"
+  },
+  "MUTHOOTFIN.NS": {
+    "date": "2026-11-09"
+  },
+  "LICHSGFIN.NS": {
+    "date": "2026-11-09"
+  },
+  "NUVAMA.NS": {
+    "date": "2026-11-09"
+  },
+  "MOTILALOFS.NS": {
+    "date": "2026-11-09"
   },
   "APTUS.NS": {
-    "date": "2026-11-06"
-  },
-  "LICI.NS": {
-    "date": "2026-11-06"
-  },
-  "IFCI.NS": {
-    "date": "2026-11-06"
-  },
-  "CAMS.NS": {
-    "date": "2026-11-06"
-  },
-  "CANBK.NS": {
-    "date": "2026-11-06"
-  },
-  "BSE.NS": {
-    "date": "2026-11-06"
-  },
-  "IREDA.NS": {
-    "date": "2026-11-06"
-  },
-  "INDUSINDBK.NS": {
-    "date": "2026-11-06"
-  },
-  "IDFCFIRSTB.NS": {
-    "date": "2026-11-06"
-  },
-  "JIOFIN.NS": {
-    "date": "2026-11-06"
+    "date": "2026-11-09"
   }
 }
