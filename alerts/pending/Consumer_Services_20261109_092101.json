@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-09T09:21:01.820677+05:30",
+  "stocks": [
+    {
+      "ticker": "JUBLFOOD.NS",
+      "alert_price": 441.45001220703125,
+      "alert_pct_move": -3.4448817977870085,
+      "alert_relative_volume": 4.236126283833451
+    }
+  ]
+}
