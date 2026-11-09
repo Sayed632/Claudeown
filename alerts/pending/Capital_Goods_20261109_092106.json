@@ -1,0 +1,72 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-09T09:21:06.858408+05:30",
+  "stocks": [
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1273.9000244140625,
+      "alert_pct_move": 16.7644385347445,
+      "alert_relative_volume": 42.45214368132632
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 2024.5,
+      "alert_pct_move": 5.393303881993488,
+      "alert_relative_volume": 9.567073731042692
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 823.7999877929688,
+      "alert_pct_move": -1.8409308557677986,
+      "alert_relative_volume": 9.30942957804389
+    },
+    {
+      "ticker": "THERMAX.NS",
+      "alert_price": 2815.300048828125,
+      "alert_pct_move": 2.512471280384786,
+      "alert_relative_volume": 7.729114096792168
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3621.0,
+      "alert_pct_move": 1.7134831460674158,
+      "alert_relative_volume": 7.0015063823039725
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 28605.0,
+      "alert_pct_move": 2.89568345323741,
+      "alert_relative_volume": 6.929703640442111
+    },
+    {
+      "ticker": "ASTRAL.NS",
+      "alert_price": 1271.0999755859375,
+      "alert_pct_move": 1.395979605999947,
+      "alert_relative_volume": 5.187315435073896
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6893.0,
+      "alert_pct_move": 1.7567168585769117,
+      "alert_relative_volume": 4.405092302719137
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 797.5999755859375,
+      "alert_pct_move": 3.1824030512208923,
+      "alert_relative_volume": 3.470106681796692
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 175.30999755859375,
+      "alert_pct_move": 1.8711147011595048,
+      "alert_relative_volume": 3.1704349451459883
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 2857.0,
+      "alert_pct_move": 1.7087931648273407,
+      "alert_relative_volume": 3.0592111928352885
+    }
+  ]
+}

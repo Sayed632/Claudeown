@@ -1,38 +1,35 @@
 {
-  "THERMAX.NS": {
-    "date": "2026-11-06"
-  },
-  "ASTRAL.NS": {
-    "date": "2026-11-06"
-  },
-  "SCHNEIDER.NS": {
-    "date": "2026-11-06"
-  },
-  "DATAPATTNS.NS": {
-    "date": "2026-11-06"
-  },
-  "CGPOWER.NS": {
-    "date": "2026-11-06"
-  },
-  "CUMMINSIND.NS": {
-    "date": "2026-11-06"
-  },
-  "BEML.NS": {
-    "date": "2026-11-06"
+  "FINCABLES.NS": {
+    "date": "2026-11-09"
   },
   "RRKABEL.NS": {
-    "date": "2026-11-06"
+    "date": "2026-11-09"
   },
-  "KIRLOSENG.NS": {
-    "date": "2026-11-06"
+  "HBLENGINE.NS": {
+    "date": "2026-11-09"
+  },
+  "THERMAX.NS": {
+    "date": "2026-11-09"
   },
   "SIEMENS.NS": {
-    "date": "2026-11-06"
+    "date": "2026-11-09"
+  },
+  "POWERINDIA.NS": {
+    "date": "2026-11-09"
+  },
+  "ASTRAL.NS": {
+    "date": "2026-11-09"
+  },
+  "ABB.NS": {
+    "date": "2026-11-09"
+  },
+  "CGPOWER.NS": {
+    "date": "2026-11-09"
   },
   "ASHOKLEY.NS": {
-    "date": "2026-11-06"
+    "date": "2026-11-09"
   },
   "ENRIN.NS": {
-    "date": "2026-11-06"
+    "date": "2026-11-09"
   }
 }
