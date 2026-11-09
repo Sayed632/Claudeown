@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-09T09:25:56.749631+05:30",
+  "stocks": [
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 3260.0,
+      "alert_pct_move": 2.8618291034139243,
+      "alert_relative_volume": 27.58808282027425
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 11599.0,
+      "alert_pct_move": 12.387965699336274,
+      "alert_relative_volume": 17.976363257148424
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1849.5999755859375,
+      "alert_pct_move": 3.6132430049935245,
+      "alert_relative_volume": 16.79291367395011
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 734.5,
+      "alert_pct_move": 2.993756552624259,
+      "alert_relative_volume": 12.82616999626232
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2543.199951171875,
+      "alert_pct_move": 6.745013690320042,
+      "alert_relative_volume": 9.314925711741868
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2590.0,
+      "alert_pct_move": 2.582380779109113,
+      "alert_relative_volume": 8.895358088574392
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 441.5,
+      "alert_pct_move": 1.8337014025768084,
+      "alert_relative_volume": 5.50597251868972
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5368.5,
+      "alert_pct_move": 1.3498206531999246,
+      "alert_relative_volume": 4.961494331900839
+    },
+    {
+      "ticker": "NEULANDLAB.NS",
+      "alert_price": 20260.0,
+      "alert_pct_move": 2.8426395939086295,
+      "alert_relative_volume": 4.663654903289413
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 768.7999877929688,
+      "alert_pct_move": 4.605752095205375,
+      "alert_relative_volume": 4.319965210050714
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2387.800048828125,
+      "alert_pct_move": 2.0427371294070515,
+      "alert_relative_volume": 4.240686058832268
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2041.300048828125,
+      "alert_pct_move": 4.84335124951849,
+      "alert_relative_volume": 4.0917278852387655
+    }
+  ]
+}
