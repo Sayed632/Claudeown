@@ -1,0 +1,54 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-09T09:21:18.539466+05:30",
+  "stocks": [
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 3245.0,
+      "alert_pct_move": 2.3885384787049646,
+      "alert_relative_volume": 28.181324467091457
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 11562.5,
+      "alert_pct_move": 12.034300663727533,
+      "alert_relative_volume": 20.648490604943067
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2519.39990234375,
+      "alert_pct_move": 5.746060958814271,
+      "alert_relative_volume": 9.126717019737432
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2581.10009765625,
+      "alert_pct_move": 2.229881485239056,
+      "alert_relative_volume": 9.087521173250702
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 439.1499938964844,
+      "alert_pct_move": 1.2916633055447742,
+      "alert_relative_volume": 5.892730331739981
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2377.300048828125,
+      "alert_pct_move": 1.5940191806891026,
+      "alert_relative_volume": 5.077239609381723
+    },
+    {
+      "ticker": "PFIZER.NS",
+      "alert_price": 3936.89990234375,
+      "alert_pct_move": 2.098026513064056,
+      "alert_relative_volume": 4.700038297439456
+    },
+    {
+      "ticker": "CONCORDBIO.NS",
+      "alert_price": 603.5,
+      "alert_pct_move": -4.600059549320093,
+      "alert_relative_volume": 3.2937298716507843
+    }
+  ]
+}
