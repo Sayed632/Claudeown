@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-09T09:25:54.412813+05:30",
+  "stocks": [
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3389.0,
+      "alert_pct_move": 2.19220064835704,
+      "alert_relative_volume": 3.3562134241230925
+    }
+  ]
+}
