@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-09T09:21:01.580557+05:30",
+  "stocks": [
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3393.10009765625,
+      "alert_pct_move": 2.315835349556615,
+      "alert_relative_volume": 3.6108131339778957
+    },
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 598.0499877929688,
+      "alert_pct_move": -1.5474564532330246,
+      "alert_relative_volume": 3.2388733234362794
+    }
+  ]
+}
