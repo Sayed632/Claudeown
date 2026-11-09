@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-09T09:25:52.145439+05:30",
+  "stocks": [
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1691.5999755859375,
+      "alert_pct_move": 2.081950425942229,
+      "alert_relative_volume": 4.735443008976054
+    }
+  ]
+}
