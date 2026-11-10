@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-10T09:16:12.969565+05:30",
+  "stocks": [
+    {
+      "ticker": "IRB.NS",
+      "alert_price": 18.299999237060547,
+      "alert_pct_move": 7.52055666786427,
+      "alert_relative_volume": 4.737520448086108
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 201.6999969482422,
+      "alert_pct_move": 4.32398922556159,
+      "alert_relative_volume": 4.1188033558026165
+    }
+  ]
+}
