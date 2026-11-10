@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-10T09:25:55.108649+05:30",
+  "stocks": [
+    {
+      "ticker": "COROMANDEL.NS",
+      "alert_price": 1879.199951171875,
+      "alert_pct_move": 3.026313112493147,
+      "alert_relative_volume": 3.2272454296698485
+    }
+  ]
+}
