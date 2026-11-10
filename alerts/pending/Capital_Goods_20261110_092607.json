@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-10T09:26:07.586872+05:30",
+  "stocks": [
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4025.0,
+      "alert_pct_move": 6.8291013658902555,
+      "alert_relative_volume": 14.694047557563954
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1229.5,
+      "alert_pct_move": 12.694775435380384,
+      "alert_relative_volume": 8.467431224431046
+    },
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1290.0,
+      "alert_pct_move": 5.737704918032787,
+      "alert_relative_volume": 4.433324897546127
+    },
+    {
+      "ticker": "RRKABEL.NS",
+      "alert_price": 1969.4000244140625,
+      "alert_pct_move": 2.524858107323628,
+      "alert_relative_volume": 3.7983815697280408
+    }
+  ]
+}
