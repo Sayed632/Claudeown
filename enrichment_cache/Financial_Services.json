@@ -1,23 +1,35 @@
 {
-  "HUDCO.NS": {
-    "date": "2026-11-09"
+  "IREDA.NS": {
+    "date": "2026-11-10"
+  },
+  "IRFC.NS": {
+    "date": "2026-11-10"
+  },
+  "MAHSCOOTER.NS": {
+    "date": "2026-11-10"
+  },
+  "INDIANB.NS": {
+    "date": "2026-11-10"
+  },
+  "BANKBARODA.NS": {
+    "date": "2026-11-10"
+  },
+  "PNB.NS": {
+    "date": "2026-11-10"
   },
   "SBIN.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-11-09"
+  "CANBK.NS": {
+    "date": "2026-11-10"
   },
-  "LICHSGFIN.NS": {
-    "date": "2026-11-09"
+  "BANKINDIA.NS": {
+    "date": "2026-11-10"
   },
-  "NUVAMA.NS": {
-    "date": "2026-11-09"
+  "HDFCBANK.NS": {
+    "date": "2026-11-10"
   },
-  "MOTILALOFS.NS": {
-    "date": "2026-11-09"
-  },
-  "APTUS.NS": {
-    "date": "2026-11-09"
+  "ICICIBANK.NS": {
+    "date": "2026-11-10"
   }
 }
