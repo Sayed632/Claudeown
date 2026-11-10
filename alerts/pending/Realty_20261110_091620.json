@@ -1,0 +1,18 @@
+{
+  "sector": "Realty",
+  "alert_time": "2026-11-10T09:16:20.639798+05:30",
+  "stocks": [
+    {
+      "ticker": "OBEROIRLTY.NS",
+      "alert_price": 1775.0,
+      "alert_pct_move": 2.070155261644623,
+      "alert_relative_volume": 7.549038386637247
+    },
+    {
+      "ticker": "PRESTIGE.NS",
+      "alert_price": 1597.5,
+      "alert_pct_move": -1.9337016574585635,
+      "alert_relative_volume": 4.563447848994844
+    }
+  ]
+}
