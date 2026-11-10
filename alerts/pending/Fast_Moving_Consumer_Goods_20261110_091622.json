@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-10T09:16:22.377467+05:30",
+  "stocks": [
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 485.1000061035156,
+      "alert_pct_move": 4.009436632021407,
+      "alert_relative_volume": 6.880828840406393
+    },
+    {
+      "ticker": "EMAMILTD.NS",
+      "alert_price": 410.3999938964844,
+      "alert_pct_move": 5.991730619328692,
+      "alert_relative_volume": 5.762893042701525
+    }
+  ]
+}
