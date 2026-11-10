@@ -1,44 +1,38 @@
 {
-  "GLAND.NS": {
-    "date": "2026-11-09"
-  },
-  "DIVISLAB.NS": {
-    "date": "2026-11-09"
-  },
-  "CAPLIPOINT.NS": {
-    "date": "2026-11-09"
-  },
   "GLAXO.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   },
-  "COHANCE.NS": {
-    "date": "2026-11-09"
-  },
-  "LAURUSLABS.NS": {
-    "date": "2026-11-09"
-  },
-  "PFIZER.NS": {
-    "date": "2026-11-09"
-  },
-  "CONCORDBIO.NS": {
-    "date": "2026-11-09"
+  "GLAND.NS": {
+    "date": "2026-11-10"
   },
   "SAILIFE.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
+  },
+  "DIVISLAB.NS": {
+    "date": "2026-11-10"
+  },
+  "CAPLIPOINT.NS": {
+    "date": "2026-11-10"
   },
   "ASTERDM.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
+  },
+  "AUROPHARMA.NS": {
+    "date": "2026-11-10"
+  },
+  "GLENMARK.NS": {
+    "date": "2026-11-10"
+  },
+  "MANKIND.NS": {
+    "date": "2026-11-10"
   },
   "ALKEM.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   },
-  "NEULANDLAB.NS": {
-    "date": "2026-11-09"
+  "ABBOTINDIA.NS": {
+    "date": "2026-11-10"
   },
-  "AKUMS.NS": {
-    "date": "2026-11-09"
-  },
-  "WOCKPHARMA.NS": {
-    "date": "2026-11-09"
+  "LAURUSLABS.NS": {
+    "date": "2026-11-10"
   }
 }
