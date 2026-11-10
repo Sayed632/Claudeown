@@ -1,0 +1,78 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-10T09:26:01.075237+05:30",
+  "stocks": [
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2710.0,
+      "alert_pct_move": 7.335232398218415,
+      "alert_relative_volume": 24.31738743544807
+    },
+    {
+      "ticker": "GLAND.NS",
+      "alert_price": 3302.39990234375,
+      "alert_pct_move": 4.199660854605413,
+      "alert_relative_volume": 11.277520047446304
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1837.0,
+      "alert_pct_move": 2.907401553071387,
+      "alert_relative_volume": 7.379728777184316
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 11565.5,
+      "alert_pct_move": 12.063369022818662,
+      "alert_relative_volume": 7.2991862747937875
+    },
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2502.5,
+      "alert_pct_move": 5.036726128016789,
+      "alert_relative_volume": 6.645537838460159
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 733.5,
+      "alert_pct_move": 2.8535336029270173,
+      "alert_relative_volume": 4.462199196066293
+    },
+    {
+      "ticker": "AUROPHARMA.NS",
+      "alert_price": 1855.300048828125,
+      "alert_pct_move": 3.0722249348958335,
+      "alert_relative_volume": 4.344145563352282
+    },
+    {
+      "ticker": "GLENMARK.NS",
+      "alert_price": 2671.10009765625,
+      "alert_pct_move": 3.1312779017857144,
+      "alert_relative_volume": 3.6967977210289855
+    },
+    {
+      "ticker": "MANKIND.NS",
+      "alert_price": 2668.300048828125,
+      "alert_pct_move": 5.051183024729331,
+      "alert_relative_volume": 3.67168202580675
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5398.5,
+      "alert_pct_move": 1.916178969227865,
+      "alert_relative_volume": 3.446803235718221
+    },
+    {
+      "ticker": "ABBOTINDIA.NS",
+      "alert_price": 26680.0,
+      "alert_pct_move": 1.271588536724236,
+      "alert_relative_volume": 3.0968167326640743
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2454.0,
+      "alert_pct_move": 4.871794871794872,
+      "alert_relative_volume": 3.0690813648299287
+    }
+  ]
+}
