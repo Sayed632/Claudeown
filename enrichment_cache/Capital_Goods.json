@@ -1,38 +1,14 @@
 {
+  "DATAPATTNS.NS": {
+    "date": "2026-11-10"
+  },
   "FINCABLES.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
+  },
+  "COCHINSHIP.NS": {
+    "date": "2026-11-10"
   },
   "RRKABEL.NS": {
-    "date": "2026-11-09"
-  },
-  "HBLENGINE.NS": {
-    "date": "2026-11-09"
-  },
-  "THERMAX.NS": {
-    "date": "2026-11-09"
-  },
-  "SIEMENS.NS": {
-    "date": "2026-11-09"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-11-09"
-  },
-  "ASTRAL.NS": {
-    "date": "2026-11-09"
-  },
-  "ABB.NS": {
-    "date": "2026-11-09"
-  },
-  "CGPOWER.NS": {
-    "date": "2026-11-09"
-  },
-  "ASHOKLEY.NS": {
-    "date": "2026-11-09"
-  },
-  "ENRIN.NS": {
-    "date": "2026-11-09"
-  },
-  "SHYAMMETL.NS": {
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   }
 }
