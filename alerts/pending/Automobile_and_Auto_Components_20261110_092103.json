@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-10T09:21:03.939948+05:30",
+  "stocks": [
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 385.04998779296875,
+      "alert_pct_move": 7.751498871229658,
+      "alert_relative_volume": 3.7676761072988847
+    },
+    {
+      "ticker": "OLECTRA.NS",
+      "alert_price": 1076.0,
+      "alert_pct_move": 4.837533550455592,
+      "alert_relative_volume": 3.4792852812689445
+    },
+    {
+      "ticker": "BOSCHLTD.NS",
+      "alert_price": 49550.0,
+      "alert_pct_move": -2.2682445759368837,
+      "alert_relative_volume": 3.313306713271944
+    }
+  ]
+}
