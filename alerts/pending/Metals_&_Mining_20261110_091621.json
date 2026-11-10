@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-10T09:16:21.786187+05:30",
+  "stocks": [
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 71.5,
+      "alert_pct_move": 1.562497798692144,
+      "alert_relative_volume": 3.590529250127587
+    },
+    {
+      "ticker": "JINDALSTEL.NS",
+      "alert_price": 1146.0,
+      "alert_pct_move": -1.6309012875536482,
+      "alert_relative_volume": 3.033127779685549
+    }
+  ]
+}
