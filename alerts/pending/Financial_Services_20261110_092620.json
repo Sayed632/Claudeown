@@ -1,0 +1,72 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-10T09:26:20.174623+05:30",
+  "stocks": [
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 119.6500015258789,
+      "alert_pct_move": 7.34792975836942,
+      "alert_relative_volume": 17.02514108029014
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 83.5,
+      "alert_pct_move": 3.8169833186319906,
+      "alert_relative_volume": 4.680580582173696
+    },
+    {
+      "ticker": "MAHSCOOTER.NS",
+      "alert_price": 11855.0,
+      "alert_pct_move": -1.6998341625207296,
+      "alert_relative_volume": 4.466889236360562
+    },
+    {
+      "ticker": "INDIANB.NS",
+      "alert_price": 933.7000122070312,
+      "alert_pct_move": 3.5144137701808478,
+      "alert_relative_volume": 4.269059866762316
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 260.010009765625,
+      "alert_pct_move": 3.8751996730616503,
+      "alert_relative_volume": 4.020018193341644
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 132.1699981689453,
+      "alert_pct_move": 4.440928472272713,
+      "alert_relative_volume": 3.9083464184026515
+    },
+    {
+      "ticker": "SBIN.NS",
+      "alert_price": 1042.0,
+      "alert_pct_move": 2.3073146784486993,
+      "alert_relative_volume": 3.7677571344214034
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 128.10000610351562,
+      "alert_pct_move": 4.20565019564404,
+      "alert_relative_volume": 3.3792994659503415
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 145.0,
+      "alert_pct_move": 4.640248492400447,
+      "alert_relative_volume": 3.3630368428146737
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 798.1500244140625,
+      "alert_pct_move": 1.2559498146606407,
+      "alert_relative_volume": 3.2370112141549114
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "alert_price": 1589.0,
+      "alert_pct_move": 1.132895199929766,
+      "alert_relative_volume": 3.134646474620309
+    }
+  ]
+}
