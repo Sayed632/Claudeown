@@ -1,0 +1,36 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-11T09:21:03.427639+05:30",
+  "stocks": [
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 672.0999755859375,
+      "alert_pct_move": 9.99999600424509,
+      "alert_relative_volume": 61.42940067238317
+    },
+    {
+      "ticker": "VOLTAS.NS",
+      "alert_price": 1121.699951171875,
+      "alert_pct_move": 2.898814447633783,
+      "alert_relative_volume": 5.462156195354427
+    },
+    {
+      "ticker": "AMBER.NS",
+      "alert_price": 6464.0,
+      "alert_pct_move": 3.756019261637239,
+      "alert_relative_volume": 4.0843715927995605
+    },
+    {
+      "ticker": "BERGEPAINT.NS",
+      "alert_price": 477.29998779296875,
+      "alert_pct_move": 1.2945618480284233,
+      "alert_relative_volume": 3.553613190543121
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "alert_price": 2571.89990234375,
+      "alert_pct_move": 2.4947137567251048,
+      "alert_relative_volume": 3.271485205127384
+    }
+  ]
+}
