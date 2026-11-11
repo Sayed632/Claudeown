@@ -1,0 +1,30 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-11T09:21:01.654816+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 53.900001525878906,
+      "alert_pct_move": 1.3729610345556915,
+      "alert_relative_volume": 6.280467281742741
+    },
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 78.7300033569336,
+      "alert_pct_move": -2.0649285300636486,
+      "alert_relative_volume": 4.123529282841618
+    },
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 546.0,
+      "alert_pct_move": 2.2280518550871506,
+      "alert_relative_volume": 3.2719308787328862
+    },
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 130.25,
+      "alert_pct_move": 1.0159745104619862,
+      "alert_relative_volume": 3.0673865376235256
+    }
+  ]
+}
