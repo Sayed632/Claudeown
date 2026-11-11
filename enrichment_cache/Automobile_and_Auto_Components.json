@@ -1,11 +1,26 @@
 {
+  "RKFORGE.NS": {
+    "date": "2026-11-11"
+  },
+  "M&M.NS": {
+    "date": "2026-11-11"
+  },
+  "APOLLOTYRE.NS": {
+    "date": "2026-11-11"
+  },
+  "MOTHERSON.NS": {
+    "date": "2026-11-11"
+  },
   "EXIDEIND.NS": {
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
-  "OLECTRA.NS": {
-    "date": "2026-11-10"
+  "JBMA.NS": {
+    "date": "2026-11-11"
   },
-  "BOSCHLTD.NS": {
-    "date": "2026-11-10"
+  "EICHERMOT.NS": {
+    "date": "2026-11-11"
+  },
+  "TIINDIA.NS": {
+    "date": "2026-11-11"
   }
 }

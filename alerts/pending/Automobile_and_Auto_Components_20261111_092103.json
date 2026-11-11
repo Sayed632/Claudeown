@@ -1,0 +1,54 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-11T09:21:03.972575+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 738.0999755859375,
+      "alert_pct_move": 3.4622862807107184,
+      "alert_relative_volume": 5.383451837784809
+    },
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 3399.199951171875,
+      "alert_pct_move": 3.300305424319896,
+      "alert_relative_volume": 4.842644216227656
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 423.20001220703125,
+      "alert_pct_move": 1.9145122714102951,
+      "alert_relative_volume": 4.343284931766537
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 163.64999389648438,
+      "alert_pct_move": 1.0746650577602312,
+      "alert_relative_volume": 4.303916730367404
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 394.29998779296875,
+      "alert_pct_move": 2.402285493636603,
+      "alert_relative_volume": 4.115017225805936
+    },
+    {
+      "ticker": "JBMA.NS",
+      "alert_price": 507.3500061035156,
+      "alert_pct_move": 1.0858761253851104,
+      "alert_relative_volume": 4.030234008219757
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "alert_price": 7747.5,
+      "alert_pct_move": 1.553283523397562,
+      "alert_relative_volume": 3.520184972105176
+    },
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2251.300048828125,
+      "alert_pct_move": 1.8918329408520027,
+      "alert_relative_volume": 3.344877947664649
+    }
+  ]
+}
