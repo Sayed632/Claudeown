@@ -1,0 +1,30 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-11T09:25:58.277843+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDPETRO.NS",
+      "alert_price": 392.6499938964844,
+      "alert_pct_move": 1.78872168411779,
+      "alert_relative_volume": 10.0379328069942
+    },
+    {
+      "ticker": "AEGISVOPAK.NS",
+      "alert_price": 267.29998779296875,
+      "alert_pct_move": 4.778325880385951,
+      "alert_relative_volume": 4.681274648141327
+    },
+    {
+      "ticker": "MGL.NS",
+      "alert_price": 1145.9000244140625,
+      "alert_pct_move": 2.0573543446179148,
+      "alert_relative_volume": 3.237794726173854
+    },
+    {
+      "ticker": "PETRONET.NS",
+      "alert_price": 323.70001220703125,
+      "alert_pct_move": 1.0141987443271783,
+      "alert_relative_volume": 3.0969688394053634
+    }
+  ]
+}

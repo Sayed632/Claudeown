@@ -1,14 +1,14 @@
 {
-  "ONGC.NS": {
-    "date": "2026-11-06"
-  },
-  "ATGL.NS": {
-    "date": "2026-11-06"
+  "HINDPETRO.NS": {
+    "date": "2026-11-11"
   },
   "AEGISVOPAK.NS": {
-    "date": "2026-11-06"
+    "date": "2026-11-11"
   },
-  "IOC.NS": {
-    "date": "2026-11-06"
+  "MGL.NS": {
+    "date": "2026-11-11"
+  },
+  "PETRONET.NS": {
+    "date": "2026-11-11"
   }
 }
