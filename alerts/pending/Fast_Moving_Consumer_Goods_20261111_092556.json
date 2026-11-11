@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-11T09:25:56.134198+05:30",
+  "stocks": [
+    {
+      "ticker": "PGHH.NS",
+      "alert_price": 7236.0,
+      "alert_pct_move": 1.3800350262697023,
+      "alert_relative_volume": 5.010282429313841
+    }
+  ]
+}
