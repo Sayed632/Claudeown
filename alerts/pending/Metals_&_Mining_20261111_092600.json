@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-11T09:26:00.438666+05:30",
+  "stocks": [
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 173.0,
+      "alert_pct_move": 2.010733967654138,
+      "alert_relative_volume": 4.284458831342723
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 187.00999450683594,
+      "alert_pct_move": 1.168508700027158,
+      "alert_relative_volume": 3.4745259717409955
+    }
+  ]
+}
