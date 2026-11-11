@@ -1,0 +1,60 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-11T09:21:05.911231+05:30",
+  "stocks": [
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1189.0,
+      "alert_pct_move": -7.829457364341086,
+      "alert_relative_volume": 43.862179837107234
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 716.25,
+      "alert_pct_move": 1.964550865279438,
+      "alert_relative_volume": 11.091674150161598
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 2062.0,
+      "alert_pct_move": 3.5348476238733886,
+      "alert_relative_volume": 10.904578848139831
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 2918.10009765625,
+      "alert_pct_move": 2.8514080035480074,
+      "alert_relative_volume": 5.784775784960972
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4074.300048828125,
+      "alert_pct_move": 1.2248459336180124,
+      "alert_relative_volume": 5.756385741919724
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2513.699951171875,
+      "alert_pct_move": 2.8518801625153434,
+      "alert_relative_volume": 4.143136408349062
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 814.3499755859375,
+      "alert_pct_move": 1.7937469482421875,
+      "alert_relative_volume": 3.5700007475930544
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 25265.0,
+      "alert_pct_move": 2.1014346332592444,
+      "alert_relative_volume": 3.3375936424377404
+    },
+    {
+      "ticker": "BHEL.NS",
+      "alert_price": 431.3999938964844,
+      "alert_pct_move": 1.9978677019914386,
+      "alert_relative_volume": 3.291325641073216
+    }
+  ]
+}
