@@ -1,0 +1,30 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-11T09:21:16.201244+05:30",
+  "stocks": [
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1880.199951171875,
+      "alert_pct_move": 2.3627994985866345,
+      "alert_relative_volume": 6.32545273106262
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 977.0,
+      "alert_pct_move": 1.1387163561076603,
+      "alert_relative_volume": 4.079263465999042
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "alert_price": 785.3499755859375,
+      "alert_pct_move": -1.7329875387321596,
+      "alert_relative_volume": 3.598590765171062
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2242.699951171875,
+      "alert_pct_move": 1.1957404829824771,
+      "alert_relative_volume": 3.515080919162427
+    }
+  ]
+}
