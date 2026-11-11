@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-11T09:21:10.430150+05:30",
+  "stocks": [
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3537.300048828125,
+      "alert_pct_move": 1.5385968483944654,
+      "alert_relative_volume": 12.502052882246673
+    },
+    {
+      "ticker": "UPL.NS",
+      "alert_price": 552.5499877929688,
+      "alert_pct_move": 2.040625631203832,
+      "alert_relative_volume": 5.258195789361687
+    },
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 104.3499984741211,
+      "alert_pct_move": 1.3303506239352427,
+      "alert_relative_volume": 3.7083852787610874
+    }
+  ]
+}
