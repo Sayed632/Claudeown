@@ -1,0 +1,24 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-11T09:25:53.208802+05:30",
+  "stocks": [
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5634.0,
+      "alert_pct_move": 3.7569060773480665,
+      "alert_relative_volume": 7.49692257413135
+    },
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 437.6000061035156,
+      "alert_pct_move": 2.530463594058425,
+      "alert_relative_volume": 5.105840238390437
+    },
+    {
+      "ticker": "SCI.NS",
+      "alert_price": 267.760009765625,
+      "alert_pct_move": 2.4604995690310036,
+      "alert_relative_volume": 4.465002681212893
+    }
+  ]
+}
