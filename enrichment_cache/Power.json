@@ -10,5 +10,14 @@
   },
   "CESC.NS": {
     "date": "2026-11-11"
+  },
+  "POWERGRID.NS": {
+    "date": "2026-11-11"
+  },
+  "RPOWER.NS": {
+    "date": "2026-11-11"
+  },
+  "JPPOWER.NS": {
+    "date": "2026-11-11"
   }
 }

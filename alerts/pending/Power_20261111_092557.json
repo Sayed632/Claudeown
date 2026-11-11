@@ -1,0 +1,36 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-11T09:25:57.944820+05:30",
+  "stocks": [
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 545.1500244140625,
+      "alert_pct_move": 2.0689101915802333,
+      "alert_relative_volume": 5.580431206208826
+    },
+    {
+      "ticker": "NHPC.NS",
+      "alert_price": 78.94000244140625,
+      "alert_pct_move": -1.8037031462260453,
+      "alert_relative_volume": 3.3780524528349845
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "alert_price": 263.45001220703125,
+      "alert_pct_move": 2.1321960611444704,
+      "alert_relative_volume": 3.173899729170599
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 19.420000076293945,
+      "alert_pct_move": 3.297876938267036,
+      "alert_relative_volume": 3.0649510702318548
+    },
+    {
+      "ticker": "JPPOWER.NS",
+      "alert_price": 14.270000457763672,
+      "alert_pct_move": 2.001434533426933,
+      "alert_relative_volume": 3.0046357704201268
+    }
+  ]
+}
