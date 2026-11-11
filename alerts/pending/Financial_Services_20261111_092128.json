@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-11T09:21:28.743160+05:30",
+  "stocks": [
+    {
+      "ticker": "HUDCO.NS",
+      "alert_price": 170.00999450683594,
+      "alert_pct_move": 1.323073990618287,
+      "alert_relative_volume": 46.58183432646541
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 635.7999877929688,
+      "alert_pct_move": 1.4035068250348883,
+      "alert_relative_volume": 17.722648823659657
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 265.25,
+      "alert_pct_move": 2.015303272015707,
+      "alert_relative_volume": 12.120446163356865
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 122.5999984741211,
+      "alert_pct_move": 2.4655218642885997,
+      "alert_relative_volume": 9.927168467310414
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 24.719999313354492,
+      "alert_pct_move": 2.190982916890301,
+      "alert_relative_volume": 7.883690059504691
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 134.63999938964844,
+      "alert_pct_move": 1.8688062759491488,
+      "alert_relative_volume": 7.642568791740756
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 170.8800048828125,
+      "alert_pct_move": 1.352312394281303,
+      "alert_relative_volume": 7.46673607728552
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 84.5,
+      "alert_pct_move": 1.1976047904191618,
+      "alert_relative_volume": 7.01937325240421
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "alert_price": 1771.699951171875,
+      "alert_pct_move": 1.355832446903604,
+      "alert_relative_volume": 6.585840686359155
+    },
+    {
+      "ticker": "CENTRALBK.NS",
+      "alert_price": 31.84000015258789,
+      "alert_pct_move": 1.9532520630574475,
+      "alert_relative_volume": 6.337459613379801
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "alert_price": 1612.4000244140625,
+      "alert_pct_move": 1.4726258284494964,
+      "alert_relative_volume": 6.1418986224264875
+    },
+    {
+      "ticker": "AIIL.NS",
+      "alert_price": 601.0499877929688,
+      "alert_pct_move": 1.5630280822574056,
+      "alert_relative_volume": 5.718583762750796
+    }
+  ]
+}
