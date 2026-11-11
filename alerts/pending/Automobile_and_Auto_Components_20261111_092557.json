@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-11T09:25:57.850287+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 737.0999755859375,
+      "alert_pct_move": 3.322112469976505,
+      "alert_relative_volume": 6.871262974836411
+    },
+    {
+      "ticker": "M&M.NS",
+      "alert_price": 3385.800048828125,
+      "alert_pct_move": 2.8930878364612505,
+      "alert_relative_volume": 4.953760631305445
+    },
+    {
+      "ticker": "ARE&M.NS",
+      "alert_price": 769.4500122070312,
+      "alert_pct_move": 1.0042037984570718,
+      "alert_relative_volume": 3.5725013813444284
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 422.04998779296875,
+      "alert_pct_move": 1.637564790600542,
+      "alert_relative_volume": 3.480105150451295
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 396.1000061035156,
+      "alert_pct_move": 2.8697620207400654,
+      "alert_relative_volume": 3.373755298361423
+    }
+  ]
+}
