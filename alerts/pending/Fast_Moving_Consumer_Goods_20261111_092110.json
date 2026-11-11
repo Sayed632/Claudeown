@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-11T09:21:10.685116+05:30",
+  "stocks": [
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 379.8999938964844,
+      "alert_pct_move": 1.2391722575574617,
+      "alert_relative_volume": 3.289095101875244
+    }
+  ]
+}
