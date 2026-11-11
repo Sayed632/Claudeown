@@ -1,0 +1,60 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-11T09:26:04.458497+05:30",
+  "stocks": [
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1196.699951171875,
+      "alert_pct_move": -7.232561924660853,
+      "alert_relative_volume": 48.18611580353616
+    },
+    {
+      "ticker": "BEML.NS",
+      "alert_price": 2081.0,
+      "alert_pct_move": 4.488854464248555,
+      "alert_relative_volume": 10.24409898937185
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 721.7000122070312,
+      "alert_pct_move": 2.7404085223827286,
+      "alert_relative_volume": 8.425827585924285
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1220.0,
+      "alert_pct_move": -1.0061687900369864,
+      "alert_relative_volume": 6.452077396069654
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2549.800048828125,
+      "alert_pct_move": 4.3289709013144435,
+      "alert_relative_volume": 5.2820700415037
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 2928.300048828125,
+      "alert_pct_move": 3.2109156641787653,
+      "alert_relative_volume": 5.086221337066252
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4077.0,
+      "alert_pct_move": 1.2919254658385093,
+      "alert_relative_volume": 5.009057085625128
+    },
+    {
+      "ticker": "KIRLOSENG.NS",
+      "alert_price": 1698.800048828125,
+      "alert_pct_move": 4.689720832325923,
+      "alert_relative_volume": 3.677918681659428
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 25155.0,
+      "alert_pct_move": 1.6569003839159424,
+      "alert_relative_volume": 3.3390316405602904
+    }
+  ]
+}
