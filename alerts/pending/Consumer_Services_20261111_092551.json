@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-11T09:25:51.549515+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 475.20001220703125,
+      "alert_pct_move": 3.315577692198368,
+      "alert_relative_volume": 8.588598436023135
+    },
+    {
+      "ticker": "FIRSTCRY.NS",
+      "alert_price": 166.25,
+      "alert_pct_move": 2.4905943646616207,
+      "alert_relative_volume": 5.35457071586045
+    },
+    {
+      "ticker": "ABLBL.NS",
+      "alert_price": 79.30000305175781,
+      "alert_pct_move": 4.46581376117172,
+      "alert_relative_volume": 5.066157501181411
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 312.6000061035156,
+      "alert_pct_move": 1.3125971384786965,
+      "alert_relative_volume": 4.165310705338095
+    }
+  ]
+}
