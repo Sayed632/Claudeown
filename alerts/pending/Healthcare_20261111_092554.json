@@ -1,0 +1,30 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-11T09:25:54.152106+05:30",
+  "stocks": [
+    {
+      "ticker": "DIVISLAB.NS",
+      "alert_price": 11275.5,
+      "alert_pct_move": -2.507457524534175,
+      "alert_relative_volume": 6.849376632268036
+    },
+    {
+      "ticker": "SAILIFE.NS",
+      "alert_price": 1877.4000244140625,
+      "alert_pct_move": 2.210364465737041,
+      "alert_relative_volume": 5.429828241603645
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "alert_price": 771.5999755859375,
+      "alert_pct_move": -3.453457982924056,
+      "alert_relative_volume": 4.178203974684111
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2426.89990234375,
+      "alert_pct_move": -1.1043234578748982,
+      "alert_relative_volume": 3.47667287053766
+    }
+  ]
+}
