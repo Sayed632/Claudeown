@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-11T09:21:08.958585+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 3970.60009765625,
+      "alert_pct_move": 3.427978579219849,
+      "alert_relative_volume": 4.093896911069494
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2504.300048828125,
+      "alert_pct_move": 1.1674940463967804,
+      "alert_relative_volume": 4.035965152721548
+    },
+    {
+      "ticker": "OFSS.NS",
+      "alert_price": 10191.0,
+      "alert_pct_move": 1.514095029385397,
+      "alert_relative_volume": 3.5003764520292555
+    }
+  ]
+}
