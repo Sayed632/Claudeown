@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-11T09:26:24.332984+05:30",
+  "stocks": [
+    {
+      "ticker": "HUDCO.NS",
+      "alert_price": 171.17999267578125,
+      "alert_pct_move": 2.0203730605042467,
+      "alert_relative_volume": 28.699718711087844
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 640.2999877929688,
+      "alert_pct_move": 2.121210174317185,
+      "alert_relative_volume": 20.72852685250657
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 122.93000030517578,
+      "alert_pct_move": 2.741327820699985,
+      "alert_relative_volume": 11.064947617082192
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 265.3800048828125,
+      "alert_pct_move": 2.065303225067394,
+      "alert_relative_volume": 10.498133710224577
+    },
+    {
+      "ticker": "CENTRALBK.NS",
+      "alert_price": 32.08000183105469,
+      "alert_pct_move": 2.7217492836296473,
+      "alert_relative_volume": 9.029406438205841
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "alert_price": 1769.0,
+      "alert_pct_move": 1.2013729977116705,
+      "alert_relative_volume": 8.125435260503622
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 85.2699966430664,
+      "alert_pct_move": 2.119756458762163,
+      "alert_relative_volume": 8.03678282794552
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 134.39999389648438,
+      "alert_pct_move": 1.6872177940780382,
+      "alert_relative_volume": 7.935064696598272
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 24.739999771118164,
+      "alert_pct_move": 2.2736636003219233,
+      "alert_relative_volume": 7.93254427359335
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 590.3499755859375,
+      "alert_pct_move": 2.2693764549047204,
+      "alert_relative_volume": 7.1905449951352685
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 170.57000732421875,
+      "alert_pct_move": 1.168446707821351,
+      "alert_relative_volume": 6.604563959178961
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "alert_price": 1605.0,
+      "alert_pct_move": 1.0069225928256766,
+      "alert_relative_volume": 5.54519622020876
+    }
+  ]
+}
