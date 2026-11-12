@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-12T09:26:01.552219+05:30",
+  "stocks": [
+    {
+      "ticker": "BAYERCROP.NS",
+      "alert_price": 3467.0,
+      "alert_pct_move": -1.3318927707264707,
+      "alert_relative_volume": 6.638676584900893
+    },
+    {
+      "ticker": "FACT.NS",
+      "alert_price": 800.7000122070312,
+      "alert_pct_move": -1.5431893996887487,
+      "alert_relative_volume": 5.639909179699261
+    },
+    {
+      "ticker": "NAVINFLUOR.NS",
+      "alert_price": 9794.5,
+      "alert_pct_move": 1.4028367325810125,
+      "alert_relative_volume": 4.9212769543597945
+    }
+  ]
+}
