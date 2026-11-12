@@ -1,23 +1,11 @@
 {
-  "RELINFRA.NS": {
-    "date": "2026-11-11"
+  "TATAPOWER.NS": {
+    "date": "2026-11-12"
   },
-  "NHPC.NS": {
-    "date": "2026-11-11"
+  "ADANIGREEN.NS": {
+    "date": "2026-11-12"
   },
   "NAVA.NS": {
-    "date": "2026-11-11"
-  },
-  "CESC.NS": {
-    "date": "2026-11-11"
-  },
-  "POWERGRID.NS": {
-    "date": "2026-11-11"
-  },
-  "RPOWER.NS": {
-    "date": "2026-11-11"
-  },
-  "JPPOWER.NS": {
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-12T09:21:08.290146+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAPOWER.NS",
+      "alert_price": 364.20001220703125,
+      "alert_pct_move": 1.1666700575086806,
+      "alert_relative_volume": 15.725753788314382
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1421.0,
+      "alert_pct_move": 1.3769030106614055,
+      "alert_relative_volume": 5.442354532826296
+    },
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 553.0,
+      "alert_pct_move": 3.538667904511345,
+      "alert_relative_volume": 4.787975400184992
+    }
+  ]
+}
