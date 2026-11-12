@@ -1,41 +1,38 @@
 {
-  "HUDCO.NS": {
-    "date": "2026-11-11"
-  },
-  "IIFL.NS": {
-    "date": "2026-11-11"
-  },
-  "BANKBARODA.NS": {
-    "date": "2026-11-11"
-  },
-  "IREDA.NS": {
-    "date": "2026-11-11"
-  },
   "UCOBANK.NS": {
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
-  "PNB.NS": {
-    "date": "2026-11-11"
+  "HDFCLIFE.NS": {
+    "date": "2026-11-12"
+  },
+  "BAJFINANCE.NS": {
+    "date": "2026-11-12"
+  },
+  "NUVAMA.NS": {
+    "date": "2026-11-12"
+  },
+  "LICI.NS": {
+    "date": "2026-11-12"
   },
   "BANDHANBNK.NS": {
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
-  "IRFC.NS": {
-    "date": "2026-11-11"
+  "CDSL.NS": {
+    "date": "2026-11-12"
   },
-  "SBILIFE.NS": {
-    "date": "2026-11-11"
+  "BAJAJFINSV.NS": {
+    "date": "2026-11-12"
   },
-  "CENTRALBK.NS": {
-    "date": "2026-11-11"
+  "SHRIRAMFIN.NS": {
+    "date": "2026-11-12"
   },
-  "ICICIBANK.NS": {
-    "date": "2026-11-11"
+  "HUDCO.NS": {
+    "date": "2026-11-12"
   },
-  "AIIL.NS": {
-    "date": "2026-11-11"
+  "UTIAMC.NS": {
+    "date": "2026-11-12"
   },
-  "TATAINVEST.NS": {
-    "date": "2026-11-11"
+  "CUB.NS": {
+    "date": "2026-11-12"
   }
 }
