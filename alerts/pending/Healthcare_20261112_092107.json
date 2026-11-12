@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-12T09:21:07.530153+05:30",
+  "stocks": [
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2266.89990234375,
+      "alert_pct_move": 2.2876975132621062,
+      "alert_relative_volume": 5.329351771200793
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5360.0,
+      "alert_pct_move": -1.6152716593245229,
+      "alert_relative_volume": 3.5991501933988608
+    }
+  ]
+}
