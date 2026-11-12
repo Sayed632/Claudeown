@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-12T09:21:09.882958+05:30",
+  "stocks": [
+    {
+      "ticker": "RKFORGE.NS",
+      "alert_price": 785.7999877929688,
+      "alert_pct_move": 2.7592487575670384,
+      "alert_relative_volume": 6.598152462746423
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 127825.0,
+      "alert_pct_move": 2.1741736940969583,
+      "alert_relative_volume": 4.736753856472165
+    },
+    {
+      "ticker": "MINDACORP.NS",
+      "alert_price": 729.2999877929688,
+      "alert_pct_move": 3.505536909292538,
+      "alert_relative_volume": 3.1639045716018237
+    },
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 1099.4000244140625,
+      "alert_pct_move": 4.1295674909591895,
+      "alert_relative_volume": 3.1347671845413276
+    }
+  ]
+}
