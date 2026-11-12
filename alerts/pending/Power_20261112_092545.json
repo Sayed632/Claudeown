@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-12T09:25:45.303848+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 54.0,
+      "alert_pct_move": 1.5610341539177668,
+      "alert_relative_volume": 10.574787971275136
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1418.5999755859375,
+      "alert_pct_move": 1.205680602323873,
+      "alert_relative_volume": 4.939857652356404
+    },
+    {
+      "ticker": "NAVA.NS",
+      "alert_price": 551.4500122070312,
+      "alert_pct_move": 3.2484623505289982,
+      "alert_relative_volume": 3.5430255072485135
+    }
+  ]
+}
