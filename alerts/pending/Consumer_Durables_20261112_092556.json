@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-12T09:25:56.143872+05:30",
+  "stocks": [
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 696.9000244140625,
+      "alert_pct_move": 4.994353960687382,
+      "alert_relative_volume": 21.180466270183327
+    },
+    {
+      "ticker": "WHIRLPOOL.NS",
+      "alert_price": 855.7000122070312,
+      "alert_pct_move": 2.148740567948259,
+      "alert_relative_volume": 10.407477707730655
+    },
+    {
+      "ticker": "CERA.NS",
+      "alert_price": 5000.0,
+      "alert_pct_move": 5.612238478210154,
+      "alert_relative_volume": 6.458027963702226
+    }
+  ]
+}
