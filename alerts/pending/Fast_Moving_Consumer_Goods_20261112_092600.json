@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-12T09:26:00.757041+05:30",
+  "stocks": [
+    {
+      "ticker": "GODFRYPHLP.NS",
+      "alert_price": 1837.5999755859375,
+      "alert_pct_move": 1.4968227332746478,
+      "alert_relative_volume": 19.282370543710957
+    },
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 251.8800048828125,
+      "alert_pct_move": 2.2821450910982444,
+      "alert_relative_volume": 4.825160767900337
+    },
+    {
+      "ticker": "ITC.NS",
+      "alert_price": 289.45001220703125,
+      "alert_pct_move": 1.5614077919407894,
+      "alert_relative_volume": 3.409489454431186
+    }
+  ]
+}
