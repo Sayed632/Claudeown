@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-12T09:26:19.357839+05:30",
+  "stocks": [
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 25.18000030517578,
+      "alert_pct_move": 4.092599211497835,
+      "alert_relative_volume": 11.924033717495547
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "alert_price": 592.4500122070312,
+      "alert_pct_move": 3.295270650565289,
+      "alert_relative_volume": 10.243187180985249
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1932.699951171875,
+      "alert_pct_move": 4.8386195373949015,
+      "alert_relative_volume": 8.635231607453111
+    },
+    {
+      "ticker": "LICI.NS",
+      "alert_price": 408.0,
+      "alert_pct_move": 2.0,
+      "alert_relative_volume": 6.365437835615995
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "alert_price": 174.61000061035156,
+      "alert_pct_move": 1.783735065088007,
+      "alert_relative_volume": 5.145230311395193
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "alert_price": 1892.0,
+      "alert_pct_move": 2.5474254742547426,
+      "alert_relative_volume": 5.142332593945426
+    },
+    {
+      "ticker": "MOTILALOFS.NS",
+      "alert_price": 1197.5,
+      "alert_pct_move": 3.545179420665802,
+      "alert_relative_volume": 4.991771009992468
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "alert_price": 1101.5999755859375,
+      "alert_pct_move": 3.4511903876203953,
+      "alert_relative_volume": 4.902340438410373
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1431.0,
+      "alert_pct_move": 1.7057569296375266,
+      "alert_relative_volume": 4.7256871513543155
+    },
+    {
+      "ticker": "IDBI.NS",
+      "alert_price": 80.7300033569336,
+      "alert_pct_move": 1.585506627502378,
+      "alert_relative_volume": 4.359126659544975
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 915.9000244140625,
+      "alert_pct_move": 1.9535870546084448,
+      "alert_relative_volume": 3.9522394038782362
+    },
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 237.1999969482422,
+      "alert_pct_move": 2.7952316135394097,
+      "alert_relative_volume": 3.8812847643057062
+    }
+  ]
+}
