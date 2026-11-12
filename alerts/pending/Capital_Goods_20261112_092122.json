@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-12T09:21:22.143407+05:30",
+  "stocks": [
+    {
+      "ticker": "TRITURBINE.NS",
+      "alert_price": 510.95001220703125,
+      "alert_pct_move": 1.5805193254535288,
+      "alert_relative_volume": 35.30462033851608
+    },
+    {
+      "ticker": "FINCABLES.NS",
+      "alert_price": 1273.0,
+      "alert_pct_move": 3.884443825492652,
+      "alert_relative_volume": 11.349548935437689
+    },
+    {
+      "ticker": "WAAREEENER.NS",
+      "alert_price": 2553.800048828125,
+      "alert_pct_move": 2.152001953125,
+      "alert_relative_volume": 9.37536804504191
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 221.17999267578125,
+      "alert_pct_move": 2.2844927197217233,
+      "alert_relative_volume": 7.532582858012393
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1204.199951171875,
+      "alert_pct_move": 3.2186110634739453,
+      "alert_relative_volume": 5.897877151191137
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 28770.0,
+      "alert_pct_move": 2.202486678507993,
+      "alert_relative_volume": 4.090816409592508
+    },
+    {
+      "ticker": "APARINDS.NS",
+      "alert_price": 14629.0,
+      "alert_pct_move": 3.013872262516724,
+      "alert_relative_volume": 3.4873642855683973
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3425.5,
+      "alert_pct_move": 1.28622117090479,
+      "alert_relative_volume": 3.4370151379144116
+    },
+    {
+      "ticker": "DATAPATTNS.NS",
+      "alert_price": 4130.2001953125,
+      "alert_pct_move": 1.9299159751357355,
+      "alert_relative_volume": 3.3122016759215627
+    },
+    {
+      "ticker": "HONAUT.NS",
+      "alert_price": 30910.0,
+      "alert_pct_move": 2.691029900332226,
+      "alert_relative_volume": 3.0575877984261033
+    }
+  ]
+}

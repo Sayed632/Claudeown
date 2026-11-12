@@ -1,35 +1,32 @@
 {
-  "COCHINSHIP.NS": {
-    "date": "2026-11-11"
-  },
-  "TITAGARH.NS": {
-    "date": "2026-11-11"
-  },
-  "BEML.NS": {
-    "date": "2026-11-11"
-  },
-  "ENRIN.NS": {
-    "date": "2026-11-11"
-  },
-  "DATAPATTNS.NS": {
-    "date": "2026-11-11"
-  },
-  "WAAREEENER.NS": {
-    "date": "2026-11-11"
-  },
-  "CGPOWER.NS": {
-    "date": "2026-11-11"
-  },
-  "PTCIL.NS": {
-    "date": "2026-11-11"
-  },
-  "BHEL.NS": {
-    "date": "2026-11-11"
+  "TRITURBINE.NS": {
+    "date": "2026-11-12"
   },
   "FINCABLES.NS": {
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
-  "KIRLOSENG.NS": {
-    "date": "2026-11-11"
+  "WAAREEENER.NS": {
+    "date": "2026-11-12"
+  },
+  "GPIL.NS": {
+    "date": "2026-11-12"
+  },
+  "ACE.NS": {
+    "date": "2026-11-12"
+  },
+  "POWERINDIA.NS": {
+    "date": "2026-11-12"
+  },
+  "APARINDS.NS": {
+    "date": "2026-11-12"
+  },
+  "KAYNES.NS": {
+    "date": "2026-11-12"
+  },
+  "DATAPATTNS.NS": {
+    "date": "2026-11-12"
+  },
+  "HONAUT.NS": {
+    "date": "2026-11-12"
   }
 }
