@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-13T09:26:12.624562+05:30",
+  "stocks": [
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1211.199951171875,
+      "alert_pct_move": 2.6745158398554256,
+      "alert_relative_volume": 43.024837355162475
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 30850.0,
+      "alert_pct_move": 8.074969346645647,
+      "alert_relative_volume": 22.017190133150613
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 64.16000366210938,
+      "alert_pct_move": -2.0756914692256037,
+      "alert_relative_volume": 5.0204305636076345
+    },
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1182.0,
+      "alert_pct_move": -1.1705685618729096,
+      "alert_relative_volume": 4.6422631389148155
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3095.0,
+      "alert_pct_move": 1.886297190281086,
+      "alert_relative_volume": 4.0480306190299045
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 7009.0,
+      "alert_pct_move": 1.2422360248447204,
+      "alert_relative_volume": 3.199839317807264
+    }
+  ]
+}
