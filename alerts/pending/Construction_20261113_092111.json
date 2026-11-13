@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-13T09:21:11.933335+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHNOE.NS",
+      "alert_price": 976.2999877929688,
+      "alert_pct_move": -3.9169362020718435,
+      "alert_relative_volume": 10.866837308592059
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 202.35000610351562,
+      "alert_pct_move": -1.4849015986367824,
+      "alert_relative_volume": 3.3996043896602495
+    }
+  ]
+}
