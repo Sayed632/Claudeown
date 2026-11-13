@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-13T09:26:00.508016+05:30",
+  "stocks": [
+    {
+      "ticker": "AEGISVOPAK.NS",
+      "alert_price": 275.7099914550781,
+      "alert_pct_move": 3.5763886420818585,
+      "alert_relative_volume": 6.819455247294647
+    }
+  ]
+}
