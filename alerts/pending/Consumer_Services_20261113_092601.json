@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-13T09:26:01.135834+05:30",
+  "stocks": [
+    {
+      "ticker": "LEMONTREE.NS",
+      "alert_price": 123.94999694824219,
+      "alert_pct_move": 2.939949487973297,
+      "alert_relative_volume": 8.206247754043831
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 460.6499938964844,
+      "alert_pct_move": -2.1870725222571927,
+      "alert_relative_volume": 4.8234904181645755
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 38.93000030517578,
+      "alert_pct_move": -2.72363853103464,
+      "alert_relative_volume": 3.9481955038060628
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 315.75,
+      "alert_pct_move": 1.2993223081039684,
+      "alert_relative_volume": 3.9078849939984504
+    }
+  ]
+}
