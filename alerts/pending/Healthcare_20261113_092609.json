@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-13T09:26:09.600099+05:30",
+  "stocks": [
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5151.0,
+      "alert_pct_move": -2.847981893625047,
+      "alert_relative_volume": 7.6495871605100065
+    },
+    {
+      "ticker": "ERIS.NS",
+      "alert_price": 1318.0,
+      "alert_pct_move": 3.364443983645201,
+      "alert_relative_volume": 4.3791882413104
+    },
+    {
+      "ticker": "EMCURE.NS",
+      "alert_price": 2374.0,
+      "alert_pct_move": 2.575185800686134,
+      "alert_relative_volume": 3.324262078667239
+    }
+  ]
+}
