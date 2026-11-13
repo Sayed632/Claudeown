@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-13T09:26:02.998476+05:30",
+  "stocks": [
+    {
+      "ticker": "AMBER.NS",
+      "alert_price": 6415.0,
+      "alert_pct_move": 3.5512510088781277,
+      "alert_relative_volume": 19.41747337297165
+    },
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 695.0499877929688,
+      "alert_pct_move": -2.2295732278470037,
+      "alert_relative_volume": 10.376442573939258
+    }
+  ]
+}
