@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-13T09:21:13.846068+05:30",
+  "stocks": [
+    {
+      "ticker": "IKS.NS",
+      "alert_price": 1649.800048828125,
+      "alert_pct_move": -1.0970521566841016,
+      "alert_relative_volume": 6.905193105847705
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 514.4500122070312,
+      "alert_pct_move": -1.8225167543833494,
+      "alert_relative_volume": 5.465088577683381
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 436.0,
+      "alert_pct_move": -1.424369877196931,
+      "alert_relative_volume": 3.0297328531260805
+    }
+  ]
+}
