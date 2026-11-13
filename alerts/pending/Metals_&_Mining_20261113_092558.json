@@ -1,0 +1,24 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-13T09:25:58.486133+05:30",
+  "stocks": [
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 41.310001373291016,
+      "alert_pct_move": 1.4738450069069355,
+      "alert_relative_volume": 66.18483882581624
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 69.19000244140625,
+      "alert_pct_move": -2.6452754488401697,
+      "alert_relative_volume": 4.442230269894581
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 329.5,
+      "alert_pct_move": -1.0807583421048845,
+      "alert_relative_volume": 3.0131441605083835
+    }
+  ]
+}
