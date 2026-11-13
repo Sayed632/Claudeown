@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-13T09:21:17.798472+05:30",
+  "stocks": [
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5183.0,
+      "alert_pct_move": -2.2444360618634476,
+      "alert_relative_volume": 6.34579113458762
+    }
+  ]
+}
