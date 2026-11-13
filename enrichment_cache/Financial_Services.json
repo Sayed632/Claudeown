@@ -1,47 +1,23 @@
 {
+  "MANAPPURAM.NS": {
+    "date": "2026-11-13"
+  },
+  "IIFL.NS": {
+    "date": "2026-11-13"
+  },
   "UCOBANK.NS": {
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
-  "HDFCLIFE.NS": {
-    "date": "2026-11-12"
+  "CGCL.NS": {
+    "date": "2026-11-13"
   },
-  "BAJFINANCE.NS": {
-    "date": "2026-11-12"
-  },
-  "NUVAMA.NS": {
-    "date": "2026-11-12"
-  },
-  "LICI.NS": {
-    "date": "2026-11-12"
-  },
-  "BANDHANBNK.NS": {
-    "date": "2026-11-12"
-  },
-  "CDSL.NS": {
-    "date": "2026-11-12"
-  },
-  "BAJAJFINSV.NS": {
-    "date": "2026-11-12"
+  "IFCI.NS": {
+    "date": "2026-11-13"
   },
   "SHRIRAMFIN.NS": {
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
-  "HUDCO.NS": {
-    "date": "2026-11-12"
-  },
-  "UTIAMC.NS": {
-    "date": "2026-11-12"
-  },
-  "CUB.NS": {
-    "date": "2026-11-12"
-  },
-  "MOTILALOFS.NS": {
-    "date": "2026-11-12"
-  },
-  "IDBI.NS": {
-    "date": "2026-11-12"
-  },
-  "ABSLAMC.NS": {
-    "date": "2026-11-12"
+  "MUTHOOTFIN.NS": {
+    "date": "2026-11-13"
   }
 }

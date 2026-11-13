@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-13T09:21:33.988486+05:30",
+  "stocks": [
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 313.75,
+      "alert_pct_move": -1.9378065230450392,
+      "alert_relative_volume": 32.37416944262832
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 654.9000244140625,
+      "alert_pct_move": -1.2440623835141118,
+      "alert_relative_volume": 5.81928422261491
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 24.790000915527344,
+      "alert_pct_move": -1.2743914259098,
+      "alert_relative_volume": 5.1781707899599745
+    },
+    {
+      "ticker": "CGCL.NS",
+      "alert_price": 247.07000732421875,
+      "alert_pct_move": 1.1173000848182353,
+      "alert_relative_volume": 4.138676823644805
+    },
+    {
+      "ticker": "IFCI.NS",
+      "alert_price": 61.97999954223633,
+      "alert_pct_move": -2.0698393969680358,
+      "alert_relative_volume": 3.6458066343251816
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 976.0,
+      "alert_pct_move": -2.769474808830385,
+      "alert_relative_volume": 3.220283968036359
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2878.0,
+      "alert_pct_move": -1.871864167606886,
+      "alert_relative_volume": 3.015763109979119
+    }
+  ]
+}
