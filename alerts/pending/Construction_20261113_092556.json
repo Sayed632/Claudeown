@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-13T09:25:56.095317+05:30",
+  "stocks": [
+    {
+      "ticker": "TECHNOE.NS",
+      "alert_price": 973.4000244140625,
+      "alert_pct_move": -4.202337584670438,
+      "alert_relative_volume": 10.661185574926744
+    }
+  ]
+}
