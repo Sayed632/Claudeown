@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-13T09:21:29.554620+05:30",
+  "stocks": [
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1237.3499755859375,
+      "alert_pct_move": 4.891277071819231,
+      "alert_relative_volume": 41.77173057209306
+    },
+    {
+      "ticker": "POWERINDIA.NS",
+      "alert_price": 30665.0,
+      "alert_pct_move": 7.42686985461552,
+      "alert_relative_volume": 25.465087977819692
+    },
+    {
+      "ticker": "COCHINSHIP.NS",
+      "alert_price": 1179.800048828125,
+      "alert_pct_move": -1.354510967548077,
+      "alert_relative_volume": 5.9430245739036
+    },
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 1037.5999755859375,
+      "alert_pct_move": -1.6586105966196787,
+      "alert_relative_volume": 5.595612623333908
+    },
+    {
+      "ticker": "HBLENGINE.NS",
+      "alert_price": 796.2999877929688,
+      "alert_pct_move": -1.2402331826113917,
+      "alert_relative_volume": 4.633824377341944
+    },
+    {
+      "ticker": "WELCORP.NS",
+      "alert_price": 2204.800048828125,
+      "alert_pct_move": 2.2682011549429557,
+      "alert_relative_volume": 3.308738595972164
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 63.65999984741211,
+      "alert_pct_move": -2.8388230936381302,
+      "alert_relative_volume": 3.1335173076465797
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 3447.89990234375,
+      "alert_pct_move": -1.0361681302023535,
+      "alert_relative_volume": 3.0847307493214196
+    }
+  ]
+}
