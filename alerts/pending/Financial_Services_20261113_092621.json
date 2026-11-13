@@ -1,0 +1,12 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-13T09:26:21.389219+05:30",
+  "stocks": [
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2885.699951171875,
+      "alert_pct_move": -1.6093270395677806,
+      "alert_relative_volume": 4.009989563997135
+    }
+  ]
+}
