@@ -1,0 +1,12 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-11-16T09:25:55.769952+05:30",
+  "stocks": [
+    {
+      "ticker": "ALOKINDS.NS",
+      "alert_price": 8.020000457763672,
+      "alert_pct_move": -1.3530092881777347,
+      "alert_relative_volume": 3.3621458089426786
+    }
+  ]
+}
