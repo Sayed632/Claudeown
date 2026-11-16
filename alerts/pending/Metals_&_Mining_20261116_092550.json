@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-16T09:25:50.839462+05:30",
+  "stocks": [
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 39.540000915527344,
+      "alert_pct_move": -2.466699500287843,
+      "alert_relative_volume": 5.3147076282531
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 934.0,
+      "alert_pct_move": -1.0173776848580673,
+      "alert_relative_volume": 3.2646879921072496
+    }
+  ]
+}
