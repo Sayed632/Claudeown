@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-16T09:25:56.140711+05:30",
+  "stocks": [
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 432.95001220703125,
+      "alert_pct_move": -1.4118141354032612,
+      "alert_relative_volume": 3.5519155553267687
+    }
+  ]
+}
