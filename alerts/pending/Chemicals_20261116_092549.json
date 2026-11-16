@@ -1,0 +1,36 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-16T09:25:49.989021+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1350.0,
+      "alert_pct_move": 6.990010125121582,
+      "alert_relative_volume": 71.32749831659993
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1549.0999755859375,
+      "alert_pct_move": 1.533723875136076,
+      "alert_relative_volume": 4.598200835775081
+    },
+    {
+      "ticker": "SWANCORP.NS",
+      "alert_price": 229.39999389648438,
+      "alert_pct_move": -1.3290943798315424,
+      "alert_relative_volume": 3.4113751383812656
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 378.0,
+      "alert_pct_move": -1.626545217957059,
+      "alert_relative_volume": 3.264807536046408
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 277.95001220703125,
+      "alert_pct_move": -1.62802186680964,
+      "alert_relative_volume": 3.1014665789287355
+    }
+  ]
+}
