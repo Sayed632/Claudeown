@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-16T09:21:02.791950+05:30",
+  "stocks": [
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 39.52000045776367,
+      "alert_pct_move": -2.5160346194590204,
+      "alert_relative_volume": 6.523236939841401
+    }
+  ]
+}
