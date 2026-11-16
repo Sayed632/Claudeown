@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-16T09:26:12.132075+05:30",
+  "stocks": [
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 145.72000122070312,
+      "alert_pct_move": 2.0376750310603606,
+      "alert_relative_volume": 9.753658570812794
+    },
+    {
+      "ticker": "YESBANK.NS",
+      "alert_price": 17.6299991607666,
+      "alert_pct_move": 1.2055056461132516,
+      "alert_relative_volume": 5.638749579384834
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 177.80999755859375,
+      "alert_pct_move": 1.617328780520304,
+      "alert_relative_volume": 5.385631535561893
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 578.0,
+      "alert_pct_move": -1.424060021080993,
+      "alert_relative_volume": 3.0950496797839318
+    },
+    {
+      "ticker": "HOMEFIRST.NS",
+      "alert_price": 1090.5,
+      "alert_pct_move": -1.7213388614082774,
+      "alert_relative_volume": 3.0691640271611202
+    }
+  ]
+}
