@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-16T09:21:09.110049+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1342.0,
+      "alert_pct_move": 6.355995250306047,
+      "alert_relative_volume": 77.07591062087894
+    },
+    {
+      "ticker": "CHAMBLFERT.NS",
+      "alert_price": 378.8500061035156,
+      "alert_pct_move": -1.4053334798918347,
+      "alert_relative_volume": 4.447889600248634
+    },
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 277.54998779296875,
+      "alert_pct_move": -1.7695983776377373,
+      "alert_relative_volume": 3.4336621711648747
+    }
+  ]
+}
