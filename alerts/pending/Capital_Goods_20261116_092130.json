@@ -1,0 +1,48 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-16T09:21:30.035198+05:30",
+  "stocks": [
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 59.310001373291016,
+      "alert_pct_move": -7.975168065685007,
+      "alert_relative_volume": 35.646331639988375
+    },
+    {
+      "ticker": "GPIL.NS",
+      "alert_price": 208.5,
+      "alert_pct_move": -5.2875440274012195,
+      "alert_relative_volume": 26.157770114254976
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 521.0,
+      "alert_pct_move": -3.6790577770114687,
+      "alert_relative_volume": 13.828351795983389
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6940.0,
+      "alert_pct_move": -1.6230774682826565,
+      "alert_relative_volume": 11.983047307492836
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 361.0,
+      "alert_pct_move": -1.1229816584426908,
+      "alert_relative_volume": 8.1459534783117
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 24050.0,
+      "alert_pct_move": -1.2928380874204801,
+      "alert_relative_volume": 7.112610238260815
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2274.699951171875,
+      "alert_pct_move": 1.0259305611005367,
+      "alert_relative_volume": 3.4306368680608093
+    }
+  ]
+}

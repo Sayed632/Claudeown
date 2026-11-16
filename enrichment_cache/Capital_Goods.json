@@ -1,32 +1,23 @@
 {
-  "ACE.NS": {
-    "date": "2026-11-13"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-11-13"
-  },
-  "COCHINSHIP.NS": {
-    "date": "2026-11-13"
-  },
-  "BDL.NS": {
-    "date": "2026-11-13"
-  },
-  "HBLENGINE.NS": {
-    "date": "2026-11-13"
-  },
-  "WELCORP.NS": {
-    "date": "2026-11-13"
-  },
   "INOXWIND.NS": {
-    "date": "2026-11-13"
+    "date": "2026-11-16"
   },
-  "KAYNES.NS": {
-    "date": "2026-11-13"
+  "GPIL.NS": {
+    "date": "2026-11-16"
   },
-  "ENRIN.NS": {
-    "date": "2026-11-13"
+  "MAHSEAMLES.NS": {
+    "date": "2026-11-16"
   },
   "ABB.NS": {
-    "date": "2026-11-13"
+    "date": "2026-11-16"
+  },
+  "RHIM.NS": {
+    "date": "2026-11-16"
+  },
+  "PTCIL.NS": {
+    "date": "2026-11-16"
+  },
+  "APLAPOLLO.NS": {
+    "date": "2026-11-16"
   }
 }
