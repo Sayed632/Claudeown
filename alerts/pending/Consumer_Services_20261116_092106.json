@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-16T09:21:06.053745+05:30",
+  "stocks": [
+    {
+      "ticker": "FIRSTCRY.NS",
+      "alert_price": 162.72000122070312,
+      "alert_pct_move": 1.4463886611591696,
+      "alert_relative_volume": 36.80859450625542
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 38.59000015258789,
+      "alert_pct_move": -1.7816257231564838,
+      "alert_relative_volume": 3.8969001179410983
+    }
+  ]
+}
