@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-16T09:21:21.845457+05:30",
+  "stocks": [
+    {
+      "ticker": "NATCOPHARM.NS",
+      "alert_price": 864.2999877929688,
+      "alert_pct_move": 6.6444536707812905,
+      "alert_relative_volume": 59.01041605352933
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 949.4000244140625,
+      "alert_pct_move": -1.5247330716859542,
+      "alert_relative_volume": 19.745763253558284
+    },
+    {
+      "ticker": "AJANTPHARM.NS",
+      "alert_price": 3340.39990234375,
+      "alert_pct_move": 1.7174148094929964,
+      "alert_relative_volume": 3.0817776290420102
+    }
+  ]
+}
