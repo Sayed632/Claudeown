@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-16T09:25:57.267117+05:30",
+  "stocks": [
+    {
+      "ticker": "TMPV.NS",
+      "alert_price": 267.1499938964844,
+      "alert_pct_move": -7.045929168423587,
+      "alert_relative_volume": 31.223635351082873
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "alert_price": 7880.5,
+      "alert_pct_move": 3.0130718954248366,
+      "alert_relative_volume": 16.81159676687886
+    },
+    {
+      "ticker": "ASAHIINDIA.NS",
+      "alert_price": 1121.5,
+      "alert_pct_move": 1.013285296104481,
+      "alert_relative_volume": 5.099909586726902
+    },
+    {
+      "ticker": "MRF.NS",
+      "alert_price": 129400.0,
+      "alert_pct_move": 1.1293032706810988,
+      "alert_relative_volume": 3.6408816941755506
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 2001.300048828125,
+      "alert_pct_move": 2.894604052859897,
+      "alert_relative_volume": 3.2045388851874064
+    }
+  ]
+}
