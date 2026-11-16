@@ -1,23 +1,17 @@
 {
-  "MANAPPURAM.NS": {
-    "date": "2026-11-13"
+  "PNB.NS": {
+    "date": "2026-11-16"
   },
-  "IIFL.NS": {
-    "date": "2026-11-13"
+  "BANKINDIA.NS": {
+    "date": "2026-11-16"
   },
-  "UCOBANK.NS": {
-    "date": "2026-11-13"
+  "APTUS.NS": {
+    "date": "2026-11-16"
   },
-  "CGCL.NS": {
-    "date": "2026-11-13"
-  },
-  "IFCI.NS": {
-    "date": "2026-11-13"
-  },
-  "SHRIRAMFIN.NS": {
-    "date": "2026-11-13"
+  "UNIONBANK.NS": {
+    "date": "2026-11-16"
   },
   "MUTHOOTFIN.NS": {
-    "date": "2026-11-13"
+    "date": "2026-11-16"
   }
 }

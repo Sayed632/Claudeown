@@ -1,0 +1,36 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-16T09:21:31.952244+05:30",
+  "stocks": [
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 145.8000030517578,
+      "alert_pct_move": 2.093694800279853,
+      "alert_relative_volume": 10.486464036722332
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 156.17999267578125,
+      "alert_pct_move": 1.3497641076460491,
+      "alert_relative_volume": 4.160653052392423
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 177.88999938964844,
+      "alert_pct_move": 1.6630493388744476,
+      "alert_relative_volume": 3.680471382842799
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 205.8800048828125,
+      "alert_pct_move": 1.4187216171490147,
+      "alert_relative_volume": 3.121406406814454
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2791.800048828125,
+      "alert_pct_move": -1.6971813792913732,
+      "alert_relative_volume": 3.10409399968768
+    }
+  ]
+}
