@@ -1,0 +1,18 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-17T09:26:05.242177+05:30",
+  "stocks": [
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 300.04998779296875,
+      "alert_pct_move": -2.7390639244833874,
+      "alert_relative_volume": 11.118857864017894
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4111.5,
+      "alert_pct_move": 1.2934220251293422,
+      "alert_relative_volume": 3.592714295827349
+    }
+  ]
+}
