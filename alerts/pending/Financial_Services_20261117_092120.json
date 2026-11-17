@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-17T09:21:20.557489+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 595.3499755859375,
+      "alert_pct_move": 3.278682102294475,
+      "alert_relative_volume": 107.18046700315116
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 353.6499938964844,
+      "alert_pct_move": 1.579778858659213,
+      "alert_relative_volume": 8.517917645589709
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 644.0,
+      "alert_pct_move": -1.279984042068461,
+      "alert_relative_volume": 5.544405793267978
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3977.0,
+      "alert_pct_move": 2.3048850107299033,
+      "alert_relative_volume": 5.453194021865815
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 147.6199951171875,
+      "alert_pct_move": 2.095579816058718,
+      "alert_relative_volume": 4.968498480514677
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 24.940000534057617,
+      "alert_pct_move": 1.09444854855563,
+      "alert_relative_volume": 4.347962405053071
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 93.02999877929688,
+      "alert_pct_move": 1.1195638905400815,
+      "alert_relative_volume": 3.4072870181668846
+    }
+  ]
+}

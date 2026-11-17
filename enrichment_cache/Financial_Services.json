@@ -1,26 +1,23 @@
 {
-  "PNB.NS": {
-    "date": "2026-11-16"
-  },
-  "BANKINDIA.NS": {
-    "date": "2026-11-16"
-  },
-  "APTUS.NS": {
-    "date": "2026-11-16"
-  },
-  "UNIONBANK.NS": {
-    "date": "2026-11-16"
-  },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-11-16"
-  },
-  "YESBANK.NS": {
-    "date": "2026-11-16"
-  },
   "TATAINVEST.NS": {
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
-  "HOMEFIRST.NS": {
-    "date": "2026-11-16"
+  "ANGELONE.NS": {
+    "date": "2026-11-17"
+  },
+  "IIFL.NS": {
+    "date": "2026-11-17"
+  },
+  "BSE.NS": {
+    "date": "2026-11-17"
+  },
+  "PNB.NS": {
+    "date": "2026-11-17"
+  },
+  "UCOBANK.NS": {
+    "date": "2026-11-17"
+  },
+  "MAHABANK.NS": {
+    "date": "2026-11-17"
   }
 }
