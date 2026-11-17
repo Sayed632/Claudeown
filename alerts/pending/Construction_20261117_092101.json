@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-17T09:21:01.235669+05:30",
+  "stocks": [
+    {
+      "ticker": "AFCONS.NS",
+      "alert_price": 230.7100067138672,
+      "alert_pct_move": 6.9934617119960425,
+      "alert_relative_volume": 32.33546731554328
+    },
+    {
+      "ticker": "KPIL.NS",
+      "alert_price": 1363.800048828125,
+      "alert_pct_move": 1.0596553410985552,
+      "alert_relative_volume": 4.460613385898392
+    }
+  ]
+}
