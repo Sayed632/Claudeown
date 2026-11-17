@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-17T09:26:08.409845+05:30",
+  "stocks": [
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 593.4000244140625,
+      "alert_pct_move": 2.940413192487483,
+      "alert_relative_volume": 89.74499386092889
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 25.06999969482422,
+      "alert_pct_move": 1.62140096186965,
+      "alert_relative_volume": 7.849885055576503
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 148.60000610351562,
+      "alert_pct_move": 2.773365977722315,
+      "alert_relative_volume": 6.314913447399826
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 644.6500244140625,
+      "alert_pct_move": -1.180340531929804,
+      "alert_relative_volume": 4.550104509066682
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3953.89990234375,
+      "alert_pct_move": 1.710654979435137,
+      "alert_relative_volume": 4.221240382589598
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 134.1199951171875,
+      "alert_pct_move": 1.2990946374573784,
+      "alert_relative_volume": 3.586622318134923
+    },
+    {
+      "ticker": "APTUS.NS",
+      "alert_price": 178.5,
+      "alert_pct_move": 1.460812499978317,
+      "alert_relative_volume": 3.5346243062039413
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 118.9000015258789,
+      "alert_pct_move": 2.544204101146758,
+      "alert_relative_volume": 3.3667488701264108
+    },
+    {
+      "ticker": "NUVAMA.NS",
+      "alert_price": 1881.0999755859375,
+      "alert_pct_move": 1.802139077706558,
+      "alert_relative_volume": 3.0005268436726182
+    }
+  ]
+}
