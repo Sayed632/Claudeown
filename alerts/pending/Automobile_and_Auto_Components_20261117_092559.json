@@ -1,0 +1,36 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-17T09:25:59.051031+05:30",
+  "stocks": [
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 386.45001220703125,
+      "alert_pct_move": 5.731877484823871,
+      "alert_relative_volume": 9.514935584109994
+    },
+    {
+      "ticker": "TMPV.NS",
+      "alert_price": 267.5,
+      "alert_pct_move": 1.943599932219341,
+      "alert_relative_volume": 8.867549269873098
+    },
+    {
+      "ticker": "JKTYRE.NS",
+      "alert_price": 367.5,
+      "alert_pct_move": 1.1004126547455295,
+      "alert_relative_volume": 4.234534526082496
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3581.800048828125,
+      "alert_pct_move": 1.1722170275860353,
+      "alert_relative_volume": 4.098561828427243
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 431.3999938964844,
+      "alert_pct_move": 2.51901293037365,
+      "alert_relative_volume": 3.524750172979631
+    }
+  ]
+}
