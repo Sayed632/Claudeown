@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-17T09:21:06.766770+05:30",
+  "stocks": [
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 950.8499755859375,
+      "alert_pct_move": -1.3743387963418663,
+      "alert_relative_volume": 9.439168447428653
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 1032.1500244140625,
+      "alert_pct_move": 2.203188381236975,
+      "alert_relative_volume": 5.950298179208509
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5221.5,
+      "alert_pct_move": 1.6647196261682242,
+      "alert_relative_volume": 3.946321714647038
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1914.300048828125,
+      "alert_pct_move": 2.897227677205522,
+      "alert_relative_volume": 3.834773453383677
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2262.89990234375,
+      "alert_pct_move": 1.9324280335022523,
+      "alert_relative_volume": 3.3382449286154006
+    }
+  ]
+}

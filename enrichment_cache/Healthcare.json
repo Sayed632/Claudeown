@@ -1,14 +1,17 @@
 {
-  "NATCOPHARM.NS": {
-    "date": "2026-11-16"
-  },
   "JUBLPHARMA.NS": {
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
-  "AJANTPHARM.NS": {
-    "date": "2026-11-16"
+  "MAXHEALTH.NS": {
+    "date": "2026-11-17"
   },
-  "ASTRAZEN.NS": {
-    "date": "2026-11-16"
+  "ALKEM.NS": {
+    "date": "2026-11-17"
+  },
+  "NH.NS": {
+    "date": "2026-11-17"
+  },
+  "LAURUSLABS.NS": {
+    "date": "2026-11-17"
   }
 }
