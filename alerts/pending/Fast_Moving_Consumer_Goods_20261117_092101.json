@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-17T09:21:01.207963+05:30",
+  "stocks": [
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 495.0,
+      "alert_pct_move": 2.241042288608487,
+      "alert_relative_volume": 9.111354469624564
+    },
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 513.25,
+      "alert_pct_move": 2.251217754390257,
+      "alert_relative_volume": 4.884210741850195
+    },
+    {
+      "ticker": "JYOTHYLAB.NS",
+      "alert_price": 196.08999633789062,
+      "alert_pct_move": 1.817332190951084,
+      "alert_relative_volume": 3.5064322491132613
+    }
+  ]
+}
