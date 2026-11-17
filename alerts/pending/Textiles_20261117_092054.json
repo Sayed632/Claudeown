@@ -1,0 +1,12 @@
+{
+  "sector": "Textiles",
+  "alert_time": "2026-11-17T09:20:54.241206+05:30",
+  "stocks": [
+    {
+      "ticker": "KPRMILL.NS",
+      "alert_price": 1232.800048828125,
+      "alert_pct_move": 1.8001691848162675,
+      "alert_relative_volume": 4.307260978144918
+    }
+  ]
+}
