@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-17T09:21:03.385191+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDPETRO.NS",
+      "alert_price": 392.0,
+      "alert_pct_move": 1.3050749796247163,
+      "alert_relative_volume": 3.483365032328466
+    }
+  ]
+}
