@@ -1,0 +1,30 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-17T09:21:05.331943+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 664.0,
+      "alert_pct_move": 8.479011025017734,
+      "alert_relative_volume": 128.5568197034799
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1380.0,
+      "alert_pct_move": 9.36756590567984,
+      "alert_relative_volume": 40.024182719088515
+    },
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6995.0,
+      "alert_pct_move": 1.2081313752441583,
+      "alert_relative_volume": 3.87191041973191
+    },
+    {
+      "ticker": "FLUOROCHEM.NS",
+      "alert_price": 4859.0,
+      "alert_pct_move": 3.117503858137829,
+      "alert_relative_volume": 3.0122546238123427
+    }
+  ]
+}

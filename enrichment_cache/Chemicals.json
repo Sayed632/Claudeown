@@ -1,17 +1,14 @@
 {
+  "TATACHEM.NS": {
+    "date": "2026-11-17"
+  },
   "DEEPAKFERT.NS": {
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
-  "CHAMBLFERT.NS": {
-    "date": "2026-11-16"
+  "LINDEINDIA.NS": {
+    "date": "2026-11-17"
   },
-  "PCBL.NS": {
-    "date": "2026-11-16"
-  },
-  "PIDILITIND.NS": {
-    "date": "2026-11-16"
-  },
-  "SWANCORP.NS": {
-    "date": "2026-11-16"
+  "FLUOROCHEM.NS": {
+    "date": "2026-11-17"
   }
 }
