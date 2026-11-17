@@ -1,0 +1,30 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-17T09:26:01.755915+05:30",
+  "stocks": [
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 1027.9000244140625,
+      "alert_pct_move": 1.782354645495081,
+      "alert_relative_volume": 7.128824052996846
+    },
+    {
+      "ticker": "ALKEM.NS",
+      "alert_price": 5215.5,
+      "alert_pct_move": 1.5478971962616823,
+      "alert_relative_volume": 3.31209787763798
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2248.199951171875,
+      "alert_pct_move": 1.2702680708051801,
+      "alert_relative_volume": 3.197207891726499
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1913.800048828125,
+      "alert_pct_move": 2.8703517369002918,
+      "alert_relative_volume": 3.1519769077857953
+    }
+  ]
+}
