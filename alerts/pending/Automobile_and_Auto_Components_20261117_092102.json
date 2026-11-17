@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-17T09:21:02.541976+05:30",
+  "stocks": [
+    {
+      "ticker": "TMPV.NS",
+      "alert_price": 266.70001220703125,
+      "alert_pct_move": 1.6387265284172274,
+      "alert_relative_volume": 9.748456240545197
+    },
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 377.5,
+      "alert_pct_move": 3.283173734610123,
+      "alert_relative_volume": 5.840804389250933
+    },
+    {
+      "ticker": "APOLLOTYRE.NS",
+      "alert_price": 429.20001220703125,
+      "alert_pct_move": 1.9962035783601937,
+      "alert_relative_volume": 3.8055095126935807
+    },
+    {
+      "ticker": "SUNDRMFAST.NS",
+      "alert_price": 1056.5,
+      "alert_pct_move": -1.4367034297327015,
+      "alert_relative_volume": 3.259733548989082
+    }
+  ]
+}
