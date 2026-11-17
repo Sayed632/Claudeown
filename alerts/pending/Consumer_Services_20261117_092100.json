@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-17T09:21:00.310616+05:30",
+  "stocks": [
+    {
+      "ticker": "MANYAVAR.NS",
+      "alert_price": 462.1499938964844,
+      "alert_pct_move": -2.469138346803209,
+      "alert_relative_volume": 3.5819969239348453
+    }
+  ]
+}
