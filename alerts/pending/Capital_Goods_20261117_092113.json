@@ -1,0 +1,36 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-17T09:21:13.958612+05:30",
+  "stocks": [
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 503.20001220703125,
+      "alert_pct_move": -6.969866981956659,
+      "alert_relative_volume": 20.236862108404463
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 172.72000122070312,
+      "alert_pct_move": 3.122571828772505,
+      "alert_relative_volume": 7.608424792449942
+    },
+    {
+      "ticker": "ABB.NS",
+      "alert_price": 6969.0,
+      "alert_pct_move": 1.07324147933285,
+      "alert_relative_volume": 4.961958718754776
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 60.540000915527344,
+      "alert_pct_move": 1.7479006983652834,
+      "alert_relative_volume": 3.4188105444661305
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 23625.0,
+      "alert_pct_move": -3.037143443463985,
+      "alert_relative_volume": 3.3880525611641756
+    }
+  ]
+}

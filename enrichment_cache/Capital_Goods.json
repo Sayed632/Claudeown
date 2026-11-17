@@ -1,29 +1,17 @@
 {
-  "INOXWIND.NS": {
-    "date": "2026-11-16"
-  },
-  "GPIL.NS": {
-    "date": "2026-11-16"
-  },
   "MAHSEAMLES.NS": {
-    "date": "2026-11-16"
-  },
-  "ABB.NS": {
-    "date": "2026-11-16"
-  },
-  "RHIM.NS": {
-    "date": "2026-11-16"
-  },
-  "PTCIL.NS": {
-    "date": "2026-11-16"
-  },
-  "APLAPOLLO.NS": {
-    "date": "2026-11-16"
-  },
-  "KAYNES.NS": {
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
   "ASHOKLEY.NS": {
-    "date": "2026-11-16"
+    "date": "2026-11-17"
+  },
+  "ABB.NS": {
+    "date": "2026-11-17"
+  },
+  "INOXWIND.NS": {
+    "date": "2026-11-17"
+  },
+  "PTCIL.NS": {
+    "date": "2026-11-17"
   }
 }
