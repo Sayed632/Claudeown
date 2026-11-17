@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-17T09:20:57.689840+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 436.0,
+      "alert_pct_move": 1.2658256559170789,
+      "alert_relative_volume": 4.015272048626217
+    }
+  ]
+}
