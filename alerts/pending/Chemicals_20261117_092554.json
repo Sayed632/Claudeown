@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-17T09:25:54.152827+05:30",
+  "stocks": [
+    {
+      "ticker": "TATACHEM.NS",
+      "alert_price": 646.4500122070312,
+      "alert_pct_move": 5.611834339351494,
+      "alert_relative_volume": 150.74364730251554
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1387.0,
+      "alert_pct_move": 9.922328921143432,
+      "alert_relative_volume": 36.192132689096
+    }
+  ]
+}
