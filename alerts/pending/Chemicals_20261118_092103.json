@@ -1,0 +1,24 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-18T09:21:03.355417+05:30",
+  "stocks": [
+    {
+      "ticker": "SWANCORP.NS",
+      "alert_price": 239.1300048828125,
+      "alert_pct_move": 4.4828985819533065,
+      "alert_relative_volume": 76.48876801945347
+    },
+    {
+      "ticker": "UPL.NS",
+      "alert_price": 540.75,
+      "alert_pct_move": -1.9847765025827375,
+      "alert_relative_volume": 3.9258812797798868
+    },
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1420.300048828125,
+      "alert_pct_move": -1.6208286441206785,
+      "alert_relative_volume": 3.1558563885201796
+    }
+  ]
+}

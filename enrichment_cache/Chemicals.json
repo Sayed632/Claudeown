@@ -1,14 +1,11 @@
 {
-  "TATACHEM.NS": {
-    "date": "2026-11-17"
+  "SWANCORP.NS": {
+    "date": "2026-11-18"
+  },
+  "UPL.NS": {
+    "date": "2026-11-18"
   },
   "DEEPAKFERT.NS": {
-    "date": "2026-11-17"
-  },
-  "LINDEINDIA.NS": {
-    "date": "2026-11-17"
-  },
-  "FLUOROCHEM.NS": {
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   }
 }
