@@ -1,0 +1,18 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-18T09:25:56.757863+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 536.5999755859375,
+      "alert_pct_move": -2.436368075284091,
+      "alert_relative_volume": 4.39956138655821
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 313.6000061035156,
+      "alert_pct_move": -1.677380748944108,
+      "alert_relative_volume": 3.160725587474664
+    }
+  ]
+}
