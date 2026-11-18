@@ -1,0 +1,42 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-18T09:21:21.150061+05:30",
+  "stocks": [
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 672.2999877929688,
+      "alert_pct_move": 5.641100251678898,
+      "alert_relative_volume": 41.363205290397204
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 360.8999938964844,
+      "alert_pct_move": 3.173243708083041,
+      "alert_relative_volume": 9.727262849338262
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 595.4500122070312,
+      "alert_pct_move": -2.313177896531515,
+      "alert_relative_volume": 4.549828262084034
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2664.39990234375,
+      "alert_pct_move": -3.0774862734176063,
+      "alert_relative_volume": 4.548869203012327
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1463.0,
+      "alert_pct_move": 1.6113314616677359,
+      "alert_relative_volume": 4.372136099319851
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 287.3500061035156,
+      "alert_pct_move": -2.790933636554442,
+      "alert_relative_volume": 3.3406983836782707
+    }
+  ]
+}
