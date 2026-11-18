@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-18T09:26:19.751816+05:30",
+  "stocks": [
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 673.9000244140625,
+      "alert_pct_move": 5.892520201350791,
+      "alert_relative_volume": 34.50767273363707
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 360.0,
+      "alert_pct_move": 2.9159555640316914,
+      "alert_relative_volume": 9.571265629500292
+    },
+    {
+      "ticker": "CDSL.NS",
+      "alert_price": 1458.5,
+      "alert_pct_move": 1.298788063460282,
+      "alert_relative_volume": 5.893262178908872
+    },
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 31.280000686645508,
+      "alert_pct_move": -1.2314473909343786,
+      "alert_relative_volume": 4.309061525885849
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2658.699951171875,
+      "alert_pct_move": -3.2848326237950163,
+      "alert_relative_volume": 3.9172804656753235
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 286.0,
+      "alert_pct_move": -3.2476339327793577,
+      "alert_relative_volume": 3.828310166319273
+    },
+    {
+      "ticker": "TATAINVEST.NS",
+      "alert_price": 595.9000244140625,
+      "alert_pct_move": -2.239350939588962,
+      "alert_relative_volume": 3.5595525160356423
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "alert_price": 1843.699951171875,
+      "alert_pct_move": -1.4485833306036948,
+      "alert_relative_volume": 3.48390406495106
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3905.0,
+      "alert_pct_move": 1.0375455683065047,
+      "alert_relative_volume": 3.241044523920837
+    }
+  ]
+}
