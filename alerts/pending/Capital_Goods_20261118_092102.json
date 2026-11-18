@@ -1,0 +1,48 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-18T09:21:02.356739+05:30",
+  "stocks": [
+    {
+      "ticker": "SHYAMMETL.NS",
+      "alert_price": 1336.0,
+      "alert_pct_move": 1.5197568389057752,
+      "alert_relative_volume": 9.371714421848674
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 7536.5,
+      "alert_pct_move": -2.148792521423007,
+      "alert_relative_volume": 8.561478227210559
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 24270.0,
+      "alert_pct_move": 1.7610062893081762,
+      "alert_relative_volume": 4.993565713646282
+    },
+    {
+      "ticker": "CARBORUNIV.NS",
+      "alert_price": 994.0,
+      "alert_pct_move": -1.9820506922233108,
+      "alert_relative_volume": 4.642033420592296
+    },
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 2003.0,
+      "alert_pct_move": 5.421052631578947,
+      "alert_relative_volume": 4.178896464499142
+    },
+    {
+      "ticker": "SYRMA.NS",
+      "alert_price": 1454.0,
+      "alert_pct_move": 1.401769666204657,
+      "alert_relative_volume": 3.783739029010891
+    },
+    {
+      "ticker": "ASHOKLEY.NS",
+      "alert_price": 157.8000030517578,
+      "alert_pct_move": -1.6822410892474688,
+      "alert_relative_volume": 3.47718370762992
+    }
+  ]
+}
