@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-11-18T09:25:49.935187+05:30",
+  "stocks": [
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 38.77000045776367,
+      "alert_pct_move": 4.473187335246404,
+      "alert_relative_volume": 8.221400800809862
+    },
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 191.3800048828125,
+      "alert_pct_move": 1.6950966576449622,
+      "alert_relative_volume": 5.9889092289384065
+    }
+  ]
+}
