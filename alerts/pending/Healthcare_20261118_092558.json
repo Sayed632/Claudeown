@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-18T09:25:58.598285+05:30",
+  "stocks": [
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2140.199951171875,
+      "alert_pct_move": -4.757248980402476,
+      "alert_relative_volume": 18.08837409581656
+    },
+    {
+      "ticker": "ERIS.NS",
+      "alert_price": 1372.0,
+      "alert_pct_move": 3.181172473597945,
+      "alert_relative_volume": 7.778056500173799
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2034.199951171875,
+      "alert_pct_move": 1.25939202799262,
+      "alert_relative_volume": 3.04740914590516
+    }
+  ]
+}
