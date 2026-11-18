@@ -1,0 +1,12 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-18T09:21:04.062132+05:30",
+  "stocks": [
+    {
+      "ticker": "GMRAIRPORT.NS",
+      "alert_price": 106.41999816894531,
+      "alert_pct_move": 1.837318821957237,
+      "alert_relative_volume": 4.870962881268545
+    }
+  ]
+}
