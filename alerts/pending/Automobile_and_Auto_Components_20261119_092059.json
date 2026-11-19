@@ -1,0 +1,12 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-19T09:20:59.435680+05:30",
+  "stocks": [
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 394.95001220703125,
+      "alert_pct_move": 1.5165209096991856,
+      "alert_relative_volume": 11.677564575628312
+    }
+  ]
+}
