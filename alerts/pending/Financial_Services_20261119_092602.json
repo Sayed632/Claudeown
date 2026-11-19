@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-19T09:26:02.143059+05:30",
+  "stocks": [
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1779.5,
+      "alert_pct_move": -5.8465608465608465,
+      "alert_relative_volume": 10.371624365197258
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 123.83000183105469,
+      "alert_pct_move": 3.363938795189992,
+      "alert_relative_volume": 9.76712256729969
+    },
+    {
+      "ticker": "SBIN.NS",
+      "alert_price": 1146.75,
+      "alert_pct_move": 1.0352422907488987,
+      "alert_relative_volume": 8.527198915161323
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 142.69000244140625,
+      "alert_pct_move": 1.9578460542427882,
+      "alert_relative_volume": 6.291678744717641
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 1010.2000122070312,
+      "alert_pct_move": -3.4410189872900787,
+      "alert_relative_volume": 6.250120776843926
+    },
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 986.9000244140625,
+      "alert_pct_move": -4.6657582144527385,
+      "alert_relative_volume": 6.0119617787712425
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 646.0499877929688,
+      "alert_pct_move": -2.401997752224471,
+      "alert_relative_volume": 5.341925457508398
+    },
+    {
+      "ticker": "PNB.NS",
+      "alert_price": 153.25999450683594,
+      "alert_pct_move": 2.4670635835555617,
+      "alert_relative_volume": 4.8131522302786856
+    },
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 84.62999725341797,
+      "alert_pct_move": 2.6440271508369757,
+      "alert_relative_volume": 4.37954421410643
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2576.0,
+      "alert_pct_move": -2.4242424242424243,
+      "alert_relative_volume": 4.301057723089757
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 278.010009765625,
+      "alert_pct_move": 1.2786920821949,
+      "alert_relative_volume": 4.257616049542077
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 280.1000061035156,
+      "alert_pct_move": -1.0247328256128534,
+      "alert_relative_volume": 3.8518977925040994
+    }
+  ]
+}
