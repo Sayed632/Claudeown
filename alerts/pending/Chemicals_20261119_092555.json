@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-19T09:25:55.991496+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKFERT.NS",
+      "alert_price": 1461.9000244140625,
+      "alert_pct_move": -1.2563306711203985,
+      "alert_relative_volume": 3.6391743861808865
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "alert_price": 1555.0,
+      "alert_pct_move": 1.620706418735169,
+      "alert_relative_volume": 3.3247101635898435
+    }
+  ]
+}
