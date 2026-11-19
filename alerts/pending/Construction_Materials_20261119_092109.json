@@ -1,0 +1,18 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-11-19T09:21:09.129375+05:30",
+  "stocks": [
+    {
+      "ticker": "DALBHARAT.NS",
+      "alert_price": 1506.0,
+      "alert_pct_move": -1.200554237480606,
+      "alert_relative_volume": 11.456322613533116
+    },
+    {
+      "ticker": "NUVOCO.NS",
+      "alert_price": 349.5,
+      "alert_pct_move": 1.1431087676373592,
+      "alert_relative_volume": 3.7201611118994853
+    }
+  ]
+}
