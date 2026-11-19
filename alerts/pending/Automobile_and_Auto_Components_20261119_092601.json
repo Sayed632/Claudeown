@@ -1,0 +1,30 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-19T09:26:01.870837+05:30",
+  "stocks": [
+    {
+      "ticker": "EXIDEIND.NS",
+      "alert_price": 393.5,
+      "alert_pct_move": 1.1438150229166193,
+      "alert_relative_volume": 8.907333198147573
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "alert_price": 5391.0,
+      "alert_pct_move": 1.1634452993056859,
+      "alert_relative_volume": 4.437227822929217
+    },
+    {
+      "ticker": "TVSMOTOR.NS",
+      "alert_price": 4436.89990234375,
+      "alert_pct_move": 1.554129144970245,
+      "alert_relative_volume": 3.2005227473144604
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 12990.0,
+      "alert_pct_move": 2.8340721975934136,
+      "alert_relative_volume": 3.0050539580309055
+    }
+  ]
+}
