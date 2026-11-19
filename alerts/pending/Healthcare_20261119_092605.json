@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-19T09:26:05.978114+05:30",
+  "stocks": [
+    {
+      "ticker": "CAPLIPOINT.NS",
+      "alert_price": 2059.300048828125,
+      "alert_pct_move": -1.2468229698940065,
+      "alert_relative_volume": 5.468644268860962
+    },
+    {
+      "ticker": "JUBLPHARMA.NS",
+      "alert_price": 923.4000244140625,
+      "alert_pct_move": -3.2582478350903616,
+      "alert_relative_volume": 3.4845984730293167
+    }
+  ]
+}
