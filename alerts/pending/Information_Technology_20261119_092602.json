@@ -1,0 +1,24 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-19T09:26:02.581880+05:30",
+  "stocks": [
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4243.5,
+      "alert_pct_move": 3.0425865364709868,
+      "alert_relative_volume": 7.151066967383761
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 297.1499938964844,
+      "alert_pct_move": -1.8659161572844596,
+      "alert_relative_volume": 6.909598189368514
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 405.6499938964844,
+      "alert_pct_move": -1.7796624947979722,
+      "alert_relative_volume": 4.298504765806221
+    }
+  ]
+}
