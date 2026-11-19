@@ -1,0 +1,24 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-19T09:26:06.859191+05:30",
+  "stocks": [
+    {
+      "ticker": "INOXINDIA.NS",
+      "alert_price": 2162.800048828125,
+      "alert_pct_move": 1.8651139114049622,
+      "alert_relative_volume": 10.66049278965859
+    },
+    {
+      "ticker": "JINDALSAW.NS",
+      "alert_price": 252.52999877929688,
+      "alert_pct_move": -2.4189534212787667,
+      "alert_relative_volume": 4.342168479262154
+    },
+    {
+      "ticker": "BDL.NS",
+      "alert_price": 1037.0,
+      "alert_pct_move": 2.328791693051593,
+      "alert_relative_volume": 3.5762579135187242
+    }
+  ]
+}
