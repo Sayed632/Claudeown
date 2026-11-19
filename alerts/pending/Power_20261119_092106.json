@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-19T09:21:06.820627+05:30",
+  "stocks": [
+    {
+      "ticker": "RELINFRA.NS",
+      "alert_price": 59.0,
+      "alert_pct_move": 1.9526543787313517,
+      "alert_relative_volume": 3.911107510605507
+    }
+  ]
+}
