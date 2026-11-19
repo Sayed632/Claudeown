@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-19T09:26:03.063326+05:30",
+  "stocks": [
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 450.5,
+      "alert_pct_move": 7.223612172892996,
+      "alert_relative_volume": 189.13442528820377
+    },
+    {
+      "ticker": "RADICO.NS",
+      "alert_price": 4575.89990234375,
+      "alert_pct_move": -1.8657917137846023,
+      "alert_relative_volume": 3.8307354290920497
+    },
+    {
+      "ticker": "UNITDSPR.NS",
+      "alert_price": 1406.9000244140625,
+      "alert_pct_move": -2.569250386837777,
+      "alert_relative_volume": 3.606308705398503
+    }
+  ]
+}
