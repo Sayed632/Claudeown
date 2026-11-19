@@ -1,14 +1,17 @@
 {
-  "BERGEPAINT.NS": {
-    "date": "2026-11-17"
+  "BLUESTARCO.NS": {
+    "date": "2026-11-19"
   },
-  "AMBER.NS": {
-    "date": "2026-11-17"
+  "VOLTAS.NS": {
+    "date": "2026-11-19"
   },
-  "CENTURYPLY.NS": {
-    "date": "2026-11-17"
+  "CROMPTON.NS": {
+    "date": "2026-11-19"
   },
-  "ASIANPAINT.NS": {
-    "date": "2026-11-17"
+  "PGEL.NS": {
+    "date": "2026-11-19"
+  },
+  "TITAN.NS": {
+    "date": "2026-11-19"
   }
 }
