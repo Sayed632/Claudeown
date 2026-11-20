@@ -1,0 +1,72 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-20T09:26:09.101320+05:30",
+  "stocks": [
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 131.5800018310547,
+      "alert_pct_move": 1.3713395511917665,
+      "alert_relative_volume": 11.114084021758641
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 987.0999755859375,
+      "alert_pct_move": 1.699979436949726,
+      "alert_relative_volume": 9.226168806557325
+    },
+    {
+      "ticker": "CRISIL.NS",
+      "alert_price": 4067.699951171875,
+      "alert_pct_move": -2.8956803253312247,
+      "alert_relative_volume": 8.875740192609884
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 622.1500244140625,
+      "alert_pct_move": -3.4603130375618365,
+      "alert_relative_volume": 8.661093782568331
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2524.800048828125,
+      "alert_pct_move": -3.559967577229756,
+      "alert_relative_volume": 6.112048093185007
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 275.8500061035156,
+      "alert_pct_move": -2.4748099165457274,
+      "alert_relative_volume": 5.860436606863259
+    },
+    {
+      "ticker": "PAYTM.NS",
+      "alert_price": 1746.300048828125,
+      "alert_pct_move": 1.1819934020215477,
+      "alert_relative_volume": 4.728300937576879
+    },
+    {
+      "ticker": "SAMMAANCAP.NS",
+      "alert_price": 125.0,
+      "alert_pct_move": -2.867357503615203,
+      "alert_relative_volume": 4.304604708830522
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 145.2100067138672,
+      "alert_pct_move": 3.110136210938156,
+      "alert_relative_volume": 3.4967809056428147
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 270.6700134277344,
+      "alert_pct_move": -1.6817924339016719,
+      "alert_relative_volume": 3.19017071397336
+    },
+    {
+      "ticker": "BANKBARODA.NS",
+      "alert_price": 284.6499938964844,
+      "alert_pct_move": 3.697629834784836,
+      "alert_relative_volume": 3.014650527107911
+    }
+  ]
+}
