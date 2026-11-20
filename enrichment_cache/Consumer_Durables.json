@@ -1,20 +1,17 @@
 {
   "BLUESTARCO.NS": {
-    "date": "2026-11-19"
-  },
-  "VOLTAS.NS": {
-    "date": "2026-11-19"
-  },
-  "CROMPTON.NS": {
-    "date": "2026-11-19"
-  },
-  "PGEL.NS": {
-    "date": "2026-11-19"
-  },
-  "TITAN.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   "CAMPUS.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
+  },
+  "TITAN.NS": {
+    "date": "2026-11-20"
+  },
+  "WHIRLPOOL.NS": {
+    "date": "2026-11-20"
+  },
+  "PGEL.NS": {
+    "date": "2026-11-20"
   }
 }

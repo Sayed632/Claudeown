@@ -1,0 +1,36 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-20T09:21:09.505518+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUESTARCO.NS",
+      "alert_price": 1790.0,
+      "alert_pct_move": 1.473922902494331,
+      "alert_relative_volume": 12.829532721818326
+    },
+    {
+      "ticker": "CAMPUS.NS",
+      "alert_price": 192.55999755859375,
+      "alert_pct_move": -2.392539157496414,
+      "alert_relative_volume": 4.95672899945849
+    },
+    {
+      "ticker": "TITAN.NS",
+      "alert_price": 4573.2001953125,
+      "alert_pct_move": -2.6978681848404253,
+      "alert_relative_volume": 4.342874387965273
+    },
+    {
+      "ticker": "WHIRLPOOL.NS",
+      "alert_price": 832.6500244140625,
+      "alert_pct_move": 1.959223599053931,
+      "alert_relative_volume": 4.1956492285874925
+    },
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 574.8499755859375,
+      "alert_pct_move": 6.611639942845196,
+      "alert_relative_volume": 4.119919841620426
+    }
+  ]
+}
