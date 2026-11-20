@@ -1,0 +1,72 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-20T09:25:53.866567+05:30",
+  "stocks": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 174.9199981689453,
+      "alert_pct_move": -3.3003489639266164,
+      "alert_relative_volume": 17.17533108415331
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 233.0800018310547,
+      "alert_pct_move": -4.357815039055175,
+      "alert_relative_volume": 9.050544130049326
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 297.29998779296875,
+      "alert_pct_move": -3.1596130967528504,
+      "alert_relative_volume": 6.22252830984727
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 469.5,
+      "alert_pct_move": 2.9944046755995215,
+      "alert_relative_volume": 5.902297519355642
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 66.88999938964844,
+      "alert_pct_move": -1.920817620546117,
+      "alert_relative_volume": 5.2809020602639105
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 511.95001220703125,
+      "alert_pct_move": -3.2230600742852076,
+      "alert_relative_volume": 4.923280833060619
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "alert_price": 1295.5999755859375,
+      "alert_pct_move": -1.5426740976894582,
+      "alert_relative_volume": 4.537993406709498
+    },
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 159.77999877929688,
+      "alert_pct_move": -2.8279475178552804,
+      "alert_relative_volume": 3.3394617053515483
+    },
+    {
+      "ticker": "NSLNISP.NS",
+      "alert_price": 38.15999984741211,
+      "alert_pct_move": -2.354150308436025,
+      "alert_relative_volume": 3.323231805347334
+    },
+    {
+      "ticker": "JINDALSTEL.NS",
+      "alert_price": 1087.800048828125,
+      "alert_pct_move": -1.3780554099614686,
+      "alert_relative_volume": 3.08161500750767
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 897.3499755859375,
+      "alert_pct_move": -1.390112572973901,
+      "alert_relative_volume": 3.0319790384983483
+    }
+  ]
+}
