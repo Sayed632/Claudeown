@@ -1,0 +1,30 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-11-20T09:21:06.747291+05:30",
+  "stocks": [
+    {
+      "ticker": "NUVOCO.NS",
+      "alert_price": 355.95001220703125,
+      "alert_pct_move": 1.714530587428694,
+      "alert_relative_volume": 23.680397234230536
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "alert_price": 12730.0,
+      "alert_pct_move": 1.3535031847133758,
+      "alert_relative_volume": 11.348430621828776
+    },
+    {
+      "ticker": "SHREECEM.NS",
+      "alert_price": 25135.0,
+      "alert_pct_move": 1.2079726192872962,
+      "alert_relative_volume": 4.096214109824731
+    },
+    {
+      "ticker": "ACC.NS",
+      "alert_price": 1268.0999755859375,
+      "alert_pct_move": 3.1143214536630124,
+      "alert_relative_volume": 3.030303496704121
+    }
+  ]
+}
