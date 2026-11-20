@@ -1,0 +1,12 @@
+{
+  "sector": "Construction Materials",
+  "alert_time": "2026-11-20T09:25:54.271495+05:30",
+  "stocks": [
+    {
+      "ticker": "NUVOCO.NS",
+      "alert_price": 359.1000061035156,
+      "alert_pct_move": 2.6146574017180537,
+      "alert_relative_volume": 22.35836959733334
+    }
+  ]
+}
