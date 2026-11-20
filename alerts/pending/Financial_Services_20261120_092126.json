@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-20T09:21:26.594005+05:30",
+  "stocks": [
+    {
+      "ticker": "CRISIL.NS",
+      "alert_price": 4051.39990234375,
+      "alert_pct_move": -3.284795838058009,
+      "alert_relative_volume": 11.639063941648187
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 986.9000244140625,
+      "alert_pct_move": 1.679378656308423,
+      "alert_relative_volume": 11.341217805690517
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 131.6999969482422,
+      "alert_pct_move": 1.4637857101796456,
+      "alert_relative_volume": 9.839860552456413
+    },
+    {
+      "ticker": "IIFL.NS",
+      "alert_price": 622.8499755859375,
+      "alert_pct_move": -3.3517008630538565,
+      "alert_relative_volume": 8.989857948994912
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2525.300048828125,
+      "alert_pct_move": -3.540869028719442,
+      "alert_relative_volume": 7.374493289291974
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 274.54998779296875,
+      "alert_pct_move": -2.934423946064646,
+      "alert_relative_volume": 6.343254552891111
+    },
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 270.5299987792969,
+      "alert_pct_move": -1.732651371295739,
+      "alert_relative_volume": 3.8460324307887714
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 144.9600067138672,
+      "alert_pct_move": 2.9326172187138217,
+      "alert_relative_volume": 3.475642141873042
+    },
+    {
+      "ticker": "BAJAJHLDNG.NS",
+      "alert_price": 11389.0,
+      "alert_pct_move": 1.2715632224791038,
+      "alert_relative_volume": 3.257517010374511
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 96.30000305175781,
+      "alert_pct_move": -1.7146358926480845,
+      "alert_relative_volume": 3.210653381606829
+    },
+    {
+      "ticker": "MCX.NS",
+      "alert_price": 3577.10009765625,
+      "alert_pct_move": -1.862823109567901,
+      "alert_relative_volume": 3.0660979284479386
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "alert_price": 505.20001220703125,
+      "alert_pct_move": 2.091544099395353,
+      "alert_relative_volume": 3.0536877516904797
+    }
+  ]
+}

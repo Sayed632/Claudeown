@@ -1,38 +1,38 @@
 {
-  "PAYTM.NS": {
-    "date": "2026-11-19"
-  },
-  "IREDA.NS": {
-    "date": "2026-11-19"
-  },
-  "J&KBANK.NS": {
-    "date": "2026-11-19"
+  "CRISIL.NS": {
+    "date": "2026-11-20"
   },
   "CREDITACC.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-11-19"
+  "IREDA.NS": {
+    "date": "2026-11-20"
   },
   "IIFL.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
+  },
+  "MUTHOOTFIN.NS": {
+    "date": "2026-11-20"
   },
   "MANAPPURAM.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
-  "POLICYBZR.NS": {
-    "date": "2026-11-19"
+  "LTF.NS": {
+    "date": "2026-11-20"
   },
-  "PNB.NS": {
-    "date": "2026-11-19"
+  "J&KBANK.NS": {
+    "date": "2026-11-20"
   },
-  "BANKBARODA.NS": {
-    "date": "2026-11-19"
+  "BAJAJHLDNG.NS": {
+    "date": "2026-11-20"
   },
-  "IDFCFIRSTB.NS": {
-    "date": "2026-11-19"
+  "MAHABANK.NS": {
+    "date": "2026-11-20"
   },
-  "SBIN.NS": {
-    "date": "2026-11-19"
+  "MCX.NS": {
+    "date": "2026-11-20"
+  },
+  "KOTAKBANK.NS": {
+    "date": "2026-11-20"
   }
 }
