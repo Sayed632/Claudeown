@@ -1,0 +1,60 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-20T09:21:03.730836+05:30",
+  "stocks": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 174.92999267578125,
+      "alert_pct_move": -3.2948237790796595,
+      "alert_relative_volume": 17.48044045830707
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 233.4499969482422,
+      "alert_pct_move": -4.205991025177128,
+      "alert_relative_volume": 9.113496407158445
+    },
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 469.20001220703125,
+      "alert_pct_move": 2.928596232262432,
+      "alert_relative_volume": 8.784470421281764
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 296.79998779296875,
+      "alert_pct_move": -3.322479546264251,
+      "alert_relative_volume": 8.33437910771028
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 66.69999694824219,
+      "alert_pct_move": -2.1994135881536305,
+      "alert_relative_volume": 6.237947647823135
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 510.75,
+      "alert_pct_move": -3.449905482041588,
+      "alert_relative_volume": 5.982022781223506
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "alert_price": 1292.5999755859375,
+      "alert_pct_move": -1.7706549430683332,
+      "alert_relative_volume": 4.567235555349526
+    },
+    {
+      "ticker": "SAIL.NS",
+      "alert_price": 159.3800048828125,
+      "alert_pct_move": -3.0712084278481866,
+      "alert_relative_volume": 3.5290412198746988
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 414.04998779296875,
+      "alert_pct_move": -2.679521468321184,
+      "alert_relative_volume": 3.3201142223108557
+    }
+  ]
+}

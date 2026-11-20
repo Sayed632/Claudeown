@@ -1,14 +1,29 @@
 {
-  "NATIONALUM.NS": {
-    "date": "2026-11-19"
+  "TATASTEEL.NS": {
+    "date": "2026-11-20"
+  },
+  "VEDL.NS": {
+    "date": "2026-11-20"
   },
   "SARDAEN.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
-  "HINDCOPPER.NS": {
-    "date": "2026-11-19"
+  "NATIONALUM.NS": {
+    "date": "2026-11-20"
+  },
+  "NMDC.NS": {
+    "date": "2026-11-20"
   },
   "HINDZINC.NS": {
-    "date": "2026-11-19"
+    "date": "2026-11-20"
+  },
+  "JSWSTEEL.NS": {
+    "date": "2026-11-20"
+  },
+  "SAIL.NS": {
+    "date": "2026-11-20"
+  },
+  "HINDCOPPER.NS": {
+    "date": "2026-11-20"
   }
 }
