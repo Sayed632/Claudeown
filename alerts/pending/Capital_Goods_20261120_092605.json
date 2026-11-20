@@ -1,0 +1,54 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-20T09:26:05.636715+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 2088.699951171875,
+      "alert_pct_move": -2.756178307344633,
+      "alert_relative_volume": 6.007113690701046
+    },
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 191.08999633789062,
+      "alert_pct_move": -3.8685997025004366,
+      "alert_relative_volume": 5.821491969740039
+    },
+    {
+      "ticker": "GVT&D.NS",
+      "alert_price": 4180.7998046875,
+      "alert_pct_move": -3.8763990766955434,
+      "alert_relative_volume": 5.543063512424272
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 300.0,
+      "alert_pct_move": -1.7038047179053983,
+      "alert_relative_volume": 4.209387437114015
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 7415.5,
+      "alert_pct_move": -1.781456953642384,
+      "alert_relative_volume": 3.983330380188002
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 794.3499755859375,
+      "alert_pct_move": -2.2819594379389834,
+      "alert_relative_volume": 3.81602323030839
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 2905.0,
+      "alert_pct_move": -3.488372093023256,
+      "alert_relative_volume": 3.287295385146483
+    },
+    {
+      "ticker": "INOXWIND.NS",
+      "alert_price": 56.349998474121094,
+      "alert_pct_move": -1.0882968813360667,
+      "alert_relative_volume": 3.0456424580044263
+    }
+  ]
+}
