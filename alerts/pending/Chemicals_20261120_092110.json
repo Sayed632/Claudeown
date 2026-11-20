@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-20T09:21:10.784011+05:30",
+  "stocks": [
+    {
+      "ticker": "PCBL.NS",
+      "alert_price": 268.6000061035156,
+      "alert_pct_move": -1.0863494097087596,
+      "alert_relative_volume": 3.2550418864412034
+    }
+  ]
+}
