@@ -1,0 +1,24 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-20T09:21:08.904712+05:30",
+  "stocks": [
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 1072.9000244140625,
+      "alert_pct_move": 4.893195485433133,
+      "alert_relative_volume": 9.24033405962497
+    },
+    {
+      "ticker": "WOCKPHARMA.NS",
+      "alert_price": 2159.0,
+      "alert_pct_move": -1.2802926383173296,
+      "alert_relative_volume": 4.116426867079369
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 8924.0,
+      "alert_pct_move": 2.128633554589151,
+      "alert_relative_volume": 4.092295872426855
+    }
+  ]
+}
