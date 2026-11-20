@@ -1,14 +1,23 @@
 {
-  "HAPPSTMNDS.NS": {
-    "date": "2026-11-19"
+  "BSOFT.NS": {
+    "date": "2026-11-20"
   },
-  "NETWEB.NS": {
-    "date": "2026-11-19"
+  "COFORGE.NS": {
+    "date": "2026-11-20"
   },
-  "NEWGEN.NS": {
-    "date": "2026-11-19"
+  "LTTS.NS": {
+    "date": "2026-11-20"
   },
-  "KPITTECH.NS": {
-    "date": "2026-11-19"
+  "TECHM.NS": {
+    "date": "2026-11-20"
+  },
+  "TCS.NS": {
+    "date": "2026-11-20"
+  },
+  "PERSISTENT.NS": {
+    "date": "2026-11-20"
+  },
+  "ZENSARTECH.NS": {
+    "date": "2026-11-20"
   }
 }
