@@ -1,0 +1,60 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-20T09:26:01.634824+05:30",
+  "stocks": [
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 310.1000061035156,
+      "alert_pct_move": 3.7644302393299025,
+      "alert_relative_volume": 12.195457173105117
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2108.0,
+      "alert_pct_move": 2.8794533918984873,
+      "alert_relative_volume": 7.611983801631673
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 4151.39990234375,
+      "alert_pct_move": 1.3599617119398102,
+      "alert_relative_volume": 6.848414934129053
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 528.6500244140625,
+      "alert_pct_move": 2.5310413976057076,
+      "alert_relative_volume": 3.9412157805471755
+    },
+    {
+      "ticker": "PERSISTENT.NS",
+      "alert_price": 6001.5,
+      "alert_pct_move": 2.066326530612245,
+      "alert_relative_volume": 3.9160948324327594
+    },
+    {
+      "ticker": "TATAELXSI.NS",
+      "alert_price": 3770.60009765625,
+      "alert_pct_move": 1.2241636954697985,
+      "alert_relative_volume": 3.5924487712247344
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2382.699951171875,
+      "alert_pct_move": 1.7074316316091198,
+      "alert_relative_volume": 3.4857898060578663
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 527.0,
+      "alert_pct_move": 1.0062290368950648,
+      "alert_relative_volume": 3.3735802542202147
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1757.5,
+      "alert_pct_move": 2.0023215322112593,
+      "alert_relative_volume": 3.3156470610700226
+    }
+  ]
+}
