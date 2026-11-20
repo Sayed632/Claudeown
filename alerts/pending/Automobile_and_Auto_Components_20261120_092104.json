@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-20T09:21:04.551846+05:30",
+  "stocks": [
+    {
+      "ticker": "ENDURANCE.NS",
+      "alert_price": 2578.199951171875,
+      "alert_pct_move": 4.300337919320108,
+      "alert_relative_volume": 9.200031198210771
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 13752.0,
+      "alert_pct_move": 1.1994995952608727,
+      "alert_relative_volume": 5.186482217932278
+    },
+    {
+      "ticker": "MSUMI.NS",
+      "alert_price": 41.66999816894531,
+      "alert_pct_move": 1.0181773792613635,
+      "alert_relative_volume": 3.235543499387103
+    }
+  ]
+}
