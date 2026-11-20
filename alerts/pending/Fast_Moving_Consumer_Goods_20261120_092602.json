@@ -1,0 +1,24 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-20T09:26:02.013610+05:30",
+  "stocks": [
+    {
+      "ticker": "LTFOODS.NS",
+      "alert_price": 427.75,
+      "alert_pct_move": 2.0274299344066784,
+      "alert_relative_volume": 11.208664632856621
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 507.95001220703125,
+      "alert_pct_move": 1.8446139763471179,
+      "alert_relative_volume": 6.378908705234711
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 393.6499938964844,
+      "alert_pct_move": 3.796966090042024,
+      "alert_relative_volume": 3.8575512388259834
+    }
+  ]
+}
