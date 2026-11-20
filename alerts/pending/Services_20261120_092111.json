@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-20T09:21:11.530982+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 281.0,
+      "alert_pct_move": 2.5921892156737125,
+      "alert_relative_volume": 49.563096517459755
+    },
+    {
+      "ticker": "JSWINFRA.NS",
+      "alert_price": 341.04998779296875,
+      "alert_pct_move": 1.1567533641070733,
+      "alert_relative_volume": 4.453227567122273
+    }
+  ]
+}
