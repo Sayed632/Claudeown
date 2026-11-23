@@ -1,32 +1,14 @@
 {
   "APLAPOLLO.NS": {
-    "date": "2026-11-20"
+    "date": "2026-11-23"
   },
-  "JWL.NS": {
-    "date": "2026-11-20"
-  },
-  "GVT&D.NS": {
-    "date": "2026-11-20"
+  "KAYNES.NS": {
+    "date": "2026-11-23"
   },
   "TARIL.NS": {
-    "date": "2026-11-20"
+    "date": "2026-11-23"
   },
-  "CGPOWER.NS": {
-    "date": "2026-11-20"
-  },
-  "POLYCAB.NS": {
-    "date": "2026-11-20"
-  },
-  "PTCIL.NS": {
-    "date": "2026-11-20"
-  },
-  "INOXWIND.NS": {
-    "date": "2026-11-20"
-  },
-  "POWERINDIA.NS": {
-    "date": "2026-11-20"
-  },
-  "ENRIN.NS": {
-    "date": "2026-11-20"
+  "SCHNEIDER.NS": {
+    "date": "2026-11-23"
   }
 }

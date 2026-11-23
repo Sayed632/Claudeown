@@ -1,0 +1,30 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-23T09:21:17.747516+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 1909.5,
+      "alert_pct_move": -9.997176088489004,
+      "alert_relative_volume": 126.06410720144012
+    },
+    {
+      "ticker": "KAYNES.NS",
+      "alert_price": 2962.199951171875,
+      "alert_pct_move": 1.793812755047251,
+      "alert_relative_volume": 4.351237992701435
+    },
+    {
+      "ticker": "TARIL.NS",
+      "alert_price": 293.3999938964844,
+      "alert_pct_move": -1.2453760117871189,
+      "alert_relative_volume": 3.7109995097125834
+    },
+    {
+      "ticker": "SCHNEIDER.NS",
+      "alert_price": 1031.0999755859375,
+      "alert_pct_move": -1.0840414968789747,
+      "alert_relative_volume": 3.1564050845552782
+    }
+  ]
+}
