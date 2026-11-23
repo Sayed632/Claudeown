@@ -1,0 +1,36 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-23T09:21:06.346892+05:30",
+  "stocks": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 171.0500030517578,
+      "alert_pct_move": -3.9044926675517906,
+      "alert_relative_volume": 25.397138418118935
+    },
+    {
+      "ticker": "NMDC.NS",
+      "alert_price": 67.86000061035156,
+      "alert_pct_move": -1.509435257612757,
+      "alert_relative_volume": 5.119430939292848
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "alert_price": 1315.4000244140625,
+      "alert_pct_move": -1.6155553916183623,
+      "alert_relative_volume": 4.1003234672893
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 235.3699951171875,
+      "alert_pct_move": -1.1216594875869772,
+      "alert_relative_volume": 3.990164492387416
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "alert_price": 912.7000122070312,
+      "alert_pct_move": -1.807422032594809,
+      "alert_relative_volume": 3.592569955439094
+    }
+  ]
+}
