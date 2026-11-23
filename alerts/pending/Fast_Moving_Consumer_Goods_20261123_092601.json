@@ -1,0 +1,18 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-23T09:26:01.698715+05:30",
+  "stocks": [
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 397.04998779296875,
+      "alert_pct_move": 1.0048287021427749,
+      "alert_relative_volume": 4.909650117779234
+    },
+    {
+      "ticker": "BIKAJI.NS",
+      "alert_price": 518.2000122070312,
+      "alert_pct_move": 1.8174672911172414,
+      "alert_relative_volume": 3.7124276823336686
+    }
+  ]
+}
