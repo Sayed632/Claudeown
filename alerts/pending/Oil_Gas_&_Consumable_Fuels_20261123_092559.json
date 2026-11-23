@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-23T09:25:59.633799+05:30",
+  "stocks": [
+    {
+      "ticker": "IOC.NS",
+      "alert_price": 148.5399932861328,
+      "alert_pct_move": -1.3023300424366695,
+      "alert_relative_volume": 3.5442163787300167
+    }
+  ]
+}
