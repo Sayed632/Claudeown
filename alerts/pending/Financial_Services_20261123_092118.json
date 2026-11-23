@@ -1,0 +1,54 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-23T09:21:18.540123+05:30",
+  "stocks": [
+    {
+      "ticker": "CANFINHOME.NS",
+      "alert_price": 796.75,
+      "alert_pct_move": 3.346518890259828,
+      "alert_relative_volume": 48.50300753177863
+    },
+    {
+      "ticker": "CENTRALBK.NS",
+      "alert_price": 33.86000061035156,
+      "alert_pct_move": -1.4838473592737935,
+      "alert_relative_volume": 11.696631128094468
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 24.959999084472656,
+      "alert_pct_move": -1.8096026374534688,
+      "alert_relative_volume": 9.956645466391556
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 994.9500122070312,
+      "alert_pct_move": 2.3611123669785234,
+      "alert_relative_volume": 7.174857855827123
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 137.02999877929688,
+      "alert_pct_move": -1.3604948276416944,
+      "alert_relative_volume": 4.725598927018705
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 147.6999969482422,
+      "alert_pct_move": -1.355772949456852,
+      "alert_relative_volume": 4.5894860190449345
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 213.67999267578125,
+      "alert_pct_move": -2.3623547103256506,
+      "alert_relative_volume": 3.384826339198999
+    },
+    {
+      "ticker": "IREDA.NS",
+      "alert_price": 129.1999969482422,
+      "alert_pct_move": -1.8982536506682641,
+      "alert_relative_volume": 3.0810215640068086
+    }
+  ]
+}

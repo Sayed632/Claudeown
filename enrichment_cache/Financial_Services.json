@@ -1,47 +1,26 @@
 {
-  "CRISIL.NS": {
-    "date": "2026-11-20"
+  "CANFINHOME.NS": {
+    "date": "2026-11-23"
   },
-  "CREDITACC.NS": {
-    "date": "2026-11-20"
+  "CENTRALBK.NS": {
+    "date": "2026-11-23"
   },
-  "IREDA.NS": {
-    "date": "2026-11-20"
+  "UCOBANK.NS": {
+    "date": "2026-11-23"
   },
-  "IIFL.NS": {
-    "date": "2026-11-20"
+  "SHRIRAMFIN.NS": {
+    "date": "2026-11-23"
   },
-  "MUTHOOTFIN.NS": {
-    "date": "2026-11-20"
-  },
-  "MANAPPURAM.NS": {
-    "date": "2026-11-20"
-  },
-  "LTF.NS": {
-    "date": "2026-11-20"
+  "CANBK.NS": {
+    "date": "2026-11-23"
   },
   "J&KBANK.NS": {
-    "date": "2026-11-20"
+    "date": "2026-11-23"
   },
-  "BAJAJHLDNG.NS": {
-    "date": "2026-11-20"
+  "UNIONBANK.NS": {
+    "date": "2026-11-23"
   },
-  "MAHABANK.NS": {
-    "date": "2026-11-20"
-  },
-  "MCX.NS": {
-    "date": "2026-11-20"
-  },
-  "KOTAKBANK.NS": {
-    "date": "2026-11-20"
-  },
-  "PAYTM.NS": {
-    "date": "2026-11-20"
-  },
-  "SAMMAANCAP.NS": {
-    "date": "2026-11-20"
-  },
-  "BANKBARODA.NS": {
-    "date": "2026-11-20"
+  "IREDA.NS": {
+    "date": "2026-11-23"
   }
 }
