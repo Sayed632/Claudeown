@@ -1,29 +1,29 @@
 {
-  "BSOFT.NS": {
-    "date": "2026-11-20"
+  "KPITTECH.NS": {
+    "date": "2026-11-23"
   },
-  "COFORGE.NS": {
-    "date": "2026-11-20"
+  "BSOFT.NS": {
+    "date": "2026-11-23"
+  },
+  "INTELLECT.NS": {
+    "date": "2026-11-23"
   },
   "LTTS.NS": {
-    "date": "2026-11-20"
+    "date": "2026-11-23"
+  },
+  "COFORGE.NS": {
+    "date": "2026-11-23"
   },
   "TECHM.NS": {
-    "date": "2026-11-20"
+    "date": "2026-11-23"
   },
-  "TCS.NS": {
-    "date": "2026-11-20"
+  "HEXT.NS": {
+    "date": "2026-11-23"
   },
-  "PERSISTENT.NS": {
-    "date": "2026-11-20"
+  "INFY.NS": {
+    "date": "2026-11-23"
   },
-  "ZENSARTECH.NS": {
-    "date": "2026-11-20"
-  },
-  "TATAELXSI.NS": {
-    "date": "2026-11-20"
-  },
-  "KPITTECH.NS": {
-    "date": "2026-11-20"
+  "NETWEB.NS": {
+    "date": "2026-11-23"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-23T09:21:12.023475+05:30",
+  "stocks": [
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 529.1500244140625,
+      "alert_pct_move": 1.9556887117654143,
+      "alert_relative_volume": 7.134469004409204
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 308.75,
+      "alert_pct_move": 1.8472723787775633,
+      "alert_relative_volume": 6.13109806286035
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 566.0,
+      "alert_pct_move": 3.096539162112933,
+      "alert_relative_volume": 4.656995984926175
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 4177.60009765625,
+      "alert_pct_move": 2.329457382884262,
+      "alert_relative_volume": 4.527761023771749
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2126.5,
+      "alert_pct_move": 1.9073201590757496,
+      "alert_relative_volume": 4.122289005796175
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1774.199951171875,
+      "alert_pct_move": 1.6034818911321809,
+      "alert_relative_volume": 3.5795031215476705
+    },
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 494.1499938964844,
+      "alert_pct_move": 2.097106176959582,
+      "alert_relative_volume": 3.465208515708027
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1112.800048828125,
+      "alert_pct_move": 1.3479097293374316,
+      "alert_relative_volume": 3.357286975682835
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4000.0,
+      "alert_pct_move": -2.3318276156757416,
+      "alert_relative_volume": 3.2387509969716315
+    }
+  ]
+}
