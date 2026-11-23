@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-23T09:21:11.287641+05:30",
+  "stocks": [
+    {
+      "ticker": "KALYANKJIL.NS",
+      "alert_price": 663.9500122070312,
+      "alert_pct_move": 3.9533426518575587,
+      "alert_relative_volume": 4.358946834103911
+    },
+    {
+      "ticker": "DIXON.NS",
+      "alert_price": 13343.0,
+      "alert_pct_move": 1.6996951219512195,
+      "alert_relative_volume": 3.439050165769272
+    },
+    {
+      "ticker": "PGEL.NS",
+      "alert_price": 597.5999755859375,
+      "alert_pct_move": 1.5117994214982882,
+      "alert_relative_volume": 3.0628145443769053
+    }
+  ]
+}
