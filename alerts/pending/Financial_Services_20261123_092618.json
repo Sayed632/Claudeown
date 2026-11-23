@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-23T09:26:18.782058+05:30",
+  "stocks": [
+    {
+      "ticker": "CANFINHOME.NS",
+      "alert_price": 786.3499755859375,
+      "alert_pct_move": 1.9975307263852455,
+      "alert_relative_volume": 49.30458939726574
+    },
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 243.3800048828125,
+      "alert_pct_move": -2.178455828964677,
+      "alert_relative_volume": 9.965240893604257
+    },
+    {
+      "ticker": "UCOBANK.NS",
+      "alert_price": 24.799999237060547,
+      "alert_pct_move": -2.4390276843924785,
+      "alert_relative_volume": 9.750278666215731
+    },
+    {
+      "ticker": "CENTRALBK.NS",
+      "alert_price": 33.810001373291016,
+      "alert_pct_move": -1.6293208495687348,
+      "alert_relative_volume": 9.173225426704562
+    },
+    {
+      "ticker": "FEDERALBNK.NS",
+      "alert_price": 365.25,
+      "alert_pct_move": -2.208835341365462,
+      "alert_relative_volume": 7.1760309300577525
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 993.2999877929688,
+      "alert_pct_move": 2.1913567688239453,
+      "alert_relative_volume": 5.98595590058567
+    },
+    {
+      "ticker": "AUBANK.NS",
+      "alert_price": 973.5499877929688,
+      "alert_pct_move": -1.1524049486998564,
+      "alert_relative_volume": 4.8455000915513455
+    },
+    {
+      "ticker": "IOB.NS",
+      "alert_price": 31.639999389648438,
+      "alert_pct_move": -1.0940931040134634,
+      "alert_relative_volume": 4.693315013222857
+    },
+    {
+      "ticker": "CANBK.NS",
+      "alert_price": 136.0,
+      "alert_pct_move": -2.101927877507027,
+      "alert_relative_volume": 4.624937620969139
+    },
+    {
+      "ticker": "RBLBANK.NS",
+      "alert_price": 392.8500061035156,
+      "alert_pct_move": -1.3683107849568792,
+      "alert_relative_volume": 4.602076730157873
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 147.00999450683594,
+      "alert_pct_move": -1.8166040862331028,
+      "alert_relative_volume": 4.041480642435995
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "alert_price": 1410.5,
+      "alert_pct_move": -2.455048409405256,
+      "alert_relative_volume": 4.009503646447811
+    }
+  ]
+}
