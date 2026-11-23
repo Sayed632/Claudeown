@@ -1,0 +1,12 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-23T09:26:03.474851+05:30",
+  "stocks": [
+    {
+      "ticker": "CHALET.NS",
+      "alert_price": 832.4000244140625,
+      "alert_pct_move": 1.019420438599818,
+      "alert_relative_volume": 7.843545209114786
+    }
+  ]
+}
