@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-23T09:20:58.916579+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 286.6000061035156,
+      "alert_pct_move": 1.8298076649917148,
+      "alert_relative_volume": 9.399414258817421
+    },
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1506.0,
+      "alert_pct_move": 3.5692198119423737,
+      "alert_relative_volume": 3.664646738210501
+    }
+  ]
+}
