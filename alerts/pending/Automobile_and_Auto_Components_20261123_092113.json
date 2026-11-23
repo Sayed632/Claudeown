@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-23T09:21:13.398228+05:30",
+  "stocks": [
+    {
+      "ticker": "TIINDIA.NS",
+      "alert_price": 2251.300048828125,
+      "alert_pct_move": 1.0321769732983592,
+      "alert_relative_volume": 5.579665534369596
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "alert_price": 14250.0,
+      "alert_pct_move": 1.705802583684248,
+      "alert_relative_volume": 4.155316613931483
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "alert_price": 8230.5,
+      "alert_pct_move": 1.4482928633058054,
+      "alert_relative_volume": 3.890176834397911
+    }
+  ]
+}
