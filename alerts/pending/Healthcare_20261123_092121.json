@@ -1,0 +1,36 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-23T09:21:21.029675+05:30",
+  "stocks": [
+    {
+      "ticker": "NH.NS",
+      "alert_price": 1981.300048828125,
+      "alert_pct_move": 1.9344599784334278,
+      "alert_relative_volume": 5.759051323924991
+    },
+    {
+      "ticker": "LALPATHLAB.NS",
+      "alert_price": 2046.699951171875,
+      "alert_pct_move": 2.028910826115404,
+      "alert_relative_volume": 5.2191283854085615
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "alert_price": 9370.0,
+      "alert_pct_move": 1.8478260869565217,
+      "alert_relative_volume": 5.005409984831117
+    },
+    {
+      "ticker": "SYNGENE.NS",
+      "alert_price": 456.8999938964844,
+      "alert_pct_move": 1.1512024682146291,
+      "alert_relative_volume": 4.548127606836701
+    },
+    {
+      "ticker": "ASTERDM.NS",
+      "alert_price": 792.75,
+      "alert_pct_move": 1.7259094594781927,
+      "alert_relative_volume": 3.1795692465870165
+    }
+  ]
+}
