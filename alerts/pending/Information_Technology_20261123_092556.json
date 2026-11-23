@@ -1,0 +1,72 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-23T09:25:56.944718+05:30",
+  "stocks": [
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 313.29998779296875,
+      "alert_pct_move": 3.348175523945503,
+      "alert_relative_volume": 7.187108907827694
+    },
+    {
+      "ticker": "LTTS.NS",
+      "alert_price": 4178.2998046875,
+      "alert_pct_move": 2.346596563074097,
+      "alert_relative_volume": 6.465995062799709
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 529.0,
+      "alert_pct_move": 1.9267822736030826,
+      "alert_relative_volume": 6.105900999785666
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 292.3500061035156,
+      "alert_pct_move": -1.432906241585416,
+      "alert_relative_volume": 4.559238415456132
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 563.5,
+      "alert_pct_move": 2.6411657559198543,
+      "alert_relative_volume": 4.254010010036446
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2119.199951171875,
+      "alert_pct_move": 1.5574831437432222,
+      "alert_relative_volume": 4.210089043709545
+    },
+    {
+      "ticker": "HEXT.NS",
+      "alert_price": 489.95001220703125,
+      "alert_pct_move": 1.2293413650891012,
+      "alert_relative_volume": 4.186775485074956
+    },
+    {
+      "ticker": "TATATECH.NS",
+      "alert_price": 715.9500122070312,
+      "alert_pct_move": -1.641710647921828,
+      "alert_relative_volume": 4.185874204293374
+    },
+    {
+      "ticker": "TECHM.NS",
+      "alert_price": 1772.199951171875,
+      "alert_pct_move": 1.4889474703370251,
+      "alert_relative_volume": 3.4775932902490467
+    },
+    {
+      "ticker": "SONATSOFTW.NS",
+      "alert_price": 234.0,
+      "alert_pct_move": 1.4876144194063043,
+      "alert_relative_volume": 3.39245495085826
+    },
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 418.04998779296875,
+      "alert_pct_move": 1.088139313947408,
+      "alert_relative_volume": 3.1715742393676214
+    }
+  ]
+}
