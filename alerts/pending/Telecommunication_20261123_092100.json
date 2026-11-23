@@ -1,0 +1,12 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-11-23T09:21:00.007129+05:30",
+  "stocks": [
+    {
+      "ticker": "ITI.NS",
+      "alert_price": 266.1000061035156,
+      "alert_pct_move": 8.293995108891195,
+      "alert_relative_volume": 9.336217110298307
+    }
+  ]
+}
