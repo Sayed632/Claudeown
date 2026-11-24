@@ -1,0 +1,12 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-24T09:16:17.408417+05:30",
+  "stocks": [
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 1670.0,
+      "alert_pct_move": -21.285825644292558,
+      "alert_relative_volume": 30.351595109810773
+    }
+  ]
+}
