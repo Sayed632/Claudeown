@@ -1,0 +1,12 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-24T09:26:02.209677+05:30",
+  "stocks": [
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 578.4500122070312,
+      "alert_pct_move": 5.364300948457423,
+      "alert_relative_volume": 3.4806606394156776
+    }
+  ]
+}
