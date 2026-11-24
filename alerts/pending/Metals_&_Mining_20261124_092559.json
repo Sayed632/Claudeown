@@ -1,0 +1,12 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-24T09:25:59.523762+05:30",
+  "stocks": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 163.0,
+      "alert_pct_move": -8.426966292134832,
+      "alert_relative_volume": 6.467247556592149
+    }
+  ]
+}
