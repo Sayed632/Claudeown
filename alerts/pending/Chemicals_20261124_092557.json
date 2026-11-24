@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-24T09:25:57.139053+05:30",
+  "stocks": [
+    {
+      "ticker": "LINDEINDIA.NS",
+      "alert_price": 6961.5,
+      "alert_pct_move": 5.92665855143031,
+      "alert_relative_volume": 4.0099110883054845
+    }
+  ]
+}
