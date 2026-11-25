@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-25T09:21:09.660736+05:30",
+  "stocks": [
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 2133.10009765625,
+      "alert_pct_move": -1.0162367676914152,
+      "alert_relative_volume": 5.291453501787345
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "alert_price": 1923.300048828125,
+      "alert_pct_move": -2.8243686197876032,
+      "alert_relative_volume": 4.620542330786836
+    }
+  ]
+}
