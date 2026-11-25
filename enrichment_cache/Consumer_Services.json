@@ -1,5 +1,14 @@
 {
-  "CHALET.NS": {
-    "date": "2026-11-24"
+  "DMART.NS": {
+    "date": "2026-11-25"
+  },
+  "EIHOTEL.NS": {
+    "date": "2026-11-25"
+  },
+  "VENTIVE.NS": {
+    "date": "2026-11-25"
+  },
+  "ITCHOTELS.NS": {
+    "date": "2026-11-25"
   }
 }
