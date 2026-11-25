@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-25T09:26:07.197123+05:30",
+  "stocks": [
+    {
+      "ticker": "COLPAL.NS",
+      "alert_price": 1795.4000244140625,
+      "alert_pct_move": 2.272858126691114,
+      "alert_relative_volume": 4.5892147629304025
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "alert_price": 1162.300048828125,
+      "alert_pct_move": 2.586059031608561,
+      "alert_relative_volume": 3.8639573444888398
+    },
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 549.8499755859375,
+      "alert_pct_move": 1.8712321604330708,
+      "alert_relative_volume": 3.6313970640482243
+    },
+    {
+      "ticker": "ITC.NS",
+      "alert_price": 304.6499938964844,
+      "alert_pct_move": 1.2126225569715532,
+      "alert_relative_volume": 3.567393062642537
+    }
+  ]
+}
