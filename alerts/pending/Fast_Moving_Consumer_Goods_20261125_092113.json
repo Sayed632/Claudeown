@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-25T09:21:13.773363+05:30",
+  "stocks": [
+    {
+      "ticker": "HONASA.NS",
+      "alert_price": 549.8499755859375,
+      "alert_pct_move": 1.8712321604330708,
+      "alert_relative_volume": 4.072544699906139
+    },
+    {
+      "ticker": "ITC.NS",
+      "alert_price": 304.1499938964844,
+      "alert_pct_move": 1.046509600160922,
+      "alert_relative_volume": 3.7545877073994456
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "alert_price": 1163.4000244140625,
+      "alert_pct_move": 2.6831442554335836,
+      "alert_relative_volume": 3.2689235625600968
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 405.29998779296875,
+      "alert_pct_move": 1.5789443090147244,
+      "alert_relative_volume": 3.2615651553855662
+    }
+  ]
+}
