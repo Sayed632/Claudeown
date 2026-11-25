@@ -1,5 +1,38 @@
 {
-  "CANFINHOME.NS": {
-    "date": "2026-11-24"
+  "LTF.NS": {
+    "date": "2026-11-25"
+  },
+  "POLICYBZR.NS": {
+    "date": "2026-11-25"
+  },
+  "MFSL.NS": {
+    "date": "2026-11-25"
+  },
+  "PNBHOUSING.NS": {
+    "date": "2026-11-25"
+  },
+  "SHRIRAMFIN.NS": {
+    "date": "2026-11-25"
+  },
+  "CHOLAFIN.NS": {
+    "date": "2026-11-25"
+  },
+  "UNIONBANK.NS": {
+    "date": "2026-11-25"
+  },
+  "BAJAJFINSV.NS": {
+    "date": "2026-11-25"
+  },
+  "CREDITACC.NS": {
+    "date": "2026-11-25"
+  },
+  "BANKINDIA.NS": {
+    "date": "2026-11-25"
+  },
+  "J&KBANK.NS": {
+    "date": "2026-11-25"
+  },
+  "HDFCBANK.NS": {
+    "date": "2026-11-25"
   }
 }

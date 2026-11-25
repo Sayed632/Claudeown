@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-25T09:21:35.377932+05:30",
+  "stocks": [
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 290.82000732421875,
+      "alert_pct_move": 6.138688804459398,
+      "alert_relative_volume": 21.271557691283988
+    },
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1139.0999755859375,
+      "alert_pct_move": 4.590946756113912,
+      "alert_relative_volume": 11.872362310322547
+    },
+    {
+      "ticker": "MFSL.NS",
+      "alert_price": 1516.5999755859375,
+      "alert_pct_move": 5.915214032246033,
+      "alert_relative_volume": 8.60180528461507
+    },
+    {
+      "ticker": "PNBHOUSING.NS",
+      "alert_price": 1217.5,
+      "alert_pct_move": 3.1604855423937326,
+      "alert_relative_volume": 7.475702383609741
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 1018.0,
+      "alert_pct_move": 2.2190957971850653,
+      "alert_relative_volume": 7.188995046258179
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "alert_price": 1872.4000244140625,
+      "alert_pct_move": 2.261060863684462,
+      "alert_relative_volume": 6.343276697299092
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 214.47999572753906,
+      "alert_pct_move": 3.0163299093890292,
+      "alert_relative_volume": 5.464347896430049
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "alert_price": 1901.9000244140625,
+      "alert_pct_move": 1.1595154040322224,
+      "alert_relative_volume": 5.361548536444214
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 1011.2000122070312,
+      "alert_pct_move": 2.785121442777307,
+      "alert_relative_volume": 4.842924130938802
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 163.35000610351562,
+      "alert_pct_move": 2.7293954761397767,
+      "alert_relative_volume": 4.606719364395982
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 149.8000030517578,
+      "alert_pct_move": 2.0922833869084307,
+      "alert_relative_volume": 4.550887932273635
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 844.5999755859375,
+      "alert_pct_move": 3.2770834180732877,
+      "alert_relative_volume": 4.516482393531025
+    }
+  ]
+}
