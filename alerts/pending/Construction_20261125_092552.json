@@ -1,0 +1,18 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-25T09:25:52.899897+05:30",
+  "stocks": [
+    {
+      "ticker": "KPIL.NS",
+      "alert_price": 1287.4000244140625,
+      "alert_pct_move": -1.919850041184549,
+      "alert_relative_volume": 3.8624327789621473
+    },
+    {
+      "ticker": "RVNL.NS",
+      "alert_price": 189.07000732421875,
+      "alert_pct_move": 2.144787190597355,
+      "alert_relative_volume": 3.08347114649806
+    }
+  ]
+}
