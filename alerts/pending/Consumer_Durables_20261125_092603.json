@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-25T09:26:03.486434+05:30",
+  "stocks": [
+    {
+      "ticker": "BLUESTARCO.NS",
+      "alert_price": 1829.9000244140625,
+      "alert_pct_move": 2.509666093823116,
+      "alert_relative_volume": 3.9981301885798244
+    },
+    {
+      "ticker": "CROMPTON.NS",
+      "alert_price": 223.27999877929688,
+      "alert_pct_move": 1.954337342144692,
+      "alert_relative_volume": 3.0817150824575075
+    }
+  ]
+}
