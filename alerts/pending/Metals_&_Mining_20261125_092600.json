@@ -1,0 +1,30 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-25T09:26:00.993393+05:30",
+  "stocks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "alert_price": 2716.10009765625,
+      "alert_pct_move": 1.4264982525697263,
+      "alert_relative_volume": 7.317395655674961
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 160.82000732421875,
+      "alert_pct_move": -1.3374188194976993,
+      "alert_relative_volume": 6.299918615351501
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 287.1000061035156,
+      "alert_pct_move": -3.8673993065515058,
+      "alert_relative_volume": 4.704833087148681
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 232.11000061035156,
+      "alert_pct_move": -1.4520435556703832,
+      "alert_relative_volume": 3.803531370390441
+    }
+  ]
+}
