@@ -1,0 +1,48 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-25T09:26:11.848238+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 198.64999389648438,
+      "alert_pct_move": 7.152486407298802,
+      "alert_relative_volume": 123.59947146451391
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 1419.9000244140625,
+      "alert_pct_move": -14.976046442271706,
+      "alert_relative_volume": 23.737266584490147
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 24775.0,
+      "alert_pct_move": 1.4329580348004094,
+      "alert_relative_volume": 7.689332118103393
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 346.75,
+      "alert_pct_move": -2.1861777150916786,
+      "alert_relative_volume": 5.346685365590172
+    },
+    {
+      "ticker": "SHYAMMETL.NS",
+      "alert_price": 1306.699951171875,
+      "alert_pct_move": 2.3899076294426487,
+      "alert_relative_volume": 3.7500555944642584
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 481.20001220703125,
+      "alert_pct_move": -1.5749604797670451,
+      "alert_relative_volume": 3.281300835992791
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 731.7000122070312,
+      "alert_pct_move": 1.9648881132668286,
+      "alert_relative_volume": 3.2461423911525547
+    }
+  ]
+}
