@@ -1,0 +1,42 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-25T09:21:21.397369+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 201.1199951171875,
+      "alert_pct_move": 8.48481351708628,
+      "alert_relative_volume": 115.01438519563767
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 24795.0,
+      "alert_pct_move": 1.5148413510747185,
+      "alert_relative_volume": 11.267725047160813
+    },
+    {
+      "ticker": "RHIM.NS",
+      "alert_price": 347.3999938964844,
+      "alert_pct_move": -2.002822596196227,
+      "alert_relative_volume": 7.297264148670115
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 483.8500061035156,
+      "alert_pct_move": -1.0329285858076718,
+      "alert_relative_volume": 4.036147406222043
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 728.4500122070312,
+      "alert_pct_move": 1.5119895471337546,
+      "alert_relative_volume": 3.5950578078896287
+    },
+    {
+      "ticker": "CGPOWER.NS",
+      "alert_price": 772.0499877929688,
+      "alert_pct_move": -2.3463177796357497,
+      "alert_relative_volume": 3.005294378656416
+    }
+  ]
+}
