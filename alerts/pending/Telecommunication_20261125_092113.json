@@ -1,0 +1,24 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-11-25T09:21:13.236882+05:30",
+  "stocks": [
+    {
+      "ticker": "ITI.NS",
+      "alert_price": 264.989990234375,
+      "alert_pct_move": -4.062127210386562,
+      "alert_relative_volume": 5.459865526568973
+    },
+    {
+      "ticker": "HFCL.NS",
+      "alert_price": 170.25999450683594,
+      "alert_pct_move": -4.669659189062883,
+      "alert_relative_volume": 5.398611277015691
+    },
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 248.17999267578125,
+      "alert_pct_move": 1.071060717302895,
+      "alert_relative_volume": 3.673868824956782
+    }
+  ]
+}
