@@ -1,0 +1,48 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-25T09:26:11.052225+05:30",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 226.5,
+      "alert_pct_move": -4.386001695478267,
+      "alert_relative_volume": 44.333373847482754
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 2042.5999755859375,
+      "alert_pct_move": 3.464695882170425,
+      "alert_relative_volume": 18.988934932637545
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 563.0,
+      "alert_pct_move": 2.2520931645277757,
+      "alert_relative_volume": 7.978490937225789
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 483.1499938964844,
+      "alert_pct_move": 1.7586365455334745,
+      "alert_relative_volume": 5.623174300478313
+    },
+    {
+      "ticker": "KIMS.NS",
+      "alert_price": 803.8499755859375,
+      "alert_pct_move": 1.2214255334225785,
+      "alert_relative_volume": 5.265928460046761
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2731.699951171875,
+      "alert_pct_move": 1.1291278154646802,
+      "alert_relative_volume": 3.429031311980603
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 2001.4000244140625,
+      "alert_pct_move": 1.3059348626724414,
+      "alert_relative_volume": 3.2774079456867145
+    }
+  ]
+}
