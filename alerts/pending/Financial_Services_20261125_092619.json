@@ -1,0 +1,78 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-25T09:26:19.426282+05:30",
+  "stocks": [
+    {
+      "ticker": "LTF.NS",
+      "alert_price": 292.0400085449219,
+      "alert_pct_move": 6.583944724424041,
+      "alert_relative_volume": 22.067887683746264
+    },
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1147.0999755859375,
+      "alert_pct_move": 5.3254982370921375,
+      "alert_relative_volume": 12.964680434600735
+    },
+    {
+      "ticker": "MFSL.NS",
+      "alert_price": 1531.4000244140625,
+      "alert_pct_move": 6.948809155912661,
+      "alert_relative_volume": 9.782577052633908
+    },
+    {
+      "ticker": "PNBHOUSING.NS",
+      "alert_price": 1205.9000244140625,
+      "alert_pct_move": 2.177603313461309,
+      "alert_relative_volume": 7.8073145957911
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 943.0,
+      "alert_pct_move": 1.5233918055643352,
+      "alert_relative_volume": 7.634036460617327
+    },
+    {
+      "ticker": "CHOLAFIN.NS",
+      "alert_price": 1879.5999755859375,
+      "alert_pct_move": 2.654285941340115,
+      "alert_relative_volume": 5.850382719968672
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 1021.25,
+      "alert_pct_move": 2.5454337749265696,
+      "alert_relative_volume": 5.68038878790908
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 149.4600067138672,
+      "alert_pct_move": 1.8605677542562225,
+      "alert_relative_volume": 5.460974519169628
+    },
+    {
+      "ticker": "CREDITACC.NS",
+      "alert_price": 1010.5,
+      "alert_pct_move": 2.713967527782691,
+      "alert_relative_volume": 4.986558175350445
+    },
+    {
+      "ticker": "MAHABANK.NS",
+      "alert_price": 99.08999633789062,
+      "alert_pct_move": 1.5682644706689028,
+      "alert_relative_volume": 4.7707567186412865
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 163.00999450683594,
+      "alert_pct_move": 2.5155651457041195,
+      "alert_relative_volume": 4.6572677062275325
+    },
+    {
+      "ticker": "UNIONBANK.NS",
+      "alert_price": 213.0399932861328,
+      "alert_pct_move": 2.3246860753287293,
+      "alert_relative_volume": 4.524843771834098
+    }
+  ]
+}
