@@ -1,0 +1,30 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-25T09:26:03.352429+05:30",
+  "stocks": [
+    {
+      "ticker": "DMART.NS",
+      "alert_price": 3476.199951171875,
+      "alert_pct_move": 2.079052412593223,
+      "alert_relative_volume": 7.484399443959818
+    },
+    {
+      "ticker": "VENTIVE.NS",
+      "alert_price": 549.7999877929688,
+      "alert_pct_move": 1.5046548530525015,
+      "alert_relative_volume": 4.302392215467937
+    },
+    {
+      "ticker": "ITCHOTELS.NS",
+      "alert_price": 188.14999389648438,
+      "alert_pct_move": 2.1887893146705157,
+      "alert_relative_volume": 4.08384601937672
+    },
+    {
+      "ticker": "EIHOTEL.NS",
+      "alert_price": 341.70001220703125,
+      "alert_pct_move": 2.4895076372208647,
+      "alert_relative_volume": 3.490276547527292
+    }
+  ]
+}
