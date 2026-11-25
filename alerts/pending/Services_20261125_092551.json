@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-25T09:25:51.788236+05:30",
+  "stocks": [
+    {
+      "ticker": "FSL.NS",
+      "alert_price": 294.5,
+      "alert_pct_move": 3.843439231981474,
+      "alert_relative_volume": 12.823677070948722
+    },
+    {
+      "ticker": "INDIGO.NS",
+      "alert_price": 5634.7998046875,
+      "alert_pct_move": 2.024258640005432,
+      "alert_relative_volume": 3.1107213987061813
+    }
+  ]
+}
