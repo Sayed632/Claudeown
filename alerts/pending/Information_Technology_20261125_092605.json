@@ -1,0 +1,66 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-25T09:26:05.940234+05:30",
+  "stocks": [
+    {
+      "ticker": "NEWGEN.NS",
+      "alert_price": 426.1499938964844,
+      "alert_pct_move": 3.6230988198138294,
+      "alert_relative_volume": 5.53756331715297
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 288.1499938964844,
+      "alert_pct_move": -1.081357373321664,
+      "alert_relative_volume": 5.311458295287648
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1142.199951171875,
+      "alert_pct_move": 3.516397126999919,
+      "alert_relative_volume": 5.278234111595507
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "alert_price": 545.3499755859375,
+      "alert_pct_move": 2.9739427352832775,
+      "alert_relative_volume": 4.623397363687228
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4096.0,
+      "alert_pct_move": 2.129354716608538,
+      "alert_relative_volume": 4.581563210153693
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2503.89990234375,
+      "alert_pct_move": 1.784548875762195,
+      "alert_relative_volume": 4.239770837847881
+    },
+    {
+      "ticker": "KPITTECH.NS",
+      "alert_price": 535.7999877929688,
+      "alert_pct_move": 1.9600357360549479,
+      "alert_relative_volume": 4.01670359039
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 589.0499877929688,
+      "alert_pct_move": 1.8324791014342128,
+      "alert_relative_volume": 4.010960671572279
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2112.10009765625,
+      "alert_pct_move": -1.4096975439269066,
+      "alert_relative_volume": 3.5727532103142803
+    },
+    {
+      "ticker": "BSOFT.NS",
+      "alert_price": 308.79998779296875,
+      "alert_pct_move": 1.3455777557211694,
+      "alert_relative_volume": 3.0098055426684405
+    }
+  ]
+}
