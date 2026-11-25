@@ -1,0 +1,18 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-25T09:21:09.016593+05:30",
+  "stocks": [
+    {
+      "ticker": "TORNTPOWER.NS",
+      "alert_price": 1212.199951171875,
+      "alert_pct_move": 1.1515292453836308,
+      "alert_relative_volume": 7.075749294934201
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "alert_price": 1413.0,
+      "alert_pct_move": 1.5815959741193386,
+      "alert_relative_volume": 3.0401162569224924
+    }
+  ]
+}
