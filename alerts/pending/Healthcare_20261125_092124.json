@@ -1,0 +1,54 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-25T09:21:24.721533+05:30",
+  "stocks": [
+    {
+      "ticker": "PPLPHARMA.NS",
+      "alert_price": 226.91000366210938,
+      "alert_pct_move": -4.212924037845713,
+      "alert_relative_volume": 51.32215527361604
+    },
+    {
+      "ticker": "NH.NS",
+      "alert_price": 2045.699951171875,
+      "alert_pct_move": 3.621720280033335,
+      "alert_relative_volume": 17.0482888034479
+    },
+    {
+      "ticker": "MAXHEALTH.NS",
+      "alert_price": 1074.5999755859375,
+      "alert_pct_move": -1.3721327678583632,
+      "alert_relative_volume": 10.954675488574964
+    },
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 572.5499877929688,
+      "alert_pct_move": 3.9865625100459705,
+      "alert_relative_volume": 7.733405559302304
+    },
+    {
+      "ticker": "AKUMS.NS",
+      "alert_price": 734.5999755859375,
+      "alert_pct_move": 1.787441202814569,
+      "alert_relative_volume": 6.861873981678763
+    },
+    {
+      "ticker": "LUPIN.NS",
+      "alert_price": 1999.0,
+      "alert_pct_move": 1.1844515439985441,
+      "alert_relative_volume": 4.162282141632217
+    },
+    {
+      "ticker": "COHANCE.NS",
+      "alert_price": 482.0,
+      "alert_pct_move": 1.5164305796424609,
+      "alert_relative_volume": 3.886187998970864
+    },
+    {
+      "ticker": "GLAXO.NS",
+      "alert_price": 2733.39990234375,
+      "alert_pct_move": 1.1920610008120847,
+      "alert_relative_volume": 3.545051168400999
+    }
+  ]
+}

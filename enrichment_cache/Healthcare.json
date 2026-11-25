@@ -1,20 +1,26 @@
 {
+  "PPLPHARMA.NS": {
+    "date": "2026-11-25"
+  },
   "NH.NS": {
-    "date": "2026-11-23"
+    "date": "2026-11-25"
   },
-  "LALPATHLAB.NS": {
-    "date": "2026-11-23"
+  "MAXHEALTH.NS": {
+    "date": "2026-11-25"
   },
-  "APOLLOHOSP.NS": {
-    "date": "2026-11-23"
+  "AGARWALEYE.NS": {
+    "date": "2026-11-25"
   },
-  "SYNGENE.NS": {
-    "date": "2026-11-23"
+  "AKUMS.NS": {
+    "date": "2026-11-25"
   },
-  "ASTERDM.NS": {
-    "date": "2026-11-23"
+  "LUPIN.NS": {
+    "date": "2026-11-25"
   },
-  "MEDANTA.NS": {
-    "date": "2026-11-23"
+  "COHANCE.NS": {
+    "date": "2026-11-25"
+  },
+  "GLAXO.NS": {
+    "date": "2026-11-25"
   }
 }
