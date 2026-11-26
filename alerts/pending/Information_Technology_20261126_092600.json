@@ -1,0 +1,36 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-26T09:26:00.289067+05:30",
+  "stocks": [
+    {
+      "ticker": "WIPRO.NS",
+      "alert_price": 194.5800018310547,
+      "alert_pct_move": 2.9251513832469396,
+      "alert_relative_volume": 10.056663121464403
+    },
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 284.5,
+      "alert_pct_move": -1.437725267360527,
+      "alert_relative_volume": 7.84639687433179
+    },
+    {
+      "ticker": "TCS.NS",
+      "alert_price": 2557.10009765625,
+      "alert_pct_move": 1.5810609802614932,
+      "alert_relative_volume": 4.711767151435548
+    },
+    {
+      "ticker": "INFY.NS",
+      "alert_price": 1155.800048828125,
+      "alert_pct_move": 2.283190161780974,
+      "alert_relative_volume": 4.699767214673913
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2091.300048828125,
+      "alert_pct_move": 1.5194198460254853,
+      "alert_relative_volume": 3.4530039740833356
+    }
+  ]
+}
