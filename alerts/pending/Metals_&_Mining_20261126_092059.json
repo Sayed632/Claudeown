@@ -1,0 +1,36 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-26T09:20:59.125867+05:30",
+  "stocks": [
+    {
+      "ticker": "SARDAEN.NS",
+      "alert_price": 477.3999938964844,
+      "alert_pct_move": 4.750410070539632,
+      "alert_relative_volume": 8.195864605228218
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 413.1499938964844,
+      "alert_pct_move": 3.5723239453590754,
+      "alert_relative_volume": 6.156479397475588
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 293.95001220703125,
+      "alert_pct_move": 2.136909199067295,
+      "alert_relative_volume": 4.225701319980807
+    },
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1589.199951171875,
+      "alert_pct_move": -1.0460802508172478,
+      "alert_relative_volume": 4.104626906710409
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 161.19000244140625,
+      "alert_pct_move": 1.1864402720911198,
+      "alert_relative_volume": 3.2193342324196723
+    }
+  ]
+}
