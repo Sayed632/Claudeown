@@ -1,0 +1,12 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-26T09:21:02.696130+05:30",
+  "stocks": [
+    {
+      "ticker": "CESC.NS",
+      "alert_price": 127.69999694824219,
+      "alert_pct_move": 1.4458212063353066,
+      "alert_relative_volume": 6.330656711704152
+    }
+  ]
+}
