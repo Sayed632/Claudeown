@@ -1,8 +1,11 @@
 {
-  "HYUNDAI.NS": {
-    "date": "2026-11-25"
+  "SCHAEFFLER.NS": {
+    "date": "2026-11-26"
   },
-  "ATHERENERG.NS": {
-    "date": "2026-11-25"
+  "FORCEMOT.NS": {
+    "date": "2026-11-26"
+  },
+  "MOTHERSON.NS": {
+    "date": "2026-11-26"
   }
 }

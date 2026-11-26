@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-26T09:21:10.727909+05:30",
+  "stocks": [
+    {
+      "ticker": "SCHAEFFLER.NS",
+      "alert_price": 3747.5,
+      "alert_pct_move": 3.8692896542269235,
+      "alert_relative_volume": 18.470233589124952
+    },
+    {
+      "ticker": "FORCEMOT.NS",
+      "alert_price": 20667.0,
+      "alert_pct_move": 1.3485680659081993,
+      "alert_relative_volume": 3.310507451564275
+    },
+    {
+      "ticker": "MOTHERSON.NS",
+      "alert_price": 167.97999572753906,
+      "alert_pct_move": 1.0345250075371593,
+      "alert_relative_volume": 3.0172982141655695
+    }
+  ]
+}
