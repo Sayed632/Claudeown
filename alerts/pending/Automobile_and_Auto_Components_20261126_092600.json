@@ -1,0 +1,18 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-26T09:26:00.331247+05:30",
+  "stocks": [
+    {
+      "ticker": "SCHAEFFLER.NS",
+      "alert_price": 3710.60009765625,
+      "alert_pct_move": 2.846536713665041,
+      "alert_relative_volume": 16.711067942802625
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3521.0,
+      "alert_pct_move": -1.6315556779646336,
+      "alert_relative_volume": 3.0971272500652374
+    }
+  ]
+}
