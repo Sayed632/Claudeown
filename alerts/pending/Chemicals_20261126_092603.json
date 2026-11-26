@@ -1,0 +1,18 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-26T09:26:03.736730+05:30",
+  "stocks": [
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 103.76000213623047,
+      "alert_pct_move": 1.1601856731469784,
+      "alert_relative_volume": 5.838559968609396
+    },
+    {
+      "ticker": "JUBLINGREA.NS",
+      "alert_price": 566.7999877929688,
+      "alert_pct_move": 2.625384812689036,
+      "alert_relative_volume": 4.915134306672009
+    }
+  ]
+}
