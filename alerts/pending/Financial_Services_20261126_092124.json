@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-26T09:21:24.723778+05:30",
+  "stocks": [
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 157.19000244140625,
+      "alert_pct_move": 7.1287446455667,
+      "alert_relative_volume": 7.129282546008589
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3876.10009765625,
+      "alert_pct_move": 2.672709996540824,
+      "alert_relative_volume": 5.7110534441044685
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 980.4000244140625,
+      "alert_pct_move": 5.549878902199053,
+      "alert_relative_volume": 4.593264617112519
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "alert_price": 1433.800048828125,
+      "alert_pct_move": 1.107120337950818,
+      "alert_relative_volume": 4.273018732728168
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "alert_price": 854.75,
+      "alert_pct_move": 1.0103979756120482,
+      "alert_relative_volume": 4.257801351353047
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 163.5800018310547,
+      "alert_pct_move": 2.307838173426841,
+      "alert_relative_volume": 3.3693124956696137
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 977.5,
+      "alert_pct_move": -1.25764049229867,
+      "alert_relative_volume": 3.3021420548009357
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2597.89990234375,
+      "alert_pct_move": 1.894407077090253,
+      "alert_relative_volume": 3.1874539420090646
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 82.06999969482422,
+      "alert_pct_move": 1.2584782290693382,
+      "alert_relative_volume": 3.162763405086233
+    }
+  ]
+}
