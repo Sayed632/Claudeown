@@ -1,0 +1,18 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-26T09:25:58.202993+05:30",
+  "stocks": [
+    {
+      "ticker": "TORNTPHARM.NS",
+      "alert_price": 4963.0,
+      "alert_pct_move": 1.3788172811765909,
+      "alert_relative_volume": 5.7031185263658735
+    },
+    {
+      "ticker": "LAURUSLABS.NS",
+      "alert_price": 2486.699951171875,
+      "alert_pct_move": 1.0853638687754064,
+      "alert_relative_volume": 4.216312550135286
+    }
+  ]
+}
