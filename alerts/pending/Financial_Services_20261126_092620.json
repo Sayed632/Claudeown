@@ -1,0 +1,60 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-26T09:26:20.078029+05:30",
+  "stocks": [
+    {
+      "ticker": "NIACL.NS",
+      "alert_price": 145.89999389648438,
+      "alert_pct_move": -2.3165551015854695,
+      "alert_relative_volume": 8.60152922527606
+    },
+    {
+      "ticker": "BSE.NS",
+      "alert_price": 3885.0,
+      "alert_pct_move": 2.9084565121919312,
+      "alert_relative_volume": 6.060544476473726
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 155.94000244140625,
+      "alert_pct_move": 6.276839761495751,
+      "alert_relative_volume": 5.650936103644792
+    },
+    {
+      "ticker": "ABSLAMC.NS",
+      "alert_price": 977.5,
+      "alert_pct_move": 5.2376622374752255,
+      "alert_relative_volume": 4.0463777033749615
+    },
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 972.25,
+      "alert_pct_move": -1.7879703003962983,
+      "alert_relative_volume": 3.661090189583293
+    },
+    {
+      "ticker": "BANKINDIA.NS",
+      "alert_price": 162.4199981689453,
+      "alert_pct_move": 1.5823370998528326,
+      "alert_relative_volume": 3.5116904342698176
+    },
+    {
+      "ticker": "CANFINHOME.NS",
+      "alert_price": 778.8499755859375,
+      "alert_pct_move": 1.070594375989564,
+      "alert_relative_volume": 3.457841498820113
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 273.3500061035156,
+      "alert_pct_move": 2.1869181695385516,
+      "alert_relative_volume": 3.4357721324796135
+    },
+    {
+      "ticker": "IRFC.NS",
+      "alert_price": 82.0999984741211,
+      "alert_pct_move": 1.2954909103368737,
+      "alert_relative_volume": 3.147681649884695
+    }
+  ]
+}
