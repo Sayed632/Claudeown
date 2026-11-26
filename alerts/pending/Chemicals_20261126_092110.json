@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-26T09:21:10.035225+05:30",
+  "stocks": [
+    {
+      "ticker": "RCF.NS",
+      "alert_price": 104.04000091552734,
+      "alert_pct_move": 1.4331687872446222,
+      "alert_relative_volume": 8.437088898527385
+    }
+  ]
+}
