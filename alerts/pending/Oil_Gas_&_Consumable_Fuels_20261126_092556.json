@@ -1,0 +1,12 @@
+{
+  "sector": "Oil Gas & Consumable Fuels",
+  "alert_time": "2026-11-26T09:25:56.087422+05:30",
+  "stocks": [
+    {
+      "ticker": "MRPL.NS",
+      "alert_price": 168.10000610351562,
+      "alert_pct_move": 2.0767631648293974,
+      "alert_relative_volume": 3.784243842419992
+    }
+  ]
+}
