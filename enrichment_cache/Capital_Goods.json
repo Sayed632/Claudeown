@@ -1,26 +1,29 @@
 {
   "JWL.NS": {
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   },
-  "PTCIL.NS": {
-    "date": "2026-11-25"
+  "KSB.NS": {
+    "date": "2026-11-26"
   },
-  "RHIM.NS": {
-    "date": "2026-11-25"
-  },
-  "MAHSEAMLES.NS": {
-    "date": "2026-11-25"
+  "ENRIN.NS": {
+    "date": "2026-11-26"
   },
   "TITAGARH.NS": {
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   },
-  "CGPOWER.NS": {
-    "date": "2026-11-25"
+  "SIEMENS.NS": {
+    "date": "2026-11-26"
+  },
+  "ACE.NS": {
+    "date": "2026-11-26"
+  },
+  "MAHSEAMLES.NS": {
+    "date": "2026-11-26"
+  },
+  "KEI.NS": {
+    "date": "2026-11-26"
   },
   "APLAPOLLO.NS": {
-    "date": "2026-11-25"
-  },
-  "SHYAMMETL.NS": {
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   }
 }

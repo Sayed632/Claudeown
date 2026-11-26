@@ -1,0 +1,60 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-26T09:21:11.257760+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 231.9199981689453,
+      "alert_pct_move": 25.09844054829581,
+      "alert_relative_volume": 249.73621253323478
+    },
+    {
+      "ticker": "KSB.NS",
+      "alert_price": 656.5999755859375,
+      "alert_pct_move": 1.7353502863658967,
+      "alert_relative_volume": 73.53023543376122
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3146.800048828125,
+      "alert_pct_move": 5.721486606017974,
+      "alert_relative_volume": 32.05664354453306
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 764.8499755859375,
+      "alert_pct_move": 6.584448384550076,
+      "alert_relative_volume": 14.333799121564274
+    },
+    {
+      "ticker": "SIEMENS.NS",
+      "alert_price": 3662.199951171875,
+      "alert_pct_move": 2.3504052771109625,
+      "alert_relative_volume": 6.697223905934197
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1204.199951171875,
+      "alert_pct_move": 1.1635213063384986,
+      "alert_relative_volume": 6.1852942806236415
+    },
+    {
+      "ticker": "MAHSEAMLES.NS",
+      "alert_price": 455.0,
+      "alert_pct_move": -1.162160537109368,
+      "alert_relative_volume": 5.881809244523614
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 3776.0,
+      "alert_pct_move": 3.3953997809419496,
+      "alert_relative_volume": 5.787044950112404
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 1461.0999755859375,
+      "alert_pct_move": -1.0094867489202237,
+      "alert_relative_volume": 5.737685405672561
+    }
+  ]
+}
