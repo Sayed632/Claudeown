@@ -1,0 +1,30 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-26T09:25:55.784519+05:30",
+  "stocks": [
+    {
+      "ticker": "TRIVENI.NS",
+      "alert_price": 232.64999389648438,
+      "alert_pct_move": 1.54510640159846,
+      "alert_relative_volume": 11.492435182194976
+    },
+    {
+      "ticker": "BALRAMCHIN.NS",
+      "alert_price": 634.3499755859375,
+      "alert_pct_move": 3.6858431256784523,
+      "alert_relative_volume": 10.713621991617849
+    },
+    {
+      "ticker": "RADICO.NS",
+      "alert_price": 4715.0,
+      "alert_pct_move": 1.6930874582120135,
+      "alert_relative_volume": 4.150339322367966
+    },
+    {
+      "ticker": "DABUR.NS",
+      "alert_price": 417.79998779296875,
+      "alert_pct_move": -2.837212141170058,
+      "alert_relative_volume": 3.2547690955118047
+    }
+  ]
+}
