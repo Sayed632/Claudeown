@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-26T09:21:06.449965+05:30",
+  "stocks": [
+    {
+      "ticker": "VMM.NS",
+      "alert_price": 95.69999694824219,
+      "alert_pct_move": 1.2698380404679233,
+      "alert_relative_volume": 3.740402657725715
+    },
+    {
+      "ticker": "ABFRL.NS",
+      "alert_price": 39.040000915527344,
+      "alert_pct_move": -2.106319283074156,
+      "alert_relative_volume": 3.6000006348949634
+    },
+    {
+      "ticker": "DEVYANI.NS",
+      "alert_price": 123.19999694824219,
+      "alert_pct_move": -1.8873956775837426,
+      "alert_relative_volume": 3.210865602950309
+    }
+  ]
+}
