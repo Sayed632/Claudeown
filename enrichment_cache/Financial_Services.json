@@ -1,38 +1,23 @@
 {
-  "J&KBANK.NS": {
-    "date": "2026-11-26"
-  },
-  "BSE.NS": {
-    "date": "2026-11-26"
-  },
-  "ABSLAMC.NS": {
-    "date": "2026-11-26"
-  },
-  "AXISBANK.NS": {
-    "date": "2026-11-26"
-  },
-  "HDFCBANK.NS": {
-    "date": "2026-11-26"
-  },
-  "BANKINDIA.NS": {
-    "date": "2026-11-26"
-  },
   "SHRIRAMFIN.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  "CHOICEIN.NS": {
+    "date": "2026-11-27"
   },
   "MUTHOOTFIN.NS": {
-    "date": "2026-11-26"
-  },
-  "IRFC.NS": {
-    "date": "2026-11-26"
-  },
-  "NIACL.NS": {
-    "date": "2026-11-26"
-  },
-  "CANFINHOME.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   "MANAPPURAM.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  "ANANDRATHI.NS": {
+    "date": "2026-11-27"
+  },
+  "KFINTECH.NS": {
+    "date": "2026-11-27"
+  },
+  "CUB.NS": {
+    "date": "2026-11-27"
   }
 }

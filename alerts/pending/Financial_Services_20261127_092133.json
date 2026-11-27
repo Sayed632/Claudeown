@@ -1,0 +1,48 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-27T09:21:33.490538+05:30",
+  "stocks": [
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 943.7000122070312,
+      "alert_pct_move": -1.8869848562245581,
+      "alert_relative_volume": 8.728424349350865
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 771.5,
+      "alert_pct_move": 3.1003624997318546,
+      "alert_relative_volume": 7.280471936882702
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2641.60009765625,
+      "alert_pct_move": 3.608409024010161,
+      "alert_relative_volume": 6.139425777528312
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 275.5,
+      "alert_pct_move": 2.037037037037037,
+      "alert_relative_volume": 5.2954665466016575
+    },
+    {
+      "ticker": "ANANDRATHI.NS",
+      "alert_price": 2441.10009765625,
+      "alert_pct_move": 2.567230993960084,
+      "alert_relative_volume": 4.814775715218677
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 981.9500122070312,
+      "alert_pct_move": 5.133834283408057,
+      "alert_relative_volume": 3.6020577541822654
+    },
+    {
+      "ticker": "CUB.NS",
+      "alert_price": 235.1999969482422,
+      "alert_pct_move": -1.58995943588193,
+      "alert_relative_volume": 3.357913139276727
+    }
+  ]
+}
