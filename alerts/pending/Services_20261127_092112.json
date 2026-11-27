@@ -1,0 +1,18 @@
+{
+  "sector": "Services",
+  "alert_time": "2026-11-27T09:21:12.909438+05:30",
+  "stocks": [
+    {
+      "ticker": "IGIL.NS",
+      "alert_price": 444.3999938964844,
+      "alert_pct_move": 5.009447324656977,
+      "alert_relative_volume": 19.69472690042482
+    },
+    {
+      "ticker": "ECLERX.NS",
+      "alert_price": 1516.5,
+      "alert_pct_move": 3.4588586084717696,
+      "alert_relative_volume": 3.0967946004758415
+    }
+  ]
+}
