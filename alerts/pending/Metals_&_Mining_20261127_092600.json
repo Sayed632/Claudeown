@@ -1,0 +1,48 @@
+{
+  "sector": "Metals & Mining",
+  "alert_time": "2026-11-27T09:26:00.012912+05:30",
+  "stocks": [
+    {
+      "ticker": "HINDZINC.NS",
+      "alert_price": 545.2000122070312,
+      "alert_pct_move": 3.5320997879648313,
+      "alert_relative_volume": 7.819532002093047
+    },
+    {
+      "ticker": "GMDCLTD.NS",
+      "alert_price": 476.6000061035156,
+      "alert_pct_move": 4.609306347381533,
+      "alert_relative_volume": 7.670605838174578
+    },
+    {
+      "ticker": "LLOYDSME.NS",
+      "alert_price": 1573.0,
+      "alert_pct_move": 1.9971501623198014,
+      "alert_relative_volume": 6.160127772482547
+    },
+    {
+      "ticker": "VEDL.NS",
+      "alert_price": 244.47999572753906,
+      "alert_pct_move": 2.7226872804785978,
+      "alert_relative_volume": 5.860315532942459
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "alert_price": 301.54998779296875,
+      "alert_pct_move": 2.2376590312886124,
+      "alert_relative_volume": 5.1238038050741235
+    },
+    {
+      "ticker": "HINDCOPPER.NS",
+      "alert_price": 421.3500061035156,
+      "alert_pct_move": 2.480849412246207,
+      "alert_relative_volume": 3.5648487020592934
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "alert_price": 165.60000610351562,
+      "alert_pct_move": 1.2596385605682234,
+      "alert_relative_volume": 3.078796928777257
+    }
+  ]
+}
