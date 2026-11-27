@@ -1,0 +1,12 @@
+{
+  "sector": "Construction",
+  "alert_time": "2026-11-27T09:25:51.585778+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCON.NS",
+      "alert_price": 111.83999633789062,
+      "alert_pct_move": 4.1728723007357225,
+      "alert_relative_volume": 3.954062408468906
+    }
+  ]
+}
