@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-27T09:21:21.425679+05:30",
+  "stocks": [
+    {
+      "ticker": "ZYDUSLIFE.NS",
+      "alert_price": 1181.0,
+      "alert_pct_move": -1.1053384451173203,
+      "alert_relative_volume": 6.263088727995656
+    }
+  ]
+}
