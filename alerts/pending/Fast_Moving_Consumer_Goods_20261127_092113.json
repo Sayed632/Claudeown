@@ -1,0 +1,12 @@
+{
+  "sector": "Fast Moving Consumer Goods",
+  "alert_time": "2026-11-27T09:21:13.608379+05:30",
+  "stocks": [
+    {
+      "ticker": "AWL.NS",
+      "alert_price": 168.61000061035156,
+      "alert_pct_move": 1.8914702463287574,
+      "alert_relative_volume": 5.4758137220794465
+    }
+  ]
+}
