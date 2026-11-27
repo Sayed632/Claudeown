@@ -1,0 +1,66 @@
+{
+  "sector": "Capital Goods",
+  "alert_time": "2026-11-27T09:26:15.050551+05:30",
+  "stocks": [
+    {
+      "ticker": "JWL.NS",
+      "alert_price": 229.9199981689453,
+      "alert_pct_move": -3.6742235463396935,
+      "alert_relative_volume": 13.245717372609455
+    },
+    {
+      "ticker": "ACE.NS",
+      "alert_price": 1306.5,
+      "alert_pct_move": 9.75763656036443,
+      "alert_relative_volume": 12.431861048153296
+    },
+    {
+      "ticker": "APLAPOLLO.NS",
+      "alert_price": 1528.5,
+      "alert_pct_move": 3.172460344245697,
+      "alert_relative_volume": 8.010442274060148
+    },
+    {
+      "ticker": "KEI.NS",
+      "alert_price": 3758.10009765625,
+      "alert_pct_move": 3.074604982343664,
+      "alert_relative_volume": 6.354824531717231
+    },
+    {
+      "ticker": "PTCIL.NS",
+      "alert_price": 24985.0,
+      "alert_pct_move": 2.4815422477440525,
+      "alert_relative_volume": 6.189564671464816
+    },
+    {
+      "ticker": "PRAJIND.NS",
+      "alert_price": 228.8300018310547,
+      "alert_pct_move": 1.5307466827130611,
+      "alert_relative_volume": 5.143500850323904
+    },
+    {
+      "ticker": "ESCORTS.NS",
+      "alert_price": 2518.5,
+      "alert_pct_move": 2.4238521299480698,
+      "alert_relative_volume": 4.651973459031646
+    },
+    {
+      "ticker": "TITAGARH.NS",
+      "alert_price": 758.7999877929688,
+      "alert_pct_move": 1.4709815698800721,
+      "alert_relative_volume": 4.051187872437276
+    },
+    {
+      "ticker": "ENRIN.NS",
+      "alert_price": 3023.89990234375,
+      "alert_pct_move": -1.1151111071370177,
+      "alert_relative_volume": 3.3371187589810196
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "alert_price": 7490.0,
+      "alert_pct_move": 1.9047619047619049,
+      "alert_relative_volume": 3.0724036523866056
+    }
+  ]
+}
