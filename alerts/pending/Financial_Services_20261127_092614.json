@@ -1,0 +1,66 @@
+{
+  "sector": "Financial Services",
+  "alert_time": "2026-11-27T09:26:14.330681+05:30",
+  "stocks": [
+    {
+      "ticker": "SHRIRAMFIN.NS",
+      "alert_price": 931.9000244140625,
+      "alert_pct_move": -3.113786134228486,
+      "alert_relative_volume": 12.927811389321986
+    },
+    {
+      "ticker": "CHOICEIN.NS",
+      "alert_price": 772.4000244140625,
+      "alert_pct_move": 3.2206383822314693,
+      "alert_relative_volume": 6.914421783904262
+    },
+    {
+      "ticker": "ANANDRATHI.NS",
+      "alert_price": 2436.0,
+      "alert_pct_move": 2.3529411764705883,
+      "alert_relative_volume": 6.723123173622895
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "alert_price": 2635.199951171875,
+      "alert_pct_move": 3.3573835204318385,
+      "alert_relative_volume": 6.297188955675116
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "alert_price": 364.79998779296875,
+      "alert_pct_move": 1.8994379309968574,
+      "alert_relative_volume": 5.368042003996823
+    },
+    {
+      "ticker": "MANAPPURAM.NS",
+      "alert_price": 275.6000061035156,
+      "alert_pct_move": 2.0740763346354165,
+      "alert_relative_volume": 4.265307632418211
+    },
+    {
+      "ticker": "J&KBANK.NS",
+      "alert_price": 164.5800018310547,
+      "alert_pct_move": 1.0809448640616455,
+      "alert_relative_volume": 4.112082685556018
+    },
+    {
+      "ticker": "KFINTECH.NS",
+      "alert_price": 978.0,
+      "alert_pct_move": 4.710920770877944,
+      "alert_relative_volume": 3.606211246358393
+    },
+    {
+      "ticker": "IDFCFIRSTB.NS",
+      "alert_price": 88.11000061035156,
+      "alert_pct_move": 1.6145791035184172,
+      "alert_relative_volume": 3.3701854355925236
+    },
+    {
+      "ticker": "POLICYBZR.NS",
+      "alert_price": 1196.0,
+      "alert_pct_move": 2.2222222222222223,
+      "alert_relative_volume": 3.2619626140449496
+    }
+  ]
+}
