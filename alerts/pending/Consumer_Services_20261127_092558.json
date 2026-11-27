@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-27T09:25:58.226158+05:30",
+  "stocks": [
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 465.04998779296875,
+      "alert_pct_move": 2.38881006039954,
+      "alert_relative_volume": 5.994692499928914
+    },
+    {
+      "ticker": "TBOTEK.NS",
+      "alert_price": 1483.0999755859375,
+      "alert_pct_move": -4.105780486382246,
+      "alert_relative_volume": 4.321100216372175
+    },
+    {
+      "ticker": "DBREALTY.NS",
+      "alert_price": 85.79000091552734,
+      "alert_pct_move": 3.5860918034858837,
+      "alert_relative_volume": 3.653647765549074
+    }
+  ]
+}
