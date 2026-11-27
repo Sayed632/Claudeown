@@ -1,0 +1,30 @@
+{
+  "sector": "Information Technology",
+  "alert_time": "2026-11-27T09:25:57.058798+05:30",
+  "stocks": [
+    {
+      "ticker": "HAPPSTMNDS.NS",
+      "alert_price": 274.79998779296875,
+      "alert_pct_move": -3.562036841285682,
+      "alert_relative_volume": 21.962777094425416
+    },
+    {
+      "ticker": "INTELLECT.NS",
+      "alert_price": 592.75,
+      "alert_pct_move": 2.622926775350672,
+      "alert_relative_volume": 10.9140577421089
+    },
+    {
+      "ticker": "COFORGE.NS",
+      "alert_price": 2056.89990234375,
+      "alert_pct_move": 2.8449951171875,
+      "alert_relative_volume": 4.136156429705926
+    },
+    {
+      "ticker": "NETWEB.NS",
+      "alert_price": 4141.60009765625,
+      "alert_pct_move": 2.085287100228001,
+      "alert_relative_volume": 3.817868748230239
+    }
+  ]
+}
