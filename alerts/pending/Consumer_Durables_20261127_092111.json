@@ -1,0 +1,24 @@
+{
+  "sector": "Consumer Durables",
+  "alert_time": "2026-11-27T09:21:11.812126+05:30",
+  "stocks": [
+    {
+      "ticker": "KAJARIACER.NS",
+      "alert_price": 1240.4000244140625,
+      "alert_pct_move": 2.8524066678327116,
+      "alert_relative_volume": 12.748646256366444
+    },
+    {
+      "ticker": "TITAN.NS",
+      "alert_price": 4782.7001953125,
+      "alert_pct_move": 3.2735223696195463,
+      "alert_relative_volume": 5.540104342334713
+    },
+    {
+      "ticker": "VOLTAS.NS",
+      "alert_price": 1187.5,
+      "alert_pct_move": -3.643299539482723,
+      "alert_relative_volume": 4.509238595781561
+    }
+  ]
+}
