@@ -1,0 +1,18 @@
+{
+  "sector": "Consumer Services",
+  "alert_time": "2026-11-27T09:21:06.871333+05:30",
+  "stocks": [
+    {
+      "ticker": "TBOTEK.NS",
+      "alert_price": 1480.0,
+      "alert_pct_move": -4.306218585106712,
+      "alert_relative_volume": 5.428408217166737
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "alert_price": 461.8500061035156,
+      "alert_pct_move": 1.6842786637789413,
+      "alert_relative_volume": 3.8502089466011324
+    }
+  ]
+}
