@@ -1,32 +1,29 @@
 {
   "JWL.NS": {
-    "date": "2026-11-26"
-  },
-  "KSB.NS": {
-    "date": "2026-11-26"
-  },
-  "ENRIN.NS": {
-    "date": "2026-11-26"
-  },
-  "TITAGARH.NS": {
-    "date": "2026-11-26"
-  },
-  "SIEMENS.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   "ACE.NS": {
-    "date": "2026-11-26"
-  },
-  "MAHSEAMLES.NS": {
-    "date": "2026-11-26"
-  },
-  "KEI.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   "APLAPOLLO.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  "PTCIL.NS": {
+    "date": "2026-11-27"
+  },
+  "KEI.NS": {
+    "date": "2026-11-27"
+  },
+  "PRAJIND.NS": {
+    "date": "2026-11-27"
+  },
+  "TITAGARH.NS": {
+    "date": "2026-11-27"
   },
   "POLYCAB.NS": {
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  "ENRIN.NS": {
+    "date": "2026-11-27"
   }
 }
