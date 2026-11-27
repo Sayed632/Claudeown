@@ -1,0 +1,12 @@
+{
+  "sector": "Chemicals",
+  "alert_time": "2026-11-27T09:26:01.214766+05:30",
+  "stocks": [
+    {
+      "ticker": "DEEPAKNTR.NS",
+      "alert_price": 1563.5,
+      "alert_pct_move": 2.7401728107438554,
+      "alert_relative_volume": 4.5760635001182735
+    }
+  ]
+}
