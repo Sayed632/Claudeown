@@ -1,0 +1,12 @@
+{
+  "sector": "Healthcare",
+  "alert_time": "2026-11-27T09:26:09.159629+05:30",
+  "stocks": [
+    {
+      "ticker": "AGARWALEYE.NS",
+      "alert_price": 582.6500244140625,
+      "alert_pct_move": 1.1194050799002293,
+      "alert_relative_volume": 6.351127325591966
+    }
+  ]
+}
