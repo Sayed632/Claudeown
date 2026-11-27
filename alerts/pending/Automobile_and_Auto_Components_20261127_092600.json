@@ -1,0 +1,24 @@
+{
+  "sector": "Automobile and Auto Components",
+  "alert_time": "2026-11-27T09:26:00.537302+05:30",
+  "stocks": [
+    {
+      "ticker": "SCHAEFFLER.NS",
+      "alert_price": 3626.5,
+      "alert_pct_move": -2.0314977487051156,
+      "alert_relative_volume": 5.160036869929967
+    },
+    {
+      "ticker": "CEATLTD.NS",
+      "alert_price": 3616.5,
+      "alert_pct_move": 2.1696768055919287,
+      "alert_relative_volume": 4.054757232120252
+    },
+    {
+      "ticker": "HYUNDAI.NS",
+      "alert_price": 2045.5999755859375,
+      "alert_pct_move": -3.1439405499082627,
+      "alert_relative_volume": 3.8901247096171976
+    }
+  ]
+}
