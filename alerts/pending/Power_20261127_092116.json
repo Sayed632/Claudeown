@@ -1,0 +1,24 @@
+{
+  "sector": "Power",
+  "alert_time": "2026-11-27T09:21:16.020440+05:30",
+  "stocks": [
+    {
+      "ticker": "ADANIPOWER.NS",
+      "alert_price": 211.10000610351562,
+      "alert_pct_move": 1.344216519796246,
+      "alert_relative_volume": 3.301252810387179
+    },
+    {
+      "ticker": "RPOWER.NS",
+      "alert_price": 17.31999969482422,
+      "alert_pct_move": 1.1682175571655864,
+      "alert_relative_volume": 3.221970678509733
+    },
+    {
+      "ticker": "ACMESOLAR.NS",
+      "alert_price": 420.75,
+      "alert_pct_move": 1.190479161220157,
+      "alert_relative_volume": 3.104735278061393
+    }
+  ]
+}

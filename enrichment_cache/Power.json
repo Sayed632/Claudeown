@@ -1,5 +1,11 @@
 {
-  "CESC.NS": {
-    "date": "2026-11-26"
+  "ADANIPOWER.NS": {
+    "date": "2026-11-27"
+  },
+  "RPOWER.NS": {
+    "date": "2026-11-27"
+  },
+  "ACMESOLAR.NS": {
+    "date": "2026-11-27"
   }
 }
