@@ -1,0 +1,18 @@
+{
+  "sector": "Telecommunication",
+  "alert_time": "2026-11-27T09:25:55.081376+05:30",
+  "stocks": [
+    {
+      "ticker": "TTML.NS",
+      "alert_price": 34.58000183105469,
+      "alert_pct_move": 7.3579721016649415,
+      "alert_relative_volume": 12.473444723900567
+    },
+    {
+      "ticker": "RAILTEL.NS",
+      "alert_price": 249.89999389648438,
+      "alert_pct_move": 1.412221310525772,
+      "alert_relative_volume": 3.0215388232568947
+    }
+  ]
+}
